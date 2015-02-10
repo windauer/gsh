@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0"
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="territory">
+            <element name="id">
+                <data type="NCName"/>
+            </element>
+            <element name="short-form-name">
+                <text/>
+            </element>
+            <element name="long-form-name">
+                <choice>
+                    <text/>
+                    <attribute name="type">
+                        <value>none</value>
+                    </attribute>
+                </choice>
+            </element>
+            <element name="type-of-territory">
+                <data type="NCName"/>
+            </element>
+            <element name="valid-since">
+                <choice>
+                    <attribute name="type">
+                        <value>unknown</value>
+                    </attribute>
+                    <group>
+                        <optional>
+                            <attribute name="certainty">
+                                <data type="integer"/>
+                            </attribute>
+                        </optional>
+                        <data type="integer"/>
+                    </group>
+                </choice>
+            </element>
+            <element name="valid-until">
+                <choice>
+                    <data type="integer"/>
+                    <attribute name="type">
+                        <value>unknown</value>
+                    </attribute>
+                    <attribute name="certainty">
+                        <data type="integer"/>
+                    </attribute>
+                </choice>
+            </element>
+            <element name="exists-on-todays-map">
+                <data type="boolean"/>
+            </element>
+            <element name="predecessors">
+                <zeroOrMore>
+                    <element name="predecessor">
+                        <data type="NCName"/>
+                    </element>
+                </zeroOrMore>
+            </element>
+            <element name="successors">
+                <zeroOrMore>
+                    <element name="successor">
+                        <data type="NCName"/>
+                    </element>
+                </zeroOrMore>
+            </element>
+            <element name="notes">
+                <text/>
+            </element>
+            <element name="sources">
+                <oneOrMore>
+                    <element name="source">
+                        <data type="anyURI"/>
+                    </element>
+                </oneOrMore>
+            </element>
+        </element>
+    </start>
+</grammar>

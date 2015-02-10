@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>owen-sound</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1908</valid-since>
+    <valid-until>1915</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1908</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1915</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=owen%20sound,%20canada</source>
+    </sources>
+    <notes/>
+</post>

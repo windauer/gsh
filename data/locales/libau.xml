@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>libau</id>
+    <name>Libau</name>
+    <current-territory>russia</current-territory>
+    <latitude>56.505635</latitude>
+    <longitude>21.011906</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

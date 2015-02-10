@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>assioot</locale>
+    <territory>egypt</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1889</valid-since>
+    <valid-until>1925</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1889</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1925</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=assioot,%20egypt</source>
+    </sources>
+    <notes/>
+</post>

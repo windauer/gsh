@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>point-de-galle</locale>
+    <territory>sri-lanka</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1877</valid-since>
+    <valid-until>1907</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1877</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1907</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=point%20de%20galle,%20ceylon</source>
+    </sources>
+    <notes/>
+</post>

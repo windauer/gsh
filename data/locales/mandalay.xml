@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mandalay</id>
+    <name>Mandalay</name>
+    <current-territory>burma</current-territory>
+    <latitude>21.9760020586</latitude>
+    <longitude>96.0840005885</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

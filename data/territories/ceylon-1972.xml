@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ceylon-1972</id>
+    <short-form-name>Ceylon</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1948</valid-since>
+    <valid-until>1972</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>serendib-TBD</predecessor>
+    </predecessors>
+    <successors>
+        <successor>sri-lanka</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ce.html</source>
+        <source>http://history.state.gov/countries/sri-lanka</source>
+    </sources>
+</territory>

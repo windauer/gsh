@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>sivas</locale>
+    <territory>turkey</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1886</valid-since>
+    <valid-until>1920</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1886</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1920</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=sivas,%20turkey</source>
+    </sources>
+    <notes/>
+</post>

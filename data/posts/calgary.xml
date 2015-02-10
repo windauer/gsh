@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>calgary</locale>
+    <territory>canada</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1906</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1906</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=calgary,%20alberta,%20canada</source>
+    </sources>
+    <notes>Became Consulate General in 1963.</notes>
+</post>

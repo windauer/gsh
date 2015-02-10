@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>asmara</id>
+    <name>Asmara</name>
+    <current-territory>eritrea</current-territory>
+    <latitude>15.3299971002</latitude>
+    <longitude>38.9700005856</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

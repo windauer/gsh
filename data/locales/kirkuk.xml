@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kirkuk</id>
+    <name>Kirkuk</name>
+    <current-territory>iraq</current-territory>
+    <latitude>35.4690001536</latitude>
+    <longitude>44.3909975322</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

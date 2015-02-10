@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>alvouro-obregon</id>
+    <name>Alvouro Obregon</name>
+    <current-territory>mexico</current-territory>
+    <latitude>19.4</latitude>
+    <longitude>-99.2</longitude>
+    <predecessors>Frontera</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

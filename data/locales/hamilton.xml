@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hamilton</id>
+    <name>Hamilton</name>
+    <current-territory>bermuda</current-territory>
+    <latitude>32.2890300828</latitude>
+    <longitude>-64.7791645473</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

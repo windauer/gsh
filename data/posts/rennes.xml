@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>rennes</locale>
+    <territory>france</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=rennes,%20france</source>
+    </sources>
+    <notes>Consular agency closed in 1907. American Presence Post</notes>
+</post>

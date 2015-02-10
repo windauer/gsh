@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>luxor</locale>
+    <territory>egypt</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1871</valid-since>
+    <valid-until>1904</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1871</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1904</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=luxor,%20egypt</source>
+    </sources>
+    <notes/>
+</post>

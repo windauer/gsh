@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>manaos</id>
+    <name>Manaos</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-3.119027</latitude>
+    <longitude>-60.021731</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

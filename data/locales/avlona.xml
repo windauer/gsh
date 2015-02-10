@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>avlona</id>
+    <name>Avlona</name>
+    <current-territory>albania</current-territory>
+    <latitude>38.250964</latitude>
+    <longitude>23.695498</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

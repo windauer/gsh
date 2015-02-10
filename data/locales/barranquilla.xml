@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>barranquilla</id>
+    <name>Barranquilla</name>
+    <current-territory>colombia</current-territory>
+    <latitude>10.9839960699</latitude>
+    <longitude>-74.8060014907</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>livingston</id>
+    <name>Livingston</name>
+    <current-territory>guatemala</current-territory>
+    <latitude>15.83</latitude>
+    <longitude>-88.75</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

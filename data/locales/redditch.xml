@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>redditch</id>
+    <name>Redditch</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>52.316667</latitude>
+    <longitude>-1.933333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

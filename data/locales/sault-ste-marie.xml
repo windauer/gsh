@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sault-ste-marie</id>
+    <name>Sault Ste. Marie</name>
+    <current-territory>canada</current-territory>
+    <latitude>46.533333</latitude>
+    <longitude>-84.35</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

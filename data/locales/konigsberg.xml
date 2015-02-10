@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>konigsberg</id>
+    <name>Konigsberg</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.080869</latitude>
+    <longitude>10.566448</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

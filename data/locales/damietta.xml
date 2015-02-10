@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>damietta</id>
+    <name>Damietta</name>
+    <current-territory>egypt</current-territory>
+    <latitude>31.417539</latitude>
+    <longitude>31.814443</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

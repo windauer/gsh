@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>st-marc</id>
+    <name>St. Marc</name>
+    <current-territory>haiti</current-territory>
+    <latitude>19.108931</latitude>
+    <longitude>-72.697548</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

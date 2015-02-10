@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hakodate</id>
+    <name>Hakodate</name>
+    <current-territory>japan</current-territory>
+    <latitude>41.768793</latitude>
+    <longitude>140.72881</longitude>
+    <predecessors>Hakodadi</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

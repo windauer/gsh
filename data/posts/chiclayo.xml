@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>chiclayo</locale>
+    <territory>peru</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1888</valid-since>
+    <valid-until>1900</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1888</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1900</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=chiclayo,%20peru</source>
+    </sources>
+    <notes/>
+</post>

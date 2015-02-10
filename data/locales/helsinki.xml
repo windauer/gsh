@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>helsinki</id>
+    <name>Helsinki</name>
+    <current-territory>finland</current-territory>
+    <latitude>60.1964190983</latitude>
+    <longitude>24.9767015356</longitude>
+    <predecessors>Helsingfors</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

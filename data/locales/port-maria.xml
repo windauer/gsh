@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-maria</id>
+    <name>Port Maria</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>18.3770010508</latitude>
+    <longitude>-76.8999954733</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

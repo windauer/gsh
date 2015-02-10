@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>leghorn</locale>
+    <territory>italy</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1794</valid-since>
+    <valid-until>1941</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1794</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1941</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/italy</source>
+    </sources>
+    <notes/>
+</post>

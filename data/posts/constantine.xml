@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>constantine</locale>
+    <territory>algeria</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1962</valid-since>
+    <valid-until>1972</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1962</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1972</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=constantine,%20algeria</source>
+    </sources>
+    <notes/>
+</post>

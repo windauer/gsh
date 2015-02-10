@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>east-london</id>
+    <name>East London</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-33.029999907</latitude>
+    <longitude>27.9000004935</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>la-rochelle</locale>
+    <territory>france</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1803</valid-since>
+    <valid-until>1926</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1803</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1926</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=la%20rochelle,%20france</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-lucar-de-barrameda</id>
+    <name>San Lucar de Barrameda</name>
+    <current-territory>spain</current-territory>
+    <latitude>36.772577</latitude>
+    <longitude>-6.352969</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

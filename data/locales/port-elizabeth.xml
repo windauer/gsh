@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-elizabeth</id>
+    <name>Port Elizabeth</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-33.93264</latitude>
+    <longitude>25.56995</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

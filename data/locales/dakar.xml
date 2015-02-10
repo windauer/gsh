@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dakar</id>
+    <name>Dakar</name>
+    <current-territory>senegal</current-territory>
+    <latitude>14.6870010753</latitude>
+    <longitude>-17.451998551</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

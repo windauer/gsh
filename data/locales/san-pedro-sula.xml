@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-pedro-sula</id>
+    <name>San Pedro Sula</name>
+    <current-territory>honduras</current-territory>
+    <latitude>15.5</latitude>
+    <longitude>-88.033333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

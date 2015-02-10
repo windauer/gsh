@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bocas-del-toro</id>
+    <name>Bocas Del Toro</name>
+    <current-territory>colombia</current-territory>
+    <latitude>9.3339090244</latitude>
+    <longitude>-82.249388468</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

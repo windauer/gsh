@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>arequipa</id>
+    <name>Arequipa</name>
+    <current-territory>peru</current-territory>
+    <latitude>-16.3980000343</latitude>
+    <longitude>-71.5229994733</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

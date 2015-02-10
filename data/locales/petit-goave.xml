@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>petit-goave</id>
+    <name>Petit Goave</name>
+    <current-territory>haiti</current-territory>
+    <latitude>18.433519</latitude>
+    <longitude>-72.861649</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

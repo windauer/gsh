@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>panama-city</id>
+    <name>Panama City</name>
+    <current-territory>panama</current-territory>
+    <latitude>8.994269</latitude>
+    <longitude>-79.518792</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

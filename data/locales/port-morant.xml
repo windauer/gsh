@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-morant</id>
+    <name>Port Morant</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>17.8910010282</latitude>
+    <longitude>-76.3289995682</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>suva</id>
+    <name>Suva</name>
+    <current-territory>fiji</current-territory>
+    <latitude>-18.1345319373</latitude>
+    <longitude>178.447725681</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

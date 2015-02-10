@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>wiarton</id>
+    <name>Wiarton</name>
+    <current-territory>canada</current-territory>
+    <latitude>44.743611</latitude>
+    <longitude>-81.140833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

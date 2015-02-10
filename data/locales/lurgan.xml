@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lurgan</id>
+    <name>Lurgan</name>
+    <current-territory>ireland</current-territory>
+    <latitude>53.854026</latitude>
+    <longitude>-7.139915</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

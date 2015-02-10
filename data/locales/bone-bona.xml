@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bone-bona</id>
+    <name>Bone-Bona</name>
+    <current-territory>algeria</current-territory>
+    <latitude>36.9</latitude>
+    <longitude>7.766667</longitude>
+    <predecessors>Hippo Regius</predecessors>
+    <successors>Annaba</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

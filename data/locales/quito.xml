@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>quito</id>
+    <name>Quito</name>
+    <current-territory>ecuador</current-territory>
+    <latitude>-0.2294998675</latitude>
+    <longitude>-78.5242794793</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

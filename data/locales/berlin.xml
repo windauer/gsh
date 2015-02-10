@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>berlin</id>
+    <name>Berlin</name>
+    <current-territory>germany</current-territory>
+    <latitude>52.5162690233</latitude>
+    <longitude>13.3275695343</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

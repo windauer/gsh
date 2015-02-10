@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kigali</id>
+    <name>Kigali</name>
+    <current-territory>rwanda</current-territory>
+    <latitude>-1.9500030233</latitude>
+    <longitude>30.0590015875</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

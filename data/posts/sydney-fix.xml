@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>sydney</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1930</valid-since>
+    <valid-until>1938</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1930</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1938</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=sydney,%20n.j,%20canada</source>
+    </sources>
+    <notes/>
+</post>

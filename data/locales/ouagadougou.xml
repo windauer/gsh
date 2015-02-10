@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ouagadougou</id>
+    <name>Ouagadougou</name>
+    <current-territory>burkina-faso</current-territory>
+    <latitude>12.4800031007</latitude>
+    <longitude>-1.670003508</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

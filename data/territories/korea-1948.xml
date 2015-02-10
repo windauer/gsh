@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>korea-1948</id>
+    <short-form-name>Korea</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>1948</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>korea-north</successor>
+        <successor>korea-south</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/322280/South-Korea</source>
+        <source>http://www.britannica.com/EBchecked/topic/322222/North-Korea</source>
+    </sources>
+</territory>

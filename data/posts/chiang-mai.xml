@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>chiang-mai</locale>
+    <territory>thailand</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1950</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1950</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://chiangmai.usconsulate.gov/about_the_consulate.html</source>
+    </sources>
+    <notes/>
+</post>

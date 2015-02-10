@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>grand-duchy-of-poznan-TBD</id>
+    <short-form-name>Grand Duchy of Poznan</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until/>
+    <exists-on-todays-map/>
+    <predecessors>
+        <predecessor>duchy-of-warsaw-1815</predecessor>
+    </predecessors>
+    <successors>
+        <successor>poland</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/636120/Duchy-of-Warsaw</source>
+    </sources>
+</territory>

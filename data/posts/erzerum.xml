@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>erzerum</locale>
+    <territory>armenia</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1895</valid-since>
+    <valid-until>1904</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1895</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1904</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=erzerim,%20armenia</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>leige</id>
+    <name>Leige</name>
+    <current-territory>belgium</current-territory>
+    <latitude>50.643285</latitude>
+    <longitude>5.460746</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

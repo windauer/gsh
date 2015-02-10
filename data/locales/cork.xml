@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cork</id>
+    <name>Cork</name>
+    <current-territory>ireland</current-territory>
+    <latitude>51.8979960916</latitude>
+    <longitude>-8.4909955211</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

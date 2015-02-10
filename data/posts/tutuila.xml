@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tutuila</locale>
+    <territory>samoa</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1847</valid-since>
+    <valid-until>1875</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1847</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1875</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=tutuila,%20samoa</source>
+    </sources>
+    <notes/>
+</post>

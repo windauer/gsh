@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>omsk</id>
+    <name>Omsk</name>
+    <current-territory>russia</current-territory>
+    <latitude>55.0629991582</latitude>
+    <longitude>73.2500016538</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

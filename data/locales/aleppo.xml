@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aleppo</id>
+    <name>Aleppo</name>
+    <current-territory>turkey</current-territory>
+    <latitude>36.2155411244</latitude>
+    <longitude>37.1592815307</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

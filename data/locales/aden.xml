@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aden</id>
+    <name>Aden</name>
+    <current-territory>yemen</current-territory>
+    <latitude>12.7662481293</latitude>
+    <longitude>45.0414995649</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

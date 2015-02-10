@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>enugu</id>
+    <name>Enugu</name>
+    <current-territory>nigeria</current-territory>
+    <latitude>6.4510019799</latitude>
+    <longitude>7.4919964708</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

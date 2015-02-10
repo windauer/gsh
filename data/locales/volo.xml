@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>volo</id>
+    <name>Volo</name>
+    <current-territory>greece</current-territory>
+    <latitude>39.342557</latitude>
+    <longitude>22.882049</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

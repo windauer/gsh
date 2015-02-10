@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>djibouti</id>
+    <name>Djibouti</name>
+    <current-territory>djibouti</current-territory>
+    <latitude>11.5000020861</latitude>
+    <longitude>43.1000015874</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

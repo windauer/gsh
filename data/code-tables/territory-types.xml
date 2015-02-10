@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>territory-types</name>
+    <hint>Types of Territories</hint>
+    <description>Types of territories, as defined by INR</description>
+    <items>
+        <item>
+            <label>Independent State</label>
+            <value>independent-state</value>
+            <definition/>
+        </item>
+        <item>
+            <label>Dependency of Area of Special Sovereignty</label>
+            <value>dependency-or-area-of-special-sovereignty</value>
+            <definition/>
+        </item>
+    </items>
+</code-table>

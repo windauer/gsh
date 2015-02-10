@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kingston-upon-hull</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1796</valid-since>
+    <valid-until>1842</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1796</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1842</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=kingston%20upon%20hull,%20england</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>st-andero</id>
+    <name>St. Andero</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.462778</latitude>
+    <longitude>-3.805</longitude>
+    <predecessors/>
+    <successors>Santander</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

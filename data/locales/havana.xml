@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>havana</id>
+    <name>Havana</name>
+    <current-territory>cuba</current-territory>
+    <latitude>23.0489550791</latitude>
+    <longitude>-82.4164554749</longitude>
+    <predecessors/>
+    <successors>Habana</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

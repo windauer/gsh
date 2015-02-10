@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sedan</id>
+    <name>Sedan</name>
+    <current-territory>france</current-territory>
+    <latitude>49.7025</latitude>
+    <longitude>4.9411</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

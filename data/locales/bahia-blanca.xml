@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bahia-blanca</id>
+    <name>Bahia Blanca</name>
+    <current-territory>argentina</current-territory>
+    <latitude>-38.7252719526</latitude>
+    <longitude>-62.27405951</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

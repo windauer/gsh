@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>dutch-united-provinces-1795</id>
+    <short-form-name>Dutch United Provinces</short-form-name>
+    <long-form-name>Republic of the United Netherlands</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1579</valid-since>
+    <valid-until>1795</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>batavian-republic-1805</successor>
+        <successor>batavian-commonwealth-1806</successor>
+        <successor>kingdom-of-holland-1815</successor>
+        <successor>netherlands</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nl.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/174609/Dutch-Republic</source>
+        <source>http://www.britannica.com/EBchecked/topic/564031/States-General</source>
+    </sources>
+</territory>

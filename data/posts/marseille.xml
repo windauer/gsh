@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>marseille</locale>
+    <territory>france</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1790</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1790</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=marseilles,%20france</source>
+    </sources>
+    <notes>Historically spelt Marseilles</notes>
+</post>

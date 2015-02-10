@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>osaka</id>
+    <name>Osaka</name>
+    <current-territory>japan</current-territory>
+    <latitude>34.6359961221</latitude>
+    <longitude>135.519003645</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>prescott</id>
+    <name>Prescott</name>
+    <current-territory>canada</current-territory>
+    <latitude>44.716667</latitude>
+    <longitude>-75.516667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

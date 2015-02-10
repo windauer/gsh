@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>luanda</locale>
+    <territory>angola</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1919</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1919</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=luanda,%20angola</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=loanda,%20angola,%20africportuguese</source>
+    </sources>
+    <notes/>
+</post>

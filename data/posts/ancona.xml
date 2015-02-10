@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ancona</locale>
+    <territory>italy</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1840</valid-since>
+    <valid-until>1907</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1840</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1907</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/italy</source>
+    </sources>
+    <notes/>
+</post>

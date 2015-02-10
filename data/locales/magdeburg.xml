@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>magdeburg</id>
+    <name>Magdeburg</name>
+    <current-territory>germany</current-territory>
+    <latitude>52.1299980589</latitude>
+    <longitude>11.6090015445</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>meshed</id>
+    <name>Meshed</name>
+    <current-territory>iran</current-territory>
+    <latitude>36.255488</latitude>
+    <longitude>59.635689</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

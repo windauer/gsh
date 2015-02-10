@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cochin</id>
+    <name>Cochin</name>
+    <current-territory>india</current-territory>
+    <latitude>9.9701551363</latitude>
+    <longitude>76.2804186808</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

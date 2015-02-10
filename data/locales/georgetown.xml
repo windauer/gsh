@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>georgetown</id>
+    <name>Georgetown</name>
+    <current-territory>guyana</current-territory>
+    <latitude>6.769998045</latitude>
+    <longitude>-58.1699965824</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

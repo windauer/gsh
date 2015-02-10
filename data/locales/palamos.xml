@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>palamos</id>
+    <name>Palamos</name>
+    <current-territory>spain</current-territory>
+    <latitude>41.850507</latitude>
+    <longitude>3.129816</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

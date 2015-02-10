@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mazatlan</id>
+    <name>Mazatlan</name>
+    <current-territory>mexico</current-territory>
+    <latitude>23.22</latitude>
+    <longitude>-106.42</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>basrah</locale>
+    <territory>iraq</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1937</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1937</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=basra,%20iraq</source>
+    </sources>
+    <notes>Consulate General 2011</notes>
+</post>

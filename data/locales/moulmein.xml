@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>moulmein</id>
+    <name>Moulmein</name>
+    <current-territory>india</current-territory>
+    <latitude>16.4926799943</latitude>
+    <longitude>97.6450326029</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

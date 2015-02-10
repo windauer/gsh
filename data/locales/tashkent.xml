@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tashkent</id>
+    <name>Tashkent</name>
+    <current-territory>uzbekistan</current-territory>
+    <latitude>41.2479361037</latitude>
+    <longitude>69.3498695349</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>galashiels</id>
+    <name>Galashiels</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>55.61945</latitude>
+    <longitude>-2.80339</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

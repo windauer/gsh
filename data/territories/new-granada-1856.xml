@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>new-granada-1856</id>
+    <short-form-name>New Granada</short-form-name>
+    <long-form-name>Republic of New Granada</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1830</valid-since>
+    <valid-until>1856</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>gran-colombia-1830</predecessor>
+    </predecessors>
+    <successors>
+        <successor>grenadine-confederation-1863</successor>
+        <successor>united-states-of-colombia-1866</successor>
+        <successor>colombia</successor>
+        <successor>panama</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/411531/Viceroyalty-of-New-Granada</source>
+        <source>http://history.state.gov/countries/colombia</source>
+    </sources>
+</territory>

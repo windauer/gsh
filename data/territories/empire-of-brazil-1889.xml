@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>empire-of-brazil-1889</id>
+    <short-form-name>Empire of Brazil</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1822</valid-since>
+    <valid-until>1889</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>united-kingdom-of-portugal-brazil-and-algarves-1822</predecessor>
+        <predecessor>brazil-1815</predecessor>
+    </predecessors>
+    <successors>
+        <successor>brazil</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1824</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/78101/Brazil</source>
+    </sources>
+</territory>

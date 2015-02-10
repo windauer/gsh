@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kuala-lumpur</id>
+    <name>Kuala Lumpur</name>
+    <current-territory>malaysia</current-territory>
+    <latitude>3.149999974</latitude>
+    <longitude>101.708001635</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

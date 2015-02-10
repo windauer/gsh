@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>green-turtle-cay</id>
+    <name>Green Turtle Cay</name>
+    <current-territory>bahamas</current-territory>
+    <latitude>26.774711</latitude>
+    <longitude>-77.329571</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

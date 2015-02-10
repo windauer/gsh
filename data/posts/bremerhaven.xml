@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bremerhaven</locale>
+    <territory>germany</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1841</valid-since>
+    <valid-until>1932</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1841</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1932</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bremerhaven-geestemunde,%20germany</source>
+    </sources>
+    <notes/>
+</post>

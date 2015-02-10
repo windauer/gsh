@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>parral</id>
+    <name>Parral</name>
+    <current-territory>mexico</current-territory>
+    <latitude>26.933333</latitude>
+    <longitude>-105.66667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

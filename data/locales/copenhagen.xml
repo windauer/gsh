@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>copenhagen</id>
+    <name>Copenhagen</name>
+    <current-territory>denmark</current-territory>
+    <latitude>55.7199990724</latitude>
+    <longitude>12.5499965713</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

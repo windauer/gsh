@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mannheim</id>
+    <name>Mannheim</name>
+    <current-territory>germany</current-territory>
+    <latitude>49.496287</latitude>
+    <longitude>8.457426</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>havre-</id>
+    <name>Havre </name>
+    <current-territory>france</current-territory>
+    <latitude>49.49</latitude>
+    <longitude>0.1</longitude>
+    <predecessors>Havre De Grace</predecessors>
+    <successors>Le Havre</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

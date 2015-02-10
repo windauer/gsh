@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-louis</id>
+    <name>Port Louis</name>
+    <current-territory>mauritius</current-territory>
+    <latitude>-20.1650040245</latitude>
+    <longitude>57.4959965169</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

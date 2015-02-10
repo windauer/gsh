@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>jaffna</locale>
+    <territory>sri-lanka</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1880</valid-since>
+    <valid-until>1897</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1880</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1897</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=jaffna,%20ceylon</source>
+    </sources>
+    <notes/>
+</post>

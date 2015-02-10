@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>carini</id>
+    <name>Carini</name>
+    <current-territory>italy</current-territory>
+    <latitude>38.131161</latitude>
+    <longitude>13.181261</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

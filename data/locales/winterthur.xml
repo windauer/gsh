@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>winterthur</id>
+    <name>Winterthur</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>47.49995</latitude>
+    <longitude>8.737565</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

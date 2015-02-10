@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bien-hoa</id>
+    <name>Bien Hoa</name>
+    <current-territory>vietnam</current-territory>
+    <latitude>10.9500030786</latitude>
+    <longitude>106.816662572</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

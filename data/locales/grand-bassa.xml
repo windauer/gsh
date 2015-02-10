@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>grand-bassa</id>
+    <name>Grand Bassa</name>
+    <current-territory>liberia</current-territory>
+    <latitude>6.230845</latitude>
+    <longitude>-9.812493</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

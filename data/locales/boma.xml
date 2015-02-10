@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>boma</id>
+    <name>Boma</name>
+    <current-territory>congo-kinshasa</current-territory>
+    <latitude>-5.848732</latitude>
+    <longitude>13.05613</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ljubljana</id>
+    <name>Ljubljana</name>
+    <current-territory>slovenia</current-territory>
+    <latitude>46.0683000147</latitude>
+    <longitude>14.6396075538</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

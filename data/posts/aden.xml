@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>aden</locale>
+    <territory>yemen</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1967</valid-since>
+    <valid-until>1969</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1967</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1969</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/yemen</source>
+    </sources>
+    <notes/>
+</post>

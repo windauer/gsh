@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>guernsey</id>
+    <name>Guernsey</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>49.45</latitude>
+    <longitude>-2.55</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>damascus</id>
+    <name>Damascus</name>
+    <current-territory>syria</current-territory>
+    <latitude>33.49999813</latitude>
+    <longitude>36.2999975358</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

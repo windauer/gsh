@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sapporo</id>
+    <name>Sapporo</name>
+    <current-territory>japan</current-territory>
+    <latitude>43.0550011139</latitude>
+    <longitude>141.345990589</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

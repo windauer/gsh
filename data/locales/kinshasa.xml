@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kinshasa</id>
+    <name>Kinshasa</name>
+    <current-territory>congo-kinshasa</current-territory>
+    <latitude>-4.3209989447</latitude>
+    <longitude>15.29900152</longitude>
+    <predecessors>Leopoldville</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

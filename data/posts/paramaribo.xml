@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>paramaribo</locale>
+    <territory>suriname</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1975</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1975</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/suriname</source>
+    </sources>
+    <notes/>
+</post>

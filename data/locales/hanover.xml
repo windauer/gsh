@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hanover</id>
+    <name>Hanover</name>
+    <current-territory>germany</current-territory>
+    <latitude>52.375892</latitude>
+    <longitude>9.73201</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>leone</locale>
+    <territory>samoa</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1879</valid-since>
+    <valid-until>1881</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1879</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1881</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=leone,%20tutuila,%20samoa</source>
+    </sources>
+    <notes/>
+</post>

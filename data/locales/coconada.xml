@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>coconada</id>
+    <name>Coconada</name>
+    <current-territory>india</current-territory>
+    <latitude>16.945181</latitude>
+    <longitude>82.238647</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>goderich</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1864</valid-since>
+    <valid-until>1877</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1864</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1877</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://toronto.usconsulate.gov/about-us/consulate-history.html</source>
+    </sources>
+    <notes/>
+</post>

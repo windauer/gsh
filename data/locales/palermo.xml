@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>palermo</id>
+    <name>Palermo</name>
+    <current-territory>italy</current-territory>
+    <latitude>38.1210030493</latitude>
+    <longitude>13.3589975289</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

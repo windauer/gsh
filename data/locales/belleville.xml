@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>belleville</id>
+    <name>Belleville</name>
+    <current-territory>canada</current-territory>
+    <latitude>44.166667</latitude>
+    <longitude>-77.383333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

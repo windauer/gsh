@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>caracas</id>
+    <name>Caracas</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.4960430092</latitude>
+    <longitude>-66.8982774601</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

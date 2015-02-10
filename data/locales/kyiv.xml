@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kyiv</id>
+    <name>Kyiv</name>
+    <current-territory>ukraine</current-territory>
+    <latitude>50.4481591672</latitude>
+    <longitude>30.5021075838</longitude>
+    <predecessors>Kiev</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

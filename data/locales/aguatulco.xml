@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aguatulco</id>
+    <name>Aguatulco</name>
+    <current-territory>mexico</current-territory>
+    <latitude>15.85</latitude>
+    <longitude>-96.333333</longitude>
+    <predecessors/>
+    <successors>Huatulco</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

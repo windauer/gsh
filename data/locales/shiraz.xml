@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>shiraz</id>
+    <name>Shiraz</name>
+    <current-territory>iran</current-territory>
+    <latitude>29.6019990955</latitude>
+    <longitude>52.5310025355</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

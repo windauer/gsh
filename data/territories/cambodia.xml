@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>cambodia</id>
+    <short-form-name>Cambodia</short-form-name>
+    <long-form-name>Kingdom of Cambodia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>french-indochina-1950</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized independence in 1950 </notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
+        <source>http://history.state.gov/countries/cambodia</source>
+    </sources>
+</territory>

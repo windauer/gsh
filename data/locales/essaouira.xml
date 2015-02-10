@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>essaouira</id>
+    <name>Essaouira</name>
+    <current-territory>morocco</current-territory>
+    <latitude>31.513056</latitude>
+    <longitude>-9.769722</longitude>
+    <predecessors>Mogador</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

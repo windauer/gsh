@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mollendo</id>
+    <name>Mollendo</name>
+    <current-territory>peru</current-territory>
+    <latitude>-17.016667</latitude>
+    <longitude>-72.016667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

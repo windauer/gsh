@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>christchurch</id>
+    <name>Christchurch</name>
+    <current-territory>new-zealand</current-territory>
+    <latitude>-43.53</latitude>
+    <longitude>172.620278</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

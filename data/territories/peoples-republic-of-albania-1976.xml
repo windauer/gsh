@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>peoples-republic-of-albania-1976</id>
+    <short-form-name>People’s Republic of Albania</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1946</valid-since>
+    <valid-until>1976</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>albania-1946</predecessor>
+        <predecessor>ottoman-empire-1922</predecessor>
+    </predecessors>
+    <successors>
+        <successor>peoples-socialist-republic-of-albania-1991</successor>
+        <successor>albania</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/12472/Albania/42652/Bishop-Noli-and-King-Zog</source>
+    </sources>
+</territory>

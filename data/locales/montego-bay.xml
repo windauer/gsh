@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>montego-bay</id>
+    <name>Montego Bay</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>18.4689990434</latitude>
+    <longitude>-77.9210005255</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

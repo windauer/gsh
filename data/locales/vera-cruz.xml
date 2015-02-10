@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vera-cruz</id>
+    <name>Vera Cruz</name>
+    <current-territory>mexico</current-territory>
+    <latitude>19.190278</latitude>
+    <longitude>-96.153333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

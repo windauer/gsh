@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chimbote</id>
+    <name>Chimbote</name>
+    <current-territory>peru</current-territory>
+    <latitude>-8.9300969838</latitude>
+    <longitude>-78.4531435152</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

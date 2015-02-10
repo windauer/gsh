@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>french-equatorial-africa-1959</id>
+    <short-form-name>French Equatorial Africa</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1910</valid-since>
+    <valid-until>1959</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>french-congo-1910</predecessor>
+    </predecessors>
+    <successors>
+        <successor>chad</successor>
+        <successor>central-african-republic</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/219052/French-Equatorial-Africa</source>
+    </sources>
+</territory>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>canada-west-1867</id>
+    <short-form-name>Canada West</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1841</valid-since>
+    <valid-until>1867</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>upper-canada-1841</predecessor>
+        <predecessor>province-of-quebec-1791</predecessor>
+    </predecessors>
+    <successors>
+        <successor>canada</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com</source>
+    </sources>
+</territory>

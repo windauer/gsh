@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>new-delhi</id>
+    <name>New Delhi</name>
+    <current-territory>india</current-territory>
+    <latitude>28.5687270706</latitude>
+    <longitude>77.2167515365</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

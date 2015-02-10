@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lugano</id>
+    <name>Lugano</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>46.006512</latitude>
+    <longitude>8.952312</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

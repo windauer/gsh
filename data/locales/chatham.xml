@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chatham</id>
+    <name>Chatham</name>
+    <current-territory>canada</current-territory>
+    <latitude>47.033</latitude>
+    <longitude>-65.433</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>elizabethville</locale>
+    <territory>congo-kinshasa</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1947</valid-since>
+    <valid-until>1996</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1947</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1996</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=elisabethville-lubumbashi,%20belgian%20congo</source>
+    </sources>
+    <notes>Name changed to Lumbashi in 1966</notes>
+</post>

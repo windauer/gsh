@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sundsvall</id>
+    <name>Sundsvall</name>
+    <current-territory>sweden</current-territory>
+    <latitude>62.390811</latitude>
+    <longitude>17.306927</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

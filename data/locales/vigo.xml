@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vigo</id>
+    <name>Vigo</name>
+    <current-territory>spain</current-territory>
+    <latitude>42.240599</latitude>
+    <longitude>-8.720727</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

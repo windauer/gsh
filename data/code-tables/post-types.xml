@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>post-types</name>
+    <hint>Types of Posts</hint>
+    <description>Types of posts</description>
+    <items>
+        <item>
+            <label>Consulate</label>
+            <value>consulate</value>
+            <definition/>
+        </item>
+        <item>
+            <label>Embassy</label>
+            <value>embassy</value>
+            <definition/>
+        </item>
+        <item>
+            <label>Consular Agency</label>
+            <value>consular-agency</value>
+            <definition/>
+        </item>
+        <item>
+            <label>Consulate General</label>
+            <value>consulate-general</value>
+            <definition/>
+        </item>
+        <item>
+            <label>Branch Office</label>
+            <value>branch-office</value>
+            <definition/>
+        </item>
+    </items>
+</code-table>

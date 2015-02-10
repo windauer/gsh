@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>salzburg</locale>
+    <territory>austria</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1948</valid-since>
+    <valid-until>1993</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1948</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1993</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=salzburg,%20austria</source>
+    </sources>
+    <notes/>
+</post>

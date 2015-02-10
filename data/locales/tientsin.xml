@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tientsin</id>
+    <name>Tientsin</name>
+    <current-territory>china</current-territory>
+    <latitude>39.133333</latitude>
+    <longitude>117.183333</longitude>
+    <predecessors/>
+    <successors>Tianjin</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

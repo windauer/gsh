@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cochabamba</id>
+    <name>Cochabamba</name>
+    <current-territory>bolivia</current-territory>
+    <latitude>-17.3840039687</latitude>
+    <longitude>-66.1670005365</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

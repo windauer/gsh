@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>comayagua</id>
+    <name>Comayagua</name>
+    <current-territory>honduras</current-territory>
+    <latitude>14.4540000831</latitude>
+    <longitude>-87.6429985309</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

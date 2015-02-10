@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>pau</id>
+    <name>Pau</name>
+    <current-territory>france</current-territory>
+    <latitude>43.3017</latitude>
+    <longitude>-0.3686</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

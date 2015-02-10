@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>foynes</id>
+    <name>Foynes</name>
+    <current-territory>ireland</current-territory>
+    <latitude>52.610525</latitude>
+    <longitude>-9.105112</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

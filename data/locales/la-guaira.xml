@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-guaira</id>
+    <name>La Guaira</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.6</latitude>
+    <longitude>-66.933056</longitude>
+    <predecessors>La Guayra</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

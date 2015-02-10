@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>apia</locale>
+    <territory>samoa</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1844</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1844</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=apia,%20samoa</source>
+    </sources>
+    <notes>closed in 1927</notes>
+</post>

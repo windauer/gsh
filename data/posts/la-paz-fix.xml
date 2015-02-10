@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>la-paz</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1855</valid-since>
+    <valid-until>1945</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1855</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1945</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=la%20paz,%20mexico</source>
+    </sources>
+    <notes>Vice Consulat from 1940-1945</notes>
+</post>

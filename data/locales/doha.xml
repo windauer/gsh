@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>doha</id>
+    <name>Doha</name>
+    <current-territory>qatar</current-territory>
+    <latitude>25.2843569999</latitude>
+    <longitude>51.532335626</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

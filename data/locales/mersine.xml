@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mersine</id>
+    <name>Mersine</name>
+    <current-territory>turkey</current-territory>
+    <latitude>36.8</latitude>
+    <longitude>34.633333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>furth</id>
+    <name>Furth</name>
+    <current-territory>germany</current-territory>
+    <latitude>49.477117</latitude>
+    <longitude>10.988667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

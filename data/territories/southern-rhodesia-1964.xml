@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>southern-rhodesia-1964</id>
+    <short-form-name>Southern Rhodesia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1911</valid-since>
+    <valid-until>1964</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>rhodesia-1979</successor>
+        <successor>zimbabwe-rhodesia-1980</successor>
+        <successor>zimbabwe</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/657149/Zimbabwe</source>
+    </sources>
+</territory>

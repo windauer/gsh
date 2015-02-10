@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>birmingham</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1840</valid-since>
+    <valid-until>1965</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1840</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1965</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=birmingham,%20england</source>
+    </sources>
+    <notes/>
+</post>

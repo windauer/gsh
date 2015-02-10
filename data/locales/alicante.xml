@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>alicante</id>
+    <name>Alicante</name>
+    <current-territory>spain</current-territory>
+    <latitude>38.345996</latitude>
+    <longitude>-0.490686</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

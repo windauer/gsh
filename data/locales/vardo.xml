@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vardo</id>
+    <name>Vardo</name>
+    <current-territory>norway</current-territory>
+    <latitude>70.37064</latitude>
+    <longitude>31.109547</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

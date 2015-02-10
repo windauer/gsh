@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sorrento</id>
+    <name>Sorrento</name>
+    <current-territory>italy</current-territory>
+    <latitude>40.626293</latitude>
+    <longitude>14.375798</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

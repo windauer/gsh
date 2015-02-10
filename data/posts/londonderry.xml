@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>londonderry</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1834</valid-since>
+    <valid-until>1921</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1834</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1921</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/united-kingdom</source>
+    </sources>
+    <notes/>
+</post>

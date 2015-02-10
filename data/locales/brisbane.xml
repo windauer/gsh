@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>brisbane</id>
+    <name>Brisbane</name>
+    <current-territory>australia</current-territory>
+    <latitude>-27.467917</latitude>
+    <longitude>153.027778</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>burslem</id>
+    <name>Burslem</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.042621</latitude>
+    <longitude>-2.187889</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

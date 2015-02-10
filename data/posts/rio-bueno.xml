@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>rio-bueno</locale>
+    <territory>jamaica</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1901</valid-since>
+    <valid-until>1902</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1901</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1902</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=rio%20bueno,%20jamaica</source>
+    </sources>
+    <notes/>
+</post>

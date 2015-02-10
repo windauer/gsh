@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>yekaterinburg</locale>
+    <territory>russia</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1994</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1994</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://yekaterinburg.usconsulate.gov/history.html</source>
+    </sources>
+    <notes/>
+</post>

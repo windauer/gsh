@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>huddersfield</id>
+    <name>Huddersfield</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.645</latitude>
+    <longitude>-1.7798</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>reykjavik</id>
+    <name>Reykjavik</name>
+    <current-territory>iceland</current-territory>
+    <latitude>64.1349990286</latitude>
+    <longitude>-21.8950014687</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

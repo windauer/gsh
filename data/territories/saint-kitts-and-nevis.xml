@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>saint-kitts-and-nevis</id>
+    <short-form-name>Saint Kitts and Nevis</short-form-name>
+    <long-form-name>Federation of Saint Kitts and Nevis</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1988</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>saint-christopher-and-nevis-1988</predecessor>
+        <predecessor>saint-christopher-nevis-anguilla-1980</predecessor>
+        <predecessor>saint-kitts-1882</predecessor>
+        <predecessor>nevis-1882</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sc.html</source>
+        <source>http://history.state.gov/countries/saint-kitts-nevis</source>
+        <source>http://www.britannica.com/EBchecked/topic/517489/Saint-Kitts-and-Nevis</source>
+    </sources>
+</territory>

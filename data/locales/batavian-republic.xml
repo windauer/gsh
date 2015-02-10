@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>batavian-republic</id>
+    <name>Batavian Republic</name>
+    <current-territory>netherlands</current-territory>
+    <latitude>52.316667</latitude>
+    <longitude>5.55</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

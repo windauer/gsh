@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>clarenceville</id>
+    <name>Clarenceville</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.066667</latitude>
+    <longitude>-73.25</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

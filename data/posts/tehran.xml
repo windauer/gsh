@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tehran</locale>
+    <territory>iran</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>1979</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1979</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=teheran,%20persia-tehran,%20iran</source>
+    </sources>
+    <notes>Diplomatic Relations with Iran ended in 1980</notes>
+</post>

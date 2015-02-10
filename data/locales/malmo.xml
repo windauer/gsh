@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>malmo</id>
+    <name>Malmo</name>
+    <current-territory>sweden</current-territory>
+    <latitude>55.5959970365</latitude>
+    <longitude>13.0230005002</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

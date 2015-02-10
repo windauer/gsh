@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>fiume</locale>
+    <territory>hungary</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1865</valid-since>
+    <valid-until>1924</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1865</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1924</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=fiume,%20hungary</source>
+    </sources>
+    <notes/>
+</post>

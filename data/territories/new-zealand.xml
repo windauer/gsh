@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>new-zealand</id>
+    <short-form-name>New Zealand</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1907</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html</source>
+    </sources>
+</territory>

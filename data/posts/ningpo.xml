@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ningpo</locale>
+    <territory>china</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1853</valid-since>
+    <valid-until>1896</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1853</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1896</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=ningpo,%20china</source>
+    </sources>
+    <notes/>
+</post>

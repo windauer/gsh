@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mostar</id>
+    <name>Mostar</name>
+    <current-territory>bosnia-and-herzegovina</current-territory>
+    <latitude>43.342273</latitude>
+    <longitude>17.812754</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

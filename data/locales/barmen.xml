@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>barmen</id>
+    <name>Barmen</name>
+    <current-territory>germany</current-territory>
+    <latitude>51.256213</latitude>
+    <longitude>7.150764</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

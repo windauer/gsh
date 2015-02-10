@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hankow</id>
+    <name>Hankow</name>
+    <current-territory>china</current-territory>
+    <latitude>30.581179</latitude>
+    <longitude>114.272597</longitude>
+    <predecessors/>
+    <successors>Hankou</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

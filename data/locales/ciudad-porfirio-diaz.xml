@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ciudad-porfirio-diaz</id>
+    <name>Ciudad Porfirio Diaz</name>
+    <current-territory>mexico</current-territory>
+    <latitude>28.7</latitude>
+    <longitude>-100.523056</longitude>
+    <predecessors/>
+    <successors>Piedras Negras</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

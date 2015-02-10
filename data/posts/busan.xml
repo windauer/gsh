@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>busan</locale>
+    <territory>korea-south</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1949</valid-since>
+    <valid-until>1984</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1949</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1984</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=pusan,%20korea</source>
+    </sources>
+    <notes>Now a US presence post</notes>
+</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>astana</locale>
+    <territory>kazakhstan</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1990</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1990</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://kazakhstan.usembassy.gov/</source>
+    </sources>
+    <notes/>
+</post>

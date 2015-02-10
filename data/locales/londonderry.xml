@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>londonderry</id>
+    <name>Londonderry</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>54.9958</latitude>
+    <longitude>-7.3074</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

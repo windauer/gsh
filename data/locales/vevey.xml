@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vevey</id>
+    <name>Vevey</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>46.462731</latitude>
+    <longitude>6.842431</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

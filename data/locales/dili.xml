@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dili</id>
+    <name>Dili</name>
+    <current-territory>timor-leste</current-territory>
+    <latitude>-8.5709969469</latitude>
+    <longitude>125.580996675</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

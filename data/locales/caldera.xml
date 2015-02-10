@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>caldera</id>
+    <name>Caldera</name>
+    <current-territory>chile</current-territory>
+    <latitude>-27.0667</latitude>
+    <longitude>-70.817814</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

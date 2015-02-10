@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>batavian-commonwealth-1806</id>
+    <short-form-name>Batavian Commonwealth</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1805</valid-since>
+    <valid-until>1806</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>batavian-republic-1805</predecessor>
+    </predecessors>
+    <successors>
+        <successor>kingdom-of-holland-1815</successor>
+        <successor>netherlands</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/55774/Batavian-Republic</source>
+    </sources>
+</territory>

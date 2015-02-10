@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>huntington</id>
+    <name>Huntington</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.937542</latitude>
+    <longitude>-60.299492</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>luneburg</locale>
+    <territory>germany</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1856</valid-since>
+    <valid-until>1916</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1856</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1916</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/brunswick-luneburg</source>
+    </sources>
+    <notes/>
+</post>

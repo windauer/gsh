@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>nice</locale>
+    <territory>france</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1818</valid-since>
+    <valid-until>1986</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1818</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1986</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=nice,%20france</source>
+    </sources>
+    <notes>Close in 1942 and reopened in 1944.</notes>
+</post>

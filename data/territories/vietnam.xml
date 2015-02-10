@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>vietnam</id>
+    <short-form-name>Vietnam</short-form-name>
+    <long-form-name>Socialist Republic of Vietnam</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1976</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>french-indochina-1950</predecessor>
+        <predecessor>north-vietnam-1975</predecessor>
+        <predecessor>south-vietnam-1975</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Mulitple predecessors</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/628349/Vietnam</source>
+    </sources>
+</territory>

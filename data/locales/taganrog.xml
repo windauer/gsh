@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>taganrog</id>
+    <name>Taganrog</name>
+    <current-territory>russia</current-territory>
+    <latitude>47.233333</latitude>
+    <longitude>38.9</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

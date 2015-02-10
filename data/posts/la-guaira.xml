@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>la-guaira</locale>
+    <territory>venezuela</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1800</valid-since>
+    <valid-until>1961</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1800</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=la%20guaira,%20venezuela</source>
+    </sources>
+    <notes/>
+</post>

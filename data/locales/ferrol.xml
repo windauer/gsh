@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ferrol</id>
+    <name>Ferrol</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.489646</latitude>
+    <longitude>-8.219345</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

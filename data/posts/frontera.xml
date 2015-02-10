@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>frontera</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1881</valid-since>
+    <valid-until>1927</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1881</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1927</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=frontera,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

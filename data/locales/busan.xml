@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>busan</id>
+    <name>Busan</name>
+    <current-territory>korea-south</current-territory>
+    <latitude>35.179554</latitude>
+    <longitude>129.075642</longitude>
+    <predecessors>Pusan</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

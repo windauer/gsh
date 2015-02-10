@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>athlone</id>
+    <name>Athlone</name>
+    <current-territory>ireland</current-territory>
+    <latitude>53.423933</latitude>
+    <longitude>-7.94069</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

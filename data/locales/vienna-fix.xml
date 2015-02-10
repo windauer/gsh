@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vienna</id>
+    <name>Vienna</name>
+    <current-territory>germany</current-territory>
+    <latitude>48.2021191294</latitude>
+    <longitude>16.3209786232</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

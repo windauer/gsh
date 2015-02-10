@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ottoman-empire-1922</id>
+    <short-form-name>Ottoman Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>1922</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>albania</successor>
+        <successor>albania-1946</successor>
+        <successor>peoples-republic-of-albania-1976</successor>
+        <successor>peoples-socialist-republic-of-albania-1991</successor>
+        <successor>algeria</successor>
+        <successor>armenia</successor>
+        <successor>azerbaijan</successor>
+        <successor>bulgaria</successor>
+        <successor>greece</successor>
+        <successor>kingdom-of-greece-1974</successor>
+        <successor>iraq</successor>
+        <successor>turkey</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/434996/Ottoman-Empire</source>
+    </sources>
+</territory>

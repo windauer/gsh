@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>stuttgart</locale>
+    <territory>germany</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1846</valid-since>
+    <valid-until>1996</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1846</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1996</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=stuttgart,%20wurttemberg</source>
+    </sources>
+    <notes>Began as Stuttgart Wurtemburg</notes>
+</post>

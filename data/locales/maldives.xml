@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>maldives</id>
+    <name>Maldives</name>
+    <current-territory>sri-lanka</current-territory>
+    <latitude>6.885235</latitude>
+    <longitude>79.85637</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

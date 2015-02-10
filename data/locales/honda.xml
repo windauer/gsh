@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>honda</id>
+    <name>Honda</name>
+    <current-territory>colombia</current-territory>
+    <latitude>4.96681</latitude>
+    <longitude>-74.71154</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

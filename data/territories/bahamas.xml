@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>bahamas</id>
+    <short-form-name>Bahamas, The</short-form-name>
+    <long-form-name>Commonwealth of The Bahamas</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1492</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>U.S. recognized independence in 1973; Discovered in 1492</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html</source>
+        <source>http://history.state.gov/countries/bahamas</source>
+        <source>http://www.britannica.com/EBchecked/topic/48951/The-Bahamas/54757/History</source>
+    </sources>
+</territory>

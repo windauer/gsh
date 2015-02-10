@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>federation-of-mali-1960</id>
+    <short-form-name>Federation of Mali</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1960-04</valid-since>
+    <valid-until>1960-08</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+    </predecessors>
+    <successors>
+        <successor>mali</successor>
+        <successor>senegambia-1989</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html</source>
+    </sources>
+</territory>

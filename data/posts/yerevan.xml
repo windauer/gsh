@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>yerevan</locale>
+    <territory>armenia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1992</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1992</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/armenia</source>
+        <source>https://www.facebook.com/usdos.armenia/info</source>
+    </sources>
+    <notes/>
+</post>

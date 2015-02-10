@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bukavu</locale>
+    <territory>congo-kinshasa</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1963</valid-since>
+    <valid-until>1970</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1963</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1970</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bukavu,%20republic%20of%20congo</source>
+    </sources>
+    <notes/>
+</post>

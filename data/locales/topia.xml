@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>topia</id>
+    <name>Topia</name>
+    <current-territory>mexico</current-territory>
+    <latitude>25.216667</latitude>
+    <longitude>-106.566667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

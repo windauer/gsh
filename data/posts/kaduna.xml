@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kaduna</locale>
+    <territory>nigeria</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1959</valid-since>
+    <valid-until>1994</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1959</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1994</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=kaduna,%20nigeria,%20west%20africa-federation%20of%20nigeria</source>
+    </sources>
+    <notes/>
+</post>

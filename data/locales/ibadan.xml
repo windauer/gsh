@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ibadan</id>
+    <name>Ibadan</name>
+    <current-territory>nigeria</current-territory>
+    <latitude>7.37883907</latitude>
+    <longitude>3.8952814543</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

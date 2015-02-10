@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lausanne</id>
+    <name>Lausanne</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>46.5249960255</latitude>
+    <longitude>6.6230015638</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

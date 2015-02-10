@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>rangoon</locale>
+    <territory>india</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1810</valid-since>
+    <valid-until>1950</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1810</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1950</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=rangoon-burmah,%20india</source>
+    </sources>
+    <notes/>
+</post>

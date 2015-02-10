@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>corn-island</id>
+    <name>Corn Island</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>12.166153</latitude>
+    <longitude>-83.040797</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>puerto-principe</locale>
+    <territory>cuba</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1828</valid-since>
+    <valid-until>1834</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1828</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1834</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=puerto%20principe,%20cuba</source>
+    </sources>
+    <notes/>
+</post>

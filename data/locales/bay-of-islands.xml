@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bay-of-islands</id>
+    <name>Bay of Islands</name>
+    <current-territory>new-zealand</current-territory>
+    <latitude>-35.2</latitude>
+    <longitude>174.166667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

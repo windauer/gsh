@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>topolobampo</id>
+    <name>Topolobampo</name>
+    <current-territory>mexico</current-territory>
+    <latitude>25.605556</latitude>
+    <longitude>-109.05</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

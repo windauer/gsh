@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-juan-de-los-remedios</id>
+    <name>San Juan de los Remedios</name>
+    <current-territory>cuba</current-territory>
+    <latitude>22.492222</latitude>
+    <longitude>-79.545833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

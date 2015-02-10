@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>guatemala-city</id>
+    <name>Guatemala City</name>
+    <current-territory>guatemala</current-territory>
+    <latitude>14.624795</latitude>
+    <longitude>-90.532818</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

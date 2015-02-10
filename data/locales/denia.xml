@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>denia</id>
+    <name>Denia</name>
+    <current-territory>spain</current-territory>
+    <latitude>38.83926</latitude>
+    <longitude>0.106423</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

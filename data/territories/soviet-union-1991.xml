@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>soviet-union-1991</id>
+    <short-form-name>Soviet Union</short-form-name>
+    <long-form-name>Union of Soviet Socialist Republics</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1917/1922</valid-since>
+    <valid-until>1991</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>russian-empire-1917</predecessor>
+    </predecessors>
+    <successors>
+        <successor>armenia</successor>
+        <successor>azerbaijan</successor>
+        <successor>belarus</successor>
+        <successor>estonia</successor>
+        <successor>georgia</successor>
+        <successor>kazakhstan</successor>
+        <successor>kirgiziya-TBD</successor>
+        <successor>kyrgyzstan</successor>
+        <successor>latvia</successor>
+        <successor>lithuania</successor>
+        <successor>moldavia-1862</successor>
+        <successor>moldova</successor>
+        <successor>russia</successor>
+        <successor>tajikistan</successor>
+        <successor>turkmenistan</successor>
+        <successor>ukraine</successor>
+        <successor>uzbekistan</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
+        <source>http://history.state.gov/countries/russia</source>
+    </sources>
+</territory>

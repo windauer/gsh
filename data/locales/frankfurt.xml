@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>frankfurt</id>
+    <name>Frankfurt</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.1300001185</latitude>
+    <longitude>8.6681614841</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>fukuoka</id>
+    <name>Fukuoka</name>
+    <current-territory>japan</current-territory>
+    <latitude>33.5799990537</latitude>
+    <longitude>130.401990582</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

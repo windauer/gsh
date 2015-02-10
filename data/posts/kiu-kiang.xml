@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kiu-kiang</locale>
+    <territory>china</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1867</valid-since>
+    <valid-until>1877</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1867</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1877</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=kiu%20kiang,%20china</source>
+    </sources>
+    <notes/>
+</post>

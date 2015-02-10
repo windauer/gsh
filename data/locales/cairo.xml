@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cairo</id>
+    <name>Cairo</name>
+    <current-territory>egypt</current-territory>
+    <latitude>30.0779100758</latitude>
+    <longitude>31.2507995112</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

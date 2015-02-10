@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>foochow</id>
+    <name>Foochow</name>
+    <current-territory>china</current-territory>
+    <latitude>26.076111</latitude>
+    <longitude>119.306389</longitude>
+    <predecessors/>
+    <successors>Fuzhou</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

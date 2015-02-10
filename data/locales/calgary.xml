@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>calgary</id>
+    <name>Calgary</name>
+    <current-territory>canada</current-territory>
+    <latitude>51.05</latitude>
+    <longitude>-114.066667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

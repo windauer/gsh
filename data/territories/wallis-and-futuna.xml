@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>wallis-and-futuna</id>
+    <short-form-name>Wallis and Futuna</short-form-name>
+    <long-form-name>Territory of the Wallis and Funtuna Islands</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1767/1616</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Overseas territory of France; Wallis Island discovered by the British in 1776; Futuna
+            Island discovered by the Dutch in 1616; French took control between 1886 and
+            1888</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wf.html</source>
+    </sources>
+</territory>

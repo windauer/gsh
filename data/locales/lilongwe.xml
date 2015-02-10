@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lilongwe</id>
+    <name>Lilongwe</name>
+    <current-territory>malawi</current-territory>
+    <latitude>-13.9830030008</latitude>
+    <longitude>33.7740034962</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santo-domingo</id>
+    <name>Santo Domingo</name>
+    <current-territory>dominican-republic</current-territory>
+    <latitude>18.4889970817</latitude>
+    <longitude>-69.8990035744</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

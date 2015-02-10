@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-of-spain</id>
+    <name>Port of Spain</name>
+    <current-territory>trinidad-and-tobago</current-territory>
+    <latitude>10.666667</latitude>
+    <longitude>-61.516667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

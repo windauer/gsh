@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>sudbury</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1898</valid-since>
+    <valid-until>1914</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1898</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1914</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://toronto.usconsulate.gov/about-us/consulate-history.html</source>
+    </sources>
+    <notes/>
+</post>

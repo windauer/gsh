@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>white-horse</id>
+    <name>White Horse</name>
+    <current-territory>canada</current-territory>
+    <latitude>60.716667</latitude>
+    <longitude>-135.05</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

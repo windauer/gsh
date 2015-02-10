@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>manzanillo</locale>
+    <territory>cuba</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1844</valid-since>
+    <valid-until>1949</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1844</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1949</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=manzanillo,%20cuba</source>
+    </sources>
+    <notes/>
+</post>

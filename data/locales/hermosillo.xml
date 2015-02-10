@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hermosillo</id>
+    <name>Hermosillo</name>
+    <current-territory>mexico</current-territory>
+    <latitude>29.098889</latitude>
+    <longitude>-110.954167</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

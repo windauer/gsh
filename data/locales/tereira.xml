@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tereira</id>
+    <name>Tereira</name>
+    <current-territory>portugal</current-territory>
+    <latitude>38.721642</latitude>
+    <longitude>-27.220577</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>curacao</locale>
+    <territory>curacao</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1935</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1935</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=curacao,%20netherlands%20antilles</source>
+    </sources>
+    <notes/>
+</post>

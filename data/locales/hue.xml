@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hue</id>
+    <name>Hue</name>
+    <current-territory>vietnam</current-territory>
+    <latitude>16.4629980178</latitude>
+    <longitude>107.585001547</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

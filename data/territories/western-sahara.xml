@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>western-sahara</id>
+    <short-form-name>Western Sahara</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1976</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>spanish-sahara-1976</predecessor>
+        <predecessor>rio-de-oro-1958</predecessor>
+        <predecessor>saguia-el-hamra-1958</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Legal status of territory and issue of sovereignty unresolved, territory contested by
+            Morocco and Polisario Front</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/640800/Western-Sahara</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html</source>
+    </sources>
+</territory>

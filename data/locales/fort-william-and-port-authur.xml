@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>fort-william-and-port-authur</id>
+    <name>Fort William and Port Authur</name>
+    <current-territory>canada</current-territory>
+    <latitude>48.38</latitude>
+    <longitude>-89.28</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

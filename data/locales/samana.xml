@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>samana</id>
+    <name>Samana</name>
+    <current-territory>dominican-republic</current-territory>
+    <latitude>19.212003132</latitude>
+    <longitude>-69.3320036032</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

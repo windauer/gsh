@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-la-cruz</id>
+    <name>Puerto La Cruz</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.2327030704</latitude>
+    <longitude>-64.6333014581</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

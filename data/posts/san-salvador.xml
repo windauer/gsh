@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>san-salvador</locale>
+    <territory>el-salvador</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1919</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1919</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=san%20salvador,%20el%20salvador</source>
+    </sources>
+    <notes/>
+</post>

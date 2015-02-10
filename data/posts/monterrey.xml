@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>monterrey</locale>
+    <territory>mexico</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1873</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1873</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=monterey,%20mexico</source>
+    </sources>
+    <notes>Consulate raised to Consulate General in 1960</notes>
+</post>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>iskenderun</locale>
+    <territory>turkey</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1935</valid-since>
+    <valid-until>1961</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1935</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=iskenderun,%20turkey</source>
+    </sources>
+    <notes/>
+</post>

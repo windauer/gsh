@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ichang</id>
+    <name>Ichang</name>
+    <current-territory>china</current-territory>
+    <latitude>30.716667</latitude>
+    <longitude>111.283333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>laguna-de-terminos</id>
+    <name>Laguna De Terminos</name>
+    <current-territory>mexico</current-territory>
+    <latitude>18.616667</latitude>
+    <longitude>-91.55</longitude>
+    <predecessors/>
+    <successors>Ciudad Del Carmen</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

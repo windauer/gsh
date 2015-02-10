@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>pau</locale>
+    <territory>france</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1859</valid-since>
+    <valid-until>1938</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1859</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1938</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=pau,%20france</source>
+    </sources>
+    <notes/>
+</post>

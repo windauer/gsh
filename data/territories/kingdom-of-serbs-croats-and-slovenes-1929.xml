@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kingdom-of-serbs-croats-and-slovenes-1929</id>
+    <short-form-name>Kingdom of Serbs, Croats, and Slovenes</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1929</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>kingdom-of-serbia-1918</predecessor>
+    </predecessors>
+    <successors>
+        <successor>yugoslavia-1946</successor>
+        <successor>socialist-federal-republic-of-yugoslavia-1992</successor>
+        <successor>federal-republic-of-yugoslavia-2003</successor>
+        <successor>croatia</successor>
+        <successor>slovenia</successor>
+        <successor>bosnia-and-herzegovina</successor>
+        <successor>macedonia</successor>
+        <successor>serbia-and-montenegro-2006</successor>
+        <successor>serbia</successor>
+        <successor>montenegro</successor>
+        <successor>kosovo</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/535435/Kingdom-of-Serbs-Croats-and-Slovenes</source>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
+    </sources>
+</territory>

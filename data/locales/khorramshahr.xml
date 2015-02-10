@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>khorramshahr</id>
+    <name>Khorramshahr</name>
+    <current-territory>iran</current-territory>
+    <latitude>30.425622</latitude>
+    <longitude>48.189118</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

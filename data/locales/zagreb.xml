@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>zagreb</id>
+    <name>Zagreb</name>
+    <current-territory>croatia</current-territory>
+    <latitude>45.8070031372</latitude>
+    <longitude>15.964002569</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

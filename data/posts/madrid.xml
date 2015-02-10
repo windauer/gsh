@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>madrid</locale>
+    <territory>spain</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1783</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1783</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/spain</source>
+    </sources>
+    <notes/>
+</post>

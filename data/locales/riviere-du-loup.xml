@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>riviere-du-loup</id>
+    <name>Riviere Du Loup</name>
+    <current-territory>canada</current-territory>
+    <latitude>47.833333</latitude>
+    <longitude>-69.533333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

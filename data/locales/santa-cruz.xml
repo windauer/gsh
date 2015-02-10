@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santa-cruz</id>
+    <name>Santa Cruz</name>
+    <current-territory>cuba</current-territory>
+    <latitude>20.763143</latitude>
+    <longitude>-76.227634</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

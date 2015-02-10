@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>jordan</id>
+    <short-form-name>Jordan</short-form-name>
+    <long-form-name>Hashemite Kingdom of Jordan</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1950</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>transjordan-1950</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/jo.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/306128/Jordan/23330/Transjordan-the-Hashimite-Kingdom-and-the-Palestine-war</source>
+    </sources>
+</territory>

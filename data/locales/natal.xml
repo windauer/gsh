@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>natal</id>
+    <name>Natal</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-5.8059989954</latitude>
+    <longitude>-35.210996587</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

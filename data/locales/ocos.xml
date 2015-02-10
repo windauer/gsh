@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ocos</id>
+    <name>Ocos</name>
+    <current-territory>guatemala</current-territory>
+    <latitude>14.5094</latitude>
+    <longitude>-92.1933</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

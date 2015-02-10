@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>geneva</id>
+    <name>Geneva</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>46.2020040265</latitude>
+    <longitude>6.1340044666</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bremen</id>
+    <name>Bremen</name>
+    <current-territory>germany</current-territory>
+    <latitude>53.0800021816</latitude>
+    <longitude>8.857998546</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

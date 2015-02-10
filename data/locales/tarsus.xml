@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tarsus</id>
+    <name>Tarsus</name>
+    <current-territory>turkey</current-territory>
+    <latitude>36.916667</latitude>
+    <longitude>34.9</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

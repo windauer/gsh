@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>jaffna</id>
+    <name>Jaffna</name>
+    <current-territory>sri-lanka</current-territory>
+    <latitude>9.668333</latitude>
+    <longitude>80.006393</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

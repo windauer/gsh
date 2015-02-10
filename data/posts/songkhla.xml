@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>songkhla</locale>
+    <territory>thailand</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1973</valid-since>
+    <valid-until>1993</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1973</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1993</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>singapore</id>
+    <name>Singapore</name>
+    <current-territory>singapore</current-territory>
+    <latitude>1.2688560383</latitude>
+    <longitude>103.831794592</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

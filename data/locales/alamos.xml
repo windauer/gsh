@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>alamos</id>
+    <name>Alamos</name>
+    <current-territory>mexico</current-territory>
+    <latitude>27.0275</latitude>
+    <longitude>-108.94</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

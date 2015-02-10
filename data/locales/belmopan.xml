@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>belmopan</id>
+    <name>Belmopan</name>
+    <current-territory>belize</current-territory>
+    <latitude>17.1199980974</latitude>
+    <longitude>-88.8000025223</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

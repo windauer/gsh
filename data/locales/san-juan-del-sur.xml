@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-juan-del-sur</id>
+    <name>San Juan del Sur</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>11.25263</latitude>
+    <longitude>-85.869652</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>oaxaca</id>
+    <name>Oaxaca</name>
+    <current-territory>mexico</current-territory>
+    <latitude>17.083333</latitude>
+    <longitude>-96.75</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

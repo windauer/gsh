@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>torrevieja</id>
+    <name>Torrevieja</name>
+    <current-territory>spain</current-territory>
+    <latitude>37.9847</latitude>
+    <longitude>-0.680823</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>oran</id>
+    <name>Oran</name>
+    <current-territory>algeria</current-territory>
+    <latitude>35.7499980263</latitude>
+    <longitude>-0.5200014612</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

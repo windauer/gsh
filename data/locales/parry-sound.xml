@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>parry-sound</id>
+    <name>Parry Sound</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.35</latitude>
+    <longitude>-80.116667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>torreon</locale>
+    <territory>mexico</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1892</valid-since>
+    <valid-until>1953</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1892</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1953</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=torreon,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

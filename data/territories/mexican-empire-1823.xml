@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>mexican-empire-1823</id>
+    <short-form-name>Mexican Empire, The</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1821</valid-since>
+    <valid-until>1823</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+    </predecessors>
+    <successors>
+        <successor>mexico</successor>
+        <successor>united-provinces-of-central-america-1839</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/379167/Mexico/27357/The-Mexican-Empire-1821-23?anchor=ref1103120</source>
+    </sources>
+</territory>

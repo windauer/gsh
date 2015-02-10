@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sutton</id>
+    <name>Sutton</name>
+    <current-territory>canada</current-territory>
+    <latitude>44.305</latitude>
+    <longitude>-79.358056</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

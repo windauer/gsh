@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lucerne</locale>
+    <territory>switzerland</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1886</valid-since>
+    <valid-until>1929</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1886</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1929</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=lucerne,%20switzerland</source>
+    </sources>
+    <notes/>
+</post>

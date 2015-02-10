@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>jakarta</id>
+    <name>Jakarta</name>
+    <current-territory>indonesia</current-territory>
+    <latitude>-6.1666650042</latitude>
+    <longitude>106.800003663</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

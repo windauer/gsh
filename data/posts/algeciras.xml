@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>algeciras</locale>
+    <territory>spain</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1892</valid-since>
+    <valid-until>1893</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1892</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1893</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=algeciras,%20spain</source>
+    </sources>
+    <notes/>
+</post>

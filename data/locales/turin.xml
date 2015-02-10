@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>turin</id>
+    <name>Turin</name>
+    <current-territory>italy</current-territory>
+    <latitude>45.0748711595</latitude>
+    <longitude>7.6664255147</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

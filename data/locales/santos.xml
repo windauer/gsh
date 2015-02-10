@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santos</id>
+    <name>Santos</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-23.9546969828</latitude>
+    <longitude>-46.3094904829</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

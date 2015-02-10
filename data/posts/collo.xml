@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>collo</locale>
+    <territory>algeria</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1881</valid-since>
+    <valid-until>1897</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1881</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1897</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=collo%20and%20phlippeville,%20algeria</source>
+    </sources>
+    <notes/>
+</post>

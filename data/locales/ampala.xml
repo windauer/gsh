@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ampala</id>
+    <name>Ampala</name>
+    <current-territory>honduras</current-territory>
+    <latitude>13.292222</latitude>
+    <longitude>-87.653889</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

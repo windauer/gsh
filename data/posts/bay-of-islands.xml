@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bay-of-islands</locale>
+    <territory>new-zealand</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1838</valid-since>
+    <valid-until>1917</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1838</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1917</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bay%20of%20islands,%20new%20zealand</source>
+    </sources>
+    <notes/>
+</post>

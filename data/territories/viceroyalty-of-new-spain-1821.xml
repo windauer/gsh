@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>viceroyalty-of-new-spain-1821</id>
+    <short-form-name>Viceroyalty of New Spain</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1535</valid-since>
+    <valid-until>1821</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>mexican-empire-1823</successor>
+        <successor>united-provinces-of-central-america-1839</successor>
+        <successor>costa-rica</successor>
+        <successor>nicaragua</successor>
+        <successor>honduras</successor>
+        <successor>el-salvador</successor>
+        <successor>guatemala</successor>
+        <successor>mexico</successor>
+        <successor>belize</successor>
+    </successors>
+    <notes>Spanish territory</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/412085/Viceroyalty-of-New-Spain</source>
+    </sources>
+</territory>

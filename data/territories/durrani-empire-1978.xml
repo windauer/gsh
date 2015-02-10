@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>durrani-empire-1978</id>
+    <short-form-name>Durrānī Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1747</valid-since>
+    <valid-until>1978</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>republic-of-afghanistan-1992</successor>
+        <successor>democratic-republic-of-afghanistan-1987</successor>
+        <successor>afghanistan</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1921</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/7798/Afghanistan/21395/Nadir-Shah</source>
+        <source>http://memory.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+af0027)</source>
+    </sources>
+</territory>

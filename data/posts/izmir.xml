@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>izmir</locale>
+    <territory>turkey</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1802</valid-since>
+    <valid-until>1993</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1802</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1993</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=izmir,%20turkey</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=smyrna,%20turkey</source>
+    </sources>
+    <notes>Name changed to Izmir in 1930</notes>
+</post>

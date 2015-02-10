@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>haida</id>
+    <name>Haida</name>
+    <current-territory>hungary</current-territory>
+    <latitude>50.755278</latitude>
+    <longitude>14.553611</longitude>
+    <predecessors/>
+    <successors>Novy Bor</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

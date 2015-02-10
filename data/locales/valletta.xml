@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>valletta</id>
+    <name>Valletta</name>
+    <current-territory>malta</current-territory>
+    <latitude>35.9129971138</latitude>
+    <longitude>14.504004617</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

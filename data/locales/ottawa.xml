@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ottawa</id>
+    <name>Ottawa</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.417</latitude>
+    <longitude>-75.7</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

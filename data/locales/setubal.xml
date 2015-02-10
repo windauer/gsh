@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>setubal</id>
+    <name>Setubal</name>
+    <current-territory>portugal</current-territory>
+    <latitude>38.5209990629</latitude>
+    <longitude>-8.8820004766</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

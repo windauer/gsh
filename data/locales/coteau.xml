@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>coteau</id>
+    <name>Coteau</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.3</latitude>
+    <longitude>-74.183333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

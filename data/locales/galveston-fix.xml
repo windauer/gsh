@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>galveston</id>
+    <name>Galveston</name>
+    <current-territory>texas</current-territory>
+    <latitude>29.3166991441</latitude>
+    <longitude>-94.7833015245</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

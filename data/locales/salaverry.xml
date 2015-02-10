@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>salaverry</id>
+    <name>Salaverry</name>
+    <current-territory>peru</current-territory>
+    <latitude>-8.221111</latitude>
+    <longitude>-78.976111</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

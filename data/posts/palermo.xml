@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>palermo</locale>
+    <territory>italy</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1805</valid-since>
+    <valid-until>1994</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1805</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1994</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/italy</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>windsor</id>
+    <name>Windsor</name>
+    <current-territory>canada</current-territory>
+    <latitude>42.283333</latitude>
+    <longitude>-83</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>beirut</locale>
+    <territory>lebanon</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1850</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1850</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=beirut-beirout,%20damascus,%20balbec,%20said%20and%20their%20towns,%20turkey</source>
+    </sources>
+    <notes>Previously part of Ottoman Empire (Turkey)</notes>
+</post>

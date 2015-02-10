@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dhaka</id>
+    <name>Dhaka</name>
+    <current-territory>bangladesh</current-territory>
+    <latitude>23.7099150172</latitude>
+    <longitude>90.4071425716</longitude>
+    <predecessors>Dacca</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

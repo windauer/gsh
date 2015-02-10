@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>garrucha</id>
+    <name>Garrucha</name>
+    <current-territory>spain</current-territory>
+    <latitude>37.184422</latitude>
+    <longitude>-1.821738</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

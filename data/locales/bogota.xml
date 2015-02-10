@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bogota</id>
+    <name>Bogota</name>
+    <current-territory>colombia</current-territory>
+    <latitude>4.6302210221</latitude>
+    <longitude>-74.0805115306</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

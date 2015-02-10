@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chuquicamata</id>
+    <name>Chuquicamata</name>
+    <current-territory>chile</current-territory>
+    <latitude>-22.3167</latitude>
+    <longitude>-68.9333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

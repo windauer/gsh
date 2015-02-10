@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>taganrog</locale>
+    <territory>russia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1831</valid-since>
+    <valid-until>1880</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1831</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1880</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=taganrog,%20russia</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ribe</id>
+    <name>Ribe</name>
+    <current-territory>denmark</current-territory>
+    <latitude>55.3332960301</latitude>
+    <longitude>8.7832985604</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

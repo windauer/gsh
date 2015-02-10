@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>guelph</id>
+    <name>Guelph</name>
+    <current-territory>canada</current-territory>
+    <latitude>43.55</latitude>
+    <longitude>-80.25</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

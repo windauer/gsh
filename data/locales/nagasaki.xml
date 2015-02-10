@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nagasaki</id>
+    <name>Nagasaki</name>
+    <current-territory>japan</current-territory>
+    <latitude>32.7650041125</latitude>
+    <longitude>129.866004731</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

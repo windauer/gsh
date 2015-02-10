@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-ceiba</id>
+    <name>La Ceiba</name>
+    <current-territory>honduras</current-territory>
+    <latitude>15.7550039831</latitude>
+    <longitude>-86.8719956001</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

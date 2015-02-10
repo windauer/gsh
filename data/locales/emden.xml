@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>emden</id>
+    <name>Emden</name>
+    <current-territory>germany</current-territory>
+    <latitude>53.359403</latitude>
+    <longitude>7.206009</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

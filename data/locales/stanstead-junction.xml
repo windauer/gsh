@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>stanstead-junction</id>
+    <name>Stanstead Junction</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.016667</latitude>
+    <longitude>-72.1</longitude>
+    <predecessors/>
+    <successors>Beebe Junction</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

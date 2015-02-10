@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kolding</id>
+    <name>Kolding</name>
+    <current-territory>denmark</current-territory>
+    <latitude>55.495973</latitude>
+    <longitude>9.473052</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

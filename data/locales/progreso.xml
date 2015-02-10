@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>progreso</id>
+    <name>Progreso</name>
+    <current-territory>mexico</current-territory>
+    <latitude>21.28</latitude>
+    <longitude>-89.67</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

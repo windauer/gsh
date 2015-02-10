@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>romania</id>
+    <short-form-name>Romania</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1862</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>wallachia-1862</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized independence in 1881</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html</source>
+        <source>http://history.state.gov/countries/romania</source>
+    </sources>
+</territory>

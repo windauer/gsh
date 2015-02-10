@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sabanilla</id>
+    <name>Sabanilla</name>
+    <current-territory>colombia</current-territory>
+    <latitude>11.008705</latitude>
+    <longitude>-74.917954</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>champerico</locale>
+    <territory>guatemala</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1872</valid-since>
+    <valid-until>1913</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1872</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1913</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=champerico,%20guatemala</source>
+    </sources>
+    <notes/>
+</post>

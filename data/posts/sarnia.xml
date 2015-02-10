@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>sarnia</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1900</valid-since>
+    <valid-until>1933</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1900</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1933</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=sarnia,%20ontario,%20canada</source>
+    </sources>
+    <notes/>
+</post>

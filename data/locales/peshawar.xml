@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>peshawar</id>
+    <name>Peshawar</name>
+    <current-territory>pakistan</current-territory>
+    <latitude>34.0039981412</latitude>
+    <longitude>71.5449965391</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

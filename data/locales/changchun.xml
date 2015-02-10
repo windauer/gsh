@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>changchun</id>
+    <name>Changchun</name>
+    <current-territory>china</current-territory>
+    <latitude>43.9</latitude>
+    <longitude>125.2</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>seoul</locale>
+    <territory>korea-south</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=seoul,%20korea</source>
+    </sources>
+    <notes/>
+</post>

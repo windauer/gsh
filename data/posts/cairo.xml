@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>cairo</locale>
+    <territory>egypt</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1837</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1837</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=cairo,%20egypt</source>
+    </sources>
+    <notes/>
+</post>

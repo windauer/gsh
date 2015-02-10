@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>magallanes</locale>
+    <territory>chile</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1928</valid-since>
+    <valid-until>1930</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1928</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1930</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=magallanes,%20chile-punta%20arenas</source>
+    </sources>
+    <notes/>
+</post>

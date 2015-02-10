@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bishkek</id>
+    <name>Bishkek</name>
+    <current-territory>kyrgyzstan</current-territory>
+    <latitude>42.8799960214</latitude>
+    <longitude>74.7700026568</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

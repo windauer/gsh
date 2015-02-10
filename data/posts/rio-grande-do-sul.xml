@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>rio-grande-do-sul</locale>
+    <territory>brazil</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1829</valid-since>
+    <valid-until>1956</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1829</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1956</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=rio%20grande,%20brazil</source>
+    </sources>
+    <notes/>
+</post>

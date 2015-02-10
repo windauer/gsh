@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>stettin</id>
+    <name>Stettin</name>
+    <current-territory>germany</current-territory>
+    <latitude>53.428544</latitude>
+    <longitude>14.552812</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

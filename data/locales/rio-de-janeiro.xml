@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rio-de-janeiro</id>
+    <name>Rio de Janeiro</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-22.7215710046</latitude>
+    <longitude>-43.4551854686</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

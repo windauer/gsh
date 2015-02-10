@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>surabaya</id>
+    <name>Surabaya</name>
+    <current-territory>indonesia</current-territory>
+    <latitude>-7.26424</latitude>
+    <longitude>112.745579</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

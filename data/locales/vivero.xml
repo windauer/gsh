@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vivero</id>
+    <name>Vivero</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.664265</latitude>
+    <longitude>-7.594535</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

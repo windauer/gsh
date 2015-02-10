@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ciudad-del-carmen</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1832</valid-since>
+    <valid-until>1912</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1832</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1912</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=cindad%20del%20carmen,%20isla%20del%20carmen,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

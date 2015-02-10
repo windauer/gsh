@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>san-pedro-de-macoris</locale>
+    <territory>dominican-republic</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1913</valid-since>
+    <valid-until>1932</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1913</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1932</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=san%20pedro%20de%20macoris,%20dominican%20republic</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>mozambique</id>
+    <short-form-name>Mozambique</short-form-name>
+    <long-form-name>Republic of Mozambique</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1975</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>portuguese-east-africa-TBD</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mz.html</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-au-prince</id>
+    <name>Port-au-Prince</name>
+    <current-territory>haiti</current-territory>
+    <latitude>18.539269</latitude>
+    <longitude>-72.336408</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

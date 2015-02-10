@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>san-jose</locale>
+    <territory>costa-rica</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1852</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1852</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=san%20jose,%20costa%20rica</source>
+    </sources>
+    <notes/>
+</post>

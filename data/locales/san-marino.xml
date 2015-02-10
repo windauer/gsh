@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-marino</id>
+    <name>San Marino</name>
+    <current-territory>san-marino</current-territory>
+    <latitude>43.9166611232</latitude>
+    <longitude>12.4666656198</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

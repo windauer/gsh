@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>islas-de-solomón-1893</id>
+    <short-form-name>Islas de Solomón</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1568</valid-since>
+    <valid-until>1893</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>british-solomon-islands-1975</successor>
+        <successor>solomon-islands</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/553556/Solomon-Islands/53970/History</source>
+    </sources>
+</territory>

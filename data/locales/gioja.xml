@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>gioja</id>
+    <name>Gioja</name>
+    <current-territory>italy</current-territory>
+    <latitude>41.774821</latitude>
+    <longitude>12.374266</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lilongwe</locale>
+    <territory>malawi</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1976</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1976</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/malawi</source>
+    </sources>
+    <notes>Embassy moved from Blantyre to Lilongwe in 1976</notes>
+</post>

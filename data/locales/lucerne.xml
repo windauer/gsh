@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lucerne</id>
+    <name>Lucerne</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>47.050038</latitude>
+    <longitude>8.308929</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

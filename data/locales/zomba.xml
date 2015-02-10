@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>zomba</id>
+    <name>Zomba</name>
+    <current-territory>malawi</current-territory>
+    <latitude>-15.383333</latitude>
+    <longitude>35.333333</longitude>
+    <predecessors>Blantyre(1964)</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

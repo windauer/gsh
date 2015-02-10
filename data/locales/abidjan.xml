@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>abidjan</id>
+    <name>Abidjan</name>
+    <current-territory>cote-divoire</current-territory>
+    <latitude>5.316667</latitude>
+    <longitude>-4.033333</longitude>
+    <predecessors>none</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

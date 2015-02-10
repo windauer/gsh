@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ampala</locale>
+    <territory>honduras</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1858</valid-since>
+    <valid-until>1927</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1858</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1927</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=amapala,%20honduras</source>
+    </sources>
+    <notes/>
+</post>

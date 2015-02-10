@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ismaila</id>
+    <name>Ismaila</name>
+    <current-territory>egypt</current-territory>
+    <latitude>30.045368</latitude>
+    <longitude>31.235778</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

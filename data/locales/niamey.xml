@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>niamey</id>
+    <name>Niamey</name>
+    <current-territory>niger</current-territory>
+    <latitude>13.5140040811</latitude>
+    <longitude>2.1200045312</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

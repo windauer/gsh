@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chiang-mai</id>
+    <name>Chiang Mai</name>
+    <current-territory>thailand</current-territory>
+    <latitude>18.7869960836</latitude>
+    <longitude>99.0000005587</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

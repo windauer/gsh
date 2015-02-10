@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>united-arab-republic-1971</id>
+    <short-form-name>United Arab Republic</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1958</valid-since>
+    <valid-until>1971</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>egypt-1958</predecessor>
+        <predecessor>syria-1958</predecessor>
+    </predecessors>
+    <successors>
+        <successor>egypt</successor>
+        <successor>syria</successor>
+    </successors>
+    <notes>Syria seceded in 1961</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</source>
+        <source>http://history.state.gov/countries/egypt</source>
+        <source>http://history.state.gov/countries/syria</source>
+    </sources>
+</territory>

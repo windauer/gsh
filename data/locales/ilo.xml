@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ilo</id>
+    <name>Ilo</name>
+    <current-territory>peru</current-territory>
+    <latitude>-17.645309</latitude>
+    <longitude>-71.336029</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

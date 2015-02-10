@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>carrara</id>
+    <name>Carrara</name>
+    <current-territory>italy</current-territory>
+    <latitude>44.079325</latitude>
+    <longitude>10.097677</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

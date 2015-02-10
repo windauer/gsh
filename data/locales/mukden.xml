@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mukden</id>
+    <name>Mukden</name>
+    <current-territory>china</current-territory>
+    <latitude>41.733333</latitude>
+    <longitude>123.883333</longitude>
+    <predecessors/>
+    <successors>Shenyang</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

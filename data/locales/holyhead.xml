@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>holyhead</id>
+    <name>Holyhead</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.309</latitude>
+    <longitude>-4.633</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

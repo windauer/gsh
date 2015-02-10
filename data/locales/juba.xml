@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>juba</id>
+    <name>Juba</name>
+    <current-territory>south-sudan</current-territory>
+    <latitude>4.85</latitude>
+    <longitude>31.6</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

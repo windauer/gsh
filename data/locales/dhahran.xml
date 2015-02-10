@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dhahran</id>
+    <name>Dhahran</name>
+    <current-territory>saudi-arabia</current-territory>
+    <latitude>26.288768</latitude>
+    <longitude>50.114103</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

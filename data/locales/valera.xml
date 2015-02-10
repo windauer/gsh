@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>valera</id>
+    <name>Valera</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>9.321362</latitude>
+    <longitude>-70.603394</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

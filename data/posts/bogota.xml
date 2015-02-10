@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bogota</locale>
+    <territory>colombia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1851</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1851</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bogota,%20colombia</source>
+    </sources>
+    <notes/>
+</post>

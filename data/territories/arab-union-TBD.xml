@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>arab-union-TBD</id>
+    <short-form-name>Arab Union</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until/>
+    <exists-on-todays-map/>
+    <predecessors/>
+    <successors>
+        <successor>jordan</successor>
+        <successor>iraq</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1958</notes>
+    <sources>
+        <source>http://history.state.gov/countries/iraq</source>
+    </sources>
+</territory>

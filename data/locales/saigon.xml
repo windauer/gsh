@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>saigon</id>
+    <name>Saigon</name>
+    <current-territory>vietnam</current-territory>
+    <latitude>10.823099</latitude>
+    <longitude>106.629664</longitude>
+    <predecessors/>
+    <successors>Ho Chi Minh City</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

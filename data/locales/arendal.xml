@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>arendal</id>
+    <name>Arendal</name>
+    <current-territory>norway</current-territory>
+    <latitude>58.4647560555</latitude>
+    <longitude>8.7660005535</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

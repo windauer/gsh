@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>civita-vecchia</id>
+    <name>Civita Vecchia</name>
+    <current-territory>italy</current-territory>
+    <latitude>41.885921</latitude>
+    <longitude>13.470527</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

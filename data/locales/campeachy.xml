@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>campeachy</id>
+    <name>Campeachy</name>
+    <current-territory>mexico</current-territory>
+    <latitude>18.836389</latitude>
+    <longitude>-90.403333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

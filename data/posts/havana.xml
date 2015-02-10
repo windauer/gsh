@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>havana</locale>
+    <territory>cuba</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1797</valid-since>
+    <valid-until>1961</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1797</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=havana,%20cuba;%20https://history.state.gov/cms/apps/consular-cards/views/view-label?label=habana,%20cuba</source>
+    </sources>
+    <notes>Embassy at Habana closed in 1961 upon cessation of relations with Cuba.</notes>
+</post>

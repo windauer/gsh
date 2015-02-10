@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>weymouth</id>
+    <name>Weymouth</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>50.613</latitude>
+    <longitude>-2.457</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

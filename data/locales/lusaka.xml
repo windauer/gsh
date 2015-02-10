@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lusaka</id>
+    <name>Lusaka</name>
+    <current-territory>zambia</current-territory>
+    <latitude>-15.429995923</latitude>
+    <longitude>28.1700004877</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

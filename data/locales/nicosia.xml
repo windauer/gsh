@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nicosia</id>
+    <name>Nicosia</name>
+    <current-territory>cyprus</current-territory>
+    <latitude>35.1710011517</latitude>
+    <longitude>33.3690035877</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

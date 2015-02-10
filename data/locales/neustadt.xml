@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>neustadt</id>
+    <name>Neustadt</name>
+    <current-territory>germany</current-territory>
+    <latitude>49.350186</latitude>
+    <longitude>8.148689</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

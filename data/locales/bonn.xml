@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bonn</id>
+    <name>Bonn</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.7345571026</latitude>
+    <longitude>7.0998215459</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

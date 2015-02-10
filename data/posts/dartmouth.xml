@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>dartmouth</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1888</valid-since>
+    <valid-until>1908</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1888</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1908</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=dartmouth,%20england</source>
+    </sources>
+    <notes/>
+</post>

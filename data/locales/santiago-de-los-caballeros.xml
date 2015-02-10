@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santiago-de-los-caballeros</id>
+    <name>Santiago de Los Caballeros</name>
+    <current-territory>dominican-republic</current-territory>
+    <latitude>19.45565</latitude>
+    <longitude>-70.707191</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

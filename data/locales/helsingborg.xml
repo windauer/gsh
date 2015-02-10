@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>helsingborg</id>
+    <name>Helsingborg</name>
+    <current-territory>sweden</current-territory>
+    <latitude>56.046467</latitude>
+    <longitude>12.694512</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

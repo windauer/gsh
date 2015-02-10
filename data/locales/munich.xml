@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>munich</id>
+    <name>Munich</name>
+    <current-territory>germany</current-territory>
+    <latitude>48.1409730828</latitude>
+    <longitude>11.5429505622</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

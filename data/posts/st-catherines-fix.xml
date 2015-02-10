@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>st-catherines</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1868</valid-since>
+    <valid-until>1906</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1868</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1906</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=st.%20catharines,%20canada</source>
+    </sources>
+    <notes/>
+</post>

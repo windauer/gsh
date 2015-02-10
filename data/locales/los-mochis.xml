@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>los-mochis</id>
+    <name>Los Mochis</name>
+    <current-territory>mexico</current-territory>
+    <latitude>25.783497</latitude>
+    <longitude>-108.993742</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

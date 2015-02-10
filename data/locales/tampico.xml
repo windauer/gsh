@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tampico</id>
+    <name>Tampico</name>
+    <current-territory>mexico</current-territory>
+    <latitude>22.255278</latitude>
+    <longitude>-97.868611</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

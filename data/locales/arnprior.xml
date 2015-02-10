@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>arnprior</id>
+    <name>Arnprior</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.433333</latitude>
+    <longitude>-76.35</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

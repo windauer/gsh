@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cape-town</id>
+    <name>Cape Town</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-33.9789959033</latitude>
+    <longitude>18.4820045752</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>united-provinces-of-central-america-1839</id>
+    <short-form-name>United Provinces of Central America</short-form-name>
+    <long-form-name>Central American Federation</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1823</valid-since>
+    <valid-until>1839</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>mexican-empire-1823</predecessor>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+    </predecessors>
+    <successors>
+        <successor>costa-rica</successor>
+        <successor>el-salvador</successor>
+        <successor>guatemala</successor>
+        <successor>honduras</successor>
+        <successor>nicaragua</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1824</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html</source>
+        <source>http://history.state.gov/countries/costa-rica</source>
+        <source>http://www.britannica.com/EBchecked/topic/616533/United-Provinces-of-Central-America</source>
+        <source>http://history.state.gov/countries/el-salvador</source>
+    </sources>
+</territory>

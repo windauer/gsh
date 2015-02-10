@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>antananarivo</id>
+    <name>Antananarivo</name>
+    <current-territory>madagascar</current-territory>
+    <latitude>-18.9080009056</latitude>
+    <longitude>47.5280015911</longitude>
+    <predecessors>Tananarive(1960)</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

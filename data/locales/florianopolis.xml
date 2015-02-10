@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>florianopolis</id>
+    <name>Florianopolis</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-27.5717</latitude>
+    <longitude>-48.6256</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

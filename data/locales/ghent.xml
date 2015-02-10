@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ghent</id>
+    <name>Ghent</name>
+    <current-territory>belgium</current-territory>
+    <latitude>51.054342</latitude>
+    <longitude>3.717424</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

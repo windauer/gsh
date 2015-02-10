@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>porto-alegre</id>
+    <name>Porto Alegre</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-30.0400019329</latitude>
+    <longitude>-51.2080015697</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

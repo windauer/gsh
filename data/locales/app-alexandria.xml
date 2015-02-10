@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>app-alexandria</id>
+    <name>APP Alexandria</name>
+    <current-territory>egypt</current-territory>
+    <latitude>30.305601</latitude>
+    <longitude>31.766264</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

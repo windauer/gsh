@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>armenia</id>
+    <short-form-name>Armenia</short-form-name>
+    <long-form-name>Republic of Armenia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1991</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>soviet-union-1991</predecessor>
+        <predecessor>armenian-republic-1920</predecessor>
+        <predecessor>russian-empire-1917</predecessor>
+        <predecessor>ottoman-empire-1922</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/am.html</source>
+        <source>http://history.state.gov/countries/armenia</source>
+        <source>http://www.britannica.com/EBchecked/topic/35178/Armenia</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cape-palmas</id>
+    <name>Cape Palmas</name>
+    <current-territory>liberia</current-territory>
+    <latitude>4.376111</latitude>
+    <longitude>-7.716944</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

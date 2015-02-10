@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>porsgrund</id>
+    <name>Porsgrund</name>
+    <current-territory>norway</current-territory>
+    <latitude>59.127685</latitude>
+    <longitude>9.770804</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

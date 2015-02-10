@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sligo</id>
+    <name>Sligo</name>
+    <current-territory>ireland</current-territory>
+    <latitude>54.27661</latitude>
+    <longitude>-8.476089</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

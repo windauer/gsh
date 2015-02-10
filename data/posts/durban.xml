@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>durban</locale>
+    <territory>south-africa</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1892</valid-since>
+    <valid-until>1975</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1892</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1975</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=durban,%20natal,%20union%20of%20south%20africa</source>
+    </sources>
+    <notes>Elevated to Consulate General in 1963</notes>
+</post>

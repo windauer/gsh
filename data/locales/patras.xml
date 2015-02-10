@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>patras</id>
+    <name>Patras</name>
+    <current-territory>greece</current-territory>
+    <latitude>38.1412350815</latitude>
+    <longitude>21.8831764878</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

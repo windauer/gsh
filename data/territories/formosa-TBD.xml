@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>formosa-TBD</id>
+    <short-form-name>Formosa</short-form-name>
+    <long-form-name>Ilha Formosa</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1590</valid-since>
+    <valid-until/>
+    <exists-on-todays-map/>
+    <predecessors/>
+    <successors>
+        <successor>taiwan</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/580902/Taiwan/30027/Cultural-life#toc214552</source>
+    </sources>
+</territory>

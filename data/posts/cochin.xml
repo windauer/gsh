@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>cochin</locale>
+    <territory>india</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1893</valid-since>
+    <valid-until>1894</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1893</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1894</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=cochin,%20malabar%20coast,%20british%20india</source>
+    </sources>
+    <notes/>
+</post>

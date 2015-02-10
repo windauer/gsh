@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>campeachy</locale>
+    <territory>mexico</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1820</valid-since>
+    <valid-until>1913</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1820</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1913</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=campeachy,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

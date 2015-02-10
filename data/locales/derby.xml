@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>derby</id>
+    <name>Derby</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>52.931944</latitude>
+    <longitude>-1.475833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

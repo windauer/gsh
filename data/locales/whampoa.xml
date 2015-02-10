@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>whampoa</id>
+    <name>Whampoa</name>
+    <current-territory>china</current-territory>
+    <latitude>23.109418</latitude>
+    <longitude>113.454197</longitude>
+    <predecessors/>
+    <successors>Huangpo</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

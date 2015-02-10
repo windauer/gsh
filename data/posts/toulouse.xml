@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>toulouse</locale>
+    <territory>france</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1999</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1999</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://search.state.gov/search?site=emb_eur_toulouse&amp;client=emb_en_toulouse&amp;output=xml_no_dtd&amp;proxystylesheet=emb_en_toulouse&amp;ie=utf8&amp;oe=utf8&amp;lr=lang_en&amp;filter=0&amp;q=opened&amp;Submit.x=-1235&amp;Submit.y=-67</source>
+    </sources>
+    <notes/>
+</post>

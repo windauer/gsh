@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mombasa</id>
+    <name>Mombasa</name>
+    <current-territory>kenya</current-territory>
+    <latitude>-4.0509450029</latitude>
+    <longitude>39.6548916121</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

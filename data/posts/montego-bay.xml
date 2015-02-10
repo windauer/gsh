@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>montego-bay</locale>
+    <territory>jamaica</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1861</valid-since>
+    <valid-until>1919</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1861</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1919</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=montego%20bay,%20jamaica</source>
+    </sources>
+    <notes/>
+</post>

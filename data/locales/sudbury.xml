@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sudbury</id>
+    <name>Sudbury</name>
+    <current-territory>canada</current-territory>
+    <latitude>46.49</latitude>
+    <longitude>-81.01</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

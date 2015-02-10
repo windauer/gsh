@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kaduna</id>
+    <name>Kaduna</name>
+    <current-territory>nigeria</current-territory>
+    <latitude>10.5190020466</latitude>
+    <longitude>7.4430005655</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

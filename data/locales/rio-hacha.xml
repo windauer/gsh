@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rio-hacha</id>
+    <name>Rio Hacha</name>
+    <current-territory>colombia</current-territory>
+    <latitude>1.620156</latitude>
+    <longitude>-75.61913</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bamako</id>
+    <name>Bamako</name>
+    <current-territory>mali</current-territory>
+    <latitude>12.6529560304</latitude>
+    <longitude>-7.9864825106</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

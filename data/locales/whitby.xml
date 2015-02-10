@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>whitby</id>
+    <name>Whitby</name>
+    <current-territory>canada</current-territory>
+    <latitude>43.903205</latitude>
+    <longitude>-78.94278</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nanking</id>
+    <name>Nanking</name>
+    <current-territory>china</current-territory>
+    <latitude>32.05</latitude>
+    <longitude>118.766667</longitude>
+    <predecessors/>
+    <successors>Nanjing</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

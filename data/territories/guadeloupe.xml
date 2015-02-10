@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>guadeloupe</id>
+    <short-form-name>Guadeloupe</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1493</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Overseas collectivity of France</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/247616/Guadeloupe</source>
+    </sources>
+</territory>

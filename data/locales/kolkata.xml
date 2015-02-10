@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kolkata</id>
+    <name>Kolkata</name>
+    <current-territory>india</current-territory>
+    <latitude>22.5440010546</latitude>
+    <longitude>88.3340016813</longitude>
+    <predecessors>Calcutta</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

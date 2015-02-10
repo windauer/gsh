@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>freetown</id>
+    <name>Freetown</name>
+    <current-territory>sierra-leone</current-territory>
+    <latitude>8.4860010381</latitude>
+    <longitude>-13.2389995508</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

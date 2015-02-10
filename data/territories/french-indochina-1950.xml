@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>french-indochina-1950</id>
+    <short-form-name>French Indochina</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until>1950</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>vietnam</successor>
+        <successor>north-vietnam-1975</successor>
+        <successor>south-vietnam-1975</successor>
+        <successor>laos</successor>
+        <successor>cambodia</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
+    </sources>
+</territory>

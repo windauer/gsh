@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>salzburg</id>
+    <name>Salzburg</name>
+    <current-territory>austria</current-territory>
+    <latitude>47.8080001024</latitude>
+    <longitude>13.0519985328</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

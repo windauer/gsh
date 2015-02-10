@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-paz</id>
+    <name>La Paz</name>
+    <current-territory>bolivia</current-territory>
+    <latitude>-16.4990069573</latitude>
+    <longitude>-68.1462445092</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

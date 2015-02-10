@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>champerico</id>
+    <name>Champerico</name>
+    <current-territory>guatemala</current-territory>
+    <latitude>14.293</latitude>
+    <longitude>-91.914</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

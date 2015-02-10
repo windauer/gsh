@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>cape-palmas</locale>
+    <territory>liberia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>1885</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1885</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=cape%20palmas,%20liberia</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>barbados-1958</id>
+    <short-form-name>Barbados</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since precision="25">1625</valid-since>
+    <valid-until>1958</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>west-indies-federation-1962</successor>
+        <successor>barbados</successor>
+    </successors>
+    <notes>Named by the Portuguese</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/52655/Barbados</source>
+    </sources>
+</territory>

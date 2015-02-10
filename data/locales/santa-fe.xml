@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santa-fe</id>
+    <name>Santa Fe</name>
+    <current-territory>mexico</current-territory>
+    <latitude>19.357389</latitude>
+    <longitude>-99.26565</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

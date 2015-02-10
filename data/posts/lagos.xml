@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lagos</locale>
+    <territory>nigeria</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1916</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1916</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=lagos,%20nigeria,%20west%20africa</source>
+    </sources>
+    <notes>changed from embassy to consulate general 2000</notes>
+</post>

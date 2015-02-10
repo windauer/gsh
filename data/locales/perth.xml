@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>perth</id>
+    <name>Perth</name>
+    <current-territory>australia</current-territory>
+    <latitude>-31.952222</latitude>
+    <longitude>115.858889</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

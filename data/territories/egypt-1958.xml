@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>egypt-1958</id>
+    <short-form-name>Egypt</short-form-name>
+    <long-form-name>Arab Republic of Egypt</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1922</valid-since>
+    <valid-until>1958</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>united-arab-republic-1971</successor>
+    </successors>
+    <notes>Joined with Syria to form united Arab Republic from 1958-1971</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html</source>
+        <source>http://history.state.gov/countries/egypt</source>
+    </sources>
+</territory>

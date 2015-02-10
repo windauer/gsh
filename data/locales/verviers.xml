@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>verviers</id>
+    <name>Verviers</name>
+    <current-territory>belgium</current-territory>
+    <latitude>50.591056</latitude>
+    <longitude>5.865595</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

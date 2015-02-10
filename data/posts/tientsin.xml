@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tientsin</locale>
+    <territory>china</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1871</valid-since>
+    <valid-until>1950</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1871</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1950</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=tientsin,%20china</source>
+    </sources>
+    <notes/>
+</post>

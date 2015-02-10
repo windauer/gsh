@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tirana</id>
+    <name>Tirana</name>
+    <current-territory>albania</current-territory>
+    <latitude>41.3319960107</latitude>
+    <longitude>19.8320045461</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

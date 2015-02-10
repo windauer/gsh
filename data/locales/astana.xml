@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>astana</id>
+    <name>Astana</name>
+    <current-territory>kazakhstan</current-territory>
+    <latitude>51.189003032</latitude>
+    <longitude>71.4320016489</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>breslau</id>
+    <name>Breslau</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.31802</latitude>
+    <longitude>11.933824</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

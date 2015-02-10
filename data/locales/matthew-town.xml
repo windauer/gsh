@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>matthew-town</id>
+    <name>Matthew Town</name>
+    <current-territory>bahamas</current-territory>
+    <latitude>20.95</latitude>
+    <longitude>-73.666667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>swatow</id>
+    <name>Swatow</name>
+    <current-territory>china</current-territory>
+    <latitude>23.35</latitude>
+    <longitude>116.66667</longitude>
+    <predecessors/>
+    <successors>Shantou</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>angers</id>
+    <name>Angers</name>
+    <current-territory>france</current-territory>
+    <latitude>47.473612</latitude>
+    <longitude>-0.554167</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>muscat</locale>
+    <territory>oman</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1838</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1838</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=maskat,%20oman</source>
+    </sources>
+    <notes>Closed in 1915 then reopened in 70s</notes>
+</post>

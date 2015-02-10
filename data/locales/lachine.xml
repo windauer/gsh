@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lachine</id>
+    <name>Lachine</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.431667</latitude>
+    <longitude>-73.675</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>venice</locale>
+    <territory>austria</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1797</valid-since>
+    <valid-until>1866</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1797</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1866</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/austrian-empire</source>
+    </sources>
+    <notes>Became territory of Italy in 1866</notes>
+</post>

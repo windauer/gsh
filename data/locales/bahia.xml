@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bahia</id>
+    <name>Bahia</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-12.579738</latitude>
+    <longitude>-41.700727</longitude>
+    <predecessors/>
+    <successors>Bahia Salvador</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

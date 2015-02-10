@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lethbridge</id>
+    <name>Lethbridge</name>
+    <current-territory>canada</current-territory>
+    <latitude>49.694167</latitude>
+    <longitude>-112.832278</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bamako</locale>
+    <territory>mali</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1960</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1960</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/mali</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bamako,%20republic%20of%20mali</source>
+    </sources>
+    <notes/>
+</post>

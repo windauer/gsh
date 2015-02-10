@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="xar" name="gsh" xmlns:xdb="http://exist-db.org/ant">
+    <property name="project.name" value="gsh"/>
+    <property name="project.version" value="0.1.0"/>
+    <property name="package.name" value="http://history.state.gov/ns/pkg/apps/gsh"/>
+    <property name="build.dir" value="build"/>
+    
+    <property name="exist.dir" value="../exist"/>
+    <property name="apps.collection.path" value="/db/apps"/>
+    <property name="server.xmlrpc.uri" value="xmldb:exist://localhost:8080/xmlrpc${apps.collection.path}"/>
+    <property name="server.http.uri" value="http://localhost:8080/apps/"/>
+    <property name="dba.username" value="admin"/>
+    <property name="dba.password" value=""/>
+    
+    <property name="temp.collection" value="${project.name}-temp"/>
+    <property name="temp.collection.path" value="${apps.collection.path}/${temp.collection}"/>
+
+    <!-- =================================================================== -->
+    <!-- Include eXist-db's ant libraries and ant-contrib library            -->
+    <!-- =================================================================== -->
+    
+    <typedef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant">
+        <classpath>
+            <fileset dir="${exist.dir}/lib/core">
+                <include name="*.jar"/>
+            </fileset>
+            <pathelement location="${exist.dir}/exist.jar"/>
+            <pathelement location="${exist.dir}/exist-optional.jar"/>
+        </classpath>
+    </typedef>
+    
+    <typedef resource="net/sf/antcontrib/antlib.xml" classpath="${exist.dir}/tools/ant/lib/ant-contrib-1.0b3.jar"/>
+    
+    <!-- =================================================================== -->
+    <!-- Main targets                                                        -->
+    <!-- =================================================================== -->
+    
+    <target name="xar">
+        <mkdir dir="${build.dir}"/>
+        <zip basedir="." destfile="${build.dir}/${project.name}-${project.version}.xar"/>
+    </target>
+    
+    <target name="clean">
+        <delete failonerror="false" dir="${build.dir}"/>
+        <xdb:xquery user="${dba.username}" password="${dba.password}" uri="${server.xmlrpc.uri}"
+            outputproperty="undeploy-result">repo:undeploy("${package.name}"), repo:remove("${package.name}")</xdb:xquery>
+        <echo message="${undeploy-result}"/>
+    </target>
+    
+    <target name="install" depends="clean,xar,deploy,remove-temp-collection"/>
+
+    <target name="deploy">
+        <property name="xar">${project.name}-${project.version}.xar</property>
+        <xdb:store user="${dba.username}" password="${dba.password}" uri="${server.xmlrpc.uri}/${temp.collection}"
+            createcollection="true" createsubcollections="true">
+            <fileset dir="${build.dir}"/>
+        </xdb:store>
+        <xdb:xquery user="${dba.username}" password="${dba.password}" uri="${server.xmlrpc.uri}"
+            outputproperty="deploy-result">repo:install-and-deploy-from-db('${temp.collection.path}/${xar}')</xdb:xquery>
+        <echo message="${deploy-result}"/>
+    </target>
+    
+    <target name="remove-temp-collection">
+        <xdb:remove user="${dba.username}" password="${dba.password}" uri="${server.xmlrpc.uri}" collection="${temp.collection}"/>
+    </target>
+    
+</project>

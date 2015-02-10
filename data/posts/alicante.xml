@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>alicante</locale>
+    <territory>spain</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1776</valid-since>
+    <valid-until>1935</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1776</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1935</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=alicante,%20spain</source>
+    </sources>
+    <notes>Consulate</notes>
+</post>

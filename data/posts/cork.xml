@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>cork</locale>
+    <territory>ireland</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1797</valid-since>
+    <valid-until>1963</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1797</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1963</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=cork,%20ireland</source>
+    </sources>
+    <notes/>
+</post>

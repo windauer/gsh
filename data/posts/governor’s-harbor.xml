@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>governor’s-harbor</locale>
+    <territory>bahamas</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1871</valid-since>
+    <valid-until>1912</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1871</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1912</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=governor's%20harbor,%20eleuthera,%20bahamas</source>
+    </sources>
+    <notes>On Eleuthera/ British Held territory</notes>
+</post>

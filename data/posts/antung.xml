@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>antung</locale>
+    <territory>china</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1914</valid-since>
+    <valid-until>1928</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1914</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1928</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=antung,%20china</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kamerun-1916</id>
+    <short-form-name>Kamerun</short-form-name>
+    <long-form-name>German Kamerun</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1884</valid-since>
+    <valid-until>1916</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>british-cameroons-1961</successor>
+        <successor>french-cameroun-1960</successor>
+        <successor>cameroon-1961</successor>
+        <successor>nigeria</successor>
+        <successor>federal-republic-of-cameroon-1972</successor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <successor>cameroon</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon/281016/German-Kamerun-1884-1916</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
+    </sources>
+</territory>

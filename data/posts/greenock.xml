@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>greenock</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1873</valid-since>
+    <valid-until>1914</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1873</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1914</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=greenock,%20scotland</source>
+    </sources>
+    <notes/>
+</post>

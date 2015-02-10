@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>st-eustatius</id>
+    <name>St. Eustatius</name>
+    <current-territory>netherlands</current-territory>
+    <latitude>52.020531</latitude>
+    <longitude>4.358097</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

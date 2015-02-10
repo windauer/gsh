@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>concepcion-del-oro</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>1884</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1884</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=concepcion%20del%20oro,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>pernambuco</id>
+    <name>Pernambuco</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-8.813717</latitude>
+    <longitude>-36.954107</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

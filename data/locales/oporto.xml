@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>oporto</id>
+    <name>Oporto</name>
+    <current-territory>portugal</current-territory>
+    <latitude>41.156689</latitude>
+    <longitude>-8.623925</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

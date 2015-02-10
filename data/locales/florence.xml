@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>florence</id>
+    <name>Florence</name>
+    <current-territory>italy</current-territory>
+    <latitude>43.7815710203</latitude>
+    <longitude>11.2077455382</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

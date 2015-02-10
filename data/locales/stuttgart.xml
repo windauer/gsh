@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>stuttgart</id>
+    <name>Stuttgart</name>
+    <current-territory>germany</current-territory>
+    <latitude>48.7899991668</latitude>
+    <longitude>9.181998506</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

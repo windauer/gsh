@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>godthaab</id>
+    <name>Godthaab</name>
+    <current-territory>greenland</current-territory>
+    <latitude>64.175</latitude>
+    <longitude>-51.738889</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

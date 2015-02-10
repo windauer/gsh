@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cali</id>
+    <name>Cali</name>
+    <current-territory>colombia</current-territory>
+    <latitude>3.4569991357</latitude>
+    <longitude>-76.5219955477</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

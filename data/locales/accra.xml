@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>accra</id>
+    <name>Accra</name>
+    <current-territory>ghana</current-territory>
+    <latitude>5.55856201</latitude>
+    <longitude>-0.2009244746</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

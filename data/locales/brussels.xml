@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>brussels</id>
+    <name>Brussels</name>
+    <current-territory>belgium</current-territory>
+    <latitude>50.8370040644</latitude>
+    <longitude>4.3679976072</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

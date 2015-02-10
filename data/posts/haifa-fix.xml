@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>haifa</locale>
+    <territory>syria</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1833</valid-since>
+    <valid-until>1906</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1833</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1906</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=haifa,%20syria</source>
+    </sources>
+    <notes/>
+</post>

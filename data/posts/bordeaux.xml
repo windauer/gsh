@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bordeaux</locale>
+    <territory>france</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1778</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1778</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/france</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bordeaux,%20france</source>
+    </sources>
+    <notes>Closed in 1996 and reopened in 2000; elevated to consulate general in 1996</notes>
+</post>

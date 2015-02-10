@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>keneh</id>
+    <name>Keneh</name>
+    <current-territory>egypt</current-territory>
+    <latitude>26.155061</latitude>
+    <longitude>32.716012</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

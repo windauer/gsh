@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>valparaiso</locale>
+    <territory>chile</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1820</valid-since>
+    <valid-until>1957</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1820</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1957</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=valparaiso,%20chile</source>
+    </sources>
+    <notes/>
+</post>

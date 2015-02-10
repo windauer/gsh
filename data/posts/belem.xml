@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>belem</locale>
+    <territory>brazil</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1949</valid-since>
+    <valid-until>1972</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1949</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1972</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=belem-para,%20brazil</source>
+    </sources>
+    <notes>Previously Para Brazil</notes>
+</post>

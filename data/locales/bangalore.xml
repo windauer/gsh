@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bangalore</id>
+    <name>Bangalore</name>
+    <current-territory>india</current-territory>
+    <latitude>12.974751086</latitude>
+    <longitude>77.5877316453</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

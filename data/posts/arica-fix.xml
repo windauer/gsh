@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>arica</locale>
+    <territory>peru</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1849</valid-since>
+    <valid-until>1929</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1849</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1929</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=arica%20and%20tacna,%20peru-chile</source>
+    </sources>
+    <notes/>
+</post>

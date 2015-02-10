@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>stockholm</id>
+    <name>Stockholm</name>
+    <current-territory>sweden</current-territory>
+    <latitude>59.3311680936</latitude>
+    <longitude>17.9914506078</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sunderland</id>
+    <name>Sunderland</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>54.7073</latitude>
+    <longitude>-3.2755</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

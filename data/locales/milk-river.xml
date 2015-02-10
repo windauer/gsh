@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>milk-river</id>
+    <name>Milk River</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>17.875689</latitude>
+    <longitude>-77.349671</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

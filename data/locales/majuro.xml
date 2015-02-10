@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>majuro</id>
+    <name>Majuro</name>
+    <current-territory>marshall-islands</current-territory>
+    <latitude>7.1209801155</latitude>
+    <longitude>171.367659732</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

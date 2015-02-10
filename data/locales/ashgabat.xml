@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ashgabat</id>
+    <name>Ashgabat</name>
+    <current-territory>turkmenistan</current-territory>
+    <latitude>37.9504170324</latitude>
+    <longitude>58.3901376589</longitude>
+    <predecessors>Ashkabad</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

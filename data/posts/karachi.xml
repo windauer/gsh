@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>karachi</locale>
+    <territory>india</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1887</valid-since>
+    <valid-until>1947</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1887</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1947</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=karachi,%20india</source>
+    </sources>
+    <notes>Became part of Pakistan in 1947</notes>
+</post>

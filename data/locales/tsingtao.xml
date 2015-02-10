@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tsingtao</id>
+    <name>Tsingtao</name>
+    <current-territory>china</current-territory>
+    <latitude>36.066667</latitude>
+    <longitude>120.383333</longitude>
+    <predecessors>Tsingtau</predecessors>
+    <successors>Qingdao</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

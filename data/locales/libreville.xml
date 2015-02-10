@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>libreville</id>
+    <name>Libreville</name>
+    <current-territory>gabon</current-territory>
+    <latitude>0.3909960062</latitude>
+    <longitude>9.4539965498</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

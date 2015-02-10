@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>danish-west-indies-1917</id>
+    <short-form-name>Danish West Indies</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1754</valid-since>
+    <valid-until>1917</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>virgin-islands-us</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html</source>
+        <source>http://www.virgin-islands-history.dk/eng/vi_hist.asp</source>
+        <source>http://www.britannica.com/EBchecked/topic/629915/United-States-Virgin-Islands/7726/History</source>
+        <source>http://books.google.com/books?id=XxT8qxBjwoUC&amp;pg=PA80&amp;dq=isbn:9768125055+1754&amp;hl=en&amp;sa=X&amp;ei=EhNpU6yzNK_8yAHC0YHAAg&amp;ved=0CC0Q6AEwAA</source>
+    </sources>
+</territory>

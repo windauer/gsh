@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dieppe</id>
+    <name>Dieppe</name>
+    <current-territory>france</current-territory>
+    <latitude>49.9222</latitude>
+    <longitude>1.0786</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

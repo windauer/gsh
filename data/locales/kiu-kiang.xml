@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kiu-kiang</id>
+    <name>Kiu Kiang</name>
+    <current-territory>china</current-territory>
+    <latitude>29.738056</latitude>
+    <longitude>115.987222</longitude>
+    <predecessors/>
+    <successors>JiuJiang</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

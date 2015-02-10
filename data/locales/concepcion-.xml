@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>concepcion-</id>
+    <name>Concepcion </name>
+    <current-territory>chile</current-territory>
+    <latitude>-36.818938</latitude>
+    <longitude>-73.050319</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

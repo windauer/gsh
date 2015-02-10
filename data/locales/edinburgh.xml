@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>edinburgh</id>
+    <name>Edinburgh</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>55.953056</latitude>
+    <longitude>-3.188889</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

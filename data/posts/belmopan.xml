@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>belmopan</locale>
+    <territory>belize</territory>
+    <post-type>embassy</post-type>
+    <valid-since>2006</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>2006</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/belize</source>
+    </sources>
+    <notes>Formerly British Honduras/ Recognized by US in 1981</notes>
+</post>

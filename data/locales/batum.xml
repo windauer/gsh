@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>batum</id>
+    <name>Batum</name>
+    <current-territory>russia</current-territory>
+    <latitude>41.638611</latitude>
+    <longitude>41.637222</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

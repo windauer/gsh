@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hangchow</id>
+    <name>Hangchow</name>
+    <current-territory>china</current-territory>
+    <latitude>30.25</latitude>
+    <longitude>120.166667</longitude>
+    <predecessors/>
+    <successors>Hangzhou</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

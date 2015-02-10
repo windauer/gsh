@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>white-horse</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1910</valid-since>
+    <valid-until>1927</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1910</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1927</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=white%20horse,%20yukon%20territory,%20canada</source>
+    </sources>
+    <notes/>
+</post>

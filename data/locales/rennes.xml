@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rennes</id>
+    <name>Rennes</name>
+    <current-territory>france</current-territory>
+    <latitude>48.1147</latitude>
+    <longitude>-1.6794</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

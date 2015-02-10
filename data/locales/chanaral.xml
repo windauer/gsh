@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chanaral</id>
+    <name>Chanaral</name>
+    <current-territory>chile</current-territory>
+    <latitude>-29.033333</latitude>
+    <longitude>-71.433333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

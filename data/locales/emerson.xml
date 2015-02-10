@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>emerson</id>
+    <name>Emerson</name>
+    <current-territory>canada</current-territory>
+    <latitude>49.006944</latitude>
+    <longitude>-97.214722</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

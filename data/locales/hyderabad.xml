@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hyderabad</id>
+    <name>Hyderabad</name>
+    <current-territory>india</current-territory>
+    <latitude>25.3801801473</latitude>
+    <longitude>68.3664756088</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

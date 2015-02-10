@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>wuhan</locale>
+    <territory>china</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>2007</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>2007</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://wuhan.usembassy-china.org.cn/about-us.html</source>
+    </sources>
+    <notes/>
+</post>

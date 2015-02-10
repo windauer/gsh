@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>united-provinces-of-rio-de-la-plata-1828</id>
+    <short-form-name>United Provinces of the Rio de la Plata</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1816</valid-since>
+    <valid-until>1828</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+    </predecessors>
+    <successors>
+        <successor>uruguay</successor>
+        <successor>bolivia</successor>
+        <successor>buenos-ayres-1861</successor>
+        <successor>argentine-confederation-1861</successor>
+        <successor>argentina</successor>
+    </successors>
+    <notes>Autonomous government from 1810-1816; U.S. recognized independence in 1823</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/33657/Argentina</source>
+        <source>http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ac09</source>
+        <source>http://www.argentina.gob.ar/pais/99-nombre-del-pais.php</source>
+    </sources>
+</territory>

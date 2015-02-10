@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tsinan</id>
+    <name>Tsinan</name>
+    <current-territory>china</current-territory>
+    <latitude>36.666667</latitude>
+    <longitude>116.983333</longitude>
+    <predecessors>Tsinanfu</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

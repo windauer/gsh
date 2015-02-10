@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>manchester</id>
+    <name>Manchester</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.466667</latitude>
+    <longitude>-2.233333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

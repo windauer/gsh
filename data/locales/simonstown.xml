@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>simonstown</id>
+    <name>Simonstown</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-34.193765</latitude>
+    <longitude>18.435665</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

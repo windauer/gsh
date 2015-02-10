@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>budapest</locale>
+    <territory>hungary</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1877</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1877</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=budapest,%20hungary</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=budapest</source>
+    </sources>
+    <notes/>
+</post>

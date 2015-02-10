@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>managua</id>
+    <name>Managua</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>12.1509990805</latitude>
+    <longitude>-86.2730005218</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

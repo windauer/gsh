@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kingdom-of-serbia-1918</id>
+    <short-form-name>Kingdom of Serbia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1882</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>principality-of-serbia-1882</predecessor>
+    </predecessors>
+    <successors>
+        <successor>kingdom-of-serbs-croats-and-slovenes-1929</successor>
+        <successor>yugoslavia-1946</successor>
+        <successor>socialist-federal-republic-of-yugoslavia-1992</successor>
+        <successor>federal-republic-of-yugoslavia-2003</successor>
+        <successor>croatia</successor>
+        <successor>slovenia</successor>
+        <successor>bosnia-and-herzegovina</successor>
+        <successor>macedonia</successor>
+        <successor>serbia-and-montenegro-2006</successor>
+        <successor>serbia</successor>
+        <successor>montenegro</successor>
+        <successor>kosovo</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1881; Mulitple successors</notes>
+    <sources>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
+        <source>http://www.britannica.com/EBchecked/topic/382133/Milan-IV-or-II</source>
+    </sources>
+</territory>

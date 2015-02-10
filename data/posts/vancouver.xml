@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>vancouver</locale>
+    <territory>canada</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1887</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1887</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://vancouver.usconsulate.gov/about-us/history-of-the-consulate.html</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-cabello</id>
+    <name>Puerto Cabello</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.466667</latitude>
+    <longitude>-68.016667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

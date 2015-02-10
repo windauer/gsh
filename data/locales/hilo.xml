@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hilo</id>
+    <name>Hilo</name>
+    <current-territory>hawaii</current-territory>
+    <latitude>19.714815136</latitude>
+    <longitude>-155.067290617</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

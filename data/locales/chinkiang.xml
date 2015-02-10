@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>chinkiang</id>
+    <name>Chinkiang</name>
+    <current-territory>china</current-territory>
+    <latitude>32.2</latitude>
+    <longitude>119.416667</longitude>
+    <predecessors/>
+    <successors>Zhenjiang</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>fort-william-and-port-authur</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1895</valid-since>
+    <valid-until>1948</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1895</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1948</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://toronto.usconsulate.gov/about-us/consulate-history.html</source>
+    </sources>
+    <notes/>
+</post>

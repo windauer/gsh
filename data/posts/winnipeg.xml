@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>winnipeg</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1869</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1869</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=winnipeg,%20manitowba,%20canada</source>
+    </sources>
+    <notes>Closed in 1986 reopened in 2002</notes>
+</post>

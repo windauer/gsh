@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>albert-town</id>
+    <name>Albert Town</name>
+    <current-territory>bahamas</current-territory>
+    <latitude>22.597465</latitude>
+    <longitude>-74.345184</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

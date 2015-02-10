@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>port-de-paix</locale>
+    <territory>haiti</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1871</valid-since>
+    <valid-until>1935</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1871</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1935</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=port%20de%20paix,%20haiti</source>
+    </sources>
+    <notes/>
+</post>

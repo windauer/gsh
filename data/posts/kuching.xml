@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kuching</locale>
+    <territory>malaysia</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1964</valid-since>
+    <valid-until>1971</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1964</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1971</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=kuching,%20malaysia</source>
+    </sources>
+    <notes/>
+</post>

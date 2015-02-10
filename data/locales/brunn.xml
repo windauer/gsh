@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>brunn</id>
+    <name>Brunn</name>
+    <current-territory>austria</current-territory>
+    <latitude>48.693611</latitude>
+    <longitude>15.521461</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

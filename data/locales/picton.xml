@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>picton</id>
+    <name>Picton</name>
+    <current-territory>canada</current-territory>
+    <latitude>44</latitude>
+    <longitude>-77.133333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bloemfontein</locale>
+    <territory>south-africa</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1891</valid-since>
+    <valid-until>1928</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1891</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1928</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/orange-free-state</source>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=bloemfontein,%20orange%20free%20state-pretoriz%20johannesburg</source>
+    </sources>
+    <notes/>
+</post>

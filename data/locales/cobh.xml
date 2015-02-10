@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cobh</id>
+    <name>Cobh</name>
+    <current-territory>ireland</current-territory>
+    <latitude>51.850336</latitude>
+    <longitude>-8.294286</longitude>
+    <predecessors>Queenstown</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

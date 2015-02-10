@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>piura</locale>
+    <territory>peru</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1884</valid-since>
+    <valid-until>1899</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1884</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1899</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=piura,%20peru</source>
+    </sources>
+    <notes/>
+</post>

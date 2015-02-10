@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nassau</id>
+    <name>Nassau</name>
+    <current-territory>bahamas</current-territory>
+    <latitude>25.0669980196</latitude>
+    <longitude>-77.3399964996</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

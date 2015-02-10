@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>hoochelaga-and-longeuil</id>
+    <name>Hoochelaga and Longeuil</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.569806</latitude>
+    <longitude>-73.538056</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

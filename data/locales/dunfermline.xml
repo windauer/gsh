@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dunfermline</id>
+    <name>Dunfermline</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>56.07192</latitude>
+    <longitude>-3.4393</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

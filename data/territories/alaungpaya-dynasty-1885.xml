@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>alaungpaya-dynasty-1885</id>
+    <short-form-name>Alaungpaya Dynasty</short-form-name>
+    <long-form-name>Konbaung Dynasty</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1752</valid-since>
+    <valid-until>1885</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>british-burma-1948</successor>
+        <successor>burma-1962</successor>
+        <successor>socialist-republic-of-union-of-burma-1988</successor>
+        <successor>burma</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/400119/Myanmar</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mbabane</id>
+    <name>Mbabane</name>
+    <current-territory>swaziland</current-territory>
+    <latitude>-26.3033819009</latitude>
+    <longitude>31.1913005234</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

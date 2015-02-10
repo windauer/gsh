@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>abu-dhabi</id>
+    <name>Abu Dhabi</name>
+    <current-territory>united-arab-emirates</current-territory>
+    <latitude>24.4760040762</latitude>
+    <longitude>54.3709986284</longitude>
+    <predecessors>Muscat, Oman</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

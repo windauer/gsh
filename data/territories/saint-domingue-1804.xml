@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>saint-domingue-1804</id>
+    <short-form-name>Saint-Domingue</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1697</valid-since>
+    <valid-until>1804</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>haiti</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/251961/Haiti</source>
+        <source>http://www.britannica.com/EBchecked/topic/251961/Haiti/54483/French-colonial-rule?anchor=ref515792</source>
+    </sources>
+</territory>

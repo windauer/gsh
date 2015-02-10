@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aux-cayes</id>
+    <name>Aux Cayes</name>
+    <current-territory>haiti</current-territory>
+    <latitude>18.2</latitude>
+    <longitude>-73.75</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>camargo</id>
+    <name>Camargo</name>
+    <current-territory>mexico</current-territory>
+    <latitude>27.667</latitude>
+    <longitude>-105.167</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>almeria</id>
+    <name>Almeria</name>
+    <current-territory>spain</current-territory>
+    <latitude>36.834047</latitude>
+    <longitude>-2.463714</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

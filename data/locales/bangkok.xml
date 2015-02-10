@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bangkok</id>
+    <name>Bangkok</name>
+    <current-territory>thailand</current-territory>
+    <latitude>13.7500019824</latitude>
+    <longitude>100.516671699</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>monrovia</id>
+    <name>Monrovia</name>
+    <current-territory>liberia</current-territory>
+    <latitude>6.3009989861</latitude>
+    <longitude>-10.7970025344</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

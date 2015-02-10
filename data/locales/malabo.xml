@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>malabo</id>
+    <name>Malabo</name>
+    <current-territory>equatorial-guinea</current-territory>
+    <latitude>3.7436040912</latitude>
+    <longitude>8.7725614841</longitude>
+    <predecessors>Santa Isabel</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

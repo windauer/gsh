@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>gibara</id>
+    <name>Gibara</name>
+    <current-territory>cuba</current-territory>
+    <latitude>21.11194</latitude>
+    <longitude>-76.13649</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

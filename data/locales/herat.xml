@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>herat</id>
+    <name>Herat</name>
+    <current-territory>afghanistan</current-territory>
+    <latitude>34.341944</latitude>
+    <longitude>62.20356</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

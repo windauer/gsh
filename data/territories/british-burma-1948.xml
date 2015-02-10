@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>british-burma-1948</id>
+    <short-form-name>British Burma</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1885</valid-since>
+    <valid-until>1948</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>alaungpaya-dynasty-1885</predecessor>
+    </predecessors>
+    <successors>
+        <successor>burma-1962</successor>
+        <successor>socialist-republic-of-union-of-burma-1988</successor>
+        <successor>burma</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/349870/Lower-Burma</source>
+        <source>http://www.britannica.com/EBchecked/topic/349870/Lower-Burma</source>
+    </sources>
+</territory>

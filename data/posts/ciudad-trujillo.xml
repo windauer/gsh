@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ciudad-trujillo</locale>
+    <territory>dominican-republic</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1936</valid-since>
+    <valid-until>1961</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1936</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=ciudad%20trujillo,%20dominican%20republic</source>
+    </sources>
+    <notes>Santo Domingo was called Ciudad Trujillo from 1936-1961</notes>
+</post>

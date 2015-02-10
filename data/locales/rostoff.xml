@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rostoff</id>
+    <name>Rostoff</name>
+    <current-territory>russia</current-territory>
+    <latitude>47.255357</latitude>
+    <longitude>39.804042</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

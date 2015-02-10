@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>faro</id>
+    <name>Faro</name>
+    <current-territory>portugal</current-territory>
+    <latitude>37.0189980485</latitude>
+    <longitude>-7.9280004199</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

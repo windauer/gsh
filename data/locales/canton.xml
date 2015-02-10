@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>canton</id>
+    <name>Canton</name>
+    <current-territory>china</current-territory>
+    <latitude>23.133333</latitude>
+    <longitude>113.266667</longitude>
+    <predecessors/>
+    <successors>Guangzhou</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

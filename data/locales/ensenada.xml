@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ensenada</id>
+    <name>Ensenada</name>
+    <current-territory>mexico</current-territory>
+    <latitude>31.857778</latitude>
+    <longitude>-116.605833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

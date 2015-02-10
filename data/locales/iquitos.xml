@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>iquitos</id>
+    <name>Iquitos</name>
+    <current-territory>peru</current-territory>
+    <latitude>-3.7529999487</latitude>
+    <longitude>-73.1909964844</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

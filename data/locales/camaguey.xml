@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>camaguey</id>
+    <name>Camaguey</name>
+    <current-territory>cuba</current-territory>
+    <latitude>21.3859980384</latitude>
+    <longitude>-77.9139985809</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

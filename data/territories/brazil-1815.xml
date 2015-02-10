@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>brazil-1815</id>
+    <short-form-name>Brazil</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since certainty="25">1625</valid-since>
+    <valid-until>1815</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>united-kingdom-of-portugal-brazil-and-algarves-1822</successor>
+        <successor>empire-of-brazil-1889</successor>
+        <successor>brazil</successor>
+    </successors>
+    <notes>Portuguese colony</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/78101/Brazil</source>
+    </sources>
+</territory>

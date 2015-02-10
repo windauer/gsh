@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>safi</id>
+    <name>Safi</name>
+    <current-territory>morocco</current-territory>
+    <latitude>32.310059</latitude>
+    <longitude>-9.236617</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

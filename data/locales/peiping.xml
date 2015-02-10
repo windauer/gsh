@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>peiping</id>
+    <name>Peiping</name>
+    <current-territory>china</current-territory>
+    <latitude>39.913889</latitude>
+    <longitude>116.391667</longitude>
+    <predecessors>Peking</predecessors>
+    <successors>Beijing</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

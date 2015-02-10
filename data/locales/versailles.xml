@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>versailles</id>
+    <name>Versailles</name>
+    <current-territory>france</current-territory>
+    <latitude>48.8053</latitude>
+    <longitude>2.135</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

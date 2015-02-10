@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dairen</id>
+    <name>Dairen</name>
+    <current-territory>china</current-territory>
+    <latitude>38.920833</latitude>
+    <longitude>121.639167</longitude>
+    <predecessors>Dalny</predecessors>
+    <successors>Dalian</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

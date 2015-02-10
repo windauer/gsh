@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>poznan</id>
+    <name>Poznan</name>
+    <current-territory>poland</current-territory>
+    <latitude>52.3960021191</latitude>
+    <longitude>16.8869976073</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

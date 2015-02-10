@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>farnham</id>
+    <name>Farnham</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.283333</latitude>
+    <longitude>-72.983333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>buenaventura</id>
+    <name>Buenaventura</name>
+    <current-territory>colombia</current-territory>
+    <latitude>3.886611</latitude>
+    <longitude>-77.070229</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

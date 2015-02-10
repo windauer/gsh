@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>north-bay</locale>
+    <territory>canada</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1894</valid-since>
+    <valid-until>1933</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1894</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1933</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=north%20bay,%20ontario,%20canada</source>
+    </sources>
+    <notes>Vice Consulate 1920-30</notes>
+</post>

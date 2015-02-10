@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>sorau</locale>
+    <territory>germany</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1898</valid-since>
+    <valid-until>1909</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1898</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1909</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=sorau,%20germany</source>
+    </sources>
+    <notes/>
+</post>

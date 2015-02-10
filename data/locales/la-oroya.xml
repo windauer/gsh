@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-oroya</id>
+    <name>La Oroya</name>
+    <current-territory>peru</current-territory>
+    <latitude>-11.525402</latitude>
+    <longitude>-75.898415</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

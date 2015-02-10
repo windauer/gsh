@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ile-de-re</locale>
+    <territory>france</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1862</valid-since>
+    <valid-until>1868</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1862</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1868</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=ile%20de%20re,%20france</source>
+    </sources>
+    <notes/>
+</post>

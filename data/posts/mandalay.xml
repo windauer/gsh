@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>mandalay</locale>
+    <territory>burma</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1960</valid-since>
+    <valid-until>1980</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1960</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1980</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/burma</source>
+    </sources>
+    <notes/>
+</post>

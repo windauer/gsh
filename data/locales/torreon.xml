@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>torreon</id>
+    <name>Torreon</name>
+    <current-territory>mexico</current-territory>
+    <latitude>25.53935</latitude>
+    <longitude>-103.448633</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

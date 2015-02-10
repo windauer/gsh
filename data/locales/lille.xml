@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lille</id>
+    <name>Lille</name>
+    <current-territory>france</current-territory>
+    <latitude>50.6372</latitude>
+    <longitude>3.0633</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

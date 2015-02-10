@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cephalonia-island</id>
+    <name>Cephalonia Island</name>
+    <current-territory>greece</current-territory>
+    <latitude>38.175368</latitude>
+    <longitude>20.569218</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

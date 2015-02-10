@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>oslo</id>
+    <name>Oslo</name>
+    <current-territory>norway</current-territory>
+    <latitude>59.9380021329</latitude>
+    <longitude>10.7119985281</longitude>
+    <predecessors>Christiana(1925)</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

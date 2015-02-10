@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>newcastle</id>
+    <name>Newcastle</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>51.8508</latitude>
+    <longitude>-2.8016</longitude>
+    <predecessors/>
+    <successors>Newcastle on Tyne</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

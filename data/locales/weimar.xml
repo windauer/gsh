@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>weimar</id>
+    <name>Weimar</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.984712</latitude>
+    <longitude>11.32254</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

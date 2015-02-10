@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>abo</id>
+    <name>Abo</name>
+    <current-territory>russia</current-territory>
+    <latitude>61.120224</latitude>
+    <longitude>27.841026</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

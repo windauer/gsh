@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tijuana</locale>
+    <territory>mexico</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1940</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1940</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://tijuana.usconsulate.gov/about_the_consulate.html</source>
+    </sources>
+    <notes>Became Consulate General in 1960</notes>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sohag</id>
+    <name>Sohag</name>
+    <current-territory>egypt</current-territory>
+    <latitude>26.5449961257</latitude>
+    <longitude>31.6950034915</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

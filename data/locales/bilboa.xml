@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bilboa</id>
+    <name>Bilboa</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.263013</latitude>
+    <longitude>-2.934985</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>arecibo</locale>
+    <territory>puerto-rico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1865</valid-since>
+    <valid-until>1899</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1865</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1899</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=arecibo,%20porto%20rico</source>
+    </sources>
+    <notes/>
+</post>

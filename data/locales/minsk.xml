@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>minsk</id>
+    <name>Minsk</name>
+    <current-territory>belarus</current-territory>
+    <latitude>53.899938134</latitude>
+    <longitude>27.5755595197</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

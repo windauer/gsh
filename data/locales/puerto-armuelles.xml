@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-armuelles</id>
+    <name>Puerto Armuelles</name>
+    <current-territory>panama</current-territory>
+    <latitude>8.283333</latitude>
+    <longitude>-82.866667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

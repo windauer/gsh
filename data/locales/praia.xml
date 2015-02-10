@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>praia</id>
+    <name>Praia</name>
+    <current-territory>cape-verde</current-territory>
+    <latitude>14.922999142</latitude>
+    <longitude>-23.5209954174</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

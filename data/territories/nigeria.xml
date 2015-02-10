@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>nigeria</id>
+    <short-form-name>Nigeria</short-form-name>
+    <long-form-name>Federal Republic of Nigeria</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1960</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>british-cameroons-1961</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon/281016/German-Kamerun-1884-1916</source>
+    </sources>
+</territory>

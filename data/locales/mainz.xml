@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mainz</id>
+    <name>Mainz</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.0020021487</latitude>
+    <longitude>8.2490046141</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

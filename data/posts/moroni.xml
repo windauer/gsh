@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>moroni</locale>
+    <territory>comoros</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1985</valid-since>
+    <valid-until>1993</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1985</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1993</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/comoros</source>
+    </sources>
+    <notes/>
+</post>

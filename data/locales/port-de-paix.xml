@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-de-paix</id>
+    <name>Port de Paix</name>
+    <current-territory>haiti</current-territory>
+    <latitude>19.939679</latitude>
+    <longitude>-72.831214</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

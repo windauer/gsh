@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>abo</locale>
+    <territory>russia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1890</valid-since>
+    <valid-until>1907</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1890</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1907</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=abo,%20russia</source>
+    </sources>
+    <notes/>
+</post>

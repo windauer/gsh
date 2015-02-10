@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>reval</id>
+    <name>Reval</name>
+    <current-territory>russia</current-territory>
+    <latitude>59.436961</latitude>
+    <longitude>24.753575</longitude>
+    <predecessors>Revel</predecessors>
+    <successors>Tallinn</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

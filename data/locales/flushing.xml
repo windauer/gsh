@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>flushing</id>
+    <name>Flushing</name>
+    <current-territory>netherlands</current-territory>
+    <latitude>40.767499</latitude>
+    <longitude>-73.833079</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

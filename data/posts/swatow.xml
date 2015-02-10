@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>swatow</locale>
+    <territory>china</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1860</valid-since>
+    <valid-until>1941</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1860</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1941</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=swatow,%20china</source>
+    </sources>
+    <notes/>
+</post>

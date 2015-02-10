@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>troyes</id>
+    <name>Troyes</name>
+    <current-territory>france</current-territory>
+    <latitude>48.2997</latitude>
+    <longitude>4.0792</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

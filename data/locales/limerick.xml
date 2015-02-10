@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>limerick</id>
+    <name>Limerick</name>
+    <current-territory>ireland</current-territory>
+    <latitude>52.66802</latitude>
+    <longitude>-8.630498</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

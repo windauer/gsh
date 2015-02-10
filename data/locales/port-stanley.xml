@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-stanley</id>
+    <name>Port Stanley</name>
+    <current-territory>canada</current-territory>
+    <latitude>42.6638</latitude>
+    <longitude>-81.2129</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

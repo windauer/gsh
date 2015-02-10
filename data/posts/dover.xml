@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>dover</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1870</valid-since>
+    <valid-until>1914</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1870</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1914</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=dover,%20england</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>minatitlan</id>
+    <name>Minatitlan</name>
+    <current-territory>mexico</current-territory>
+    <latitude>17.983333</latitude>
+    <longitude>-94.55</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cape-gracias-a-dios</id>
+    <name>Cape Gracias a Dios</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>15</latitude>
+    <longitude>-83.15</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

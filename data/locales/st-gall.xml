@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>st-gall</id>
+    <name>St. Gall</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>47.417928</latitude>
+    <longitude>9.364397</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

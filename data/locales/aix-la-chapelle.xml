@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aix-la-chapelle</id>
+    <name>Aix La Chapelle</name>
+    <current-territory>germany</current-territory>
+    <latitude>50.775346</latitude>
+    <longitude>6.083887</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>antilla</locale>
+    <territory>cuba</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1907</valid-since>
+    <valid-until>1961</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1907</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=antilla,%20cuba</source>
+    </sources>
+    <notes>Diplomatic posts closed in 1961 upon cessation of relations with Cuba</notes>
+</post>

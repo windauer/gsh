@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>corcubion</id>
+    <name>Corcubion</name>
+    <current-territory>spain</current-territory>
+    <latitude>42.942569</latitude>
+    <longitude>-9.192255</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>falmouth</id>
+    <name>Falmouth</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>50.15</latitude>
+    <longitude>-5.07</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

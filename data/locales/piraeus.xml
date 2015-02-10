@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>piraeus</id>
+    <name>Piraeus</name>
+    <current-territory>greece</current-territory>
+    <latitude>37.9562940191</latitude>
+    <longitude>23.6883784829</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

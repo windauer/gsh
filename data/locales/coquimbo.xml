@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>coquimbo</id>
+    <name>Coquimbo</name>
+    <current-territory>chile</current-territory>
+    <latitude>-29.9590019842</latitude>
+    <longitude>-71.3320015436</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

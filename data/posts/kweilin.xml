@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kweilin</locale>
+    <territory>china</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1943</valid-since>
+    <valid-until>1944</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1943</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1944</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=kweilin,%20china</source>
+    </sources>
+    <notes/>
+</post>

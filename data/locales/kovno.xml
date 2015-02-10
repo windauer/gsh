@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kovno</id>
+    <name>Kovno</name>
+    <current-territory>lithuania</current-territory>
+    <latitude>54.898496</latitude>
+    <longitude>23.903542</longitude>
+    <predecessors/>
+    <successors>Kaunas(1921)</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

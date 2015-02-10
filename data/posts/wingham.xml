@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>wingham</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1890</valid-since>
+    <valid-until>1899</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1890</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1899</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://toronto.usconsulate.gov/about-us/consulate-history.html</source>
+    </sources>
+    <notes/>
+</post>

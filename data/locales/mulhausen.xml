@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mulhausen</id>
+    <name>Mulhausen</name>
+    <current-territory>germany</current-territory>
+    <latitude>47.750839</latitude>
+    <longitude>7.335888</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

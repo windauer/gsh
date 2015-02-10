@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ndjamena</id>
+    <name>N’Djamena</name>
+    <current-territory>chad</current-territory>
+    <latitude>12.104797</latitude>
+    <longitude>15.044506</longitude>
+    <predecessors>Fort Lamy</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>benghazi</locale>
+    <territory>libya</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1950</valid-since>
+    <valid-until>2012</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1950</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>2012</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/libya</source>
+    </sources>
+    <notes/>
+</post>

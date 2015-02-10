@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>st-helens</id>
+    <name>St. Helen’s</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.4541</latitude>
+    <longitude>-2.7461</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

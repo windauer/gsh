@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>riga</locale>
+    <territory>latvia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1922</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1922</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=riga,%20latvia</source>
+    </sources>
+    <notes>Opened in 1991 after seperation from Soviet Union</notes>
+</post>

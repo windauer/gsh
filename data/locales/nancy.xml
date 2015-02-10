@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nancy</id>
+    <name>Nancy</name>
+    <current-territory>france</current-territory>
+    <latitude>48.6936</latitude>
+    <longitude>6.1846</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

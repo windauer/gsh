@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>banja-luca</locale>
+    <territory>bosnia-and-herzegovina</territory>
+    <post-type>branch-office</post-type>
+    <valid-since>1998</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1998</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries</source>
+    </sources>
+    <notes/>
+</post>

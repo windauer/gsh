@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bandar-seri-begawan</id>
+    <name>Bandar Seri Begawan</name>
+    <current-territory>brunei</current-territory>
+    <latitude>4.890278</latitude>
+    <longitude>114.942222</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

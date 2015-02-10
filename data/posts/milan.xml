@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>milan</locale>
+    <territory>italy</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1865</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1865</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/italy</source>
+    </sources>
+    <notes/>
+</post>

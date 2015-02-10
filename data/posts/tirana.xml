@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tirana</locale>
+    <territory>albania</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1925</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1925</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=tirana,%20albania</source>
+    </sources>
+    <notes>Closed in 1939 and reopened in 1945</notes>
+</post>

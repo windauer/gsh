@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>para</id>
+    <name>Para</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-6.207102</latitude>
+    <longitude>-52.702796</longitude>
+    <predecessors/>
+    <successors>Belem</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

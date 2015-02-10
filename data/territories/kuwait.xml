@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kuwait</id>
+    <short-form-name>Kuwait</short-form-name>
+    <long-form-name>State of Kuwait</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1756</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Sheikhdom founded in 1756; British protectorate 1899-1961; Gained independence in
+            1961</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/325644/Kuwait</source>
+    </sources>
+</territory>

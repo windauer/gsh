@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kathmandu</id>
+    <name>Kathmandu</name>
+    <current-territory>nepal</current-territory>
+    <latitude>27.7120170085</latitude>
+    <longitude>85.3129536772</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

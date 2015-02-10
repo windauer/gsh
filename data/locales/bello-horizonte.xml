@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bello-horizonte</id>
+    <name>Bello Horizonte</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-5.3</latitude>
+    <longitude>-52.866667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

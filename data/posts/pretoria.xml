@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>pretoria</locale>
+    <territory>south-africa</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1898</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1898</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=pretoria,%20south%20african%20republic-union%20of%20south%20africa</source>
+    </sources>
+    <notes/>
+</post>

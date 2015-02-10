@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-francisco</id>
+    <name>San Francisco</name>
+    <current-territory>mexico</current-territory>
+    <latitude>37.783333</latitude>
+    <longitude>-122.416667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nacaome</id>
+    <name>Nacaome</name>
+    <current-territory>honduras</current-territory>
+    <latitude>13.5279990342</latitude>
+    <longitude>-87.4889996032</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

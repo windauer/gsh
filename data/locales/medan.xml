@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>medan</id>
+    <name>Medan</name>
+    <current-territory>indonesia</current-territory>
+    <latitude>3.5849971055</latitude>
+    <longitude>98.6760005988</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

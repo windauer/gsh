@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dartmouth</id>
+    <name>Dartmouth</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>50.351</latitude>
+    <longitude>-3.579</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>amherstburg</id>
+    <name>Amherstburg</name>
+    <current-territory>canada</current-territory>
+    <latitude>42.1</latitude>
+    <longitude>-83.083333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

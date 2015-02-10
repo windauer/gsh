@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>mier</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1872</valid-since>
+    <valid-until>1900</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1872</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1900</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=mier,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

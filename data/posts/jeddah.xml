@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>jeddah</locale>
+    <territory>saudi-arabia</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1942</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1942</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/saudi-arabia</source>
+    </sources>
+    <notes>Embassy until 1984 then made consulate general</notes>
+</post>

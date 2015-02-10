@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>merida</id>
+    <name>Merida</name>
+    <current-territory>mexico</current-territory>
+    <latitude>20.97</latitude>
+    <longitude>-89.62</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

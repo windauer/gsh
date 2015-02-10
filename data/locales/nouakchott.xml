@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nouakchott</id>
+    <name>Nouakchott</name>
+    <current-territory>mauritania</current-territory>
+    <latitude>18.0839970077</latitude>
+    <longitude>-15.9779965443</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

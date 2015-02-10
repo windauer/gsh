@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>leicester</id>
+    <name>Leicester</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>52.633333</latitude>
+    <longitude>-1.133333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

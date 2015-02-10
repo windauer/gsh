@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dublin</id>
+    <name>Dublin</name>
+    <current-territory>ireland</current-territory>
+    <latitude>53.3415600269</latitude>
+    <longitude>-6.2573485545</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

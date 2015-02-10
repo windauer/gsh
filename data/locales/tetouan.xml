@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tetouan</id>
+    <name>Tetouan</name>
+    <current-territory>morocco</current-territory>
+    <latitude>35.57621</latitude>
+    <longitude>-5.368435</longitude>
+    <predecessors>Tetuan</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

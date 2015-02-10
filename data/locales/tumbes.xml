@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tumbes</id>
+    <name>Tumbes</name>
+    <current-territory>peru</current-territory>
+    <latitude>-3.566667</latitude>
+    <longitude>-80.45</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>wingham</id>
+    <name>Wingham</name>
+    <current-territory>canada</current-territory>
+    <latitude>43.887441</latitude>
+    <longitude>-81.310415</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

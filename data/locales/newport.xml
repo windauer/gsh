@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>newport</id>
+    <name>Newport</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>51.583333</latitude>
+    <longitude>-3</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

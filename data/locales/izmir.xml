@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>izmir</id>
+    <name>Izmir</name>
+    <current-territory>turkey</current-territory>
+    <latitude>38.4329970043</latitude>
+    <longitude>27.1449995016</longitude>
+    <predecessors>Smyrna</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

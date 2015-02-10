@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>gran-colombia-1830</id>
+    <short-form-name>Gran Colombia</short-form-name>
+    <long-form-name>Republic of Colombia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1819</valid-since>
+    <valid-until>1830</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+    </predecessors>
+    <successors>
+        <successor>venezuela</successor>
+        <successor>ecuador</successor>
+        <successor>new-granada-1856</successor>
+        <successor>grenadine-confederation-1863</successor>
+        <successor>united-states-of-colombia-1866</successor>
+        <successor>colombia</successor>
+        <successor>panama</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/241012/Gran-Colombia</source>
+    </sources>
+</territory>

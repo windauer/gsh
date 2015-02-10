@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>argentina</id>
+    <short-form-name>Argentina</short-form-name>
+    <long-form-name>Argentine Republic</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1861</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>argentine-confederation-1861</predecessor>
+        <predecessor>buenos-ayres-1861</predecessor>
+        <predecessor>united-provinces-of-rio-de-la-plata-1828</predecessor>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html</source>
+        <source>http://history.state.gov/countries/argentina</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bratislava</id>
+    <name>Bratislava</name>
+    <current-territory>slovakia</current-territory>
+    <latitude>48.1500000509</latitude>
+    <longitude>17.1299976186</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

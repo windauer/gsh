@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>banes</id>
+    <name>Banes</name>
+    <current-territory>cuba</current-territory>
+    <latitude>20.96172</latitude>
+    <longitude>-75.718079</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

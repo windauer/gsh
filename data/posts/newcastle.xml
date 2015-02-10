@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>newcastle</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1856</valid-since>
+    <valid-until>1953</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1856</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1953</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=newcastle,%20england</source>
+    </sources>
+    <notes/>
+</post>

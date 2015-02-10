@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>boguillas</id>
+    <name>Boguillas</name>
+    <current-territory>mexico</current-territory>
+    <latitude>29.187778</latitude>
+    <longitude>-102.935556</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

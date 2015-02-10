@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cruz-grande</id>
+    <name>Cruz Grande</name>
+    <current-territory>chile</current-territory>
+    <latitude>-33.409499</latitude>
+    <longitude>-70.730519</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

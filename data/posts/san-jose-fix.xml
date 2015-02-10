@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>san-jose</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1871</valid-since>
+    <valid-until>1905</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1871</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1905</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=san%20jose%20and%20cape%20st.%20lucas,%20mexico</source>
+    </sources>
+    <notes>Also part of Cape St. Lucas</notes>
+</post>

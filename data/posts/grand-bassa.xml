@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>grand-bassa</locale>
+    <territory>liberia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1868</valid-since>
+    <valid-until>1881</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1868</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1881</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=grand%20bassa,%20liberia</source>
+    </sources>
+    <notes/>
+</post>

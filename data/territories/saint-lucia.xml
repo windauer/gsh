@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>saint-lucia</id>
+    <short-form-name>Saint Lucia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1962</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>west-indies-federation-1962</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Gained independence in 1979</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/st.html</source>
+        <source>http://www.britannica.com/Ebchecked/topic/517673/Saint-Lucia</source>
+    </sources>
+</territory>

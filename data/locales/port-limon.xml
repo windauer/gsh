@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-limon</id>
+    <name>Port Limon</name>
+    <current-territory>costa-rica</current-territory>
+    <latitude>10.765855</latitude>
+    <longitude>-83.58461</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

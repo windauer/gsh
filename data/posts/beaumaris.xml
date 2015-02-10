@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>beaumaris</locale>
+    <territory>united-kingdom</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1867</valid-since>
+    <valid-until>1869</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1867</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1869</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=beaumaris,%20wales</source>
+    </sources>
+    <notes/>
+</post>

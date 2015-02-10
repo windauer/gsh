@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>fort-erie</id>
+    <name>Fort Erie</name>
+    <current-territory>canada</current-territory>
+    <latitude>42.89325</latitude>
+    <longitude>-78.923817</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>riyadh</id>
+    <name>Riyadh</name>
+    <current-territory>saudi-arabia</current-territory>
+    <latitude>24.6500010423</latitude>
+    <longitude>46.7700035247</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

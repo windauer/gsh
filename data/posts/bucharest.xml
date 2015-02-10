@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>bucharest</locale>
+    <territory>romania</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1882</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1882</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/romania</source>
+    </sources>
+    <notes>Embassy reestablished in 1964</notes>
+</post>

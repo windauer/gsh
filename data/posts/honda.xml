@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>honda</locale>
+    <territory>colombia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1876</valid-since>
+    <valid-until>1912</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1876</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1912</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=honda,%20colombia</source>
+    </sources>
+    <notes/>
+</post>

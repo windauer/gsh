@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>medellin</id>
+    <name>Medellin</name>
+    <current-territory>colombia</current-territory>
+    <latitude>6.2409961006</latitude>
+    <longitude>-75.5919985649</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

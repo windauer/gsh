@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>pristina</id>
+    <name>Pristina</name>
+    <current-territory>kosovo</current-territory>
+    <latitude>42.672421</latitude>
+    <longitude>21.164539</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>elizabethville</id>
+    <name>Elizabethville</name>
+    <current-territory>congo-kinshasa</current-territory>
+    <latitude>40.548974</latitude>
+    <longitude>-76.811915</longitude>
+    <predecessors/>
+    <successors>Lumbumbashi</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

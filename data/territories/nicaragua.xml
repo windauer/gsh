@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>nicaragua</id>
+    <short-form-name>Nicaragua</short-form-name>
+    <long-form-name>Republic of Nicaragua</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1838</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>united-provinces-of-central-america-1839</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized independence in 1849</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nu.html</source>
+        <source>http://history.state.gov/countries/nicaragua</source>
+    </sources>
+</territory>

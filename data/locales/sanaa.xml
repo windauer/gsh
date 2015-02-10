@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sanaa</id>
+    <name>Sana’a</name>
+    <current-territory>yemen</current-territory>
+    <latitude>15.352029</latitude>
+    <longitude>44.207456</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

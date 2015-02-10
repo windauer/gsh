@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>singapore</locale>
+    <territory>singapore</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1836</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1836</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/singapore</source>
+    </sources>
+    <notes>Consular relations established in 1836. Embassy established in Singapore in
+            1966</notes>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>gallipoli</id>
+    <name>Gallipoli</name>
+    <current-territory>italy</current-territory>
+    <latitude>40.055851</latitude>
+    <longitude>17.992614</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

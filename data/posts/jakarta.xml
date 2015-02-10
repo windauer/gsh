@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>jakarta</locale>
+    <territory>indonesia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1801</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1801</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/indonesia</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ruatan</id>
+    <name>Ruatan</name>
+    <current-territory>honduras</current-territory>
+    <latitude>16.329761</latitude>
+    <longitude>-86.529967</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

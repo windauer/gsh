@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>trust-territory-of-pacific-islands-1986</id>
+    <short-form-name>Trust Territory of the Pacific Islands</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory/>
+    <valid-since/>
+    <valid-until>1986</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>marshall-islands</successor>
+        <successor>micronesia-federated-states-of</successor>
+        <successor>palau</successor>
+        <successor>northern-mariana-islands</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html</source>
+    </sources>
+</territory>

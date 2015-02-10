@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>port-au-prince</locale>
+    <territory>haiti</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1799</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1799</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=port%20au%20prince,%20haiti</source>
+    </sources>
+    <notes/>
+</post>

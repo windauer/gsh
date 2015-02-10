@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>guben</id>
+    <name>Guben</name>
+    <current-territory>germany</current-territory>
+    <latitude>51.951486</latitude>
+    <longitude>14.695565</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

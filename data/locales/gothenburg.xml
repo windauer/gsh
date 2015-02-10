@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>gothenburg</id>
+    <name>Gothenburg</name>
+    <current-territory>sweden</current-territory>
+    <latitude>57.70887</latitude>
+    <longitude>11.97456</longitude>
+    <predecessors>Goteborg</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

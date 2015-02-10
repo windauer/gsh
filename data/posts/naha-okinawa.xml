@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>naha-okinawa</locale>
+    <territory>japan</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date/>
+        </event>
+    </events>
+    <sources/>
+    <notes/>
+</post>

@@ -1,0 +1,21 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Geospatial History of U.S. Overseas Diplomatic Posts</description>
+    <author>Joe Wicentowski</author>
+    <website>https://history.state.gov</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>gsh</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <permissions user="gsh-admin" group="gsh-admin" mode="rw-rw-r--"/>
+    
+    <changelog>
+        <change version="0.1.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Initial version</li>
+            </ul>
+        </change>
+    </changelog>
+</meta>

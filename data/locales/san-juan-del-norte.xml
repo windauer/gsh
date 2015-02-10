@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-juan-del-norte</id>
+    <name>San Juan del Norte</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>10.944955</latitude>
+    <longitude>-83.737732</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

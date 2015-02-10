@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>caimanera</id>
+    <name>Caimanera</name>
+    <current-territory>cuba</current-territory>
+    <latitude>19.991135</latitude>
+    <longitude>-75.153079</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

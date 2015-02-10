@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>matanzas</id>
+    <name>Matanzas</name>
+    <current-territory>cuba</current-territory>
+    <latitude>23.0499991155</latitude>
+    <longitude>-81.5650015047</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

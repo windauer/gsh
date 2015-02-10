@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>danang</locale>
+    <territory>vietnam</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1967</valid-since>
+    <valid-until>1975</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1967</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1975</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries</source>
+    </sources>
+    <notes/>
+</post>

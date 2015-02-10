@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>banjul</locale>
+    <territory>gambia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1836</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1836</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/gambia</source>
+    </sources>
+    <notes>Closed in 1900 reopened in 1965</notes>
+</post>

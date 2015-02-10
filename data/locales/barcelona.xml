@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>barcelona</id>
+    <name>Barcelona</name>
+    <current-territory>spain</current-territory>
+    <latitude>41.383333</latitude>
+    <longitude>2.183333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

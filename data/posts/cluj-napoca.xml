@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>cluj-napoca</locale>
+    <territory>romania</territory>
+    <post-type>branch-office</post-type>
+    <valid-since>1994</valid-since>
+    <valid-until>2007</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1994</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>2007</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries</source>
+    </sources>
+    <notes/>
+</post>

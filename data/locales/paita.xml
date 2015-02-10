@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>paita</id>
+    <name>Paita</name>
+    <current-territory>peru</current-territory>
+    <latitude>-5.093849</latitude>
+    <longitude>-81.096217</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

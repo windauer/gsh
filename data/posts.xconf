@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index>
+        
+        <!-- Full text index configuration -->
+        <!-- Disable the standard full text index -->
+        <fulltext default="none" attributes="false"/>
+        
+        <!-- Range index configuration -->
+        <create qname="locale" type="xs:string"/>
+        <create qname="territory" type="xs:string"/>
+        <create qname="post-type" type="xs:string"/>
+        <create qname="valid-since" type="xs:string"/>
+        <create qname="valid-until" type="xs:string"/>
+        <create qname="type" type="xs:string"/>
+        <create qname="date" type="xs:string"/>
+    </index>
+</collection>

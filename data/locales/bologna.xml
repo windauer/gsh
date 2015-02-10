@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bologna</id>
+    <name>Bologna</name>
+    <current-territory>italy</current-territory>
+    <latitude>44.5030021626</latitude>
+    <longitude>11.3339974899</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

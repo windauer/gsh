@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>harburg</id>
+    <name>Harburg</name>
+    <current-territory>germany</current-territory>
+    <latitude>53.460768</latitude>
+    <longitude>9.983584</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

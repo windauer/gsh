@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bukavu</id>
+    <name>Bukavu</name>
+    <current-territory>congo-kinshasa</current-territory>
+    <latitude>-2.515364</latitude>
+    <longitude>28.845079</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

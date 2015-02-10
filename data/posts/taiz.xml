@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>taiz</locale>
+    <territory>yemen</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1959</valid-since>
+    <valid-until>1966</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1959</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1966</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=taiz,%20kingdom%20of%20yemen</source>
+    </sources>
+    <notes>Became Embassy of North Yemen in 1963</notes>
+</post>

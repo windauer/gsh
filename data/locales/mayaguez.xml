@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mayaguez</id>
+    <name>Mayaguez</name>
+    <current-territory>puerto-rico</current-territory>
+    <latitude>18.2030040847</latitude>
+    <longitude>-67.1429965156</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

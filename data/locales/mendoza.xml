@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mendoza</id>
+    <name>Mendoza</name>
+    <current-territory>argentina</current-territory>
+    <latitude>-32.8969980424</latitude>
+    <longitude>-68.8300014762</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

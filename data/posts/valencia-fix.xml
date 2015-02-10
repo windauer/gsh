@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>valencia</locale>
+    <territory>venezuela</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1888</valid-since>
+    <valid-until>1906</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1888</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1906</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=valencia,%20venezuela</source>
+    </sources>
+    <notes/>
+</post>

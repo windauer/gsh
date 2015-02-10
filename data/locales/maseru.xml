@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>maseru</id>
+    <name>Maseru</name>
+    <current-territory>lesotho</current-territory>
+    <latitude>-29.3079960538</latitude>
+    <longitude>27.4920035105</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

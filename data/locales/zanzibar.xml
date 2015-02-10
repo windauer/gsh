@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>zanzibar</id>
+    <name>Zanzibar</name>
+    <current-territory>tanzania</current-territory>
+    <latitude>-6.1659989325</latitude>
+    <longitude>39.2030015777</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

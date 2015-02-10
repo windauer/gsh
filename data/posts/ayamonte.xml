@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>ayamonte</locale>
+    <territory>spain</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1795</valid-since>
+    <valid-until>1806</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1795</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1806</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=ayamonte%20and%20huelva,%20spain</source>
+    </sources>
+    <notes/>
+</post>

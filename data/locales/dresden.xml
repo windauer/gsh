@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dresden</id>
+    <name>Dresden</name>
+    <current-territory>germany</current-territory>
+    <latitude>51.0460021483</latitude>
+    <longitude>13.705002513</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

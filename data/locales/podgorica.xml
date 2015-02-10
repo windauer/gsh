@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>podgorica</id>
+    <name>Podgorica</name>
+    <current-territory>montenegro</current-territory>
+    <latitude>42.4999980461</latitude>
+    <longitude>19.4000044892</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

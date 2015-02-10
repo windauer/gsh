@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lethbridge</locale>
+    <territory>canada</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1891</valid-since>
+    <valid-until>1931</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1891</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1931</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=lethbridge,%20canada</source>
+    </sources>
+    <notes/>
+</post>

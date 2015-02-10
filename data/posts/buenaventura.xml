@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>buenaventura</locale>
+    <territory>colombia</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1880</valid-since>
+    <valid-until>1955</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1880</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1955</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/colombia</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-perez</id>
+    <name>Puerto Perez</name>
+    <current-territory>bolivia</current-territory>
+    <latitude>-12.45</latitude>
+    <longitude>-68.583333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>buganda-1894</id>
+    <short-form-name>Buganda</short-form-name>
+    <long-form-name>Kingdom of Buganda</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>1894</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>british-east-africa-TBD</successor>
+        <successor>uganda</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/80007/British-East-Africa</source>
+        <source>http://www.britannica.com/EBchecked/topic/83725/Buganda</source>
+    </sources>
+</territory>

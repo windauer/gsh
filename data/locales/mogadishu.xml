@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>mogadishu</id>
+    <name>Mogadishu</name>
+    <current-territory>somalia</current-territory>
+    <latitude>2.0411730749</latitude>
+    <longitude>45.3441425347</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

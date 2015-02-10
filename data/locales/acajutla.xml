@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>acajutla</id>
+    <name>Acajutla</name>
+    <current-territory>el-salvador</current-territory>
+    <latitude>13.58824</latitude>
+    <longitude>-89.832397</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

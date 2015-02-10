@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>bloemfontein</id>
+    <name>Bloemfontein</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-29.1179969833</latitude>
+    <longitude>26.2250015379</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

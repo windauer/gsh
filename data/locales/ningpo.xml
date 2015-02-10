@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ningpo</id>
+    <name>Ningpo</name>
+    <current-territory>china</current-territory>
+    <latitude>29.866667</latitude>
+    <longitude>121.55</longitude>
+    <predecessors/>
+    <successors>Ningbo</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>leeds</id>
+    <name>Leeds</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>53.799722</latitude>
+    <longitude>-1.549167</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

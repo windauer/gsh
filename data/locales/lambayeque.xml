@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lambayeque</id>
+    <name>Lambayeque</name>
+    <current-territory>peru</current-territory>
+    <latitude>-6.477653</latitude>
+    <longitude>-79.91927</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

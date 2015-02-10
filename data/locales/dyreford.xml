@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dyreford</id>
+    <name>Dyreford</name>
+    <current-territory>iceland</current-territory>
+    <latitude>64.65</latitude>
+    <longitude>-14.283333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

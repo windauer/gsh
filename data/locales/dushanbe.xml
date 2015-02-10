@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>dushanbe</id>
+    <name>Dushanbe</name>
+    <current-territory>tajikistan</current-territory>
+    <latitude>38.6299980193</latitude>
+    <longitude>68.9000045241</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

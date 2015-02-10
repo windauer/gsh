@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>auckland</id>
+    <name>Auckland</name>
+    <current-territory>new-zealand</current-territory>
+    <latitude>-36.840417</latitude>
+    <longitude>174.739869</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

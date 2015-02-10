@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>david</id>
+    <name>David</name>
+    <current-territory>panama</current-territory>
+    <latitude>8.4279960368</latitude>
+    <longitude>-82.4309995027</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

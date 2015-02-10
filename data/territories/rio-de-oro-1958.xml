@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>rio-de-oro-1958</id>
+    <short-form-name>Rio de Oro</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until>1958</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>spanish-sahara-1976</successor>
+        <successor>western-sahara</successor>
+    </successors>
+    <notes>Dependent of Spain</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>matagorda</id>
+    <name>Matagorda</name>
+    <current-territory>texas</current-territory>
+    <latitude>28.691133</latitude>
+    <longitude>-95.968271</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

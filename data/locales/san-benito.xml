@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-benito</id>
+    <name>San Benito</name>
+    <current-territory>mexico</current-territory>
+    <latitude>26.136667</latitude>
+    <longitude>-97.635833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

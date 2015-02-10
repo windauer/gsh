@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>moroni</id>
+    <name>Moroni</name>
+    <current-territory>comoros</current-territory>
+    <latitude>-11.7000000364</latitude>
+    <longitude>43.2430026367</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

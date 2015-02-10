@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>trieste</locale>
+    <territory>austria</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1797</valid-since>
+    <valid-until>1918</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1797</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1918</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=trieste,%20austria</source>
+    </sources>
+    <notes>Became territory of Italy</notes>
+</post>

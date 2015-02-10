@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lusaka</locale>
+    <territory>zambia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1964</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1964</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/zambia</source>
+    </sources>
+    <notes/>
+</post>

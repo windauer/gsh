@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sarajevo</id>
+    <name>Sarajevo</name>
+    <current-territory>bosnia-and-herzegovina</current-territory>
+    <latitude>43.8699960552</latitude>
+    <longitude>18.4300024937</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

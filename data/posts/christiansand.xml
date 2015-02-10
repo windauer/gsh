@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>christiansand</locale>
+    <territory>norway</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1809</valid-since>
+    <valid-until>1919</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1809</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1919</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=christiansand,%20norway</source>
+    </sources>
+    <notes/>
+</post>

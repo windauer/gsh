@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>lambayeque</locale>
+    <territory>peru</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1859</valid-since>
+    <valid-until>1885</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1859</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1885</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=lambayeque,%20peru</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>bunker-island-TBD</id>
+    <short-form-name>Bunker Island</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1821</valid-since>
+    <valid-until/>
+    <exists-on-todays-map/>
+    <predecessors/>
+    <successors>
+        <successor>jarvis-island</successor>
+    </successors>
+    <notes>First discovered by the British</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/301486/Jarvis-Island</source>
+    </sources>
+</territory>

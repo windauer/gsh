@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>brest</locale>
+    <territory>france</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1797</valid-since>
+    <valid-until>1922</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1797</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1922</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=brest,%20france</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>czechoslovakia-1993</id>
+    <short-form-name>Czechoslovakia</short-form-name>
+    <long-form-name/>
+    <type-of-territory/>
+    <valid-since/>
+    <valid-until>1993</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>czech-republic</successor>
+        <successor>slovakia</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html</source>
+    </sources>
+</territory>

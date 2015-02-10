@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>abuja</id>
+    <name>Abuja</name>
+    <current-territory>nigeria</current-territory>
+    <latitude>9.0572670126</latitude>
+    <longitude>7.2563854704</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

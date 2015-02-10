@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>corfu</locale>
+    <territory>greece</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1861</valid-since>
+    <valid-until>1913</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1861</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1913</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=corfu,%20greece</source>
+    </sources>
+    <notes/>
+</post>

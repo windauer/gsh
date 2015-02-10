@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>thessaloniki</locale>
+    <territory>greece</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1840</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1840</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=saloniki,%20greece</source>
+    </sources>
+    <notes>Name changed in 1959</notes>
+</post>

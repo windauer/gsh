@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>baghdad</id>
+    <name>Baghdad</name>
+    <current-territory>iraq</current-territory>
+    <latitude>33.3340021334</latitude>
+    <longitude>44.3979996422</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

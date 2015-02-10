@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>cebu</id>
+    <name>Cebu</name>
+    <current-territory>philippines</current-territory>
+    <latitude>14.609616</latitude>
+    <longitude>121.008408</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

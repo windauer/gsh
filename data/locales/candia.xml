@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>candia</id>
+    <name>Candia</name>
+    <current-territory>turkey</current-territory>
+    <latitude>35.338735</latitude>
+    <longitude>25.144213</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

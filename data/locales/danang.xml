@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>danang</id>
+    <name>Danang</name>
+    <current-territory>vietnam</current-territory>
+    <latitude>16.051571</latitude>
+    <longitude>108.214897</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

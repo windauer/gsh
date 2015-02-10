@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>antung</id>
+    <name>Antung</name>
+    <current-territory>china</current-territory>
+    <latitude>36.566667</latitude>
+    <longitude>128.716667</longitude>
+    <predecessors>Andong</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

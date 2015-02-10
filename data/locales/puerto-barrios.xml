@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-barrios</id>
+    <name>Puerto Barrios</name>
+    <current-territory>guatemala</current-territory>
+    <latitude>15.7269960393</latitude>
+    <longitude>-88.5969985876</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>talcahuano</id>
+    <name>Talcahuano</name>
+    <current-territory>chile</current-territory>
+    <latitude>-36.723928</latitude>
+    <longitude>-73.113099</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

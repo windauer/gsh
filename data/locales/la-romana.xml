@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-romana</id>
+    <name>La Romana</name>
+    <current-territory>dominican-republic</current-territory>
+    <latitude>18.4259971216</latitude>
+    <longitude>-68.9679984651</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

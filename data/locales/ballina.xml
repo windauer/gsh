@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ballina</id>
+    <name>Ballina</name>
+    <current-territory>ireland</current-territory>
+    <latitude>54.114948</latitude>
+    <longitude>-9.155069</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

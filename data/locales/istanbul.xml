@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>istanbul</id>
+    <name>Istanbul</name>
+    <current-territory>turkey</current-territory>
+    <latitude>41.066001052</latitude>
+    <longitude>29.0060015937</longitude>
+    <predecessors>Constantinople</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

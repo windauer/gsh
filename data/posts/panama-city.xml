@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>panama-city</locale>
+    <territory>panama</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1947</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1947</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/panama</source>
+        <source>http://panama.usembassy.gov/about-us.html</source>
+    </sources>
+    <notes/>
+</post>

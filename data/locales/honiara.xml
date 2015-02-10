@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>honiara</id>
+    <name>Honiara</name>
+    <current-territory>solomon-islands</current-territory>
+    <latitude>-9.4338449634</latitude>
+    <longitude>159.951780755</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

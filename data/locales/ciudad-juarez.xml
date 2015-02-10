@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>ciudad-juarez</id>
+    <name>Ciudad Juarez</name>
+    <current-territory>mexico</current-territory>
+    <latitude>31.739444</latitude>
+    <longitude>-106.486944</longitude>
+    <predecessors>Paso Del Norte</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

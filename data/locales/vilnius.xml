@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>vilnius</id>
+    <name>Vilnius</name>
+    <current-territory>lithuania</current-territory>
+    <latitude>54.6885630887</latitude>
+    <longitude>25.2759605301</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

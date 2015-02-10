@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rio-bueno</id>
+    <name>Rio Bueno</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>18.479</latitude>
+    <longitude>-77.472</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>chad</id>
+    <short-form-name>Chad</short-form-name>
+    <long-form-name>Republic of Chad</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1960</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>french-equatorial-africa-1959</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cd.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/219052/French-Equatorial-Africa</source>
+    </sources>
+</territory>

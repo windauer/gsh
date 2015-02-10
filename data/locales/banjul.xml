@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>banjul</id>
+    <name>Banjul</name>
+    <current-territory>gambia</current-territory>
+    <latitude>13.4639550378</latitude>
+    <longitude>-16.5967914114</longitude>
+    <predecessors>Bathurst</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

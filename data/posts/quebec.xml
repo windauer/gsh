@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>quebec</locale>
+    <territory>canada</territory>
+    <post-type>consulate-general</post-type>
+    <valid-since>1861</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1861</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=quebec,%20quebec,%20canada</source>
+    </sources>
+    <notes>Vice Consul1864-;Consulate General 1964</notes>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lahore</id>
+    <name>Lahore</name>
+    <current-territory>pakistan</current-territory>
+    <latitude>31.545000161</latitude>
+    <longitude>74.3409996745</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

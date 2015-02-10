@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>baracoa</id>
+    <name>Baracoa</name>
+    <current-territory>cuba</current-territory>
+    <latitude>20.350771</latitude>
+    <longitude>-74.502449</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

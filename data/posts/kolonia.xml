@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>kolonia</locale>
+    <territory>micronesia-federated-states-of</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1989</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1989</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://kolonia.usembassy.gov/</source>
+    </sources>
+    <notes/>
+</post>

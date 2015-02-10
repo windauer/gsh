@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>boodroom</id>
+    <name>Boodroom</name>
+    <current-territory>turkey</current-territory>
+    <latitude>37.033333</latitude>
+    <longitude>27.433333</longitude>
+    <predecessors/>
+    <successors>Bodrum</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

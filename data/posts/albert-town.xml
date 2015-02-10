@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>albert-town</locale>
+    <territory>bahamas</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1883</valid-since>
+    <valid-until>1912</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1883</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1912</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=albert%20town,%20fortune%20island,%20bahamas</source>
+    </sources>
+    <notes>On Fortune Island, British held territory</notes>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>valparaiso</id>
+    <name>Valparaiso</name>
+    <current-territory>chile</current-territory>
+    <latitude>-33.0209999127</latitude>
+    <longitude>-71.5550035166</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

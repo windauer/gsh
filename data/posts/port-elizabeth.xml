@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>port-elizabeth</locale>
+    <territory>south-africa</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1928</valid-since>
+    <valid-until>1968</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1928</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1968</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=port%20elizabeth,%20cape%20province,%20union-republic%20of%20south%20africa</source>
+    </sources>
+    <notes/>
+</post>

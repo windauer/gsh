@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>johannesburg</id>
+    <name>Johannesburg</name>
+    <current-territory>south-africa</current-territory>
+    <latitude>-26.1789570543</latitude>
+    <longitude>28.0043106359</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

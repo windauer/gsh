@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>port-hope</id>
+    <name>Port Hope</name>
+    <current-territory>canada</current-territory>
+    <latitude>43.95</latitude>
+    <longitude>-78.3</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

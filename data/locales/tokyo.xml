@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tokyo</id>
+    <name>Tokyo</name>
+    <current-territory>japan</current-territory>
+    <latitude>35.6830021323</latitude>
+    <longitude>139.80900666</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

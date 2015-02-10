@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>switzerland</id>
+    <short-form-name>Switzerland</short-form-name>
+    <long-form-name>Swiss Confederation</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1291</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sz.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/577225/Switzerland/257010/History?anchor=ref423805</source>
+    </sources>
+</territory>

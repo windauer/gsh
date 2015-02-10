@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>upper-volta-1984</id>
+    <short-form-name>Upper Volta</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1960</valid-since>
+    <valid-until>1984</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>republic-of-upper-volta-1960</predecessor>
+        <predecessor>upper-volta-1932</predecessor>
+        <predecessor>upper-volta-1958</predecessor>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+    </predecessors>
+    <successors>
+        <successor>burkina-faso</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso/282547/Local-government#toc129474</source>
+    </sources>
+</territory>

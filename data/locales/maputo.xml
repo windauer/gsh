@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>maputo</id>
+    <name>Maputo</name>
+    <current-territory>mozambique</current-territory>
+    <latitude>-25.9620030125</latitude>
+    <longitude>32.5739975831</longitude>
+    <predecessors>Lourenco Marques(1975)</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

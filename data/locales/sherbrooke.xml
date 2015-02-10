@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sherbrooke</id>
+    <name>Sherbrooke</name>
+    <current-territory>canada</current-territory>
+    <latitude>45.4</latitude>
+    <longitude>-71.9</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

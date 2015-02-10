@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>puerto-la-cruz</locale>
+    <territory>venezuela</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1940</valid-since>
+    <valid-until>1970</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1940</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1970</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=puerto%20la%20cruz,%20venezuela</source>
+    </sources>
+    <notes/>
+</post>

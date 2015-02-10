@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>hawaiian-islands-1826</id>
+    <short-form-name>Hawaiian Islands</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until>1826</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>kingdom-of-hawaii-1898</successor>
+        <successor>hawaii</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://history.state.gov/countries/hawaii</source>
+    </sources>
+</territory>

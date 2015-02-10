@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>stanleyville</id>
+    <name>Stanleyville</name>
+    <current-territory>congo-kinshasa</current-territory>
+    <latitude>0.519285</latitude>
+    <longitude>25.19615</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

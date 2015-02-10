@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>zacatecas</id>
+    <name>Zacatecas</name>
+    <current-territory>mexico</current-territory>
+    <latitude>22.766667</latitude>
+    <longitude>-102.55</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

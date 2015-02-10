@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>paraiba</id>
+    <name>Paraiba</name>
+    <current-territory>brazil</current-territory>
+    <latitude>-7.239961</latitude>
+    <longitude>-36.78195</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

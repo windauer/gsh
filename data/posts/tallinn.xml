@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>tallinn</locale>
+    <territory>estonia</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1924</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1924</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/estonia</source>
+    </sources>
+    <notes>Raised to embassy in 1991 upon seperation from USSR</notes>
+</post>

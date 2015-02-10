@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>barrie</id>
+    <name>Barrie</name>
+    <current-territory>canada</current-territory>
+    <latitude>44.39</latitude>
+    <longitude>-79.686</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

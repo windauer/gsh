@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>harput</id>
+    <name>Harput</name>
+    <current-territory>turkey</current-territory>
+    <latitude>38.704167</latitude>
+    <longitude>39.268611</longitude>
+    <predecessors/>
+    <successors>Diarbekin</successors>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

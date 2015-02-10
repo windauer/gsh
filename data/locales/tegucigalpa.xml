@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tegucigalpa</id>
+    <name>Tegucigalpa</name>
+    <current-territory>honduras</current-territory>
+    <latitude>14.0990040409</latitude>
+    <longitude>-87.2029975046</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

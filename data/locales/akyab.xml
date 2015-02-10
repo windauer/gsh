@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>akyab</id>
+    <name>Akyab</name>
+    <current-territory>india</current-territory>
+    <latitude>20.144444</latitude>
+    <longitude>92.896944</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

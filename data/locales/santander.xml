@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santander</id>
+    <name>Santander</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.4626110307</latitude>
+    <longitude>-3.800537441</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

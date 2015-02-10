@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kuwait-city</id>
+    <name>Kuwait City</name>
+    <current-territory>kuwait</current-territory>
+    <latitude>29.369722</latitude>
+    <longitude>47.978333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

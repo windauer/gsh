@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>baku</id>
+    <name>Baku</name>
+    <current-territory>azerbaijan</current-territory>
+    <latitude>40.3239961538</latitude>
+    <longitude>49.8159995143</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

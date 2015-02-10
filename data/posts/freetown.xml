@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>freetown</locale>
+    <territory>sierra-leone</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1959</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1959</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=freetown,%20sierra%20leone,%20british%20west%20africa</source>
+    </sources>
+    <notes/>
+</post>

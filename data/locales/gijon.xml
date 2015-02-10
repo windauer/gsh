@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>gijon</id>
+    <name>Gijon</name>
+    <current-territory>spain</current-territory>
+    <latitude>43.532202</latitude>
+    <longitude>-5.66112</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

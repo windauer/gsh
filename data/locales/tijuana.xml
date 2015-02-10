@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tijuana</id>
+    <name>Tijuana</name>
+    <current-territory>mexico</current-territory>
+    <latitude>32.525</latitude>
+    <longitude>-117.033333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

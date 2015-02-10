@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>odense</id>
+    <name>Odense</name>
+    <current-territory>denmark</current-territory>
+    <latitude>55.3989960215</latitude>
+    <longitude>10.3920036037</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

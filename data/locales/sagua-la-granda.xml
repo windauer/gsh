@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sagua-la-granda</id>
+    <name>Sagua La Granda</name>
+    <current-territory>cuba</current-territory>
+    <latitude>22.808611</latitude>
+    <longitude>-80.071111</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

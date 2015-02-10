@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>cyprus-1960</id>
+    <short-form-name>Cyprus</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until>1960</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>akrotiri</successor>
+        <successor>dhekelia</successor>
+        <successor>cyprus</successor>
+    </successors>
+    <notes>British colony</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/148573/Cyprus</source>
+    </sources>
+</territory>

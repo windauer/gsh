@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>christmas-island</id>
+    <short-form-name>Christmas Island</short-form-name>
+    <long-form-name>Territory of Christmas Island</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1643</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Non-self governing territory of Australia; Annexed by Great Britain in 1888; Became
+            Australian territory in 1958</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/115721/Christmas-Island</source>
+    </sources>
+</territory>

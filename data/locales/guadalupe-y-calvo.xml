@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>guadalupe-y-calvo</id>
+    <name>Guadalupe Y Calvo</name>
+    <current-territory>mexico</current-territory>
+    <latitude>26.095</latitude>
+    <longitude>-106.964444</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

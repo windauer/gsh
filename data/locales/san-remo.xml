@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>san-remo</id>
+    <name>San Remo</name>
+    <current-territory>italy</current-territory>
+    <latitude>43.815967</latitude>
+    <longitude>7.776057</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>dar-es-salaam</locale>
+    <territory>tanzania</territory>
+    <post-type>embassy</post-type>
+    <valid-since>1961</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1961</date>
+        </event>
+    </events>
+    <sources>
+        <source>http://history.state.gov/countries/tanzania</source>
+    </sources>
+    <notes/>
+</post>

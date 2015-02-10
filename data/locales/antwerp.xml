@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>antwerp</id>
+    <name>Antwerp</name>
+    <current-territory>belgium</current-territory>
+    <latitude>51.219448</latitude>
+    <longitude>4.402464</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

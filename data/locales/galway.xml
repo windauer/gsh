@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>galway</id>
+    <name>Galway</name>
+    <current-territory>ireland</current-territory>
+    <latitude>53.2710001114</latitude>
+    <longitude>-9.0649974369</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

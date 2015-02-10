@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>nagoya</locale>
+    <territory>japan</territory>
+    <post-type>consulate</post-type>
+    <valid-since>1918</valid-since>
+    <valid-until>9999</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1918</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=nagoya,%20japan</source>
+    </sources>
+    <notes>Closed in 1970 reopened in 1994</notes>
+</post>

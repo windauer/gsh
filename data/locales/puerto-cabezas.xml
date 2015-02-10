@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puerto-cabezas</id>
+    <name>Puerto Cabezas</name>
+    <current-territory>nicaragua</current-territory>
+    <latitude>14.0306</latitude>
+    <longitude>-83.381511</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

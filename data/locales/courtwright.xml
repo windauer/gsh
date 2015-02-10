@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>courtwright</id>
+    <name>Courtwright</name>
+    <current-territory>canada</current-territory>
+    <latitude>42.8125</latitude>
+    <longitude>-82.282778</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

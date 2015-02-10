@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>london</id>
+    <name>London</name>
+    <current-territory>united-kingdom</current-territory>
+    <latitude>51.507222</latitude>
+    <longitude>-0.1275</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

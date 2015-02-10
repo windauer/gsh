@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>salaverry</locale>
+    <territory>peru</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1900</valid-since>
+    <valid-until>1958</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1900</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1958</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=salaverry,%20peru</source>
+    </sources>
+    <notes/>
+</post>

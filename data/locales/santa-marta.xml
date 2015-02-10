@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>santa-marta</id>
+    <name>Santa Marta</name>
+    <current-territory>colombia</current-territory>
+    <latitude>11.2500001302</latitude>
+    <longitude>-74.1809965182</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

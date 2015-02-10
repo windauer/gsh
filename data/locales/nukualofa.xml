@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nukualofa</id>
+    <name>Nukualofa</name>
+    <current-territory>tonga</current-territory>
+    <latitude>-21.133333</latitude>
+    <longitude>-175.2</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

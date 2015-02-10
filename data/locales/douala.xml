@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>douala</id>
+    <name>Douala</name>
+    <current-territory>cameroon</current-territory>
+    <latitude>4.1366521079</latitude>
+    <longitude>9.7063745201</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>copalquin</locale>
+    <territory>mexico</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1885</valid-since>
+    <valid-until>1886</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1885</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1886</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=copalquin,%20mexico</source>
+    </sources>
+    <notes/>
+</post>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>latakia</id>
+    <name>Latakia</name>
+    <current-territory>syria</current-territory>
+    <latitude>35.52145</latitude>
+    <longitude>35.7924</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

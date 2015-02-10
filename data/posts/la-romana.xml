@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<post>
+    <locale>la-romana</locale>
+    <territory>dominican-republic</territory>
+    <post-type>consular-agency</post-type>
+    <valid-since>1914</valid-since>
+    <valid-until>1970</valid-until>
+    <events>
+        <event>
+            <type>opened</type>
+            <date>1914</date>
+        </event>
+        <event>
+            <type>closed</type>
+            <date>1970</date>
+        </event>
+    </events>
+    <sources>
+        <source>https://history.state.gov/cms/apps/consular-cards/views/view-label?label=la%20romana,%20dominican%20republic</source>
+    </sources>
+    <notes/>
+</post>

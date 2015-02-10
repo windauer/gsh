@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>wake-island</id>
+    <short-form-name>Wake Island</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1796</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Unorganized, unincorporated territory of the United States, annexed in 1899; sighted
+            by the Spanish in 1568; rediscovered by the British in 1796</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/634271/Wake-Island</source>
+    </sources>
+</territory>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>rhenish</id>
+    <name>Rhenish</name>
+    <current-territory>germany</current-territory>
+    <latitude>49.433333</latitude>
+    <longitude>7.766667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

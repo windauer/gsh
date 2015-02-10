@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>zurich</id>
+    <name>Zurich</name>
+    <current-territory>switzerland</current-territory>
+    <latitude>47.4010021442</latitude>
+    <longitude>8.5339985861</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

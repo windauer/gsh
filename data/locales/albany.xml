@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>albany</id>
+    <name>Albany</name>
+    <current-territory>australia</current-territory>
+    <latitude>-35.022778</latitude>
+    <longitude>117.881389</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>aguas-calientes</id>
+    <name>Aguas Calientes</name>
+    <current-territory>mexico</current-territory>
+    <latitude>32.50944</latitude>
+    <longitude>-116.993056</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

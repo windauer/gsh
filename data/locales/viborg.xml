@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>viborg</id>
+    <name>Viborg</name>
+    <current-territory>finland</current-territory>
+    <latitude>56.4530041418</latitude>
+    <longitude>9.4169975478</longitude>
+    <predecessors>Wiborg</predecessors>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

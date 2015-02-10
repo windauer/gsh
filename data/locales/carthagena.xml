@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>carthagena</id>
+    <name>Carthagena</name>
+    <current-territory>spain</current-territory>
+    <latitude>37.599493</latitude>
+    <longitude>-0.98414</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

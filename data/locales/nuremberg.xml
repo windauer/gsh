@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nuremberg</id>
+    <name>Nuremberg</name>
+    <current-territory>germany</current-territory>
+    <latitude>49.45203</latitude>
+    <longitude>11.07675</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

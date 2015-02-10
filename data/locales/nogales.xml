@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>nogales</id>
+    <name>Nogales</name>
+    <current-territory>mexico</current-territory>
+    <latitude>31.318611</latitude>
+    <longitude>-110.945833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

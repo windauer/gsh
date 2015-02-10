@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>tacna</id>
+    <name>Tacna</name>
+    <current-territory>chile</current-territory>
+    <latitude>-18.0179999994</latitude>
+    <longitude>-70.251002542</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

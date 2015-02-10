@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>curacao-and-dependencies-TBD</id>
+    <short-form-name>Curacao and Dependencies</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since/>
+    <valid-until/>
+    <exists-on-todays-map/>
+    <predecessors/>
+    <successors>
+        <successor>netherlands-antilles-2010</successor>
+        <successor>sint-maarten</successor>
+        <successor>curacao</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
+    </sources>
+</territory>

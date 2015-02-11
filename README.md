@@ -25,4 +25,4 @@ To edit the data (assumes oXygen)
 
 To automate build and deploy procedure (to eliminate the Dashboard step above)
 - Edit build properties with eXist URI, dba username, password
-- Eun `ant install`
+- Run `ant install`

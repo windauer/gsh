@@ -19,6 +19,10 @@ declare function gsh:territory-type-id-to-label($type-id) {
 };
 
 declare function gsh:territory-id-to-short-name($territory-id) {
+    $gsh:territories[id = $territory-id]/short-form-name
+};
+
+declare function gsh:territory-id-to-short-name-with-years-valid($territory-id) {
     let $territory := $gsh:territories[id = $territory-id]
     return
         concat(
@@ -146,14 +150,14 @@ declare function gsh:territories-to-table($territories) {
                                                 element li { 
                                                     element a { 
                                                         attribute href { concat('#', $predecessor) }, 
-                                                        gsh:territory-id-to-short-name($predecessor) 
+                                                        gsh:territory-id-to-short-name-with-years-valid($predecessor) 
                                                         }
                                                 }
                                         }</ol>
                                     else
                                         element a { 
                                             attribute href { concat('#', $predecessors) }, 
-                                            gsh:territory-id-to-short-name($predecessors) 
+                                            gsh:territory-id-to-short-name-with-years-valid($predecessors) 
                                             }
                                 else ()
                             )
@@ -173,14 +177,14 @@ declare function gsh:territories-to-table($territories) {
                                                 element li { 
                                                     element a { 
                                                         attribute href { concat('#', $successor) }, 
-                                                        gsh:territory-id-to-short-name($successor) 
+                                                        gsh:territory-id-to-short-name-with-years-valid($successor) 
                                                         }
                                                 }
                                         }</ol>
                                     else
                                         element a { 
                                             attribute href { concat('#', $successors) }, 
-                                            gsh:territory-id-to-short-name($successors) 
+                                            gsh:territory-id-to-short-name-with-years-valid($successors) 
                                             }
                                 else ()
                             )

@@ -36,8 +36,10 @@
     <!-- =================================================================== -->
     
     <target name="xar">
+        <property name="xar-path">${build.dir}/${project.name}-${project.version}.xar</property>
+        <delete failonerror="false" dir="${build.dir}"/>
         <mkdir dir="${build.dir}"/>
-        <zip basedir="." destfile="${build.dir}/${project.name}-${project.version}.xar"/>
+        <zip basedir="." destfile="${xar-path}"/>
     </target>
     
     <target name="clean">

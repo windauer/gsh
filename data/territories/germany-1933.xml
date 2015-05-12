@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>germany</id>
+    <id>germany-1933</id>
     <short-form-name>Germany</short-form-name>
     <long-form-name>Weimar Republic of Germany</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
@@ -10,7 +10,7 @@
     <predecessors>
         <predecessor>prussia-1871</predecessor>
         <predecessor>prussia-1918</predecessor>
-        </predecessors>
+    </predecessors>
     <successors>
         <successor>germany-1945</successor>
         <successor>germany-1949</successor>

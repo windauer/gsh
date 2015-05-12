@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>curacao</id>
+    <id>curacao-1807</id>
     <short-form-name>Curaçao</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
@@ -13,7 +13,7 @@
     <successors>
         <successor>curacao-and-dependencies-1954</successor>
         <successor>netherlands-antilles-2010</successor>
-        <successor>sint-marteen</successor>
+        <successor>sint-maarten</successor>
         <successor>curacao</successor>
     </successors>
     <notes>Changed owners several times but never name until the Dutch retook the island in 1807.</notes>

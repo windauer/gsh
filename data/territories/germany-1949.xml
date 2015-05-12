@@ -3,7 +3,7 @@
     <id>germany-1949</id>
     <short-form-name>Germany</short-form-name>
     <long-form-name/>
-    <type-of-territory>dependency-or-area-of-special=sovereignty</type-of-territory>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1945</valid-since>
     <valid-until>1949</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>

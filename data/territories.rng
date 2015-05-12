@@ -28,6 +28,11 @@
                     <group>
                         <optional>
                             <attribute name="certainty">
+                                <data type="string"/>
+                            </attribute>
+                        </optional>
+                        <optional>
+                            <attribute name="precision">
                                 <data type="integer"/>
                             </attribute>
                         </optional>

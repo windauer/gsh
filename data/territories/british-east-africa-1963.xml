@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>british-east-africa-TBD</id>
+    <id>british-east-africa-1963</id>
     <short-form-name>British East Africa</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1888</valid-since>
     <valid-until>1963</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>muscat-and-oman-1970</predecessors>
+    <predecessors>
+        <predecessor>muscat-and-oman-1970</predecessor>
+    </predecessors>
     <successors>
         <successor>kenya</successor>
         <successor>uganda</successor>

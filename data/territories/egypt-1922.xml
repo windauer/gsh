@@ -11,9 +11,9 @@
         <predecessor>ottoman-empire-1922</predecessor>
     </predecessors>
     <successors>
-        <predecessor>united-arab-republic-1971</predecessor>
-        <predecessor>egypt-1958</predecessor>
-        <predecessor>egypt</predecessor>
+        <successor>united-arab-republic-1971</successor>
+        <successor>egypt-1958</successor>
+        <successor>egypt</successor>
     </successors>
     <notes>Britain invaded Egypt in 1882 and established a protectorate.</notes>
     <sources>

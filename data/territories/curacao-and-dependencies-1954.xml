@@ -6,7 +6,7 @@
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1807</valid-since>
     <valid-until>1954</valid-until>
-    <exists-on-todays-map/>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>curacao-1807</predecessor>
     </predecessors>

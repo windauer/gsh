@@ -6,7 +6,7 @@
     <type-of-territory/>
     <valid-since>1967</valid-since>
     <valid-until>1977</valid-until>
-    <exists-on-todays-map/>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>french-somaliland-1967</predecessor>
     </predecessors>

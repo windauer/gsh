@@ -6,7 +6,7 @@
     <type-of-territory/>
     <valid-since/>
     <valid-until/>
-    <exists-on-todays-map/>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
         <successor>nauru</successor>

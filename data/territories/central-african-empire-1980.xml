@@ -6,8 +6,10 @@
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1977</valid-since>
     <valid-until>1980</valid-until>
-    <exists-on-todays-map/>
-    <predecessors>central-african-republic-1977</predecessors>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>central-african-republic-1977</predecessor>
+    </predecessors>
     <successors>
         <successor>central-african-republic</successor>
     </successors>

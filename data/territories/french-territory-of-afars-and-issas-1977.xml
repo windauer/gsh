@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>french-territory-of-afars-and-issas-1967</id>
+    <short-form-name>French Territory of the Afars and Issas</short-form-name>
+    <long-form-name/>
+    <type-of-territory/>
+    <valid-since>1967</valid-since>
+    <valid-until>1977</valid-until>
+    <exists-on-todays-map/>
+    <predecessors>
+        <predecessor>french-somaliland-1967</predecessor>
+    </predecessors>
+    <successors>
+        <successor>djibouti</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/dj.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-1247?rskey=RiI7mO&result=2</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/166928/Djibouti</source>
+    </sources>
+</territory>

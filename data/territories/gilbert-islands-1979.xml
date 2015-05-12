@@ -4,15 +4,19 @@
     <short-form-name>Gilbert Islands</short-form-name>
     <long-form-name/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1820</valid-since>
     <valid-until>1979</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>gilbert-and-ellice-islands-1975</predecessor>
+    </predecessors>
     <successors>
         <successor>kiribati</successor>
     </successors>
-    <notes/>
+    <notes>multiple successors; combined with Ellice Islands (tuvalu) and others to create Gilbert and Ellice Islands, later separated again</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-3673?rskey=gwZUeS</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/233571/Gilbert-Islands</source>
     </sources>
 </territory>

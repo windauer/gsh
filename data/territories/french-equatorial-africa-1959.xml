@@ -8,7 +8,11 @@
     <valid-until>1959</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>bornu-empire-1904</predecessor>
         <predecessor>french-congo-1910</predecessor>
+        <predecessor>gabon-1897</predecessor>
+        <predecessor>middle-congo-1960</predecessor>
+        <predecessor>ubangi-shari-chad-1910</predecessor>
     </predecessors>
     <successors>
         <successor>chad</successor>

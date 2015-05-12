@@ -7,13 +7,19 @@
     <valid-since>1897</valid-since>
     <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>gabon-1897</predecessor>
+        <predecessor>middle-congo-1960</predecessor>
+        <predecessor>ubangi-shari-chad-1910</predecessor>
+    </predecessors>
     <successors>
         <successor>french-equatorial-africa-1959</successor>
+        <successor>chad</successor>
         <successor>congo-brazzaville</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/219037/French-Congo</source>
+        
     </sources>
 </territory>

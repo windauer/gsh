@@ -3,19 +3,21 @@
     <id>french-sudan-1960</id>
     <short-form-name>French Sudan</short-form-name>
     <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1891</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>upper-senegal-niger-1920</predecessor>
     </predecessors>
     <successors>
-        <successor>mali</successor>
         <successor>federation-of-mali-1960</successor>
+        <successor>mali</successor>
     </successors>
     <notes/>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/360071/Mali</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2491?rskey=f0dAyu&result=1</source>
     </sources>
 </territory>

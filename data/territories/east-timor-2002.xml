@@ -2,8 +2,8 @@
 <territory>
     <id>east-timor-2002</id>
     <short-form-name>East Timor</short-form-name>
-    <long-form-name/>
-    <type-of-territory/>
+    <long-form-name>Timor Timur</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1975</valid-since>
     <valid-until>2002</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
@@ -16,5 +16,6 @@
     <notes>Independent from 1975-1976; from 1976-2002 incorporated into Indonesia</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/596313/East-Timor</source>
     </sources>
 </territory>

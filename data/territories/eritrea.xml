@@ -9,6 +9,9 @@
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>eritrea-autonomous-region-in-ethiopia-1993</predecessor>
+        <predecessor>eritrea-1936</predecessor>
+        <predecessor>abyssinia</predecessor>
+        <predecessor>italian-east-africa-1941</predecessor>
     </predecessors>
     <successors/>
     <notes/>

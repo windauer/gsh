@@ -7,11 +7,15 @@
     <valid-since>1917</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>sweden</predecessor>
+        <predecessor>russian-empire-1917</predecessor>
+    </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1919</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fi.html</source>
         <source>http://history.state.gov/countries/finland</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/207424/Finland</source>
     </sources>
 </territory>

@@ -3,15 +3,15 @@
     <id>dutch-east-indies-TBD</id>
     <short-form-name>Dutch East Indies</short-form-name>
     <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
-    <valid-until/>
-    <exists-on-todays-map/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1684</valid-since>
+    <valid-until>1945</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
         <successor>indonesia</successor>
     </successors>
-    <notes/>
+    <notes>Synonymous with Netherlands East Indies.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/id.html</source>
     </sources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>east-pakistan-1971</id>
+    <short-form-name>East Pakistan</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1955</valid-since>
+    <valid-until>1971</valid-until>
+    <exists-on-todays-map/>
+    <predecessors>
+        <predecessor>india</predecessor>
+        <predecessor>east-bengal-1955</predecessor>
+    </predecessors>
+    <successors>
+        <successor>bangladesh</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/51736/Bangladesh</source>
+    </sources>
+</territory>

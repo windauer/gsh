@@ -8,11 +8,20 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
+        <predecessor>prussia-1871</predecessor>
+        <predecessor>prussia-1918</predecessor>
+        <predecessor>germany-1933</predecessor>
+        <predecessor>germany-1945</predecessor>
+        <predecessor>germany-1949</predecessor>
+        <predecessor>west-germany-1990</predecessor>
         <predecessor>east-germany-1990</predecessor>
+        
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/de.hi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/231186/Germany</source>
     </sources>
 </territory>

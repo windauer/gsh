@@ -4,7 +4,7 @@
     <short-form-name>Clipperton Island</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1704</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
@@ -14,5 +14,6 @@
     <notes>Possession of France</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/121880/Clipperton-Island</source>
+        <source>http://babel.hathitrust.org/cgi/pt?id=mdp.39015024808456</source>
     </sources>
 </territory>

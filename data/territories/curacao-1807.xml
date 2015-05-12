@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>curacao</id>
+    <short-form-name>Curaçao</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>2010</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor></predecessor>
+        <predecessor></predecessor>
+        
+    </predecessors>
+    <successors>
+        <successor>curacao-and-dependencies-1954</successor>
+        <successor>netherlands-antilles-2010</successor>
+        <successor>sint-marteen</successor>
+        <successor>curacao</successor>
+    <notes>Changed owners several times but never name until the Dutch retook the island in 1807.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cc.html</source>
+    </sources>
+</territory>

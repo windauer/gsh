@@ -4,10 +4,13 @@
     <short-form-name>Czechoslovakia</short-form-name>
     <long-form-name/>
     <type-of-territory/>
-    <valid-since/>
+    <valid-since>1918</valid-since>
     <valid-until>1993</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>austria-hungary-1918</predecessor>
+        <predecessor>austrian-empire-1867</predecessor>
+    </predecessors>
     <successors>
         <successor>czech-republic</successor>
         <successor>slovakia</successor>

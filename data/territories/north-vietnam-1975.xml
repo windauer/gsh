@@ -8,7 +8,11 @@
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>french-indochina-1950</predecessor>
+        <predecessor>dai-viet-1802</predecessor>
+        <predecessor>vietnam-1862</predecessor>
+        <predecessor>cochinchina-1887</predecessor>
+        <predecessor>indochina-1950</predecessor>
+        <predecessor>state-of-vietnam-1955</predecessor>
     </predecessors>
     <successors>
         <successor>vietnam</successor>

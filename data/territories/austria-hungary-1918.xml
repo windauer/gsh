@@ -12,9 +12,12 @@
         <predecessor>habsburg-empire-1804</predecessor>
     </predecessors>
     <successors>
+        <successor>czechoslovakia-1993</successor>
         <successor>austria</successor>
         <successor>hungary</successor>
         <successor>croatia</successor>
+        <successor>czech-republic</successor>
+        <successor>slovakia</successor>
     </successors>
     <notes/>
     <sources>

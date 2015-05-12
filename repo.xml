@@ -17,5 +17,10 @@
                 <li>Initial version</li>
             </ul>
         </change>
+        <change version="0.2.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Major update to territories data</li>
+            </ul>
+        </change>
     </changelog>
 </meta>

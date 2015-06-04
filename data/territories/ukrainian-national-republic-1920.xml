@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ukrainian-national-republic-1920</id>
+    <short-form-name>Ukrainian National Republic</short-form-name>
+    <long-form-name>Ukrainian National Republic</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1920</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>ukrainian-state-1709</predecessor>
+        <predecessor>polish-lithuanian-commonwealth-1795</predecessor>
+        <predecessor>russian-empire-1917</predecessor>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <predecessor>habsburg-empire-1804</predecessor>
+        <predecessor>austrian-empire-1867</predecessor>
+        <predecessor>austria-hungary-1918</predecessor>
+    </predecessors>
+    <successors>
+        <successor>ukraine-1922</successor>
+        <successor>soviet-union-1991</successor>
+        <successor>ukraine</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/up.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/612921/Ukraine</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.chron?authstatuscode=202</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.hist?authstatuscode=202</source>
+    </sources>
+</territory>

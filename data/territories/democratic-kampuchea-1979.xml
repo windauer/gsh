@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>democratic-kampuchea-1979</id>
+    <short-form-name>Democratic Kampuchea</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1976</valid-since>
+    <valid-until>1979</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>indochina-1950</predecessor>
+        <predecessor>cambodia</predecessor>
+        <predecessor>khmer-republic-1970</predecessor>
+    </predecessors>
+    <successors>
+        <successor>state-of-cambodia-1993</successor>
+        <successor>cambodia</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
+    </sources>
+</territory>

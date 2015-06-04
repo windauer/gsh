@@ -8,7 +8,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>somers-islands-TBD</predecessor>
+        <predecessor>somers-islands-1901</predecessor>
     </predecessors>
     <successors/>
     <notes/>

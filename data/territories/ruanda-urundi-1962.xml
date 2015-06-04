@@ -7,13 +7,20 @@
     <valid-since>1922</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>german-east-africa-1920</predecessor>
+        <predecessor>ruanda-1922</predecessor>
+    </predecessors>
     <successors>
         <successor>rwanda</successor>
         <successor>burundi</successor>
     </successors>
-    <notes/>
+    <notes>Multiple successors.  Belgian colony.  Name is also concurrent with territorial name during this territory's integration into German East Africa, 1884-1920.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/511771/Ruanda-Urundi</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/514402/Rwanda</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/511771/Ruanda-Urundi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/230748/German-East-Africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3414</source>
     </sources>
 </territory>

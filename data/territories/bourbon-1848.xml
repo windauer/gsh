@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>bourbon-1848</id>
+    <short-form-name>Bourbon</short-form-name>
+    <long-form-name>Ile Bourbon</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1815</valid-since>
+    <valid-until>1848</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>reunion-1815</predecessor>
+    </predecessors>
+    <successors>
+        <successor>reunion</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/re.hi</source>
+        <source>http://books.google.com/books?id=-NmhAAAAMAAJ</source>
+    </sources>
+</territory>

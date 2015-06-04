@@ -7,7 +7,9 @@
     <valid-since>1975</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>cape-verde-1975</predecessor>
+    </predecessors>
     <successors/>
     <notes/>
     <sources>

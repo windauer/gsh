@@ -4,13 +4,16 @@
     <short-form-name>Svalbard</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1925</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>spitsbergen-1925</predecessor>
+    </predecessors>
     <successors/>
     <notes>Dependent of Norway; rediscovered in 1596</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/575921/Svalbard</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sj.hi</source>
     </sources>
 </territory>

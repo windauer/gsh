@@ -3,11 +3,17 @@
     <id>west-germany-1990</id>
     <short-form-name>West Germany</short-form-name>
     <long-form-name>Federal Republic of Germany</long-form-name>
-    <type-of-territory/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1949</valid-since>
     <valid-until>1990</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>prussia-1871</predecessor>
+        <predecessor>prussia-1918</predecessor>
+        <predecessor>germany-1933</predecessor>
+        <predecessor>germany-1945</predecessor>
+        <predecessor>germany-1949</predecessor>
+    </predecessors>
     <successors>
         <successor>germany</successor>
     </successors>

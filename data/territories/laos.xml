@@ -4,11 +4,17 @@
     <short-form-name>Laos</short-form-name>
     <long-form-name>Lao People’s Democratic Republic</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since>1950</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>french-indochina-1950</predecessor>
+        <predecessor>lan-xang-1707</predecessor>
+        <predecessor>luang-1752</predecessor>
+        <predecessor>champasak-1778</predecessor>
+        <predecessor>vietenne-1782</predecessor>
+        <predecessor>alaungpaya-dynasty-1885</predecessor>
+        <predecessor>siam-1939</predecessor>
+        <predecessor>indochina-1950</predecessor>
     </predecessors>
     <successors/>
     <notes>Gained independence in 1949</notes>

@@ -2,9 +2,9 @@
 <territory>
     <id>new-hebrides-1980</id>
     <short-form-name>New Hebrides</short-form-name>
-    <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1774</valid-since>
     <valid-until>1980</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -14,5 +14,6 @@
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nh.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/623102/Vanuatu</source>
     </sources>
 </territory>

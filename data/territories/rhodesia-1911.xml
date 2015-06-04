@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>rhodesia-1911</id>
+    <short-form-name>Rhodesia</short-form-name>
+    <long-form-name>Rhodesia Protectorate</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1895</valid-since>
+    <valid-until>1911</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>southern-rhodesia-1964</predecessor>
+        <predecessor>north-western-rhodesia-1911</predecessor>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <predecessor>northern-rhodesia-1964</predecessor>
+        <predecessor>zambia</predecessor>
+        <predecessor>rhodesia-1979</predecessor>
+        <predecessor>zimbabwe-rhodesia-1980</predecessor>
+        <predecessor>zimbabwe</predecessor>
+    </predecessors>
+    <successors>
+        <successor>zimbabwe-rhodesia-1980</successor>
+        <successor>zimbabwe</successor>
+    </successors>
+    <notes>British Protectorate.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/657149/Zimbabwe</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-6278</source>
+    </sources>
+</territory>

@@ -8,7 +8,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>samarang-TBD</predecessor>
+        <predecessor>samarang-1802</predecessor>
     </predecessors>
     <successors/>
     <notes>Incorporated territory of the United States; Annexed by the Kingdom of Hawaii in
@@ -16,5 +16,6 @@
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
         <source>http://www.britannica.com/EBchecked/topic/440275/Palmyra-Atoll</source>
+        <source>http://books.google.com/books?id=ChyilRml0hcC</source>
     </sources>
 </territory>

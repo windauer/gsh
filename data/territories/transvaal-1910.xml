@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>transvaal-1910</id>
+    <short-form-name>Transvaal</short-form-name>
+    <long-form-name>South African Republic</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1854</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>cape-colony-1910</predecessor>
+    </predecessors>
+    <successors>
+        <successor>union-of-south-africa-1961</successor>
+        <successor>south-africa</successor>
+    </successors>
+    <notes>Some independence at first, but mostly came under British Authority.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3866</source>
+    </sources>
+</territory>

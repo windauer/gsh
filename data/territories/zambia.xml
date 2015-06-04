@@ -8,6 +8,8 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <predecessor>north-western-rhodesia-1911</predecessor>
         <predecessor>northern-rhodesia-1964</predecessor>
     </predecessors>
     <successors/>

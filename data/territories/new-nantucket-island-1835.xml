@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>new-nantucket-island-1835</id>
+    <short-form-name>New Nantucket Island</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1826</valid-since>
+    <valid-until>1835</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>baker-island</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/49531/Baker-Island</source>
+        <source>http://babel.hathitrust.org/cgi/pt?id=mdp.39015024808456</source>
+    </sources>
+</territory>

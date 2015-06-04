@@ -7,9 +7,11 @@
     <valid-since>1965</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>maldives-1965</predecessor>
+    </predecessors>
     <successors/>
-    <notes/>
+    <notes>A previous Republic of the Maldives existed for one year prior to reinstatement of the sultanante by British authorities, and its rule over the island does not have a definitive strength and thus remains tenuous.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html</source>
     </sources>

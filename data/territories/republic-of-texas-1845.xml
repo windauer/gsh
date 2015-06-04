@@ -7,12 +7,15 @@
     <valid-since>1836</valid-since>
     <valid-until>1845</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>mexico</predecessor>
+    </predecessors>
     <successors>
-        <successor>texas</successor>
+        <successor>united-states</successor>
     </successors>
     <notes>U.S. recognized independence in 1837</notes>
     <sources>
         <source>http://history.state.gov/countries/texas</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/589288/Texas</source>
     </sources>
 </territory>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>philippines-1946</id>
+    <short-form-name>Philippines</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1565</valid-since>
+    <valid-until>1946</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>philippines</successor>
+    </successors>
+    <notes>From U.S. in 1946; From Spain in 1898</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/456399/Philippines</source>
+    </sources>
+</territory>

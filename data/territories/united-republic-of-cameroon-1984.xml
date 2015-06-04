@@ -8,6 +8,7 @@
     <valid-until>1984</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>bornu-empire-1904</predecessor>
         <predecessor>federal-republic-of-cameroon-1972</predecessor>
         <predecessor>cameroon-1961</predecessor>
         <predecessor>british-cameroons-1961</predecessor>

@@ -3,16 +3,21 @@
     <id>quito-1830</id>
     <short-form-name>Quito</short-form-name>
     <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1822</valid-since>
     <valid-until>1830</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>gran-colombia-1830</predecessor>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+    </predecessors>
     <successors>
         <successor>ecuador</successor>
     </successors>
-    <notes/>
+    <notes>Quito was the name of the territory throughout its Spanish occupation - it retained the name as a part of the Gran Colombia confederation, and chose to change its name upon seceding from the confederation.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ec.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/178721/Ecuador</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ec.hi?authstatuscode=202</source>
     </sources>
 </territory>

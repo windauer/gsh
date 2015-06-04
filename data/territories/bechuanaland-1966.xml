@@ -7,7 +7,9 @@
     <valid-since>1885</valid-since>
     <valid-until>1966</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>tswana-states-1885</predecessors>
+    <predecessors>
+        <predecessor>tswana-states-1885</predecessor>
+    </predecessors>
     <successors>
         <successor>botswana</successor>
     </successors>

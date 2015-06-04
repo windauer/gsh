@@ -4,13 +4,13 @@
     <short-form-name>Spratly Islands</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1843</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors/>
     <successors/>
     <notes/>
     <sources>
-        <source/>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7040</source>
     </sources>
 </territory>

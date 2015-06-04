@@ -7,7 +7,9 @@
     <valid-since>1978</valid-since>
     <valid-until>1987</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>durrani-empire-1978</predecessor>
+    </predecessors>
     <successors>
         <successor>republic-of-afghanistan-1992</successor>
         <successor>afghanistan</successor>

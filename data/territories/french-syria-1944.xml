@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>french-syria-1944</id>
+    <short-form-name>French Syria</short-form-name>
+    <long-form-name>Syrian Republic</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1944</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>ottoman-empire-1922</predecessor>
+    </predecessors>
+    <successors>
+        <successor>syria-1958</successor>
+        <successor>united-arab-republic-1971</successor>
+        <successor>syria</successor>
+    </successors>
+    <notes>From 1958-1961 united with Egypt to form United Arab Republic</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</source>
+        <source>http://history.state.gov/countries/syria</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sy.hi</source>
+    </sources>
+</territory>

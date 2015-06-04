@@ -7,10 +7,13 @@
     <valid-since>1946</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>philippines-1946</predecessor>
+    </predecessors>
     <successors/>
-    <notes>From U.S. in 1946; From Spain in 1898</notes>
+    <notes>Spanish Colony transferred to the United States in 1898.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/456399/Philippines</source>
     </sources>
 </territory>

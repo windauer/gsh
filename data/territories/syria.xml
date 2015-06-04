@@ -8,13 +8,16 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <predecessor>french-syria-1944</predecessor>
         <predecessor>united-arab-republic-1971</predecessor>
         <predecessor>syria-1958</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Multiple predeccessors</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</source>
         <source>http://history.state.gov/countries/syria</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sy.hi</source>
     </sources>
 </territory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>marshall-islands-district-1986</id>
+    <short-form-name>Marshall Islands District</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1947</valid-since>
+    <valid-until>1986</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>germany-1933</predecessor>
+        <predecessor>japan</predecessor>
+    </predecessors>
+    <successors>
+        <successor>marshall-islands</successor>
+    </successors>
+    <notes>Part of the Trust Territory of the Pacific Islands</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/366624/Marshall-Islands</source>
+    </sources>
+</territory>

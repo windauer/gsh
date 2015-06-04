@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>sakalava-1817</id>
+    <short-form-name>Sakalava</short-form-name>
+    <long-form-name>Sakalava Empire</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1500</valid-since>
+    <valid-until>1817</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>madagascar-1895</successor>
+        <successor>madagascar-1958</successor>
+        <successor>malagasy-republic-1976</successor>
+        <successor>madagascar-1992</successor>
+        <successor>madagascar</successor>
+    </successors>
+    <notes>Fuzzy date of founding - 16th century is the commonly agreed upon time period of founding.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html</source>
+        <source>https://history.state.gov/countries/madagascar</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3433#</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2623</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/355562/Madagascar</source>
+    </sources>
+</territory>

@@ -10,7 +10,7 @@
     <predecessors/>
     <successors>
         <successor>vietnam-1862</successor>
-        <successor>french-cochinchina-1887</successor>
+        <successor>cochinchina-1887</successor>
         <successor>indochina-1950</successor>
         <successor>state-of-vietnam-1955</successor>
         <successor>north-vietnam-1975</successor>

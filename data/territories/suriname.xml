@@ -8,7 +8,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>netherlands-guiana-TBD</predecessor>
+        <predecessor>netherlands-guiana-1975</predecessor>
         <predecessor>dutch-guiana-1975</predecessor>
     </predecessors>
     <successors/>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>samarang-1802</id>
+    <short-form-name>Samarang</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1798</valid-since>
+    <valid-until>1802</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>palmyra-atoll</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/440275/Palmyra-Atoll</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
+        <source>http://books.google.com/books?id=ChyilRml0hcC</source>
+    </sources>
+</territory>

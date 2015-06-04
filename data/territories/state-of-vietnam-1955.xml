@@ -10,7 +10,7 @@
     <predecessors>
         <predecessor>dai-viet-1802</predecessor>
         <predecessor>vietnam-1862</predecessor>
-        <predecessor>french-cochinchina-1887</predecessor>
+        <predecessor>cochinchina-1887</predecessor>
         <predecessor>indochina-1950</predecessor>
     </predecessors>
     <successors>

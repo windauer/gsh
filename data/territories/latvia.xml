@@ -8,11 +8,16 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
+        <predecessor>russian-empire-1917</predecessor>
+        <predecessor>latvia-1940</predecessor>
         <predecessor>soviet-union-1991</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lg.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/332121/Latvia</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/lv.hi</source>
+        <source>https://history.state.gov/countries/latvia</source>
     </sources>
 </territory>

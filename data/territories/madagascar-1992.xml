@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>madagascar-1992</id>
+    <short-form-name>Madagascar</short-form-name>
+    <long-form-name>Democratic Republic of Madagascar</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1976</valid-since>
+    <valid-until>1992</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>sakalava-1817</predecessor>
+        <predecessor>imerina-1817</predecessor>
+        <predecessor>madagascar-1895</predecessor>
+        <predecessor>madagascar-1958</predecessor>
+        <predecessor>malagasy-republic-1976</predecessor>
+    </predecessors>
+    <successors>
+        <successor>madagascar</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html</source>
+        <source>https://history.state.gov/countries/madagascar</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3433#</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2623</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/355562/Madagascar</source>
+    </sources>
+</territory>

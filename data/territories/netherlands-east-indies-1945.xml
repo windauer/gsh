@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>netherlands-east-indies-1945</id>
+    <short-form-name>Netherlands East Indies</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>depdendency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1684</valid-since>
+    <valid-until>1945</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>indonesia</successor>
+    </successors>
+    <notes>Synonymous with Dutch East Indies.  Colony established in 1602 but didn't gather sufficient influence as an overt ruler of Indonesia until 1684.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/id.html</source>
+    </sources>
+</territory>

@@ -7,9 +7,19 @@
     <valid-since>1910</valid-since>
     <valid-until>1961</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+        <predecessor>orange-free-state-1910</predecessor>
+        <predecessor>cape-colony-1910</predecessor>
+        <predecessor>zululand-1879</predecessor>
+        <predecessor>zululand-1910</predecessor>
+        <predecessor>natal-1910</predecessor>
+        <predecessor>transvaal-1910</predecessor>
+    </predecessors>
     <successors>
         <successor>south-africa</successor>
+        <successor>swaziland</successor>
     </successors>
     <notes>U.S. recognized independence in 1929</notes>
     <sources>

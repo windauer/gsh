@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>spitsbergen-1925</id>
+    <short-form-name>Spitsbergen</short-form-name>
+    <long-form-name>Spitsbergen Archipelago</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1596</valid-since>
+    <valid-until>1925</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>svalbard</successor>
+    </successors>
+    <notes>The Archipelago was named upon rediscovery in 1596.  It is accepted that the name change occurred after Norway gained full control over the archipelago, five years after the famed Svalbard Treaty was signed in Versailles in 1920.  Svalbard as a name for the region technically hials from Viking days, as Vikings originally discovered the archipelago in the 1100's.</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/575921/Svalbard</source>
+        <source>http://www.tandfonline.com/doi/pdf/10.1080/00908320600800960</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7034</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sj.hi</source>
+    </sources>
+</territory>

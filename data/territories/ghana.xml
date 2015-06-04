@@ -8,6 +8,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
+        <predecessor>asante-empire-1874</predecessor>
         <predecessor>gold-coast-1975</predecessor>
     </predecessors>
     <successors/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>british-somaliland-1960</id>
+    <short-form-name>Somaliland</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1884</valid-since>
+    <valid-until>1960</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>somali-republic-1969</successor>
+        <successor>somali-democratic-republic-2008</successor>
+        <successor>somalia</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/so.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/80347/British-Somaliland</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/553877/Somalia</source>
+    </sources>
+</territory>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>savage-island-1963</id>
+    <short-form-name>Savage Island</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1774</valid-since>
+    <valid-until>1963</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>niue</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/416425/Niue</source>
+        <source>https://journals.lib.byu.edu/spc/index.php/PacificStudies/article/viewFile/9263/8912</source>
+    </sources>
+</territory>

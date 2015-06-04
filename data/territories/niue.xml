@@ -4,15 +4,16 @@
     <short-form-name>Niue</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1774</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>savage-island-TBD</predecessor>
+        <predecessor>savage-island-1963</predecessor>
     </predecessors>
     <successors/>
-    <notes>Self-governing in free association with New Zealand</notes>
+    <notes>Self-governing in free association with New Zealand.  Name concurrent with Cook's naming: "Savage Island."</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ne.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-5332</source>
     </sources>
 </territory>

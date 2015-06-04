@@ -8,6 +8,7 @@
     <valid-until>1964</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>nyasaland-protectorate-1893</predecessor>
         <predecessor>british-central-africa-protectorate-1907</predecessor>
     </predecessors>
     <successors>

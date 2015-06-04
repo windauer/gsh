@@ -4,7 +4,7 @@
     <short-form-name>Korea</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since>1362</valid-since>
     <valid-until>1948</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -16,5 +16,6 @@
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/322280/South-Korea</source>
         <source>http://www.britannica.com/EBchecked/topic/322222/North-Korea</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/693609/Korea</source>
     </sources>
 </territory>

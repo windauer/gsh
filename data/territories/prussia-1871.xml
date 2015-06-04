@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>prussia-1871</id>
+    <short-form-name>Prussia</short-form-name>
+    <long-form-name>Kingdom of Prussia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1701</valid-since>
+    <valid-until>1871</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>prussia-1918</successor>
+        <successor>germany-1933</successor>
+        <successor>germany-1945</successor>
+        <successor>germany-1949</successor>
+        <successor>west-germany-1990</successor>
+        <successor>east-germany-1990</successor>
+        <successor>germany</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/de.hi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/231186/Germany</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/480893/Prussia</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/216971/Franco-German-War</source>
+    </sources>
+</territory>

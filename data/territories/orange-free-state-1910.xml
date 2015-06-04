@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>orange-free-state-1910</id>
+    <short-form-name>Orange Free State</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1854</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>cape-colony-1910</predecessor>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+    </predecessors>
+    <successors>
+        <successor>union-of-south-africa-1961</successor>
+        <successor>south-africa</successor>
+    </successors>
+    <notes>Dutch established colony taken over by the British as a result of the Napoleonic Wars.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3665</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-2391</source>
+    </sources>
+</territory>

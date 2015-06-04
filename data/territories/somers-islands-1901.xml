@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>somers-islands-1901</id>
+    <short-form-name>Somers Islands</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1609</valid-since>
+    <valid-until>1901</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>bermuda</successor>
+    </successors>
+    <notes>Known to at least serve as an alias for Bermuda since 1901.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/62295/Bermuda</source>
+        <source>http://www.jstor.org/stable/197864?seq=1#page_scan_tab_contents</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-804</source>
+    </sources>
+</territory>

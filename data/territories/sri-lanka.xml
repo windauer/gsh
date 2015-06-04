@@ -8,7 +8,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>serendib-TBD</predecessor>
+        <predecessor>serendib-1796</predecessor>
         <predecessor>ceylon-1972</predecessor>
     </predecessors>
     <successors/>

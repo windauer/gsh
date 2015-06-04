@@ -3,11 +3,14 @@
     <id>kingdom-of-two-sicilies-1861</id>
     <short-form-name>Kingdom of the Two Sicilies</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1815</valid-since>
     <valid-until>1861</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>sicily-1815</predecessor>
+        <predecessor>kingdom-of-naples-1815</predecessor>
+    </predecessors>
     <successors>
         <successor>kingdom-of-italy-1946</successor>
         <successor>italy</successor>

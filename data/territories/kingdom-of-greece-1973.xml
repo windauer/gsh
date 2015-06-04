@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kingdom-of-greece-1973</id>
+    <short-form-name>Kingdom of Greece</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1935</valid-since>
+    <valid-until>1973</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <predecessor>kingdom-of-greece-1923</predecessor>
+        <predecessor>greece-1935</predecessor>
+    </predecessors>
+    <successors>
+        <successor>greece</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1837</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/244154/Greece/26417/Factionalism-in-the-emerging-state</source>
+    </sources>
+</territory>

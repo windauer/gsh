@@ -14,8 +14,7 @@
         <predecessor>germany-1945</predecessor>
         <predecessor>germany-1949</predecessor>
         <predecessor>west-germany-1990</predecessor>
-        <predecessor>east-germany-1990</predecessor>
-        
+        <predecessor>east-germany-1990</predecessor> 
     </predecessors>
     <successors/>
     <notes/>

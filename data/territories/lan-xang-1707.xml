@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>lan-xang-1707</id>
+    <short-form-name>Lan Xang</short-form-name>
+    <long-form-name>Kingdom of Lan Xang Hom Khao</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>luang-1752</successor>
+        <successor>champasak-1778</successor>
+        <successor>vietenne-1782</successor>
+        <successor>alaungpaya-dynasty-1885</successor>
+        <successor>siam-1939</successor>
+        <successor>indochina-1950</successor>
+        <successor>laos</successor>
+    </successors>
+    <notes>Gained independence in 1949</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/la.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/la.hi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/330219/Laos</source>
+    </sources>
+</territory>

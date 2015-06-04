@@ -8,7 +8,11 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>french-indochina-1950</predecessor>
+        <predecessor>indochina-1950</predecessor>
+        <predecessor>khmer-republic-1970</predecessor>
+        <predecessor>democratic-kampuchea-1979</predecessor>
+        <predecessor>peoples-republic-of-kampuchea-1993</predecessor>
+        <predecessor>state-of-cambodia-1993</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1950 </notes>

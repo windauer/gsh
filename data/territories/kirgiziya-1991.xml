@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>kirgiziya-1991</id>
+    <short-form-name>Kirgiziya</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1924</valid-since>
+    <valid-until>1991</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>russian-empire-1917</predecessor>
+        <predecessor>soviet-union-1991</predecessor>
+    </predecessors>
+    <successors>
+        <successor>kyrgyzstan</successor>
+    </successors>
+    <notes>Region of Russia and the USSR with evolving autonomy since Russian Empire dissolution in 1917.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/326091/Kyrgyzstan</source>
+    </sources>
+</territory>

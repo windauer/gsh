@@ -4,12 +4,14 @@
     <short-form-name>Greece</short-form-name>
     <long-form-name>Hellenic Republic</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1974</valid-since>
+    <valid-since>1973</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>kingdom-of-greece-1974</predecessor>
         <predecessor>ottoman-empire-1922</predecessor>
+        <predecessor>kingdom-of-greece-1923</predecessor>
+        <predecessor>greece-1935</predecessor>
+        <predecessor>kingdom-of-greece-1973</predecessor>
     </predecessors>
     <successors/>
     <notes/>

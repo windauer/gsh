@@ -7,10 +7,13 @@
     <valid-since>1907</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>new-zealand-1907</predecessor>
+    </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/412636/New-Zealand</source>
     </sources>
 </territory>

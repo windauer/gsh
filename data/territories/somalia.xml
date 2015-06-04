@@ -4,16 +4,22 @@
     <short-form-name>Somalia</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1960</valid-since>
+    <valid-since>2008</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>somali-republic-TBD</predecessor>
-        <predecessor>somali-democratic-republic-TBD</predecessor>
+        <predecessor>italian-east-africa-1941</predecessor>
+        <predecessor>british-somaliland-1960</predecessor>
+        <predecessor>somali-republic-1969</predecessor>
+        <predecessor>somali-democratic-republic-2008</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/so.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/553877/Somalia</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3644</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/so.hi</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-6972</source>
     </sources>
 </territory>

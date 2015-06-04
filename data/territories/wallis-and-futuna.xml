@@ -4,7 +4,7 @@
     <short-form-name>Wallis and Futuna</short-form-name>
     <long-form-name>Territory of the Wallis and Funtuna Islands</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1767/1616</valid-since>
+    <valid-since>1888</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors/>
@@ -14,5 +14,6 @@
             1888</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wf.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7923</source>
     </sources>
 </territory>

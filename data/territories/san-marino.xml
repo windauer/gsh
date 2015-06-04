@@ -4,7 +4,7 @@
     <short-form-name>San Marino</short-form-name>
     <long-form-name>Republic of San Marino</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>301 A.D.</valid-since>
+    <valid-since>301</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors/>
@@ -13,5 +13,6 @@
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sm.html</source>
         <source>http://history.state.gov/countries/san-marino</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sm.hi</source>
     </sources>
 </territory>

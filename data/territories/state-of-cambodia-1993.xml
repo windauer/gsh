@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>state-of-cambodia-1993</id>
+    <short-form-name>State of Cambodia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>false</type-of-territory>
+    <valid-since>1958</valid-since>
+    <valid-until>1959</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>indochina-1950</predecessor>
+        <predecessor>khmer-republic-1970</predecessor>
+        <predecessor>democratic-kampuchea-1979</predecessor>
+        <predecessor>peoples-republic-of-kampuchea-1993</predecessor>
+    </predecessors>
+    <successors>
+        <successor>cambodia</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
+    </sources>
+</territory>

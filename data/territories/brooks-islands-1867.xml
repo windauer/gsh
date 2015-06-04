@@ -4,11 +4,11 @@
     <short-form-name>Brooks Islands</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1859</valid-since>
     <valid-until>1867</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>middlebrooks-islands-TBD</predecessor>
+        <predecessor>middlebrooks-islands-1867</predecessor>
     </predecessors>
     <successors>
         <successor>midway-islands</successor>

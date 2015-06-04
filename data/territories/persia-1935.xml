@@ -3,8 +3,8 @@
     <id>persia-1935</id>
     <short-form-name>Persia</short-form-name>
     <long-form-name>Kingdom of Persia</long-form-name>
-    <type-of-territory/>
-    <valid-since/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1501</valid-since>
     <valid-until>1935</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -15,5 +15,6 @@
     <notes>U.S. recognized independence in 1850</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ir.hi</source>
     </sources>
 </territory>

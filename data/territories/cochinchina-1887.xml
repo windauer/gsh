@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>cochinchina-1887</id>
+    <short-form-name>French Cochinchina</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1862</valid-since>
+    <valid-until>1887</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>dai-viet-1802</predecessor>
+        <predecessor>vietnam-1862</predecessor>
+    </predecessors>
+    <successors>
+        <successor>indochina-1950</successor>
+        <successor>state-of-vietnam-1955</successor>
+        <successor>north-vietnam-1975</successor>
+        <successor>south-vietnam-1975</successor>
+        <successor>laos</successor>
+        <successor>cambodia</successor>
+        <successor>vietnam</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
+        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/123532/Cochinchina</source>
+        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/628349/Vietnam</source>
+        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/286431/Indochina</source>
+    </sources>
+</territory>

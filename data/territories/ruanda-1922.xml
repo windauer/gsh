@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ruanda-1922</id>
+    <short-form-name>Ruanda</short-form-name>
+    <long-form-name/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1920</valid-since>
+    <valid-until>1922</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>german-east-africa-1920</predecessor>
+    </predecessors>
+    <successors>
+        <successor>ruanda-urundi-1962</successor>
+        <successor>rwanda</successor>
+    </successors>
+    <notes>Among the territories entrusted to Britain post-Versailles, officially taken over by Belgium in 1922.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/514402/Rwanda</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/511771/Ruanda-Urundi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/230748/German-East-Africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3414</source>
+    </sources>
+</territory>

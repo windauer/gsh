@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ellice-islands-1978</id>
+    <short-form-name>Ellice Islands</short-form-name>
+    <long-form-name/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1892</valid-since>
+    <valid-until>1978</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>tuvalu</successor>
+    </successors>
+    <notes>Part of Gilbert and Ellice Islands Colony, a British territory.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tv.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/610728/Tuvalu</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/751890/Gilbert-and-Ellice-Islands</source>
+    </sources>
+</territory>

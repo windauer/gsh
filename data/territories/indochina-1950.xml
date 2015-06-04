@@ -10,13 +10,14 @@
     <predecessors>
         <predecessor>dai-viet-1802</predecessor>
         <predecessor>vietnam-1862</predecessor>
-        <predecessor>french-cochinchina-1887</predecessor>
+        <predecessor>cochinchina-1887</predecessor>
     </predecessors>
     <successors>
         <successor>state-of-vietnam-1955</successor>
         <successor>north-vietnam-1975</successor>
         <successor>south-vietnam-1975</successor>
         <successor>laos</successor>
+        <successor>state-of-cambodia-1993</successor>
         <successor>cambodia</successor>
         <successor>vietnam</successor>
     </successors>

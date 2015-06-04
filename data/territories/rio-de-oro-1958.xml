@@ -4,7 +4,7 @@
     <short-form-name>Rio de Oro</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1884</valid-since>
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -12,8 +12,9 @@
         <successor>spanish-sahara-1976</successor>
         <successor>western-sahara</successor>
     </successors>
-    <notes>Dependent of Spain</notes>
+    <notes>Dependent of Spain.  Name originates from Portuguese explorers in 1346, not established as a territory of this name until listed date.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/640800/Western-Sahara</source>
     </sources>
 </territory>

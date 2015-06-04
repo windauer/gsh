@@ -13,8 +13,9 @@
     </predecessors>
     <successors>
         <successor>abyssinia-1974</successor>
-        <successor>somalia-1969</successor>
-        <successor>somalia-2008</successor>
+        <successor>british-somaliland-1960</successor>
+        <successor>somali-republic-1969</successor>
+        <successor>somali-democratic-republic-2008</successor>
         <successor>somalia</successor>
         <successor>eritrea</successor>
         <successor>ethiopia</successor>

@@ -7,10 +7,16 @@
     <valid-since>1962</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>trinidad-1889</predecessor>
+        <predecessor>tobago-1889</predecessor>
+        <predecessor>trinidad-and-tobago-1962</predecessor>
+    </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/td.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/605453/Trinidad-and-Tobago</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/tt.hi</source>
     </sources>
 </territory>

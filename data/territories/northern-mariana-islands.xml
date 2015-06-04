@@ -4,12 +4,12 @@
     <short-form-name>Northern Mariana Islands</short-form-name>
     <long-form-name>Commonwealth of the Northern Mariana Islands</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1986</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>trust-territory-of-pacific-islands-1986</predecessor>
-        <predecessor>mariana-islands-district-TBD</predecessor>
+        <predecessor>mariana-islands-district-1986</predecessor>
     </predecessors>
     <successors/>
     <notes>Commonwealth in political union with the United States</notes>

@@ -4,7 +4,7 @@
     <short-form-name>Ottoman Empire</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since>1300</valid-since>
     <valid-until>1922</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -21,6 +21,9 @@
         <successor>kingdom-of-greece-1974</successor>
         <successor>iraq</successor>
         <successor>turkey</successor>
+        <successor>yemen</successor>
+        <successor>palestine-1948</successor>
+        <successor>israel</successor>
     </successors>
     <notes/>
     <sources>

@@ -3,11 +3,13 @@
     <id>southern-yemen-1990</id>
     <short-form-name>Southern Yemen</short-form-name>
     <long-form-name>People’s Democratic Republic of Yemen</long-form-name>
-    <type-of-territory/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1967</valid-since>
     <valid-until>1990</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>ottoman-empire-1922</predecessor>
+    </predecessors>
     <successors>
         <successor>yemen</successor>
     </successors>

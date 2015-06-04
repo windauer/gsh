@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>natal-1910</id>
+    <short-form-name>Natal</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-state-of-special-sovereiegnty</type-of-territory>
+    <valid-since>1843</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>cape-colony-1910</predecessor>
+        <predecessor>zululand-1910</predecessor>
+    </predecessors>
+    <successors>
+        <successor>union-of-south-africa-1961</successor>
+        <successor>south-africa</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+    </sources>
+</territory>

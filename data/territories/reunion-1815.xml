@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>reunion-1815</id>
+    <short-form-name>Reunion</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1764</valid-since>
+    <valid-until>1815</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>bourbon-1848</successor>
+        <successor>reunion</successor>
+    </successors>
+    <notes>Overseas independently governed French territory</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/re.hi</source>
+        <source>http://books.google.com/books?id=-NmhAAAAMAAJ</source>
+    </sources>
+</territory>

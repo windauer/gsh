@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>trinidad-1889</id>
+    <short-form-name/>
+    <long-form-name type="none"/>
+    <type-of-territory/>
+    <valid-since/>
+    <valid-until>1889</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>trinidad-and-tobago</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source/>
+    </sources>
+</territory>

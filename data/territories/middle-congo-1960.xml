@@ -3,16 +3,21 @@
     <id>middle-congo-1960</id>
     <short-form-name>Middle Congo</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory/>
-    <valid-since/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1880</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
+        <successor>french-equatorial-africa-1959</successor>
+        <successor>french-congo-1910</successor>
         <successor>congo-brazzaville</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cf.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/132321/Republic-of-the-Congo</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/219052/French-Equatorial-Africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-1031</source>
     </sources>
 </territory>

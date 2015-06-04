@@ -3,8 +3,8 @@
     <id>trust-territory-of-pacific-islands-1986</id>
     <short-form-name>Trust Territory of the Pacific Islands</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory/>
-    <valid-since/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1947</valid-since>
     <valid-until>1986</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -18,5 +18,6 @@
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/437672/Trust-Territory-of-the-Pacific-Islands</source>
     </sources>
 </territory>

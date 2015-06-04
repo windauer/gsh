@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>greece-1935</id>
+    <short-form-name>Greece</short-form-name>
+    <long-form-name>Hellenic Republic</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1923</valid-since>
+    <valid-until>1935</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <predecessor>kingdom-of-greece-1923</predecessor>
+    </predecessors>
+    <successors>
+        <successor>kingdom-of-greece-1973</successor>
+        <successor>greece</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html</source>
+        <source>http://history.state.gov/countries/greece</source>
+        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/244154/Greece</source>
+    </sources>
+</territory>

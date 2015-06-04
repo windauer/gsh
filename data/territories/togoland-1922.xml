@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>togoland-1922</id>
+    <short-form-name>Togoland</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1885</valid-since>
+    <valid-until>1922</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>french-togoland-1960</predecessor>
+    </predecessors>
+    <successors>
+        <successor>french-togoland-1960</successor>
+        <successor>togo</successor>
+    </successors>
+    <notes>At first a buffer zone between Asante and Dahomey and occupied on the coast by the Danes, it became a German colony after German missionaries and traders were able to gain support from local leaders and formally submit a claim to Togoland.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+    </sources>
+</territory>

@@ -8,6 +8,7 @@
     <valid-until>1961</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>bornu-empire-1904</predecessor>
         <predecessor>french-cameroun-1960</predecessor>
     </predecessors>
     <successors>

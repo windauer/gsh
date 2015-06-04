@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>netherlands-guiana-1975</id>
+    <short-form-name>Netherlands Guiana</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1667</valid-since>
+    <valid-until>1975</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>suriname</successor>
+    </successors>
+    <notes>Synonymous with Netherlands Guiana.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sr.hi?ssid=1374746476</source>
+    </sources>
+</territory>

@@ -3,8 +3,8 @@
     <id>leeward-islands-1960</id>
     <short-form-name>Leeward Islands</short-form-name>
     <long-form-name>British Leeward Islands</long-form-name>
-    <type-of-territory/>
-    <valid-since>1872</valid-since>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1672</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
@@ -17,5 +17,5 @@
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html</source>
         <source>http://www.britannica.com/EBchecked/topic/80384/British-Virgin-Islands</source>
-    </sources>
+     </sources>
 </territory>

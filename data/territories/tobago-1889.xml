@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>tobago-1889</id>
+    <short-form-name>Tobago</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1628</valid-since>
+    <valid-until>1889</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>trinidad-and-tobago-1962</successor>
+        <successor>trinidad-and-tobago</successor>
+    </successors>
+    <notes>Date noted is colonization by the Dutch - record of when name came into use not found.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/td.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/605453/Trinidad-and-Tobago</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/tt.hi</source>
+    </sources>
+</territory>

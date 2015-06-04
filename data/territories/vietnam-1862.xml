@@ -11,7 +11,7 @@
         <predecessor>dai-viet-1802</predecessor>
     </predecessors>
     <successors>
-        <successor>french-cochinchina-1887</successor>
+        <successor>cochinchina-1887</successor>
         <successor>indochina-1950</successor>
         <successor>state-of-vietnam-1955</successor>
         <successor>north-vietnam-1975</successor>

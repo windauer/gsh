@@ -3,11 +3,12 @@
     <id>united-republic-of-tanganyika-and-zanzibar-1964</id>
     <short-form-name>United Republic of Tanganyika and Zanzibar</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1964</valid-since>
     <valid-until>1964</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>muscat-and-oman-1970</predecessor>
         <predecessor>tanganyika-1964</predecessor>
         <predecessor>zanzibar-1964</predecessor>
         <predecessor>british-east-africa-1963</predecessor>
@@ -18,5 +19,8 @@
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7256</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8189</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/655813/Zanzibar</source>
     </sources>
 </territory>

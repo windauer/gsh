@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>maldives-1965</id>
+    <short-form-name>Maldives</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1518</valid-since>
+    <valid-until>1965</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>maldives</successor>
+    </successors>
+    <notes>Changed hands several times, but never name, over Portuguese, Dutch and British Colonial rule.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/359932/Maldives</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/mv.hi</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780199546091.001.0001/acref-9780199546091-e-7139</source>
+    </sources>
+</territory>

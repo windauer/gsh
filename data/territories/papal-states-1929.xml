@@ -2,17 +2,18 @@
 <territory>
     <id>papal-states-1929</id>
     <short-form-name>Papal States</short-form-name>
-    <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
+    <long-form-name>Republic of Saint Peter</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>756</valid-since>
     <valid-until>1929</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
         <successor>holy-see</successor>
     </successors>
-    <notes/>
+    <notes>Synonymous with Pontifical States.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/441848/Papal-States</source>
     </sources>
 </territory>

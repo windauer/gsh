@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>ukrainian-state-1709</id>
+    <short-form-name>Ukrainian State</short-form-name>
+    <long-form-name>Cossack Hetmanate</long-form-name>
+    <type-of-territory/>
+    <valid-since>1648</valid-since>
+    <valid-until>1709</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>russian-empire-1917</successor>
+        <successor>ukraine-1922</successor>
+        <successor>ukrainian-national-republic-1920</successor>
+        <successor>soviet-union-1991</successor>
+        <successor>ukraine</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/up.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/612921/Ukraine</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.chron?authstatuscode=202</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.hist?authstatuscode=202</source>
+    </sources>
+</territory>

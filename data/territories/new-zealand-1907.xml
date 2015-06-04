@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>new-zealand-1907</id>
+    <short-form-name>New Zealand</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1774</valid-since>
+    <valid-until>1907</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>new-zealand</successor>
+    </successors>
+    <notes>Known as Aotearoa to native Maori.  Has been known to settlers as New Zealand throughout the English settlement period.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/412636/New-Zealand</source>
+    </sources>
+</territory>

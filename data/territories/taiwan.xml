@@ -4,7 +4,7 @@
     <short-form-name>Taiwan</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since>1683</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
@@ -14,5 +14,8 @@
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/580902/Taiwan/30027/Cultural-life#toc214552 </source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/580902/Taiwan</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/111803/China</source>
     </sources>
 </territory>

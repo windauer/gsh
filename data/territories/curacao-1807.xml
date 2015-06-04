@@ -7,9 +7,7 @@
     <valid-since>2010</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor></predecessor>
-    </predecessors>
+    <predecessors/>
     <successors>
         <successor>curacao-and-dependencies-1954</successor>
         <successor>netherlands-antilles-2010</successor>

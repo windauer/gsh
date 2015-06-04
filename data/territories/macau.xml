@@ -4,13 +4,17 @@
     <short-form-name>Macau</short-form-name>
     <long-form-name>Macau Special Administrative Region</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
+    <valid-since>1553</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>qing-dynasty-1912</predecessor>
+        <predecessor>portugal</predecessor>
+    </predecessors>
     <successors/>
-    <notes>Special administrative region of China</notes>
+    <notes>Special administrative region of China.  Has had varying degrees of autonomy, but has generally been a dependent territory of China and its predecessors, with a brief period of the 20th centruy where its ownership was contested between China and Portugal - it was returned to China in 1999 alongside Hong Kong as a special administrative region with some autonomous functions.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mc.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/353700/Macau#</source>
     </sources>
 </territory>

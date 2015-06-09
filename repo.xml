@@ -10,7 +10,6 @@
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
     <permissions user="gsh-admin" group="gsh-admin" mode="rw-rw-r--"/>
-    
     <changelog>
         <change version="0.1.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
@@ -20,6 +19,11 @@
         <change version="0.2.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>Major update to territories data</li>
+            </ul>
+        </change>
+        <change version="0.3.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Final territories data by 2015 academic year VSFS e-interns</li>
             </ul>
         </change>
     </changelog>

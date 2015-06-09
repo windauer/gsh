@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="xar" name="gsh" xmlns:xdb="http://exist-db.org/ant">
     <property name="project.name" value="gsh"/>
-    <property name="project.version" value="0.2.0"/>
+    <property name="project.version" value="0.3.0"/>
     <property name="package.name" value="http://history.state.gov/ns/pkg/apps/gsh"/>
     <property name="build.dir" value="build"/>
     

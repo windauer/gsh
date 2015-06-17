@@ -17,6 +17,10 @@ let $content :=
             <li><a href="locales.xq">Locales</a></li>
             <li><a href="posts.xq">Posts</a></li>
         </ul>
+        <ul>
+            <li><a href="regions.xq">Regions</a></li>
+            <li><a href="region-based-review.xq">Region-based review</a></li>
+        </ul>
     </div>
 return
     gsh:wrap-html($content, $title)

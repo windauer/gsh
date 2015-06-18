@@ -226,7 +226,7 @@ declare function gsh:territories-to-table($territories, $counter-name) {
 };
 
 declare function gsh:generate-warning($counter-name, $message) {
-    <span style="background-color: yellow">{concat('[#', counter:next-value($counter-name), ': ', $message, ']')}</span>
+    <span style="background-color: yellow">{concat('&#9744; #', counter:next-value($counter-name), ': ', $message)}</span>
 };
 
 declare function gsh:territories-to-list($territories, $counter-name) {
@@ -311,17 +311,17 @@ declare function gsh:territories-to-list($territories, $counter-name) {
                                 for $predecessor at $n in $predecessors 
                                 return 
                                     element li { 
-                                        element a { 
-                                            attribute href { concat('#', $predecessor) }, 
+                                        (:element a { 
+                                            attribute href { concat('#', $predecessor) },:) 
                                             gsh:territory-id-to-short-name-with-years-valid($predecessor) 
-                                            }
+                                        (:    }:)
                                     }
                             }</ol>
                         else
-                            element a { 
-                                attribute href { concat('#', $predecessors) }, 
+                            (:element a { 
+                                attribute href { concat('#', $predecessors) },:) 
                                 gsh:territory-id-to-short-name-with-years-valid($predecessors) 
-                                }
+                            (:    }:)
                     else if ($warning) then 
                         ()
                     else
@@ -344,17 +344,17 @@ declare function gsh:territories-to-list($territories, $counter-name) {
                                 for $successor at $n in $successors 
                                 return 
                                     element li { 
-                                        element a { 
-                                            attribute href { concat('#', $successor) }, 
+                                        (:element a { 
+                                            attribute href { concat('#', $successor) },:)
                                             gsh:territory-id-to-short-name-with-years-valid($successor) 
-                                            }
+                                        (:    }:)
                                     }
                             }</ol>
                         else
-                            element a { 
-                                attribute href { concat('#', $successors) }, 
+                            (:element a { 
+                                attribute href { concat('#', $successors) },:) 
                                 gsh:territory-id-to-short-name-with-years-valid($successors) 
-                                }
+                            (:    }:)
                     else if ($warning) then 
                         ()
                     else 
@@ -375,11 +375,11 @@ declare function gsh:territories-to-list($territories, $counter-name) {
                 for $source at $n in $sources
                 return 
                     if (starts-with($source, 'http')) then 
-                        let $strip-scheme := substring-before(substring-after($source, '//'), '/')
+                        let $strip-scheme := substring-after($source, '//')
                         let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
                         return
                             (
-                            <a href="{$source}">{$strip-www}</a>, 
+                            <a href="{$source}">{(:$strip-www:)$strip-scheme}</a>, 
                             if ($n lt count($sources)) then <br/> else ()
                             ) 
                     else 

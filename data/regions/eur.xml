@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>eur</id>
+    <label>Europe &amp; Eurasia</label>
+    <description>Region covered by the Bureau of European and Eurasian Affairs</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>albania</territory-id>
+    <territory-id>andorra</territory-id>
+    <territory-id>armenia</territory-id>
+    <territory-id>austria</territory-id>
+    <territory-id>azerbaijan</territory-id>
+    <territory-id>belarus</territory-id>
+    <territory-id>belgium</territory-id>
+    <territory-id>bulgaria</territory-id>
+    <territory-id>croatia</territory-id>
+    <territory-id>cyprus</territory-id>
+    <territory-id>czech-republic</territory-id>
+    <territory-id>denmark</territory-id>
+    <territory-id>estonia</territory-id>
+    <territory-id>finland</territory-id>
+    <territory-id>france</territory-id>
+    <territory-id>georgia</territory-id>
+    <territory-id>germany</territory-id>
+    <territory-id>greece</territory-id>
+    <territory-id>holy-see</territory-id>
+    <territory-id>hungary</territory-id>
+    <territory-id>iceland</territory-id>
+    <territory-id>ireland</territory-id>
+    <territory-id>italy</territory-id>
+    <territory-id>kosovo</territory-id>
+    <territory-id>latvia</territory-id>
+    <territory-id>liechtenstein</territory-id>
+    <territory-id>lithuania</territory-id>
+    <territory-id>luxembourg</territory-id>
+    <territory-id>macedonia</territory-id>
+    <territory-id>malta</territory-id>
+    <territory-id>moldova</territory-id>
+    <territory-id>monaco</territory-id>
+    <territory-id>montenegro</territory-id>
+    <territory-id>netherlands</territory-id>
+    <territory-id>norway</territory-id>
+    <territory-id>poland</territory-id>
+    <territory-id>portugal</territory-id>
+    <territory-id>romania</territory-id>
+    <territory-id>russia</territory-id>
+    <territory-id>san-marino</territory-id>
+    <territory-id>serbia</territory-id>
+    <territory-id>slovakia</territory-id>
+    <territory-id>slovenia</territory-id>
+    <territory-id>spain</territory-id>
+    <territory-id>sweden</territory-id>
+    <territory-id>switzerland</territory-id>
+    <territory-id>turkey</territory-id>
+    <territory-id>ukraine</territory-id>
+    <territory-id>united-kingdom</territory-id>
+</region>

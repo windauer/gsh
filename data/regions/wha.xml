@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>wha</id>
+    <label>Western Hemisphere</label>
+    <description>Region covered by the Bureau of Western Hemisphere Affairs, spanning Latin America, the Carribean, Canada</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>argentina</territory-id>
+    <territory-id>aruba</territory-id>
+    <territory-id>bahamas</territory-id>
+    <territory-id>barbados</territory-id>
+    <territory-id>belize</territory-id>
+    <territory-id>bermuda</territory-id>
+    <territory-id>bolivia</territory-id>
+    <territory-id>brazil</territory-id>
+    <territory-id>canada</territory-id>
+    <territory-id>cayman-islands</territory-id>
+    <territory-id>chile</territory-id>
+    <territory-id>colombia</territory-id>
+    <territory-id>costa-rica</territory-id>
+    <territory-id>cuba</territory-id>
+    <territory-id>dominica</territory-id>
+    <territory-id>dominican-republic</territory-id>
+    <territory-id>ecuador</territory-id>
+    <territory-id>el-salvador</territory-id>
+    <territory-id>grenada</territory-id>
+    <territory-id>guatemala</territory-id>
+    <territory-id>guyana</territory-id>
+    <territory-id>haiti</territory-id>
+    <territory-id>hawaii</territory-id>
+    <territory-id>honduras</territory-id>
+    <territory-id>jamaica</territory-id>
+    <territory-id>mexico</territory-id>
+    <territory-id>nicaragua</territory-id>
+    <territory-id>panama</territory-id>
+    <territory-id>paraguay</territory-id>
+    <territory-id>peru</territory-id>
+    <territory-id>saint-lucia</territory-id>
+    <territory-id>suriname</territory-id>
+    <territory-id>texas</territory-id>
+    <territory-id>trinidad-and-tobago</territory-id>
+    <territory-id>united-states</territory-id>
+    <territory-id>uruguay</territory-id>
+    <territory-id>venezuela</territory-id>
+</region>

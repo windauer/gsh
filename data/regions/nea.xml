@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>nea</id>
+    <label>Near East</label>
+    <description>Region covered by the Bureau of Near Eastern Affairs, spanning northern Africa and the Middle East</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>algeria</territory-id>
+    <territory-id>bahrain</territory-id>
+    <territory-id>egypt</territory-id>
+    <territory-id>iran</territory-id>
+    <territory-id>iraq</territory-id>
+    <territory-id>israel</territory-id>
+    <territory-id>jordan</territory-id>
+    <territory-id>kuwait</territory-id>
+    <territory-id>lebanon</territory-id>
+    <territory-id>libya</territory-id>
+    <territory-id>morocco</territory-id>
+    <territory-id>oman</territory-id>
+    <territory-id>qatar</territory-id>
+    <territory-id>saudi-arabia</territory-id>
+    <territory-id>syria</territory-id>
+    <territory-id>tunisia</territory-id>
+    <territory-id>united-arab-emirates</territory-id>
+    <territory-id>yemen</territory-id>
+</region>

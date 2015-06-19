@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>af</id>
+    <label>Africa</label>
+    <description>Region covered the Bureau of African Affairs, spanning Sub-Saharan Africa</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>angola</territory-id>
+    <territory-id>benin</territory-id>
+    <territory-id>botswana</territory-id>
+    <territory-id>burkina-faso</territory-id>
+    <territory-id>burundi</territory-id>
+    <territory-id>cameroon</territory-id>
+    <territory-id>cape-verde</territory-id>
+    <territory-id>central-african-republic</territory-id>
+    <territory-id>chad</territory-id>
+    <territory-id>comoros</territory-id>
+    <territory-id>cote-divoire</territory-id>
+    <territory-id>djibouti</territory-id>
+    <territory-id>equatorial-guinea</territory-id>
+    <territory-id>eritrea</territory-id>
+    <territory-id>ethiopia</territory-id>
+    <territory-id>gabon</territory-id>
+    <territory-id>gambia</territory-id>
+    <territory-id>ghana</territory-id>
+    <territory-id>guinea</territory-id>
+    <territory-id>guinea-bissau</territory-id>
+    <territory-id>kenya</territory-id>
+    <territory-id>lesotho</territory-id>
+    <territory-id>liberia</territory-id>
+    <territory-id>madagascar</territory-id>
+    <territory-id>malawi</territory-id>
+    <territory-id>mali</territory-id>
+    <territory-id>mauritania</territory-id>
+    <territory-id>mauritius</territory-id>
+    <territory-id>mozambique</territory-id>
+    <territory-id>namibia</territory-id>
+    <territory-id>niger</territory-id>
+    <territory-id>nigeria</territory-id>
+    <territory-id>rwanda</territory-id>
+    <territory-id>sao-tome-and-principe</territory-id>
+    <territory-id>senegal</territory-id>
+    <territory-id>seychelles</territory-id>
+    <territory-id>sierra-leone</territory-id>
+    <territory-id>somalia</territory-id>
+    <territory-id>south-africa</territory-id>
+    <territory-id>south-sudan</territory-id>
+    <territory-id>sudan</territory-id>
+    <territory-id>swaziland</territory-id>
+    <territory-id>tanzania</territory-id>
+    <territory-id>togo</territory-id>
+    <territory-id>uganda</territory-id>
+    <territory-id>zambia</territory-id>
+    <territory-id>zimbabwe</territory-id>
+</region>

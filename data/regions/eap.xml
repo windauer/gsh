@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>eap</id>
+    <label>East Asia and the Pacific</label>
+    <description>Region covered by the Bureau of East Asian and Pacific Affairs</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>australia</territory-id>
+    <territory-id>brunei</territory-id>
+    <territory-id>burma</territory-id>
+    <territory-id>cambodia</territory-id>
+    <territory-id>china</territory-id>
+    <territory-id>cook-islands</territory-id>
+    <territory-id>fiji</territory-id>
+    <territory-id>hong-kong</territory-id>
+    <territory-id>indonesia</territory-id>
+    <territory-id>japan</territory-id>
+    <territory-id>kiribati</territory-id>
+    <territory-id>korea-north</territory-id>
+    <territory-id>korea-south</territory-id>
+    <territory-id>laos</territory-id>
+    <territory-id>macau</territory-id>
+    <territory-id>malaysia</territory-id>
+    <territory-id>marshall-islands</territory-id>
+    <territory-id>mongolia</territory-id>
+    <territory-id>nauru</territory-id>
+    <territory-id>new-zealand</territory-id>
+    <territory-id>palau</territory-id>
+    <territory-id>papua-new-guinea</territory-id>
+    <territory-id>philippines</territory-id>
+    <territory-id>samoa</territory-id>
+    <territory-id>singapore</territory-id>
+    <territory-id>solomon-islands</territory-id>
+    <territory-id>taiwan</territory-id>
+    <territory-id>thailand</territory-id>
+    <territory-id>timor-leste</territory-id>
+    <territory-id>tonga</territory-id>
+    <territory-id>tuvalu</territory-id>
+    <territory-id>vanuatu</territory-id>
+    <territory-id>vietnam</territory-id>
+</region>

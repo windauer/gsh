@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<region>
+    <id>sca</id>
+    <label>South and Central Asia</label>
+    <description>Region covered by the Bureau of South and Central Asian Affairs</description>
+    <valid-since/>
+    <valid-until>9999</valid-until>
+    <territory-id>afghanistan</territory-id>
+    <territory-id>bangladesh</territory-id>
+    <territory-id>bhutan</territory-id>
+    <territory-id>india</territory-id>
+    <territory-id>kazakhstan</territory-id>
+    <territory-id>kyrgyzstan</territory-id>
+    <territory-id>maldives</territory-id>
+    <territory-id>nepal</territory-id>
+    <territory-id>pakistan</territory-id>
+    <territory-id>sri-lanka</territory-id>
+    <territory-id>tajikistan</territory-id>
+    <territory-id>turkmenistan</territory-id>
+    <territory-id>uzbekistan</territory-id>
+</region>

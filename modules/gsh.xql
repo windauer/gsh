@@ -229,7 +229,7 @@ declare function gsh:generate-warning($counter-name, $message) {
     <span style="background-color: yellow">{concat('&#9744; #', counter:next-value($counter-name), ': ', $message)}</span>
 };
 
-declare function gsh:territories-to-list($territories, $counter-name) {
+declare function gsh:territories-to-list($territories, $counter-name, $enable-link-territories as xs:boolean) {
     for $territory in $territories 
     (:order by $territory/id:)
     return
@@ -309,19 +309,28 @@ declare function gsh:territories-to-list($territories, $counter-name) {
                         if (count($predecessors) gt 1) then
                             <ol style="padding-left: 1.5em">{
                                 for $predecessor at $n in $predecessors 
+                                let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor) 
                                 return 
                                     element li { 
-                                        (:element a { 
-                                            attribute href { concat('#', $predecessor) },:) 
-                                            gsh:territory-id-to-short-name-with-years-valid($predecessor) 
-                                        (:    }:)
+                                        if ($enable-link-territories) then
+                                            element a { 
+                                                attribute href { concat('territory.xq?territory=', $predecessor) },
+                                            $display
+                                            }
+                                        else 
+                                            $display
                                     }
                             }</ol>
                         else
-                            (:element a { 
-                                attribute href { concat('#', $predecessors) },:) 
-                                gsh:territory-id-to-short-name-with-years-valid($predecessors) 
-                            (:    }:)
+                            let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
+                            return
+                                if ($enable-link-territories) then
+                                    element a { 
+                                        attribute href { concat('territory.xq?territory=', $predecessors) },
+                                        $display
+                                    }
+                                else 
+                                    $display
                     else if ($warning) then 
                         ()
                     else
@@ -342,19 +351,28 @@ declare function gsh:territories-to-list($territories, $counter-name) {
                         if (count($successors) gt 1) then 
                             <ol style="padding-left: 1.5em">{
                                 for $successor at $n in $successors 
+                                let $display := gsh:territory-id-to-short-name-with-years-valid($successor) 
                                 return 
                                     element li { 
-                                        (:element a { 
-                                            attribute href { concat('#', $successor) },:)
-                                            gsh:territory-id-to-short-name-with-years-valid($successor) 
-                                        (:    }:)
+                                        if ($enable-link-territories) then
+                                            element a { 
+                                                attribute href { concat('territory.xq?territory=', $successor) },
+                                                $display
+                                            }
+                                        else 
+                                            $display
                                     }
                             }</ol>
                         else
-                            (:element a { 
-                                attribute href { concat('#', $successors) },:) 
-                                gsh:territory-id-to-short-name-with-years-valid($successors) 
-                            (:    }:)
+                            let $display := gsh:territory-id-to-short-name-with-years-valid($successors) 
+                            return
+                                if ($enable-link-territories) then
+                                    element a { 
+                                        attribute href { concat('territory.xq?territory=', $successors) },
+                                        $display
+                                    }
+                                else
+                                    $display
                     else if ($warning) then 
                         ()
                     else 

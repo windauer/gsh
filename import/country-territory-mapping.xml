@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-country-mapping>
+    <entry>
+        <country-id>antigua-barbuda</country-id>
+        <territory-id>antigua-and-barbuda</territory-id>
+    </entry>
+    <entry>
+        <country-id>bosnia-herzegovina</country-id>
+        <territory-id>bosnia-and-herzegovina</territory-id>
+    </entry>
+    <entry>
+        <country-id>congo-democratic-republic</country-id>
+        <territory-id>congo-kinshasa</territory-id>
+    </entry>
+    <entry>
+        <country-id>congo-free-state</country-id>
+        <territory-id>congo-free-state-1908</territory-id>
+    </entry>
+    <entry>
+        <country-id>congo-republic</country-id>
+        <territory-id>congo-brazzaville</territory-id>
+    </entry>
+    <entry>
+        <country-id>czechoslovakia</country-id>
+        <territory-id>czechoslovakia-1993</territory-id>
+    </entry>
+    <entry>
+        <country-id>german-democratic-republic</country-id>
+        <territory-id>east-germany-1990</territory-id>
+    </entry>
+    <entry>
+        <country-id>korea</country-id>
+        <territory-id>korea-1948</territory-id>
+    </entry>
+    <entry>
+        <country-id>micronesia</country-id>
+        <territory-id>micronesia-federated-states-of</territory-id>
+    </entry>
+    <entry>
+        <country-id>netherlands-antilles</country-id>
+        <territory-id>netherlands-antilles-2010</territory-id>
+    </entry>
+    <entry incomplete="true">
+        <country-id>palestinian-authority</country-id>
+        <territory-id/>
+    </entry>
+    <entry incomplete="true">
+        <country-id>parma</country-id>
+        <territory-id/>
+    </entry>
+    <entry>
+        <country-id>saint-kitts-nevis</country-id>
+        <territory-id>saint-kitts-and-nevis</territory-id>
+    </entry>
+    <entry>
+        <country-id>saint-vincent-grenadines</country-id>
+        <territory-id>saint-vincent-and-grenadines</territory-id>
+    </entry>
+    <entry>
+        <country-id>two-sicilies</country-id>
+        <territory-id>kingdom-of-two-sicilies-1861</territory-id>
+    </entry>
+    <entry>
+        <country-id>united-arab-republic</country-id>
+        <territory-id>united-arab-republic-1971</territory-id>
+    </entry>
+    <entry>
+        <country-id>vietnam-south</country-id>
+        <territory-id>south-vietnam-1975</territory-id>
+    </entry>
+    <entry incomplete="true">
+        <country-id>yugoslavia</country-id>
+        <territory-id/>
+    </entry>
+</territory-country-mapping>

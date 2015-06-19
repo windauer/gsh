@@ -35,6 +35,15 @@ declare function local:predecessor-tree($territory) {
         )
 };
 
+declare function local:immediate-successor($territory) {
+    let $successor-ids := $territory//successor
+    let $successors := gsh:order-territories-chronologically(gsh:territories($successor-ids))
+    let $immediate-successor := $successors[1]
+    return
+        $immediate-successor
+};
+
+
 declare function local:supplied-predecessors($territory) {
     let $territory-id := $territory/id
     let $predecessor-ids := $territory//predecessor
@@ -47,19 +56,7 @@ declare function local:supplied-predecessors($territory) {
         }
 };
 
-declare function local:successors($territory-id) {
-    let $territory := gsh:territories($territory-id)
-    return
-        element territory {
-            $territory/id,
-            element successors {
-                $territory//successor ! local:successors(.)
-            }
-        }
-};
-
-let $territory-id := 'germany'
+let $territory-id := request:get-parameter('territory', 'korea-south')
 let $territory := gsh:territories($territory-id)
-let $tree := local:supplied-predecessors($territory)
-return
-    $tree
+return 
+    local:immediate-predecessor($territory)

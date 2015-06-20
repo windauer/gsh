@@ -7,10 +7,11 @@ declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "html5";
 declare option output:media-type "text/html";
 
-let $table := gsh:locales-to-table($gsh:locales)
+let $locales := for $locale in $gsh:locales order by $locale/id return $locale
+let $table := gsh:locales-to-table($locales)
 let $content := 
     <div>
-        <p>All locales</p>
+        <p>All {count($locales)} locales</p>
         { $table }
     </div>
 let $title := 'Locales'

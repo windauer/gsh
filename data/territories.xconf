@@ -16,6 +16,5 @@
         <create qname="exists-on-todays-map" type="xs:boolean"/>
         <create qname="predecessor" type="xs:string"/>
         <create qname="successor" type="xs:string"/>
-        
     </index>
 </collection>

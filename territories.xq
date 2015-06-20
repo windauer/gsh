@@ -12,8 +12,8 @@ declare function local:territories-landing-page() {
     let $content := 
         element div {
             element p {
-                count($gsh:territories), ' territories. View ', 
-                <a href="all-territories.xq">all territories data</a>, ' on one page.'
+                concat('All ', count($gsh:territories), ' territories. View '), 
+                <a href="all-territories.xq">full dataset</a>, ' on one page.'
             },
             element ul {
                 for $territory in $gsh:territories
@@ -47,7 +47,7 @@ declare function local:show-territory($territory-id as xs:string) {
 
 let $territory-id := request:get-parameter('territory', ())
 return  
-    if (not($territory-id)) then 
-        local:territories-landing-page()
-    else
+    if ($territory-id) then 
         local:show-territory($territory-id)
+    else
+        local:territories-landing-page()

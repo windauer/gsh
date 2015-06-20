@@ -300,7 +300,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
             },
             element dd { 
                 let $predecessors := $territory/predecessors/predecessor 
-                let $warning := (empty($predecessors) and $territory/valid-since[. eq '' or . gt '1776'])
+                let $warning := (empty($predecessors) and $territory/valid-since[. eq '' or xs:integer(.) gt 1776])
                 return
                     (
                     if ($warning) then gsh:generate-warning($counter-name, 'expected a predecessor') else ()

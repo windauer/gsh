@@ -314,7 +314,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territory.xq?territory=', $predecessor) },
+                                                attribute href { concat('territories.xq?territory=', $predecessor) },
                                             $display
                                             }
                                         else 
@@ -326,7 +326,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territory.xq?territory=', $predecessors) },
+                                        attribute href { concat('territories.xq?territory=', $predecessors) },
                                         $display
                                     }
                                 else 
@@ -356,7 +356,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territory.xq?territory=', $successor) },
+                                                attribute href { concat('territories.xq?territory=', $successor) },
                                                 $display
                                             }
                                         else 
@@ -368,7 +368,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territory.xq?territory=', $successors) },
+                                        attribute href { concat('territories.xq?territory=', $successors) },
                                         $display
                                     }
                                 else
@@ -419,11 +419,9 @@ declare function gsh:posts-to-table($posts) {
         attribute class {'table table-bordered'},
         element thead {
             element tr {
-                (:
                 element th {
                     'ID'
                 },
-                :)
                 element th {
                     'Name'
                 },
@@ -458,11 +456,25 @@ declare function gsh:posts-to-table($posts) {
         },
         element tbody {
             for $post in $posts 
-            let $locale := $gsh:locales[id = $post/locale]
+            let $locale := $gsh:locales[id = $post/locale-id][1] (: TODO eliminate duplicate locale-ids, e.g., sydney - australia and canada :)
+            let $territory := gsh:territories($locale/current-territory)
             return
                 element tr {
-                    element td { $locale/name/string() },
-                    element td { $gsh:territories[id = $locale/current-territory]/short-form-name/string() },
+                    element td { $locale/id/string() },
+                    element td { 
+                        element a {
+                            attribute href { concat('?locale=', $locale/id) },
+                            $locale/name/string() 
+                        }
+                    },
+                    element td { 
+                        element a {
+                            attribute href { 
+                                concat('territories.xq?territory=', $territory/id)
+                            },
+                            gsh:territory-id-to-short-name-with-years-valid($territory/id) 
+                        }
+                    },
                     element td { $post/valid-since/string() },
                     element td { if ($post/valid-until = '9999') then 'present' else $post/valid-until/string() },
                     element td { string-join(tokenize($locale/predecessors, ', '),'; ') },

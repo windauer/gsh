@@ -275,7 +275,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                 'Valid Since'
                 },
             element dd { 
-                let $warning := ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{4}(-\d{2})?$')))
+                let $warning := ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{3,4}(-\d{2})?$')))
                 return
                     (
                     if ($warning) then gsh:generate-warning($counter-name, 'expected a valid since date') else ()

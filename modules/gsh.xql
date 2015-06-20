@@ -7,6 +7,7 @@ import module namespace counter="http://exist-db.org/xquery/counter" at "xmldb:e
 declare variable $gsh:posts := collection('/db/apps/gsh/data/posts')/post;
 declare variable $gsh:locales := collection('/db/apps/gsh/data/locales')/locale;
 declare variable $gsh:territories := collection('/db/apps/gsh/data/territories')/territory;
+declare variable $gsh:regions := collection('/db/apps/gsh/data/regions')/region;
 
 declare variable $gsh:post-types := doc('/db/apps/gsh/data/code-tables/post-types.xml');
 declare variable $gsh:territory-types := doc('/db/apps/gsh/data/code-tables/territory-types.xml');

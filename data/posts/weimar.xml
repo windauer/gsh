@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>weimar</locale>
+    <locale-id>weimar</locale-id>
     <territory>germany</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1893</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>hamilton</locale>
+    <locale-id>hamilton</locale-id>
     <territory>bermuda</territory>
     <post-type>embassy</post-type>
     <valid-since>1833</valid-since>

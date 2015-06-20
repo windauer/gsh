@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>cronstadt</locale>
+    <locale-id>cronstadt</locale-id>
     <territory>russia</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1863</valid-since>

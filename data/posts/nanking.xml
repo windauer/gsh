@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>nanking</locale>
+    <locale-id>nanking</locale-id>
     <territory>china</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1904</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>manta</locale>
+    <locale-id>manta</locale-id>
     <territory>ecuador</territory>
     <post-type>consulate</post-type>
     <valid-since>1883</valid-since>

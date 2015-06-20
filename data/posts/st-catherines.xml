@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>st-catherines</locale>
+    <locale-id>st-catherines</locale-id>
     <territory>brazil</territory>
     <post-type>consulate</post-type>
     <valid-since>1831</valid-since>

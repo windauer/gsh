@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>san-andres</locale>
+    <locale-id>san-andres</locale-id>
     <territory>colombia</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1866</valid-since>

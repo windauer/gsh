@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>stoke-on-trent</locale>
+    <locale-id>stoke-on-trent</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consulate</post-type>
     <valid-since>1915</valid-since>

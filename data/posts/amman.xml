@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>amman</locale>
+    <locale-id>amman</locale-id>
     <territory>jordan</territory>
     <post-type>embassy</post-type>
     <valid-since>1949</valid-since>

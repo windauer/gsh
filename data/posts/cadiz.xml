@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>cadiz</locale>
+    <locale-id>cadiz</locale-id>
     <territory>spain</territory>
     <post-type>consulate</post-type>
     <valid-since>1791</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>milford-haven</locale>
+    <locale-id>milford-haven</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1862</valid-since>

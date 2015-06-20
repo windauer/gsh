@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>luxembourg</locale>
+    <locale-id>luxembourg</locale-id>
     <territory>luxembourg</territory>
     <post-type>embassy</post-type>
     <valid-since>1955</valid-since>

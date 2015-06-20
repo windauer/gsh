@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>khartoum</locale>
+    <locale-id>khartoum</locale-id>
     <territory>sudan</territory>
     <post-type>embassy</post-type>
     <valid-since>1956</valid-since>

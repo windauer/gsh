@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>alicante</locale>
+    <locale-id>alicante</locale-id>
     <territory>spain</territory>
     <post-type>consulate</post-type>
     <valid-since>1776</valid-since>

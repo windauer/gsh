@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>moroni</locale>
+    <locale-id>moroni</locale-id>
     <territory>comoros</territory>
     <post-type>embassy</post-type>
     <valid-since>1985</valid-since>

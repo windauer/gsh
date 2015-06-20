@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>osaka</locale>
+    <locale-id>osaka</locale-id>
     <territory>japan</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1868</valid-since>

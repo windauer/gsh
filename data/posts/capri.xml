@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>capri</locale>
+    <locale-id>capri</locale-id>
     <territory>italy</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1901</valid-since>

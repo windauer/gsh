@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rotterdam</locale>
+    <locale-id>rotterdam</locale-id>
     <territory>netherlands</territory>
     <post-type>consulate</post-type>
     <valid-since>1797</valid-since>

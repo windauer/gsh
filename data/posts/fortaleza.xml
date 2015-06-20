@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>fortaleza</locale>
+    <locale-id>fortaleza</locale-id>
     <territory>brazil</territory>
     <post-type>consulate</post-type>
     <valid-since>1940</valid-since>

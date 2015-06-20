@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>malabo</locale>
+    <locale-id>malabo</locale-id>
     <territory>equatorial-guinea</territory>
     <post-type>embassy</post-type>
     <valid-since>1981</valid-since>

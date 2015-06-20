@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>riyadh</locale>
+    <locale-id>riyadh</locale-id>
     <territory>saudi-arabia</territory>
     <post-type>embassy</post-type>
     <valid-since>1985</valid-since>

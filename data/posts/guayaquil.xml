@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>guayaquil</locale>
+    <locale-id>guayaquil</locale-id>
     <territory>ecuador</territory>
     <post-type>consulate</post-type>
     <valid-since>1824</valid-since>

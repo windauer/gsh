@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>paysandu</locale>
+    <locale-id>paysandu</locale-id>
     <territory>uruguay</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1872</valid-since>

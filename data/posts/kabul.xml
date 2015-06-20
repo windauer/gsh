@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kabul</locale>
+    <locale-id>kabul</locale-id>
     <territory>afghanistan</territory>
     <post-type>embassy</post-type>
     <valid-since>1931</valid-since>

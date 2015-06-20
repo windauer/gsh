@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>frontera</locale>
+    <locale-id>frontera</locale-id>
     <territory>mexico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1881</valid-since>

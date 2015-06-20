@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tetouan</locale>
+    <locale-id>tetouan</locale-id>
     <territory>morocco</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1852</valid-since>

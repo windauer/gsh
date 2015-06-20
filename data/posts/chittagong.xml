@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>chittagong</locale>
+    <locale-id>chittagong</locale-id>
     <territory>india</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1865</valid-since>

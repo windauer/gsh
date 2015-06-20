@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>pago-pago</locale>
+    <locale-id>pago-pago</locale-id>
     <territory>samoa</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1854</valid-since>

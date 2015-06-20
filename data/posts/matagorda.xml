@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>matagorda</locale>
+    <locale-id>matagorda</locale-id>
     <territory>texas</territory>
     <post-type>consulate</post-type>
     <valid-since>1838</valid-since>

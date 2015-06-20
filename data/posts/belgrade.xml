@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>belgrade</locale>
+    <locale-id>belgrade</locale-id>
     <territory>serbia</territory>
     <post-type>embassy</post-type>
     <valid-since>1882</valid-since>

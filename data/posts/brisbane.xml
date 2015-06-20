@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>brisbane</locale>
+    <locale-id>brisbane</locale-id>
     <territory>australia</territory>
     <post-type>consulate</post-type>
     <valid-since>1868</valid-since>

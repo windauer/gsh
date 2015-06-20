@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>coburg</locale>
+    <locale-id>coburg</locale-id>
     <territory>germany</territory>
     <post-type>consulate</post-type>
     <valid-since>1867</valid-since>

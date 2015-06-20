@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>maldives</locale>
+    <locale-id>maldives</locale-id>
     <territory>sri-lanka</territory>
     <post-type>embassy</post-type>
     <valid-since>1968</valid-since>

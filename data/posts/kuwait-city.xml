@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kuwait-city</locale>
+    <locale-id>kuwait-city</locale-id>
     <territory>kuwait</territory>
     <post-type>embassy</post-type>
     <valid-since>1961</valid-since>

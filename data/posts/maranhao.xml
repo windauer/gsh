@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>maranhao</locale>
+    <locale-id>maranhao</locale-id>
     <territory>brazil</territory>
     <post-type>consulate</post-type>
     <valid-since>1816</valid-since>

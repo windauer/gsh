@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>sana’a</locale>
+    <locale-id>sana’a</locale-id>
     <territory>yemen</territory>
     <post-type>embassy</post-type>
     <valid-since>1964</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>abuja</locale>
+    <locale-id>abuja</locale-id>
     <territory>nigeria</territory>
     <post-type>embassy</post-type>
     <valid-since>1981</valid-since>

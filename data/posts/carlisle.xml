@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>carlisle</locale>
+    <locale-id>carlisle</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1863</valid-since>

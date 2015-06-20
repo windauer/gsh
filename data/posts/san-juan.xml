@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>san-juan</locale>
+    <locale-id>san-juan</locale-id>
     <territory>puerto-rico</territory>
     <post-type>consulate</post-type>
     <valid-since>1828</valid-since>

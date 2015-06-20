@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>brazoria</locale>
+    <locale-id>brazoria</locale-id>
     <territory>mexico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1833</valid-since>

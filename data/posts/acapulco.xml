@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>acapulco</locale>
+    <locale-id>acapulco</locale-id>
     <territory>mexico</territory>
     <post-type>consulate</post-type>
     <valid-since>1823</valid-since>

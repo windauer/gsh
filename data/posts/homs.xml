@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>homs</locale>
+    <locale-id>homs</locale-id>
     <territory>syria</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1870</valid-since>

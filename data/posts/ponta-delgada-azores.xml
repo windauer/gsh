@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ponta-delgada-azores</locale>
+    <locale-id>ponta-delgada-azores</locale-id>
     <territory>portugal</territory>
     <post-type>consulate</post-type>
     <valid-since>1795</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>jakarta</locale>
+    <locale-id>jakarta</locale-id>
     <territory>indonesia</territory>
     <post-type>embassy</post-type>
     <valid-since>1801</valid-since>

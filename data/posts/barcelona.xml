@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>barcelona</locale>
+    <locale-id>barcelona</locale-id>
     <territory>spain</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1797</valid-since>

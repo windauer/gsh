@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ciudad-del-carmen</locale>
+    <locale-id>ciudad-del-carmen</locale-id>
     <territory>mexico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1832</valid-since>

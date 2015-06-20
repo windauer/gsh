@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>hue</locale>
+    <locale-id>hue</locale-id>
     <territory>vietnam</territory>
     <post-type>consulate</post-type>
     <valid-since>1957</valid-since>

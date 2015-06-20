@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>punta-arenas</locale>
+    <locale-id>punta-arenas</locale-id>
     <territory>costa-rica</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1859</valid-since>

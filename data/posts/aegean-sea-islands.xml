@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>aegean-sea-islands</locale>
+    <locale-id>aegean-sea-islands</locale-id>
     <territory>italy</territory>
     <post-type>consulate</post-type>
     <valid-since>1931</valid-since>

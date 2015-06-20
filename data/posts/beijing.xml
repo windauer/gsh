@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>beijing</locale>
+    <locale-id>beijing</locale-id>
     <territory>china</territory>
     <post-type>embassy</post-type>
     <valid-since>1979</valid-since>

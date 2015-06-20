@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>gibraltar</locale>
+    <locale-id>gibraltar</locale-id>
     <territory>spain</territory>
     <post-type>consulate</post-type>
     <valid-since>1794</valid-since>

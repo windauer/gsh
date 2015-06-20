@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>mogadishu</locale>
+    <locale-id>mogadishu</locale-id>
     <territory>somalia</territory>
     <post-type>embassy</post-type>
     <valid-since>1960</valid-since>

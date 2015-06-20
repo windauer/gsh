@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>skopje</locale>
+    <locale-id>skopje</locale-id>
     <territory>macedonia</territory>
     <post-type>embassy</post-type>
     <valid-since>1994</valid-since>

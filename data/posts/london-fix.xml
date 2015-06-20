@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>london</locale>
+    <locale-id>london</locale-id>
     <territory>united-kingdom</territory>
     <post-type>embassy</post-type>
     <valid-since>1790</valid-since>

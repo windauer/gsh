@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>assouan</locale>
+    <locale-id>assouan</locale-id>
     <territory>egypt</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1890</valid-since>

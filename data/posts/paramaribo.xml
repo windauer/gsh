@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>paramaribo</locale>
+    <locale-id>paramaribo</locale-id>
     <territory>suriname</territory>
     <post-type>embassy</post-type>
     <valid-since>1975</valid-since>

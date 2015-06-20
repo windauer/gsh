@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bogota</locale>
+    <locale-id>bogota</locale-id>
     <territory>colombia</territory>
     <post-type>embassy</post-type>
     <valid-since>1851</valid-since>

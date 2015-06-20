@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>moscow</locale>
+    <locale-id>moscow</locale-id>
     <territory>russia</territory>
     <post-type>embassy</post-type>
     <valid-since>1857</valid-since>

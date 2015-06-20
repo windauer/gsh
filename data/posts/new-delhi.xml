@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>new-delhi</locale>
+    <locale-id>new-delhi</locale-id>
     <territory>india</territory>
     <post-type>embassy</post-type>
     <valid-since>1947</valid-since>

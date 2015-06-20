@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>green-turtle-cay</locale>
+    <locale-id>green-turtle-cay</locale-id>
     <territory>bahamas</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1866</valid-since>

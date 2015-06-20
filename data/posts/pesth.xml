@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>pesth</locale>
+    <locale-id>pesth</locale-id>
     <territory>hungary</territory>
     <post-type>consulate</post-type>
     <valid-since>1840</valid-since>

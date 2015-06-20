@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>sagua-la-granda</locale>
+    <locale-id>sagua-la-granda</locale-id>
     <territory>cuba</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1844</valid-since>

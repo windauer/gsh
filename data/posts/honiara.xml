@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>honiara</locale>
+    <locale-id>honiara</locale-id>
     <territory>solomon-islands</territory>
     <post-type>embassy</post-type>
     <valid-since>1988</valid-since>

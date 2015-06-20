@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>the-hague</locale>
+    <locale-id>the-hague</locale-id>
     <territory>netherlands</territory>
     <post-type>embassy</post-type>
     <valid-since>1817</valid-since>

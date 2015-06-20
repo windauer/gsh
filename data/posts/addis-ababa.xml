@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>addis-ababa</locale>
+    <locale-id>addis-ababa</locale-id>
     <territory>ethiopia</territory>
     <post-type>embassy</post-type>
     <valid-since>1928</valid-since>

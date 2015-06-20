@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>santa-marta</locale>
+    <locale-id>santa-marta</locale-id>
     <territory>colombia</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1823</valid-since>

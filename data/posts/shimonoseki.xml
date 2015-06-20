@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>shimonoseki</locale>
+    <locale-id>shimonoseki</locale-id>
     <territory>japan</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1917</valid-since>

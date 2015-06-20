@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>zomba</locale>
+    <locale-id>zomba</locale-id>
     <territory>malawi</territory>
     <post-type>consulate</post-type>
     <valid-since>1964</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>topia</locale>
+    <locale-id>topia</locale-id>
     <territory>mexico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1910</valid-since>

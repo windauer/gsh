@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>curityba</locale>
+    <locale-id>curityba</locale-id>
     <territory>brazil</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1918</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>dubai</locale>
+    <locale-id>dubai</locale-id>
     <territory>united-arab-emirates</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1985</valid-since>

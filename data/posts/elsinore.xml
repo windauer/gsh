@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>elsinore</locale>
+    <locale-id>elsinore</locale-id>
     <territory>denmark</territory>
     <post-type>consulate</post-type>
     <valid-since>1833</valid-since>

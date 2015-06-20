@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>punta-arenas</locale>
+    <locale-id>punta-arenas</locale-id>
     <territory>chile</territory>
     <post-type>consulate</post-type>
     <valid-since>1896</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>point-de-galle</locale>
+    <locale-id>point-de-galle</locale-id>
     <territory>sri-lanka</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1877</valid-since>

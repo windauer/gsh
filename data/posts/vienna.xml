@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>vienna</locale>
+    <locale-id>vienna</locale-id>
     <territory>austria</territory>
     <post-type>embassy</post-type>
     <valid-since>1829</valid-since>

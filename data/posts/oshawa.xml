@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>oshawa</locale>
+    <locale-id>oshawa</locale-id>
     <territory>canada</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1895</valid-since>

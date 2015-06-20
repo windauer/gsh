@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>avlona</locale>
+    <locale-id>avlona</locale-id>
     <territory>albania</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1918</valid-since>

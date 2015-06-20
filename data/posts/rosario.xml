@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rosario</locale>
+    <locale-id>rosario</locale-id>
     <territory>argentina</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1911</valid-since>

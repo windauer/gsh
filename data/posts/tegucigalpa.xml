@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tegucigalpa</locale>
+    <locale-id>tegucigalpa</locale-id>
     <territory>honduras</territory>
     <post-type>embassy</post-type>
     <valid-since>1884</valid-since>

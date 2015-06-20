@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>harput</locale>
+    <locale-id>harput</locale-id>
     <territory>turkey</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1895</valid-since>

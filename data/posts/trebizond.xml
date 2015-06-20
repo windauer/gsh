@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>trebizond</locale>
+    <locale-id>trebizond</locale-id>
     <territory>turkey</territory>
     <post-type>consulate</post-type>
     <valid-since>1859</valid-since>

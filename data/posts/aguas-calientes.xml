@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>aguas-calientes</locale>
+    <locale-id>aguas-calientes</locale-id>
     <territory>mexico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1855</valid-since>

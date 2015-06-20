@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>quito</locale>
+    <locale-id>quito</locale-id>
     <territory>ecuador</territory>
     <post-type>embassy</post-type>
     <valid-since>1851</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>meshed</locale>
+    <locale-id>meshed</locale-id>
     <territory>iran</territory>
     <post-type>consulate</post-type>
     <valid-since>1949</valid-since>

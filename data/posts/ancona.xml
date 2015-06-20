@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ancona</locale>
+    <locale-id>ancona</locale-id>
     <territory>italy</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1840</valid-since>

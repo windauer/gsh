@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>basrah</locale>
+    <locale-id>basrah</locale-id>
     <territory>iraq</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1937</valid-since>

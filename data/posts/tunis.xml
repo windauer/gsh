@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tunis</locale>
+    <locale-id>tunis</locale-id>
     <territory>tunisia</territory>
     <post-type>embassy</post-type>
     <valid-since>1795</valid-since>

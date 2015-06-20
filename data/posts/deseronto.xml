@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>deseronto</locale>
+    <locale-id>deseronto</locale-id>
     <territory>canada</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1885</valid-since>

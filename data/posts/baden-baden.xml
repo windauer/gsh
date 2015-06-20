@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>baden-baden</locale>
+    <locale-id>baden-baden</locale-id>
     <territory>germany</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1832</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rio-grande-do-sul</locale>
+    <locale-id>rio-grande-do-sul</locale-id>
     <territory>brazil</territory>
     <post-type>consulate</post-type>
     <valid-since>1829</valid-since>

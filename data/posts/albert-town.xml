@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>albert-town</locale>
+    <locale-id>albert-town</locale-id>
     <territory>bahamas</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1883</valid-since>

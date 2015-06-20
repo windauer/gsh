@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bristol</locale>
+    <locale-id>bristol</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consulate</post-type>
     <valid-since>1793</valid-since>

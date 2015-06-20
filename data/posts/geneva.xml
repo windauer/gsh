@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>geneva</locale>
+    <locale-id>geneva</locale-id>
     <territory>switzerland</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1855</valid-since>

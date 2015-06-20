@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>volo</locale>
+    <locale-id>volo</locale-id>
     <territory>greece</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1887</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>agua-prieta</locale>
+    <locale-id>agua-prieta</locale-id>
     <territory>mexico</territory>
     <post-type>consulate</post-type>
     <valid-since>1918</valid-since>

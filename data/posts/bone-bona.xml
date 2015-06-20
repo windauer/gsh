@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bone-bona</locale>
+    <locale-id>bone-bona</locale-id>
     <territory>algeria</territory>
     <post-type>consulate</post-type>
     <valid-since>1833</valid-since>

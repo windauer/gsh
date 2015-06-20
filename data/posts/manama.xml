@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>manama</locale>
+    <locale-id>manama</locale-id>
     <territory>bahrain</territory>
     <post-type>embassy</post-type>
     <valid-since>1971</valid-since>

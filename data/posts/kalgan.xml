@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kalgan</locale>
+    <locale-id>kalgan</locale-id>
     <territory>china</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1920</valid-since>

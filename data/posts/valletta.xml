@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>valletta</locale>
+    <locale-id>valletta</locale-id>
     <territory>malta</territory>
     <post-type>embassy</post-type>
     <valid-since>1964</valid-since>

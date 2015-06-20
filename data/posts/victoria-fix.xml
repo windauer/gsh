@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>victoria</locale>
+    <locale-id>victoria</locale-id>
     <territory>seychelles</territory>
     <post-type>embassy</post-type>
     <valid-since>1900</valid-since>

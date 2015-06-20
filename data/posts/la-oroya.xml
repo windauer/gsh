@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>la-oroya</locale>
+    <locale-id>la-oroya</locale-id>
     <territory>peru</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1922</valid-since>

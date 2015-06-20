@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>savannah-la-mar</locale>
+    <locale-id>savannah-la-mar</locale-id>
     <territory>jamaica</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1863</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>georgetown</locale>
+    <locale-id>georgetown</locale-id>
     <territory>guyana</territory>
     <post-type>embassy</post-type>
     <valid-since>1966</valid-since>

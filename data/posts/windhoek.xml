@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>windhoek</locale>
+    <locale-id>windhoek</locale-id>
     <territory>namibia</territory>
     <post-type>embassy</post-type>
     <valid-since>1990</valid-since>

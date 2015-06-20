@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>guatemala-city</locale>
+    <locale-id>guatemala-city</locale-id>
     <territory>guatemala</territory>
     <post-type>embassy</post-type>
     <valid-since>1824</valid-since>

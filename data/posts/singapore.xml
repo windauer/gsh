@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>singapore</locale>
+    <locale-id>singapore</locale-id>
     <territory>singapore</territory>
     <post-type>embassy</post-type>
     <valid-since>1836</valid-since>

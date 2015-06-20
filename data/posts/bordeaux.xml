@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bordeaux</locale>
+    <locale-id>bordeaux</locale-id>
     <territory>france</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1778</valid-since>

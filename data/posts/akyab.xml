@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>akyab</locale>
+    <locale-id>akyab</locale-id>
     <territory>india</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1857</valid-since>

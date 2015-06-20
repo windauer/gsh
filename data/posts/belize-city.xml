@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>belize-city</locale>
+    <locale-id>belize-city</locale-id>
     <territory>belize</territory>
     <post-type>embassy</post-type>
     <valid-since>1846</valid-since>

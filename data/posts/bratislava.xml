@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bratislava</locale>
+    <locale-id>bratislava</locale-id>
     <territory>slovakia</territory>
     <post-type>embassy</post-type>
     <valid-since>1993</valid-since>

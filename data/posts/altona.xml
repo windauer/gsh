@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>altona</locale>
+    <locale-id>altona</locale-id>
     <territory>denmark</territory>
     <post-type>consulate</post-type>
     <valid-since>1839</valid-since>

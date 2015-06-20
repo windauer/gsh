@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ho-chi-minh-city</locale>
+    <locale-id>ho-chi-minh-city</locale-id>
     <territory>vietnam</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1997</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>cruz-grande</locale>
+    <locale-id>cruz-grande</locale-id>
     <territory>chile</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1915</valid-since>

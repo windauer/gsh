@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>jeres-de-la-frontera</locale>
+    <locale-id>jeres-de-la-frontera</locale-id>
     <territory>spain</territory>
     <post-type>consulate</post-type>
     <valid-since>1873</valid-since>

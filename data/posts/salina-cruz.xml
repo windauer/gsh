@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>salina-cruz</locale>
+    <locale-id>salina-cruz</locale-id>
     <territory>mexico</territory>
     <post-type>consulate</post-type>
     <valid-since>1907</valid-since>

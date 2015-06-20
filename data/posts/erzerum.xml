@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>erzerum</locale>
+    <locale-id>erzerum</locale-id>
     <territory>armenia</territory>
     <post-type>consulate</post-type>
     <valid-since>1895</valid-since>

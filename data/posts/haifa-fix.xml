@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>haifa</locale>
+    <locale-id>haifa</locale-id>
     <territory>syria</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1833</valid-since>

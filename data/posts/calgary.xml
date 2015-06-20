@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>calgary</locale>
+    <locale-id>calgary</locale-id>
     <territory>canada</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1906</valid-since>

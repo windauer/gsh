@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>mexico-city</locale>
+    <locale-id>mexico-city</locale-id>
     <territory>mexico</territory>
     <post-type>embassy</post-type>
     <valid-since>1825</valid-since>

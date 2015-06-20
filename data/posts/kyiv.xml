@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kyiv</locale>
+    <locale-id>kyiv</locale-id>
     <territory>ukraine</territory>
     <post-type>embassy</post-type>
     <valid-since>1992</valid-since>

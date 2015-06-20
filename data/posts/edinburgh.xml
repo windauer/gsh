@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>edinburgh</locale>
+    <locale-id>edinburgh</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1854</valid-since>

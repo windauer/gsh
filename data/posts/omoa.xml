@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>omoa</locale>
+    <locale-id>omoa</locale-id>
     <territory>honduras</territory>
     <post-type>consulate</post-type>
     <valid-since>1843</valid-since>

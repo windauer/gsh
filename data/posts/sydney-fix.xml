@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>sydney</locale>
+    <locale-id>sydney</locale-id>
     <territory>canada</territory>
     <post-type>consulate</post-type>
     <valid-since>1930</valid-since>

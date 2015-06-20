@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>port-au-prince</locale>
+    <locale-id>port-au-prince</locale-id>
     <territory>haiti</territory>
     <post-type>embassy</post-type>
     <valid-since>1799</valid-since>

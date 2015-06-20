@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>antwerp</locale>
+    <locale-id>antwerp</locale-id>
     <territory>belgium</territory>
     <post-type>consulate</post-type>
     <valid-since>1803</valid-since>

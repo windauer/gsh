@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>isle-of-wight</locale>
+    <locale-id>isle-of-wight</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1790</valid-since>

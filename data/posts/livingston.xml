@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>livingston</locale>
+    <locale-id>livingston</locale-id>
     <territory>guatemala</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1883</valid-since>

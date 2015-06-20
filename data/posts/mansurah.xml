@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>mansurah</locale>
+    <locale-id>mansurah</locale-id>
     <territory>egypt</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1871</valid-since>

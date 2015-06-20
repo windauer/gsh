@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>cuxhaven</locale>
+    <locale-id>cuxhaven</locale-id>
     <territory>germany</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1869</valid-since>

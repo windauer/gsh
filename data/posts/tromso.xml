@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tromso</locale>
+    <locale-id>tromso</locale-id>
     <territory>norway</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1862</valid-since>

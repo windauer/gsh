@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>madras</locale>
+    <locale-id>madras</locale-id>
     <territory>india</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1794</valid-since>

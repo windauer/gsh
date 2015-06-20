@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tripoli</locale>
+    <locale-id>tripoli</locale-id>
     <territory>libya</territory>
     <post-type>embassy</post-type>
     <valid-since>1799</valid-since>

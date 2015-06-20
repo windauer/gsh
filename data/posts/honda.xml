@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>honda</locale>
+    <locale-id>honda</locale-id>
     <territory>colombia</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1876</valid-since>

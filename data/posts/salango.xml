@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>salango</locale>
+    <locale-id>salango</locale-id>
     <territory>ecuador</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1911</valid-since>

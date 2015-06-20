@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>sofia</locale>
+    <locale-id>sofia</locale-id>
     <territory>bulgaria</territory>
     <post-type>embassy</post-type>
     <valid-since>1912</valid-since>

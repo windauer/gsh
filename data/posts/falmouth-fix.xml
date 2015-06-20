@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>falmouth</locale>
+    <locale-id>falmouth</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1793</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>suez</locale>
+    <locale-id>suez</locale-id>
     <territory>egypt</territory>
     <post-type>consulate</post-type>
     <valid-since>1941</valid-since>

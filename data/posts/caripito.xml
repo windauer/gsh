@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>caripito</locale>
+    <locale-id>caripito</locale-id>
     <territory>venezuela</territory>
     <post-type>consulate</post-type>
     <valid-since>1942</valid-since>

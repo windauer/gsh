@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ljubljana</locale>
+    <locale-id>ljubljana</locale-id>
     <territory>slovenia</territory>
     <post-type>embassy</post-type>
     <valid-since>1992</valid-since>

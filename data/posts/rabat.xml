@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rabat</locale>
+    <locale-id>rabat</locale-id>
     <territory>morocco</territory>
     <post-type>embassy</post-type>
     <valid-since>1881</valid-since>

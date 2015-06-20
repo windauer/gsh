@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>florence</locale>
+    <locale-id>florence</locale-id>
     <territory>italy</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1823</valid-since>

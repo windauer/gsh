@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>vientiane</locale>
+    <locale-id>vientiane</locale-id>
     <territory>laos</territory>
     <post-type>embassy</post-type>
     <valid-since>1950</valid-since>

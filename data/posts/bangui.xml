@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bangui</locale>
+    <locale-id>bangui</locale-id>
     <territory>central-african-republic</territory>
     <post-type>embassy</post-type>
     <valid-since>1961</valid-since>

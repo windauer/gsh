@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>fiume</locale>
+    <locale-id>fiume</locale-id>
     <territory>italy</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1919</valid-since>

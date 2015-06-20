@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>hankow</locale>
+    <locale-id>hankow</locale-id>
     <territory>china</territory>
     <post-type>consulate</post-type>
     <valid-since>1863</valid-since>

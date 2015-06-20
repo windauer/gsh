@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>palma-de-mallorca</locale>
+    <locale-id>palma-de-mallorca</locale-id>
     <territory>spain</territory>
     <post-type>consulate</post-type>
     <valid-since>1906</valid-since>

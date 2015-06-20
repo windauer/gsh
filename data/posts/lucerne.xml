@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>lucerne</locale>
+    <locale-id>lucerne</locale-id>
     <territory>switzerland</territory>
     <post-type>consulate</post-type>
     <valid-since>1886</valid-since>

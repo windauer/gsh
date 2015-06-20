@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>boma</locale>
+    <locale-id>boma</locale-id>
     <territory>congo-kinshasa</territory>
     <post-type>consulate</post-type>
     <valid-since>1888</valid-since>

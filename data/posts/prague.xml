@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>prague</locale>
+    <locale-id>prague</locale-id>
     <territory>austria</territory>
     <post-type>consulate</post-type>
     <valid-since>1869</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>lugano</locale>
+    <locale-id>lugano</locale-id>
     <territory>switzerland</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1918</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>marseille</locale>
+    <locale-id>marseille</locale-id>
     <territory>france</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1790</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>andorra</locale>
+    <locale-id>andorra</locale-id>
     <territory>andorra</territory>
     <post-type>embassy</post-type>
     <valid-since>1996</valid-since>

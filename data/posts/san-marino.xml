@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>san-marino</locale>
+    <locale-id>san-marino</locale-id>
     <territory>san-marino</territory>
     <post-type>consulate</post-type>
     <valid-since>1925</valid-since>

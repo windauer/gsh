@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>muscat</locale>
+    <locale-id>muscat</locale-id>
     <territory>oman</territory>
     <post-type>embassy</post-type>
     <valid-since>1838</valid-since>

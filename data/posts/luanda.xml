@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>luanda</locale>
+    <locale-id>luanda</locale-id>
     <territory>angola</territory>
     <post-type>embassy</post-type>
     <valid-since>1919</valid-since>

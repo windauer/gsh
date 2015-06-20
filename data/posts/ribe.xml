@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ribe</locale>
+    <locale-id>ribe</locale-id>
     <territory>denmark</territory>
     <post-type>consulate</post-type>
     <valid-since>1918</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>nottingham</locale>
+    <locale-id>nottingham</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consulate</post-type>
     <valid-since>1877</valid-since>

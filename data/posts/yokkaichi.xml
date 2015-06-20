@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>yokkaichi</locale>
+    <locale-id>yokkaichi</locale-id>
     <territory>japan</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1909</valid-since>

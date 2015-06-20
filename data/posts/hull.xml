@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>hull</locale>
+    <locale-id>hull</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consulate</post-type>
     <valid-since>1862</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>mendoza</locale>
+    <locale-id>mendoza</locale-id>
     <territory>argentina</territory>
     <post-type>consulate</post-type>
     <valid-since>1943</valid-since>

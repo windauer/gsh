@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rio-de-janeiro</locale>
+    <locale-id>rio-de-janeiro</locale-id>
     <territory>brazil</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1818</valid-since>

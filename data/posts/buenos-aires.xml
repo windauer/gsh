@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>buenos-aires</locale>
+    <locale-id>buenos-aires</locale-id>
     <territory>argentina</territory>
     <post-type>embassy</post-type>
     <valid-since>1823</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>santiago-de-los-caballeros</locale>
+    <locale-id>santiago-de-los-caballeros</locale-id>
     <territory>dominican-republic</territory>
     <post-type>consulate</post-type>
     <valid-since>1962</valid-since>

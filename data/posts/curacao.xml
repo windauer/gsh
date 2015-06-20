@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>curacao</locale>
+    <locale-id>curacao</locale-id>
     <territory>curacao</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1935</valid-since>

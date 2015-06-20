@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>viborg</locale>
+    <locale-id>viborg</locale-id>
     <territory>finland</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1879</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>verona</locale>
+    <locale-id>verona</locale-id>
     <territory>italy</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1880</valid-since>

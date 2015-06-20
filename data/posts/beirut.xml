@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>beirut</locale>
+    <locale-id>beirut</locale-id>
     <territory>lebanon</territory>
     <post-type>embassy</post-type>
     <valid-since>1850</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>yerevan</locale>
+    <locale-id>yerevan</locale-id>
     <territory>armenia</territory>
     <post-type>embassy</post-type>
     <valid-since>1992</valid-since>

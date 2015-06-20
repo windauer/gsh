@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>prince-rupert</locale>
+    <locale-id>prince-rupert</locale-id>
     <territory>canada</territory>
     <post-type>consulate</post-type>
     <valid-since>1914</valid-since>

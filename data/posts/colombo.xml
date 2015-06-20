@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>colombo</locale>
+    <locale-id>colombo</locale-id>
     <territory>sri-lanka</territory>
     <post-type>embassy</post-type>
     <valid-since>1907</valid-since>

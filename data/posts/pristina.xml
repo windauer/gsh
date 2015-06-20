@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>pristina</locale>
+    <locale-id>pristina</locale-id>
     <territory>kosovo</territory>
     <post-type>embassy</post-type>
     <valid-since>2008</valid-since>

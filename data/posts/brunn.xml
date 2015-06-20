@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>brunn</locale>
+    <locale-id>brunn</locale-id>
     <territory>austria</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1863</valid-since>

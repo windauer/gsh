@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>izmir</locale>
+    <locale-id>izmir</locale-id>
     <territory>turkey</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1802</valid-since>

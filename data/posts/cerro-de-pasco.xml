@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>cerro-de-pasco</locale>
+    <locale-id>cerro-de-pasco</locale-id>
     <territory>peru</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1882</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bahia-de-caraqeuz</locale>
+    <locale-id>bahia-de-caraqeuz</locale-id>
     <territory>ecuador</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1882</valid-since>

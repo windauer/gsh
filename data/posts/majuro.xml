@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>majuro</locale>
+    <locale-id>majuro</locale-id>
     <territory>marshall-islands</territory>
     <post-type>embassy</post-type>
     <valid-since>1989</valid-since>

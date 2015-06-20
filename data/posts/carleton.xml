@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>carleton</locale>
+    <locale-id>carleton</locale-id>
     <territory>canada</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1890</valid-since>

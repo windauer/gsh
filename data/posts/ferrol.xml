@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ferrol</locale>
+    <locale-id>ferrol</locale-id>
     <territory>spain</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1875</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>helder</locale>
+    <locale-id>helder</locale-id>
     <territory>netherlands</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1804</valid-since>

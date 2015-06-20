@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>port-moresby</locale>
+    <locale-id>port-moresby</locale-id>
     <territory>papua-new-guinea</territory>
     <post-type>embassy</post-type>
     <valid-since>1974</valid-since>

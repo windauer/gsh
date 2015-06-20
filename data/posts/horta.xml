@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>horta</locale>
+    <locale-id>horta</locale-id>
     <territory>portugal</territory>
     <post-type>consulate</post-type>
     <valid-since>1920</valid-since>

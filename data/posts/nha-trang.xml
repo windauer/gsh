@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>nha-trang</locale>
+    <locale-id>nha-trang</locale-id>
     <territory>vietnam</territory>
     <post-type>consulate</post-type>
     <valid-since>1967</valid-since>

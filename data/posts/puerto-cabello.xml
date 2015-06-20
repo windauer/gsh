@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>puerto-cabello</locale>
+    <locale-id>puerto-cabello</locale-id>
     <territory>venezuela</territory>
     <post-type>consulate</post-type>
     <valid-since>1823</valid-since>

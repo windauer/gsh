@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>manila</locale>
+    <locale-id>manila</locale-id>
     <territory>philippines</territory>
     <post-type>embassy</post-type>
     <valid-since>1945</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>krakow</locale>
+    <locale-id>krakow</locale-id>
     <territory>poland</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1946</valid-since>

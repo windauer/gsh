@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kathmandu</locale>
+    <locale-id>kathmandu</locale-id>
     <territory>nepal</territory>
     <post-type>embassy</post-type>
     <valid-since>1959</valid-since>

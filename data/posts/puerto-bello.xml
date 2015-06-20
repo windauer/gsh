@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>puerto-bello</locale>
+    <locale-id>puerto-bello</locale-id>
     <territory>colombia</territory>
     <post-type>consulate</post-type>
     <valid-since>1877</valid-since>

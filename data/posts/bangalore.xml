@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bangalore</locale>
+    <locale-id>bangalore</locale-id>
     <territory>india</territory>
     <post-type>consulate</post-type>
     <valid-since>2009</valid-since>

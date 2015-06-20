@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>phnom-penh</locale>
+    <locale-id>phnom-penh</locale-id>
     <territory>cambodia</territory>
     <post-type>embassy</post-type>
     <valid-since>1950</valid-since>

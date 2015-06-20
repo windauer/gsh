@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>port-said</locale>
+    <locale-id>port-said</locale-id>
     <territory>egypt</territory>
     <post-type>consulate</post-type>
     <valid-since>1870</valid-since>

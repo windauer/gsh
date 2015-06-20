@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kobe</locale>
+    <locale-id>kobe</locale-id>
     <territory>japan</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1902</valid-since>

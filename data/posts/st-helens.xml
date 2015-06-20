@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>st-helens</locale>
+    <locale-id>st-helens</locale-id>
     <territory>united-kingdom</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1878</valid-since>

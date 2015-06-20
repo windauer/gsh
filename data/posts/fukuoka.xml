@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>fukuoka</locale>
+    <locale-id>fukuoka</locale-id>
     <territory>japan</territory>
     <post-type>consulate</post-type>
     <valid-since>1950</valid-since>

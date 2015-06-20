@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>erbil</locale>
+    <locale-id>erbil</locale-id>
     <territory>iraq</territory>
     <post-type>consulate-general</post-type>
     <valid-since>2011</valid-since>

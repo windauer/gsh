@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>djibouti</locale>
+    <locale-id>djibouti</locale-id>
     <territory>djibouti</territory>
     <post-type>embassy</post-type>
     <valid-since>1977</valid-since>

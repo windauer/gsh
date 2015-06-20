@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>nice</locale>
+    <locale-id>nice</locale-id>
     <territory>france</territory>
     <post-type>consulate</post-type>
     <valid-since>1818</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>latakia</locale>
+    <locale-id>latakia</locale-id>
     <territory>syria</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1866</valid-since>

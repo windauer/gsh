@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ciudad-trujillo</locale>
+    <locale-id>ciudad-trujillo</locale-id>
     <territory>dominican-republic</territory>
     <post-type>consulate</post-type>
     <valid-since>1936</valid-since>

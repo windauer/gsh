@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>podgorica</locale>
+    <locale-id>podgorica</locale-id>
     <territory>montenegro</territory>
     <post-type>embassy</post-type>
     <valid-since>2002</valid-since>

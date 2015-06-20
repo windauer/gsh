@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>dushanbe</locale>
+    <locale-id>dushanbe</locale-id>
     <territory>tajikistan</territory>
     <post-type>embassy</post-type>
     <valid-since>1992</valid-since>

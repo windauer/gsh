@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>kingston</locale>
+    <locale-id>kingston</locale-id>
     <territory>canada</territory>
     <post-type>consulate</post-type>
     <valid-since>1899</valid-since>

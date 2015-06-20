@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>asuncion</locale>
+    <locale-id>asuncion</locale-id>
     <territory>paraguay</territory>
     <post-type>embassy</post-type>
     <valid-since>1855</valid-since>

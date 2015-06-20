@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>leige</locale>
+    <locale-id>leige</locale-id>
     <territory>belgium</territory>
     <post-type>consulate</post-type>
     <valid-since>1862</valid-since>

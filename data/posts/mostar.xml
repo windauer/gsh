@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>mostar</locale>
+    <locale-id>mostar</locale-id>
     <territory>bosnia-and-herzegovina</territory>
     <post-type>embassy</post-type>
     <valid-since>1998</valid-since>

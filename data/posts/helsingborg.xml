@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>helsingborg</locale>
+    <locale-id>helsingborg</locale-id>
     <territory>sweden</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1893</valid-since>

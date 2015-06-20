@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>pretoria</locale>
+    <locale-id>pretoria</locale-id>
     <territory>south-africa</territory>
     <post-type>embassy</post-type>
     <valid-since>1898</valid-since>

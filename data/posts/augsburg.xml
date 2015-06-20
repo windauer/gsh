@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>augsburg</locale>
+    <locale-id>augsburg</locale-id>
     <territory>germany</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1846</valid-since>

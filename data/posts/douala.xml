@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>douala</locale>
+    <locale-id>douala</locale-id>
     <territory>cameroon</territory>
     <post-type>consulate</post-type>
     <valid-since>1962</valid-since>

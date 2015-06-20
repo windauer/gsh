@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>nicosia</locale>
+    <locale-id>nicosia</locale-id>
     <territory>cyprus</territory>
     <post-type>embassy</post-type>
     <valid-since>1948</valid-since>

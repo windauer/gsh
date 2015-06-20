@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>chaux-de-fonds</locale>
+    <locale-id>chaux-de-fonds</locale-id>
     <territory>switzerland</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1882</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>pau</locale>
+    <locale-id>pau</locale-id>
     <territory>france</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1859</valid-since>

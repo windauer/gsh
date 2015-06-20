@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>st-marc</locale>
+    <locale-id>st-marc</locale-id>
     <territory>haiti</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1861</valid-since>

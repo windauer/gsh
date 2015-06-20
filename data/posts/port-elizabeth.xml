@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>port-elizabeth</locale>
+    <locale-id>port-elizabeth</locale-id>
     <territory>south-africa</territory>
     <post-type>consulate</post-type>
     <valid-since>1928</valid-since>

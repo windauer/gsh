@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>sonneberg</locale>
+    <locale-id>sonneberg</locale-id>
     <territory>germany</territory>
     <post-type>consulate</post-type>
     <valid-since>1851</valid-since>

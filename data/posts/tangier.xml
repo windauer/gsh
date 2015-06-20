@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>tangier</locale>
+    <locale-id>tangier</locale-id>
     <territory>morocco</territory>
     <post-type>consulate</post-type>
     <valid-since>1791</valid-since>

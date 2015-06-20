@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>ningpo</locale>
+    <locale-id>ningpo</locale-id>
     <territory>china</territory>
     <post-type>consulate</post-type>
     <valid-since>1853</valid-since>

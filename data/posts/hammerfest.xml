@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>hammerfest</locale>
+    <locale-id>hammerfest</locale-id>
     <territory>norway</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1865</valid-since>

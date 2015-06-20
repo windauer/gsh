@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>quepos</locale>
+    <locale-id>quepos</locale-id>
     <territory>costa-rica</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1943</valid-since>

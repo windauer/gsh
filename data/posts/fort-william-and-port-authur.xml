@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>fort-william-and-port-authur</locale>
+    <locale-id>fort-william-and-port-authur</locale-id>
     <territory>canada</territory>
     <post-type>consulate</post-type>
     <valid-since>1895</valid-since>

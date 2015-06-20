@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>newry</locale>
+    <locale-id>newry</locale-id>
     <territory>ireland</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1842</valid-since>

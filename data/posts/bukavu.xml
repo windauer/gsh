@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bukavu</locale>
+    <locale-id>bukavu</locale-id>
     <territory>congo-kinshasa</territory>
     <post-type>consulate</post-type>
     <valid-since>1963</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>app-alexandria</locale>
+    <locale-id>app-alexandria</locale-id>
     <territory>egypt</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1835</valid-since>

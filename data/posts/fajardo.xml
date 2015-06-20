@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>fajardo</locale>
+    <locale-id>fajardo</locale-id>
     <territory>puerto-rico</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1871</valid-since>

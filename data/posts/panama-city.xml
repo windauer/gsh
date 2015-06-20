@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>panama-city</locale>
+    <locale-id>panama-city</locale-id>
     <territory>panama</territory>
     <post-type>embassy</post-type>
     <valid-since>1947</valid-since>

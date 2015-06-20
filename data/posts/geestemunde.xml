@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>geestemunde</locale>
+    <locale-id>geestemunde</locale-id>
     <territory>germany</territory>
     <post-type>consulate</post-type>
     <valid-since>1863</valid-since>

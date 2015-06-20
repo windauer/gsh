@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>antilla</locale>
+    <locale-id>antilla</locale-id>
     <territory>cuba</territory>
     <post-type>consulate</post-type>
     <valid-since>1907</valid-since>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bangkok</locale>
+    <locale-id>bangkok</locale-id>
     <territory>thailand</territory>
     <post-type>embassy</post-type>
     <valid-since>1858</valid-since>

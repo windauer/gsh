@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>bremen</locale>
+    <locale-id>bremen</locale-id>
     <territory>germany</territory>
     <post-type>consulate</post-type>
     <valid-since>1921</valid-since>

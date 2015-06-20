@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>milk-river</locale>
+    <locale-id>milk-river</locale-id>
     <territory>jamaica</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1879</valid-since>

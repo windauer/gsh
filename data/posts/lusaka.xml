@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>lusaka</locale>
+    <locale-id>lusaka</locale-id>
     <territory>zambia</territory>
     <post-type>embassy</post-type>
     <valid-since>1964</valid-since>

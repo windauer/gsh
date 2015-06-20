@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>san-pedro-sula</locale>
+    <locale-id>san-pedro-sula</locale-id>
     <territory>honduras</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1883</valid-since>

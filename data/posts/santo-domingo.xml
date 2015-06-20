@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>santo-domingo</locale>
+    <locale-id>santo-domingo</locale-id>
     <territory>dominican-republic</territory>
     <post-type>embassy</post-type>
     <valid-since>1913</valid-since>

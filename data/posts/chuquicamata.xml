@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>chuquicamata</locale>
+    <locale-id>chuquicamata</locale-id>
     <territory>chile</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1919</valid-since>

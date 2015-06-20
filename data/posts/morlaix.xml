@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>morlaix</locale>
+    <locale-id>morlaix</locale-id>
     <territory>france</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1794</valid-since>

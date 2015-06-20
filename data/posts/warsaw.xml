@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>warsaw</locale>
+    <locale-id>warsaw</locale-id>
     <territory>poland</territory>
     <post-type>embassy</post-type>
     <valid-since>1915</valid-since>

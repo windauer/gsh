@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>st-georges</locale>
+    <locale-id>st-georges</locale-id>
     <territory>grenada</territory>
     <post-type>embassy</post-type>
     <valid-since>1981</valid-since>

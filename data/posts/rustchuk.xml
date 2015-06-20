@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rustchuk</locale>
+    <locale-id>rustchuk</locale-id>
     <territory>turkey</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1870</valid-since>

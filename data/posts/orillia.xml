@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>orillia</locale>
+    <locale-id>orillia</locale-id>
     <territory>canada</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1879</valid-since>

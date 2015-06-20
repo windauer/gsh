@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>yekaterinburg</locale>
+    <locale-id>yekaterinburg</locale-id>
     <territory>russia</territory>
     <post-type>consulate-general</post-type>
     <valid-since>1994</valid-since>

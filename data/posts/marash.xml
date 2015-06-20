@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>marash</locale>
+    <locale-id>marash</locale-id>
     <territory>syria</territory>
     <post-type>consular-agency</post-type>
     <valid-since>1868</valid-since>

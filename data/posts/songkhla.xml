@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>songkhla</locale>
+    <locale-id>songkhla</locale-id>
     <territory>thailand</territory>
     <post-type>consulate</post-type>
     <valid-since>1973</valid-since>

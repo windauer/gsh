@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>suva</locale>
+    <locale-id>suva</locale-id>
     <territory>fiji</territory>
     <post-type>embassy</post-type>
     <valid-since>1896</valid-since>

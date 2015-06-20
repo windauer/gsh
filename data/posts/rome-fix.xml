@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
-    <locale>rome</locale>
+    <locale-id>rome</locale-id>
     <territory>holy-see</territory>
     <post-type>consulate</post-type>
     <valid-since>1797</valid-since>

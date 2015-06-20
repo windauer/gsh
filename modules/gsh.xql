@@ -35,7 +35,7 @@ declare function gsh:territory-id-to-short-name-with-years-valid($territory-id a
             $territory/short-form-name, 
             ' (', 
             if ($territory/valid-since ne '') then replace($territory/valid-since, '-', '/') else '?', 
-            '-',
+            '–',
              if ($territory/valid-until ne '') then if ($territory/valid-until = '9999') then 'present' else replace($territory/valid-until, '-', '/') else '?',
             ')'
         )

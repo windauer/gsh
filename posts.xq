@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistory" at "/db/apps/gsh/modules/gsh.xql";
+import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistory" at "/db/apps/gsh/modules/gsh.xqm";
 
 declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 

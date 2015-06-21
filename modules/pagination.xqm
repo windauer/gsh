@@ -3,23 +3,32 @@ xquery version "3.0";
 module namespace p8n="http://history.state.gov/ns/xquery/pagination";
 
 declare function p8n:summarize($start as xs:integer, $per-page as xs:integer, $how-many as xs:integer) {
-    concat('Results ', $start, '–', $start + $per-page - 1, ' of ', $how-many, '.')
+    concat('Results ', $start, '–', min(($start + $per-page - 1, $how-many)), ' of ', $how-many, '.')
 };
 
+(:~ Paginate results, Google-style
+ : @see http://getbootstrap.com/components/#pagination 
+ : @param href a function taking two parameters ($start and $per-page, both integers) and returning a URL :)
 declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $how-many as xs:integer, $href as function) {
     let $total-pages := xs:integer(ceiling($how-many div $per-page))
     let $current-page := ($start - 1) div $per-page + 1
-    let $pages-to-show := distinct-values((1, xs:integer(max(($current-page - 2, 1))) to xs:integer(min(($current-page + 2, $total-pages))), $total-pages))
-    let $prev-start := max(($start - $per-page, 1))
-    let $next-start := $start + $per-page
+    let $max-window-size := 10 (: match Google :)
+    let $keep-stable-until := $max-window-size - 3
+    let $start-page := if ($current-page lt $keep-stable-until) then 1 else (max(($current-page - floor($max-window-size div 2), 1)) cast as xs:integer)
+    let $end-page := if ($total-pages lt $max-window-size) then $total-pages else if ($current-page lt $keep-stable-until) then $max-window-size else $current-page + ceiling($max-window-size div 2 - 1) cast as xs:integer
+    let $pages-to-show := $start-page to $end-page
+    let $is-first-page := $current-page eq 1
+    let $is-last-page := $current-page eq $total-pages
+    let $prev-start := if ($is-first-page) then 1 else $start - $per-page
+    let $next-start := if ($is-last-page) then $start else $start + $per-page
     return
         element nav {
             element ul {
                 attribute class { "pagination" },
                 element li {
-                    if ($current-page eq 1) then attribute class {"disabled"} else (),
+                    if ($is-first-page) then attribute class {"disabled"} else (),
                     element a {
-                        attribute href { $href($prev-start, $per-page) },
+                        attribute href { if ($is-first-page) then '#' else $href($prev-start, $per-page) },
                         attribute aria-label { "Previous" },
                         element span {
                             attribute aria-hidden { "true" },
@@ -38,7 +47,7 @@ declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $ho
                     }
                 },
                 element li {
-                    if ($current-page eq $total-pages) then attribute class {"disabled"} else (),
+                    if ($is-last-page) then attribute class {"disabled"} else (),
                     element a {
                         attribute href { $href($next-start, $per-page) },
                         attribute aria-label { "Next" },

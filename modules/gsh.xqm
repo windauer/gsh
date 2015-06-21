@@ -535,7 +535,7 @@ declare function gsh:locales-to-table($locales) {
             return
                 element tr {
                     element td { $locale/id/string() },
-                    element td { $locale/name/string() },
+                    element td { <a href="locales.xq?locale={$locale/id}">{$locale/name/string()}</a> },
                     element td { <a href="territories.xq?territory={$locale/current-territory}">{ $gsh:territories[id = $locale/current-territory]/short-form-name/string() }</a> },
                     element td { string-join(tokenize($locale/predecessors, ', '),'; ') },
                     element td { string-join(tokenize($locale/successors, ', '),'; ')},

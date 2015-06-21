@@ -59,7 +59,9 @@ declare function gsh:wrap-html($content as element(), $title as xs:string) {
     <html>
         <head>
             <title>{$title}</title>
-            <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet"/>
+            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+            <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
             <style type="text/css">
                 body {{ font-family: HelveticaNeue, Helvetica, Arial, sans }}
                 table {{ page-break-inside: avoid }}

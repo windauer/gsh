@@ -77,3 +77,10 @@ let $content :=
 return
     gsh:wrap-html($content, 'nav test')
 :)
+
+declare function p8n:strip-parameters($query-string, $names) {
+    let $original-parameters := tokenize($query-string, '&amp;')
+    let $trimmed := $original-parameters[not(tokenize(., '=')[1] = $names)]
+    return 
+        string-join($trimmed, '&amp;')
+};

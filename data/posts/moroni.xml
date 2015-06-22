@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>moroni</locale-id>
-    <territory>comoros</territory>
+    <territory-id>comoros</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1985</valid-since>
     <valid-until>1993</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>tirana</locale-id>
-    <territory>albania</territory>
+    <territory-id>albania</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1925</valid-since>
     <valid-until>9999</valid-until>

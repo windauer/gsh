@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>ciudad-obregon</locale-id>
-    <territory>mexico</territory>
+    <territory-id>mexico</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1929</valid-since>
     <valid-until>1929</valid-until>

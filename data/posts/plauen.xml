@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>plauen</locale-id>
-    <territory>germany</territory>
+    <territory-id>germany</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1887</valid-since>
     <valid-until>1916</valid-until>

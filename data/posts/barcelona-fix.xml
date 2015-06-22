@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>barcelona</locale-id>
-    <territory>venezuela</territory>
+    <territory-id>venezuela</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1877</valid-since>
     <valid-until>1911</valid-until>

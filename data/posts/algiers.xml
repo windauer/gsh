@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>algiers</locale-id>
-    <territory>algeria</territory>
+    <territory-id>algeria</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1792</valid-since>
     <valid-until>9999</valid-until>

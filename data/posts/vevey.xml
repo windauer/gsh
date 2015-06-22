@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>vevey</locale-id>
-    <territory>switzerland</territory>
+    <territory-id>switzerland</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1880</valid-since>
     <valid-until>1916</valid-until>

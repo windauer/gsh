@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>kovno</locale-id>
-    <territory>lithuania</territory>
+    <territory-id>lithuania</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1919</valid-since>
     <valid-until>1940</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>brazzaville</locale-id>
-    <territory>congo-brazzaville</territory>
+    <territory-id>congo-brazzaville</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1960</valid-since>
     <valid-until>9999</valid-until>

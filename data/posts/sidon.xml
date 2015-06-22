@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>sidon</locale-id>
-    <territory>turkey</territory>
+    <territory-id>turkey</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1858</valid-since>
     <valid-until>1889</valid-until>

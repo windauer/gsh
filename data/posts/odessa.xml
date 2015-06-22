@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>odessa</locale-id>
-    <territory>russia</territory>
+    <territory-id>russia</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1829</valid-since>
     <valid-until>1919</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>st-johns</locale-id>
-    <territory>antigua-and-barbuda</territory>
+    <territory-id>antigua-and-barbuda</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1981</valid-since>
     <valid-until>1994</valid-until>

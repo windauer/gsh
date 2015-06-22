@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>naha-okinawa</locale-id>
-    <territory>japan</territory>
+    <territory-id>japan</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since/>
     <valid-until>9999</valid-until>

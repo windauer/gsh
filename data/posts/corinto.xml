@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>corinto</locale-id>
-    <territory>nicaragua</territory>
+    <territory-id>nicaragua</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1885</valid-since>
     <valid-until>1933</valid-until>

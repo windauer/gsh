@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>amoy</locale-id>
-    <territory>china</territory>
+    <territory-id>china</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1844</valid-since>
     <valid-until>1941</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bassorah</locale-id>
-    <territory>turkey</territory>
+    <territory-id>turkey</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1895</valid-since>
     <valid-until>1926</valid-until>

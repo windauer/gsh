@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>safi</locale-id>
-    <territory>morocco</territory>
+    <territory-id>morocco</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1881</valid-since>
     <valid-until>1890</valid-until>

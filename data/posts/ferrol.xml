@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>ferrol</locale-id>
-    <territory>spain</territory>
+    <territory-id>spain</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1875</valid-since>
     <valid-until>1899</valid-until>

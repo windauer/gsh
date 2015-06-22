@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>governor’s-harbor</locale-id>
-    <territory>bahamas</territory>
+    <territory-id>bahamas</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1871</valid-since>
     <valid-until>1912</valid-until>

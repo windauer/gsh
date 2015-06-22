@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bologna</locale-id>
-    <territory>italy</territory>
+    <territory-id>italy</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1881</valid-since>
     <valid-until>1910</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>vlaardingen</locale-id>
-    <territory>netherlands</territory>
+    <territory-id>netherlands</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1866</valid-since>
     <valid-until>1875</valid-until>

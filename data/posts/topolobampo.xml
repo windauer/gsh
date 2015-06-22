@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>topolobampo</locale-id>
-    <territory>mexico</territory>
+    <territory-id>mexico</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1903</valid-since>
     <valid-until>1909</valid-until>

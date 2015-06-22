@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>san-francisco</locale-id>
-    <territory>mexico</territory>
+    <territory-id>mexico</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1842</valid-since>
     <valid-until>1850</valid-until>

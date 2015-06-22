@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>matanzas</locale-id>
-    <territory>cuba</territory>
+    <territory-id>cuba</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1820</valid-since>
     <valid-until>1943</valid-until>

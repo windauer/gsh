@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>old-harbor</locale-id>
-    <territory>jamaica</territory>
+    <territory-id>jamaica</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1867</valid-since>
     <valid-until>1901</valid-until>

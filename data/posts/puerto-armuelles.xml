@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>puerto-armuelles</locale-id>
-    <territory>panama</territory>
+    <territory-id>panama</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1943</valid-since>
     <valid-until>1964</valid-until>

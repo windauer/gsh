@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>brasilia</locale-id>
-    <territory>brazil</territory>
+    <territory-id>brazil</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1960</valid-since>
     <valid-until>9999</valid-until>

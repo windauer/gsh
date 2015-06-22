@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>gaborone</locale-id>
-    <territory>botswana</territory>
+    <territory-id>botswana</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1966</valid-since>
     <valid-until>9999</valid-until>

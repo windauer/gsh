@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>sunderland</locale-id>
-    <territory>united-kingdom</territory>
+    <territory-id>united-kingdom</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1862</valid-since>
     <valid-until>1909</valid-until>

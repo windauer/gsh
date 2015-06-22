@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>la-ceiba</locale-id>
-    <territory>honduras</territory>
+    <territory-id>honduras</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1891</valid-since>
     <valid-until>1948</valid-until>

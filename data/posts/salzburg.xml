@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>salzburg</locale-id>
-    <territory>austria</territory>
+    <territory-id>austria</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1948</valid-since>
     <valid-until>1993</valid-until>

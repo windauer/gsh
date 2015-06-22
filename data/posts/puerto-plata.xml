@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>puerto-plata</locale-id>
-    <territory>dominican-republic</territory>
+    <territory-id>dominican-republic</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1911</valid-since>
     <valid-until>1932</valid-until>

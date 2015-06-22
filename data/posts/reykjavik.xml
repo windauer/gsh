@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>reykjavik</locale-id>
-    <territory>iceland</territory>
+    <territory-id>iceland</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1938</valid-since>
     <valid-until>9999</valid-until>

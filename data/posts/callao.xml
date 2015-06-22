@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>callao</locale-id>
-    <territory>peru</territory>
+    <territory-id>peru</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1854</valid-since>
     <valid-until>1849</valid-until>

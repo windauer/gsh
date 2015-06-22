@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>dili</locale-id>
-    <territory>timor-leste</territory>
+    <territory-id>timor-leste</territory-id>
     <post-type>embassy</post-type>
     <valid-since>2002</valid-since>
     <valid-until>9999</valid-until>

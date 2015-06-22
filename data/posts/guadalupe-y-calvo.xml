@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>guadalupe-y-calvo</locale-id>
-    <territory>mexico</territory>
+    <territory-id>mexico</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1879</valid-since>
     <valid-until>1885</valid-until>

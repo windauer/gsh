@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>matagalpa</locale-id>
-    <territory>nicaragua</territory>
+    <territory-id>nicaragua</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1897</valid-since>
     <valid-until>1942</valid-until>

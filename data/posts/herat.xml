@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>herat</locale-id>
-    <territory>afghanistan</territory>
+    <territory-id>afghanistan</territory-id>
     <post-type>consulate</post-type>
     <valid-since>2010</valid-since>
     <valid-until>9999</valid-until>

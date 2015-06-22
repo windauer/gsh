@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>baku</locale-id>
-    <territory>azerbaijan</territory>
+    <territory-id>azerbaijan</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1992</valid-since>
     <valid-until>9999</valid-until>

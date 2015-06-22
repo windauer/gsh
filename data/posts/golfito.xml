@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>golfito</locale-id>
-    <territory>costa-rica</territory>
+    <territory-id>costa-rica</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1943</valid-since>
     <valid-until>1960</valid-until>

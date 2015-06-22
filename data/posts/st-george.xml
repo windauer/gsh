@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>st-george</locale-id>
-    <territory>portugal</territory>
+    <territory-id>portugal</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1869</valid-since>
     <valid-until>1908</valid-until>

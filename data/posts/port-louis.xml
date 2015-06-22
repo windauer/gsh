@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>port-louis</locale-id>
-    <territory>mauritius</territory>
+    <territory-id>mauritius</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1968</valid-since>
     <valid-until>9999</valid-until>

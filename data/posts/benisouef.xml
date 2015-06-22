@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>benisouef</locale-id>
-    <territory>egypt</territory>
+    <territory-id>egypt</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1871</valid-since>
     <valid-until>1897</valid-until>

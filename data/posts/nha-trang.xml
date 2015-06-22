@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>nha-trang</locale-id>
-    <territory>vietnam</territory>
+    <territory-id>vietnam</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1967</valid-since>
     <valid-until>1975</valid-until>

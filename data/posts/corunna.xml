@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>corunna</locale-id>
-    <territory>spain</territory>
+    <territory-id>spain</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1802</valid-since>
     <valid-until>1924</valid-until>

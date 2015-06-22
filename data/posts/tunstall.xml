@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>tunstall</locale-id>
-    <territory>united-kingdom</territory>
+    <territory-id>united-kingdom</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1863</valid-since>
     <valid-until>1905</valid-until>

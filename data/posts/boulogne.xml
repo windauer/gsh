@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>boulogne</locale-id>
-    <territory>france</territory>
+    <territory-id>france</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1863</valid-since>
     <valid-until>1937</valid-until>

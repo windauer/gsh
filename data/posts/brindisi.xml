@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>brindisi</locale-id>
-    <territory>italy</territory>
+    <territory-id>italy</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1864</valid-since>
     <valid-until>1880</valid-until>

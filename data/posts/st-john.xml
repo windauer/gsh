@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>st-john</locale-id>
-    <territory>canada</territory>
+    <territory-id>canada</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1931</valid-since>
     <valid-until>1976</valid-until>

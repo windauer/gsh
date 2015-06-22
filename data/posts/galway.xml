@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>galway</locale-id>
-    <territory>ireland</territory>
+    <territory-id>ireland</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1832</valid-since>
     <valid-until>1945</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>seville</locale-id>
-    <territory>spain</territory>
+    <territory-id>spain</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1795</valid-since>
     <valid-until>1986</valid-until>

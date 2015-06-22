@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>hanover</locale-id>
-    <territory>germany</territory>
+    <territory-id>germany</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1861</valid-since>
     <valid-until>1914</valid-until>

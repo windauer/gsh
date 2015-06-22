@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>leone</locale-id>
-    <territory>samoa</territory>
+    <territory-id>samoa</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1879</valid-since>
     <valid-until>1881</valid-until>

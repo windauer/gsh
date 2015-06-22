@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>manila</locale-id>
-    <territory>philippines</territory>
+    <territory-id>philippines</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1945</valid-since>
     <valid-until>9999</valid-until>

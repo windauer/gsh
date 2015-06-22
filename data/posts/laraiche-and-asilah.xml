@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>laraiche-and-asilah</locale-id>
-    <territory>morocco</territory>
+    <territory-id>morocco</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1852</valid-since>
     <valid-until>1896</valid-until>

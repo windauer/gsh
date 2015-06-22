@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>camaguey</locale-id>
-    <territory>cuba</territory>
+    <territory-id>cuba</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1915</valid-since>
     <valid-until>1961</valid-until>

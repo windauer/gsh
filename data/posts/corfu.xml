@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>corfu</locale-id>
-    <territory>greece</territory>
+    <territory-id>greece</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1861</valid-since>
     <valid-until>1913</valid-until>

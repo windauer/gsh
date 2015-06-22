@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>sana’a</locale-id>
-    <territory>yemen</territory>
+    <territory-id>yemen</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1964</valid-since>
     <valid-until>9999</valid-until>

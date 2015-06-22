@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>lilongwe</locale-id>
-    <territory>malawi</territory>
+    <territory-id>malawi</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1976</valid-since>
     <valid-until>9999</valid-until>

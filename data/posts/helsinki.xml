@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>helsinki</locale-id>
-    <territory>finland</territory>
+    <territory-id>finland</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1850</valid-since>
     <valid-until>9999</valid-until>

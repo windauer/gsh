@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>ponce</locale-id>
-    <territory>puerto-rico</territory>
+    <territory-id>puerto-rico</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1828</valid-since>
     <valid-until>1899</valid-until>

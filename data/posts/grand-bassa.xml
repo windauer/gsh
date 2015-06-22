@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>grand-bassa</locale-id>
-    <territory>liberia</territory>
+    <territory-id>liberia</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1868</valid-since>
     <valid-until>1881</valid-until>

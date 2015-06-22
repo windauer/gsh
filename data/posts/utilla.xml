@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>utilla</locale-id>
-    <territory>honduras</territory>
+    <territory-id>honduras</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1880</valid-since>
     <valid-until>1908</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>whampoa</locale-id>
-    <territory>china</territory>
+    <territory-id>china</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1853</valid-since>
     <valid-until>1856</valid-until>

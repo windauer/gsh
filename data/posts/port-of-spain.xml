@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>port-of-spain</locale-id>
-    <territory>trinidad-and-tobago</territory>
+    <territory-id>trinidad-and-tobago</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1962</valid-since>
     <valid-until>9999</valid-until>

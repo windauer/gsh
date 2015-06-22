@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>erbil</locale-id>
-    <territory>iraq</territory>
+    <territory-id>iraq</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>2011</valid-since>
     <valid-until>9999</valid-until>

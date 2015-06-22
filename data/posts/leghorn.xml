@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>leghorn</locale-id>
-    <territory>italy</territory>
+    <territory-id>italy</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1794</valid-since>
     <valid-until>1941</valid-until>

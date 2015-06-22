@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>buenos-aires</locale-id>
-    <territory>argentina</territory>
+    <territory-id>argentina</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1823</valid-since>
     <valid-until>9999</valid-until>

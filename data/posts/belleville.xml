@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>belleville</locale-id>
-    <territory>canada</territory>
+    <territory-id>canada</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1866</valid-since>
     <valid-until>1908</valid-until>

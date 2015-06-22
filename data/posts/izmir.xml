@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>izmir</locale-id>
-    <territory>turkey</territory>
+    <territory-id>turkey</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1802</valid-since>
     <valid-until>1993</valid-until>

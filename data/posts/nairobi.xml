@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>nairobi</locale-id>
-    <territory>kenya</territory>
+    <territory-id>kenya</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1918</valid-since>
     <valid-until>9999</valid-until>

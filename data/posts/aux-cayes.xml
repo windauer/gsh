@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>aux-cayes</locale-id>
-    <territory>haiti</territory>
+    <territory-id>haiti</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1797</valid-since>
     <valid-until>1923</valid-until>

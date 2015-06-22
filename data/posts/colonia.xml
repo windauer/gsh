@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>colonia</locale-id>
-    <territory>uruguay</territory>
+    <territory-id>uruguay</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1869</valid-since>
     <valid-until>1906</valid-until>

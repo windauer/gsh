@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>naples</locale-id>
-    <territory>italy</territory>
+    <territory-id>italy</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1865</valid-since>
     <valid-until>9999</valid-until>

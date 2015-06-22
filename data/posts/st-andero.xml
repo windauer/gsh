@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>st-andero</locale-id>
-    <territory>spain</territory>
+    <territory-id>spain</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1800</valid-since>
     <valid-until>1815</valid-until>

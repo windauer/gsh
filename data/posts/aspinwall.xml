@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>aspinwall</locale-id>
-    <territory>colombia</territory>
+    <territory-id>colombia</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1852</valid-since>
     <valid-until>1882</valid-until>

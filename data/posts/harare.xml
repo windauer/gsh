@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>harare</locale-id>
-    <territory>zimbabwe</territory>
+    <territory-id>zimbabwe</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1980</valid-since>
     <valid-until>9999</valid-until>

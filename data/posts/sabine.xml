@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>sabine</locale-id>
-    <territory>texas</territory>
+    <territory-id>texas</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1843</valid-since>
     <valid-until>1845</valid-until>

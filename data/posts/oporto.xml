@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>oporto</locale-id>
-    <territory>portugal</territory>
+    <territory-id>portugal</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1821</valid-since>
     <valid-until>1992</valid-until>

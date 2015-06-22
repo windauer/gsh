@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>brousa</locale-id>
-    <territory>turkey</territory>
+    <territory-id>turkey</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1835</valid-since>
     <valid-until>1916</valid-until>

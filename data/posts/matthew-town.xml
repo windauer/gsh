@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>matthew-town</locale-id>
-    <territory>bahamas</territory>
+    <territory-id>bahamas</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1861</valid-since>
     <valid-until>1915</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>concepcion-del-oro</locale-id>
-    <territory>mexico</territory>
+    <territory-id>mexico</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1883</valid-since>
     <valid-until>1884</valid-until>

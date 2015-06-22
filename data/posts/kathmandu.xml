@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>kathmandu</locale-id>
-    <territory>nepal</territory>
+    <territory-id>nepal</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1959</valid-since>
     <valid-until>9999</valid-until>

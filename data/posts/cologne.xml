@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>cologne</locale-id>
-    <territory>germany</territory>
+    <territory-id>germany</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1852</valid-since>
     <valid-until>1941</valid-until>

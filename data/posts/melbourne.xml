@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>melbourne</locale-id>
-    <territory>australia</territory>
+    <territory-id>australia</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1852</valid-since>
     <valid-until>9999</valid-until>

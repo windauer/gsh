@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>cette</locale-id>
-    <territory>france</territory>
+    <territory-id>france</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1802</valid-since>
     <valid-until>1920</valid-until>

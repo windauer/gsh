@@ -12,18 +12,19 @@ declare function local:territories-landing-page() {
     let $content := 
         element div {
             element p {
-                concat('All ', count($gsh:territories), ' territories. View '), 
+                concat('All ', count($gsh:territories), ' territories.')
+                (:
+                'View '), 
                 <a href="all-territories.xq">full dataset</a>, ' on one page.'
+                :)
             },
             element ul {
                 for $territory in $gsh:territories
-                order by $territory/id
+                order by $territory/short-form-name, $territory/valid-since (: alphabetical, then chronological tie breaker :)
                 return
                     element li {
                         element a {
-                            attribute href {
-                                "territories.xq?territory=" || $territory/id
-                            },
+                            attribute href { gsh:link-to-territory($territory/id) },
                             gsh:territory-id-to-short-name-with-years-valid($territory/id)
                         }
                     }

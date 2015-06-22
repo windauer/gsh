@@ -1,4 +1,4 @@
-xquery version "1.0";
+xquery version "3.0";
 
 (:~
     controller.xql for URL rewriting.
@@ -72,14 +72,32 @@ let $controller :=  $exist:controller
 let $path :=        $exist:path
 let $resource :=    $exist:resource
 
+(: parse path fragments for gsh-specific-pages below :)
+let $path-fragments := tokenize($path, '/')
+
 return
 
     (: Handle initial requests to the app :)
     if ($path = '') then
         local:redirect(concat($context, $prefix, $controller, '/'))
     else if ($path = '/') then
-        local:redirect('./index.xq')
-        
+        local:forward($controller, 'index.xq')
+    
+    (: gsh-specific pages :)
+    else if ($path-fragments[2] = ('locales', 'posts', 'regions', 'territories')) then
+        if ($path-fragments[3]) then 
+            let $param-name := switch ($path-fragments[2])
+                case "locales" return "locale"
+                case "posts" return "post"
+                case "regions" return "region"
+                case "territories" return "territory"
+                default return ()
+            let $param := local:add-parameter($param-name, $path-fragments[3])
+            return
+                local:forward($controller, concat($path-fragments[2], '.xq'), $param)
+        else
+            local:forward($controller, concat($path-fragments[2], '.xq'))
+
     (: everything else is passed through :)
     else
         local:ignore()

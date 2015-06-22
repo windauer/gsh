@@ -4,14 +4,72 @@ module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistory";
 
 import module namespace counter="http://exist-db.org/xquery/counter" at "xmldb:exist://java:org.exist.xquery.modules.counter.CounterModule";
 
-declare variable $gsh:posts := collection('/db/apps/gsh/data/posts')/post;
+
+(: core data access api :)
+
 declare variable $gsh:locales := collection('/db/apps/gsh/data/locales')/locale;
-declare variable $gsh:territories := collection('/db/apps/gsh/data/territories')/territory;
+declare variable $gsh:posts := collection('/db/apps/gsh/data/posts')/post;
 declare variable $gsh:regions := collection('/db/apps/gsh/data/regions')/region;
+declare variable $gsh:territories := collection('/db/apps/gsh/data/territories')/territory;
 
 declare variable $gsh:post-types := doc('/db/apps/gsh/data/code-tables/post-types.xml');
 declare variable $gsh:territory-types := doc('/db/apps/gsh/data/code-tables/territory-types.xml');
 
+
+(: functions for creating links :)
+
+declare variable $gsh:app-home := '/apps/gsh/';
+
+declare variable $gsh:locales-home := $gsh:app-home || 'locales';
+declare variable $gsh:posts-home := $gsh:app-home || 'posts';
+declare variable $gsh:regions-home := $gsh:app-home || 'regions';
+declare variable $gsh:territories-home := $gsh:app-home || 'territories';
+
+declare function gsh:link-to-locale($locale-id) {
+    $gsh:locales-home || '/' || $locale-id
+};
+declare function gsh:link-to-territory($territory-id) {
+    $gsh:territories-home || '/' || $territory-id
+};
+declare function gsh:link-to-post($post-id) {
+    $gsh:posts-home || '/' || $post-id
+};
+declare function gsh:link-to-region($region-id) {
+    $gsh:locales-home || '/' || $region-id
+};
+
+
+(: main html wrapper :)
+
+declare function gsh:wrap-html($content as element(), $title as xs:string) {
+    <html>
+        <head>
+            <title>{$title}</title>
+            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+            <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+            <style type="text/css">
+                body {{ font-family: HelveticaNeue, Helvetica, Arial, sans }}
+                table {{ page-break-inside: avoid }}
+                dl {{ margin-above: 1em }}
+                dt {{ font-weight: normal }}
+            </style>
+            <style type="text/css" media="print">
+                a, a:visited {{ text-decoration: underline; color: #428bca; }}
+                a[href]:after {{ content: "" }}
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>{$title}</h1>
+                {$content}
+            </div>
+        </body>
+    </html>    
+};
+
+
+(: functions for accessing territories :)
 
 declare function gsh:territories($territory-ids as xs:string*) {
     $gsh:territories[id = $territory-ids]
@@ -53,33 +111,6 @@ declare function gsh:locale-id-to-short-name($locale-id) {
     let $locale := $gsh:locales[id = $locale-id]
     return
         $locale/name/string()
-};
-
-declare function gsh:wrap-html($content as element(), $title as xs:string) {
-    <html>
-        <head>
-            <title>{$title}</title>
-            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
-            <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-            <style type="text/css">
-                body {{ font-family: HelveticaNeue, Helvetica, Arial, sans }}
-                table {{ page-break-inside: avoid }}
-                dl {{ margin-above: 1em }}
-                dt {{ font-weight: normal }}
-            </style>
-            <style type="text/css" media="print">
-                a, a:visited {{ text-decoration: underline; color: #428bca; }}
-                a[href]:after {{ content: "" }}
-            </style>
-        </head>
-        <body>
-            <div class="container">
-                <h1>{$title}</h1>
-                {$content}
-            </div>
-        </body>
-    </html>    
 };
 
 declare function gsh:territories-to-table($territories, $counter-name) {
@@ -317,7 +348,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territories.xq?territory=', $predecessor) },
+                                                attribute href { concat('territories', $predecessor) },
                                             $display
                                             }
                                         else 
@@ -329,7 +360,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territories.xq?territory=', $predecessors) },
+                                        attribute href { concat('territories', $predecessors) },
                                         $display
                                     }
                                 else 
@@ -359,7 +390,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territories.xq?territory=', $successor) },
+                                                attribute href { concat('territories', $successor) },
                                                 $display
                                             }
                                         else 
@@ -371,7 +402,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territories.xq?territory=', $successors) },
+                                        attribute href { concat('territories', $successors) },
                                         $display
                                     }
                                 else
@@ -417,16 +448,19 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
         }
 };
 
+
+(: functions for accessing posts :)
+
 declare function gsh:posts-to-table($posts) {
     element table {
         attribute class {'table table-bordered'},
         element thead {
             element tr {
                 element th {
-                    'ID'
+                    'Locale ID'
                 },
                 element th {
-                    'Name'
+                    'Locale Name'
                 },
                 element th {
                     'Current Territory'
@@ -458,23 +492,22 @@ declare function gsh:posts-to-table($posts) {
             }
         },
         element tbody {
-            for $post in $posts 
+            for $post in $posts
             let $locale := $gsh:locales[id = $post/locale-id][1] (: TODO eliminate duplicate locale-ids, e.g., sydney - australia and canada :)
+            (: NOTE we look up territory info from the locale record, not from the item here :)
             let $territory := gsh:territories($locale/current-territory)
             return
                 element tr {
                     element td { $locale/id/string() },
                     element td { 
                         element a {
-                            attribute href { concat('?locale=', $locale/id) },
+                            attribute href { gsh:link-to-locale($locale/id) },
                             $locale/name/string() 
                         }
                     },
                     element td { 
                         element a {
-                            attribute href { 
-                                concat('territories.xq?territory=', $territory/id)
-                            },
+                            attribute href { gsh:link-to-territory($territory/id)  },
                             gsh:territory-id-to-short-name-with-years-valid($territory/id) 
                         }
                     },
@@ -504,6 +537,9 @@ declare function gsh:posts-to-table($posts) {
         }
     }
 };
+
+
+(: functions for accessing locales :)
 
 declare function gsh:locales-to-table($locales) {
     element table {
@@ -535,8 +571,8 @@ declare function gsh:locales-to-table($locales) {
             return
                 element tr {
                     element td { $locale/id/string() },
-                    element td { <a href="locales.xq?locale={$locale/id}">{$locale/name/string()}</a> },
-                    element td { <a href="territories.xq?territory={$locale/current-territory}">{ $gsh:territories[id = $locale/current-territory]/short-form-name/string() }</a> },
+                    element td { <a href="{gsh:link-to-locale($locale/id)}">{$locale/name/string()}</a> },
+                    element td { <a href="{gsh:link-to-territory($locale/current-territory)}">{ $gsh:territories[id = $locale/current-territory]/short-form-name/string() }</a> },
                     element td { string-join(tokenize($locale/predecessors, ', '),'; ') },
                     element td { string-join(tokenize($locale/successors, ', '),'; ')},
                     element td { string-join(($locale/latitude, $locale/longitude), ', ') }

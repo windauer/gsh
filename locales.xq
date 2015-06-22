@@ -14,8 +14,8 @@ declare function local:show-locale($locale-id) {
     let $content := 
         <div>
             <ol class="breadcrumb">
-                <li><a href="index.xq">Home</a></li>
-                <li><a href="locales.xq">Locales</a></li>
+                <li><a href="{$gsh:app-home}">Home</a></li>
+                <li><a href="{$gsh:locales-home}">Locales</a></li>
                 <li class="active">{$title}</li>
             </ol>
             {gsh:locales-to-table($locale)}
@@ -45,11 +45,12 @@ declare function local:browse-locales($q, $start, $per-page, $show-all) {
         }
     let $table := gsh:locales-to-table($locales-to-show)
     let $params-sans-per-page := p8n:strip-parameters(request:get-query-string(), ('per-page', 'show-all'))
+    let $params-for-show-all := p8n:strip-parameters(request:get-query-string(), ('per-page', 'start'))
     let $content := 
         <div>
             <ol class="breadcrumb">
-                <li><a href="index.xq">Home</a></li>
-                <li><a href="locales.xq">Locales</a></li>
+                <li><a href="{$gsh:app-home}">Home</a></li>
+                <li><a href="{$gsh:locales-home}">Locales</a></li>
             </ol>
             <form class="form-inline">
                 <div class="input-group">
@@ -65,7 +66,7 @@ declare function local:browse-locales($q, $start, $per-page, $show-all) {
                             <li><a href="?{$params-sans-per-page}">10</a></li>
                             <li><a href="?{string-join(($params-sans-per-page, 'per-page=25'), '&amp;')}">25</a></li>
                             <li><a href="?{string-join(($params-sans-per-page, 'per-page=100'), '&amp;')}">100</a></li>
-                            <li><a href="?{string-join(($params-sans-per-page, 'show-all=true'), '&amp;')}">All</a></li>
+                            <li><a href="?{string-join(($params-for-show-all, 'show-all=true'), '&amp;')}">All</a></li>
                         </ul>
                     </div>
                 </div>
@@ -73,7 +74,7 @@ declare function local:browse-locales($q, $start, $per-page, $show-all) {
             </form>
             <p>{if ($show-all) then concat('All ', count($all-locales), ' locales.') else p8n:summarize($start, $per-page, count($all-locales))}</p>
             { $table }
-            { p8n:paginate($start, $per-page, count($all-locales), $href) }
+            { if ($show-all) then () else p8n:paginate($start, $per-page, count($all-locales), $href) }
         </div>
     let $title := 'Locales'
     return

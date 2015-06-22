@@ -46,7 +46,7 @@ declare function local:show-posts-in-territory($territory-id as xs:string) {
     let $table := gsh:posts-to-table($ordered-posts)
     let $content := 
         <div>
-            <p>Return to list of <a href="?">Posts by Territory</a></p>
+            <p>Return to list of <a href="{$gsh:posts-home}">Posts by Territory</a></p>
             <p>{count($posts)} in {$territory/short-form-name/string()}:</p>
             {$table}
         </div>
@@ -61,7 +61,7 @@ declare function local:show-post($locale-id as xs:string) {
     let $table := gsh:posts-to-table($post)
     let $content := 
         <div>
-            <p>Return to list of <a href="?">Posts by Territory</a></p>
+            <p>Return to list of <a href="{$gsh:posts-home}">Posts by Territory</a></p>
             {$table}
         </div>
     let $title := $locale/name/string()

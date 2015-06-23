@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>Geospatial History of U.S. Overseas Diplomatic Posts</description>
+    <description>Geospatial History of U.S. Foreign Relations</description>
     <author>Joe Wicentowski</author>
     <website>https://history.state.gov</website>
     <status>alpha</status>
@@ -9,19 +10,19 @@
     <target>gsh</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <permissions user="gsh-admin" group="gsh-admin" mode="rw-rw-r--"/>
+    <permissions user="gsh-admin" group="gsh-admin" mode="rw-rw-r--" password=""/>
     <changelog>
         <change version="0.1.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>Initial version</li>
             </ul>
         </change>
-        <change version="0.2.0">
+        <change xmlns:repo="http://exist-db.org/xquery/repo" version="0.2.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>Major update to territories data</li>
             </ul>
         </change>
-        <change version="0.3.0">
+        <change xmlns:repo="http://exist-db.org/xquery/repo" version="0.3.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>Final territories data by 2015 academic year VSFS e-interns</li>
             </ul>

@@ -348,7 +348,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territories', $predecessor) },
+                                                attribute href { gsh:link-to-territory($predecessor) },
                                             $display
                                             }
                                         else 
@@ -360,7 +360,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territories', $predecessors) },
+                                        attribute href { gsh:link-to-territory($predecessors) },
                                         $display
                                     }
                                 else 
@@ -390,7 +390,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     element li { 
                                         if ($enable-link-territories) then
                                             element a { 
-                                                attribute href { concat('territories', $successor) },
+                                                attribute href { gsh:link-to-territory($successor) },
                                                 $display
                                             }
                                         else 
@@ -402,7 +402,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             return
                                 if ($enable-link-territories) then
                                     element a { 
-                                        attribute href { concat('territories', $successors) },
+                                        attribute href { gsh:link-to-territory($successors) },
                                         $display
                                     }
                                 else

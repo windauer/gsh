@@ -54,6 +54,7 @@ declare function gsh:wrap-html($content as element(), $title as xs:string) {
                 dl {{ margin-above: 1em }}
                 dt {{ font-weight: normal }}
             </style>
+            <link href="/apps/gsh/family-tree.css" rel="stylesheet"/>
             <style type="text/css" media="print">
                 a, a:visited {{ text-decoration: underline; color: #428bca; }}
                 a[href]:after {{ content: "" }}
@@ -235,7 +236,7 @@ declare function gsh:territories-to-table($territories, $counter-name) {
                                 if ($successors) then
                                     if (count($successors) gt 1) then 
                                         <ol style="padding-left: 1.5em">{
-                                            for $successor at $n in $successors 
+                                            for $successor at $n in $successors
                                             return 
                                                 element li { 
                                                     element a { 
@@ -358,6 +359,13 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             <ol style="padding-left: 1.5em">{
                                 for $predecessor at $n in $predecessors 
                                 let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor) 
+                                let $display := 
+                                    if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
+                                        element span {
+                                            attribute style { 'text-decoration: line-through' },
+                                            $display
+                                        }
+                                    else $display
                                 return 
                                     element li { 
                                         if ($enable-link-territories) then
@@ -371,6 +379,13 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             }</ol>
                         else
                             let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
+                            let $display := 
+                                    if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
+                                        element span {
+                                            attribute style { 'text-decoration: line-through' },
+                                            $display
+                                        }
+                                    else $display
                             return
                                 if ($enable-link-territories) then
                                     element a { 
@@ -399,7 +414,14 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         if (count($successors) gt 1) then 
                             <ol style="padding-left: 1.5em">{
                                 for $successor at $n in $successors 
-                                let $display := gsh:territory-id-to-short-name-with-years-valid($successor) 
+                                let $display := gsh:territory-id-to-short-name-with-years-valid($successor)
+                                let $display := 
+                                    if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then 
+                                        element span {
+                                            attribute style { 'text-decoration: line-through' },
+                                            $display
+                                        }
+                                    else $display
                                 return 
                                     element li { 
                                         if ($enable-link-territories) then
@@ -412,7 +434,14 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     }
                             }</ol>
                         else
-                            let $display := gsh:territory-id-to-short-name-with-years-valid($successors) 
+                            let $display := gsh:territory-id-to-short-name-with-years-valid($successors)
+                            let $display := 
+                                if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then 
+                                    element span {
+                                        attribute style { 'text-decoration: line-through' },
+                                        $display
+                                    }
+                                else $display
                             return
                                 if ($enable-link-territories) then
                                     element a { 

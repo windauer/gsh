@@ -7,10 +7,23 @@ declare option output:media-type "text/html";
 
 import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistory" at "/db/apps/gsh/modules/gsh.xqm";
 
+declare function local:landing-page-breadcrumbs() {
+    <li><a href="{$gsh:territories-home}">Territories</a></li>
+};
+
+declare function local:territory-breadcrumbs($territory-id) {
+    (
+    local:landing-page-breadcrumbs(),
+    <li><a href="{gsh:link-to-territory($territory-id)}">{gsh:territory-id-to-short-name($territory-id)}</a></li>
+    )
+};
+
 declare function local:territories-landing-page() {
     let $title := 'Territories'
+    let $breadcrumbs := local:landing-page-breadcrumbs()
     let $content := 
         element div {
+            gsh:breadcrumbs($breadcrumbs),
             element p {
                 concat('All ', count($gsh:territories), ' territories.')
                 (:
@@ -37,9 +50,11 @@ declare function local:territories-landing-page() {
 declare function local:show-territory($territory-id as xs:string) {
     let $territory := gsh:territories($territory-id)
     let $title := gsh:territory-id-to-short-name($territory-id)
+    let $breadcrumbs := local:territory-breadcrumbs($territory-id)
     let $counter-name := concat($territory-id, '-issue')
     let $content :=
         <div>
+            { gsh:breadcrumbs($breadcrumbs) }
             { gsh:territories-to-list($territory, $counter-name, true()) }
         </div>
     return

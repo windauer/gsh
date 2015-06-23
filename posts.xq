@@ -7,10 +7,23 @@ declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "html5";
 declare option output:media-type "text/html";
 
+declare function local:landing-page-breadcrumbs() {
+    <li><a href="{$gsh:posts-home}">Posts</a></li>
+};
+
+declare function local:post-in-territory-breadcrumbs($territory-id) {
+    (
+    local:landing-page-breadcrumbs(),
+    <li><a href="{gsh:link-to-post($territory-id)}">Posts in {gsh:territory-id-to-short-name($territory-id)}</a></li>
+    )
+};
+
 declare function local:posts-landing-page($show-all-posts as xs:boolean) {
     let $title := 'Posts By Territory'
+    let $breadcrumbs := local:landing-page-breadcrumbs()
     let $content :=
         <div>
+            {gsh:breadcrumbs($breadcrumbs)}
             <p>Select a territory from the list below { if ($show-all-posts) then <a href="?">(Show only territory names)</a> else <a href="?show-all-posts=true">(Show all posts)</a>}:</p>
             <ul>{
                 for $territory in $gsh:territories[exists-on-todays-map = 'true']
@@ -44,10 +57,11 @@ declare function local:show-posts-in-territory($territory-id as xs:string) {
         return
             $post
     let $table := gsh:posts-to-table($ordered-posts)
+    let $breadcrumbs := local:post-in-territory-breadcrumbs($territory-id)
     let $content := 
         <div>
-            <p>Return to list of <a href="{$gsh:posts-home}">Posts by Territory</a></p>
-            <p>{count($posts)} in {$territory/short-form-name/string()}:</p>
+            {gsh:breadcrumbs($breadcrumbs)}
+            <p>{count($posts)} posts in {$territory/short-form-name/string()}:</p>
             {$table}
         </div>
     let $title := concat('Posts in ', $territory/short-form-name)

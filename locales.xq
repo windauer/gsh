@@ -8,16 +8,24 @@ declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "html5";
 declare option output:media-type "text/html";
 
+declare function local:landing-page-breadcrumbs() {
+    <li><a href="{$gsh:locales-home}">Locales</a></li>
+};
+
+declare function local:locale-breadcrumbs($locale-id) {
+    (
+    local:landing-page-breadcrumbs(),
+    <li><a href="{gsh:link-to-locale($locale-id)}">{gsh:locale-id-to-short-name($locale-id)}</a></li>
+    )
+};
+
 declare function local:show-locale($locale-id) {
     let $locale := $gsh:locales[id = $locale-id]
     let $title := $locale/name/string()
+    let $breadcrumbs := local:locale-breadcrumbs($locale-id)
     let $content := 
         <div>
-            <ol class="breadcrumb">
-                <li><a href="{$gsh:app-home}">Home</a></li>
-                <li><a href="{$gsh:locales-home}">Locales</a></li>
-                <li class="active">{$title}</li>
-            </ol>
+            {gsh:breadcrumbs($breadcrumbs)}
             {gsh:locales-to-table($locale)}
         </div>
     return

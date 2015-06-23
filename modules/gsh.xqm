@@ -35,7 +35,7 @@ declare function gsh:link-to-post($post-id) {
     $gsh:posts-home || '/' || $post-id
 };
 declare function gsh:link-to-region($region-id) {
-    $gsh:locales-home || '/' || $region-id
+    $gsh:regions-home || '/' || $region-id
 };
 
 
@@ -68,6 +68,20 @@ declare function gsh:wrap-html($content as element(), $title as xs:string) {
     </html>    
 };
 
+declare function gsh:breadcrumbs($links as element(li)*) {
+    <ol class="breadcrumb">
+        {
+        let $all-links := (<li><a href="{$gsh:app-home}">Home</a></li>, $links)
+        let $link-count := count($all-links)
+        for $link at $n in $all-links
+        return
+            if ($n = $link-count) then
+                <li class="active">{$link/string()}</li>
+            else 
+                $link
+        }
+    </ol>
+};
 
 (: functions for accessing territories :)
 
@@ -579,4 +593,16 @@ declare function gsh:locales-to-table($locales) {
                 }
         }
     }
+};
+
+(: functions for accessing regions :)
+
+declare function gsh:regions($region-ids) {
+    $gsh:regions[id = $region-ids]
+};
+
+declare function gsh:region-id-to-label($region-id) {
+    let $region := gsh:regions($region-id)
+    return
+        $region/label/string()
 };

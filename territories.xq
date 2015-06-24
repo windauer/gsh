@@ -184,10 +184,11 @@ declare function local:contains($territory-id as xs:string) {
             <p>{count($hits)} territory ids containing "{$territory-id}"</p>
             {
                 for $hit in $hits
+                let $hit-id := $hit/id
                 return
                     (
-                        <h3><a href="{gsh:link-to-territory($hit/id)}">{gsh:territory-id-to-short-name-with-years-valid($hit/id)}</a></h3>,
-                        <p>Lookup <a href="{$gsh:territories-home}?mentions={$territory-id}">mentions of "{$territory-id}"</a>.</p>,
+                        <h3><a href="{gsh:link-to-territory($hit-id)}">{gsh:territory-id-to-short-name-with-years-valid($hit-id)}</a></h3>,
+                        <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit-id}">mentions of "{$hit-id}"</a>.</p>,
                         gsh:territories-to-list($hit, (), true())
                     )
             }

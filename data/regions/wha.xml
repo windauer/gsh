@@ -27,7 +27,6 @@
     <territory-id>guatemala</territory-id>
     <territory-id>guyana</territory-id>
     <territory-id>haiti</territory-id>
-    <territory-id>hawaii</territory-id>
     <territory-id>honduras</territory-id>
     <territory-id>jamaica</territory-id>
     <territory-id>mexico</territory-id>
@@ -37,9 +36,7 @@
     <territory-id>peru</territory-id>
     <territory-id>saint-lucia</territory-id>
     <territory-id>suriname</territory-id>
-    <territory-id>texas</territory-id>
     <territory-id>trinidad-and-tobago</territory-id>
-    <territory-id>united-states</territory-id>
     <territory-id>uruguay</territory-id>
     <territory-id>venezuela</territory-id>
 </region>

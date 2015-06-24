@@ -14,7 +14,12 @@ declare function local:update-territory-id($current-id, $new-id) {
             let $territory-id := gsh:territories($current-id)/id
             let $mentions := ($all-predecessors[. = $current-id], $all-successors[. = $current-id])
             return
-                concat('proceed with update of ', $current-id, ' to ', $new-id)
+                (
+                update value $territory-id with $new-id,
+                for $mention in $mentions
+                return
+                    update value $mention with $new-id
+                )
 };
 
-local:update-territory-id('qing-dynasty-1912', 'qing-empire-1912')
+local:update-territory-id('hawaii', 'hawaii-1948')

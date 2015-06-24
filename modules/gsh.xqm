@@ -275,7 +275,7 @@ declare function gsh:territories-to-table($territories, $counter-name) {
 };
 
 declare function gsh:generate-warning($counter-name, $message) {
-    <span style="background-color: yellow">{concat('&#9744; #', counter:next-value($counter-name), ': ', $message)}</span>
+    <span style="background-color: yellow">{concat('&#9744; ', if ($counter-name) then concat('#', counter:next-value($counter-name), ': ') else (), $message)}</span>
 };
 
 declare function gsh:territories-to-list($territories, $counter-name, $enable-link-territories as xs:boolean) {
@@ -284,7 +284,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
     return
         element dl {
             attribute class {'dl-horizontal'},
-            attribute style {'border-top: 1px black solid'},
+            (:attribute style {'border-top: 1px black solid'},:)
             (
             element dt {
                 'Short Form Name'
@@ -358,14 +358,12 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         if (count($predecessors) gt 1) then
                             <ol style="padding-left: 1.5em">{
                                 for $predecessor at $n in $predecessors 
-                                let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor) 
-                                let $display := 
+                                let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor)
+                                let $warning := 
                                     if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
-                                        element span {
-                                            attribute style { 'text-decoration: line-through' },
-                                            $display
-                                        }
-                                    else $display
+                                        gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessor)/valid-until, ', this is not a direct predecessor and should be removed'))
+                                    else 
+                                        ()
                                 return 
                                     element li { 
                                         if ($enable-link-territories) then
@@ -375,18 +373,19 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                             }
                                         else 
                                             $display
+                                        ,
+                                        $warning
                                     }
                             }</ol>
                         else
                             let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
-                            let $display := 
-                                    if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
-                                        element span {
-                                            attribute style { 'text-decoration: line-through' },
-                                            $display
-                                        }
-                                    else $display
+                            let $warning := 
+                                if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then
+                                    gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessors)/valid-until, ', this is not a direct predecessor and should be removed'))
+                                else 
+                                    ()
                             return
+                                (
                                 if ($enable-link-territories) then
                                     element a { 
                                         attribute href { gsh:link-to-territory($predecessors) },
@@ -394,6 +393,9 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     }
                                 else 
                                     $display
+                                ,
+                                $warning
+                                )
                     else if ($warning) then 
                         ()
                     else
@@ -415,13 +417,11 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             <ol style="padding-left: 1.5em">{
                                 for $successor at $n in $successors 
                                 let $display := gsh:territory-id-to-short-name-with-years-valid($successor)
-                                let $display := 
-                                    if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then 
-                                        element span {
-                                            attribute style { 'text-decoration: line-through' },
-                                            $display
-                                        }
-                                    else $display
+                                let $warning := 
+                                    if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                        gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successor)/valid-since, ', this is not a direct successor and should be removed'))
+                                    else 
+                                        ()
                                 return 
                                     element li { 
                                         if ($enable-link-territories) then
@@ -431,18 +431,19 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                             }
                                         else 
                                             $display
+                                    ,
+                                    $warning
                                     }
                             }</ol>
                         else
                             let $display := gsh:territory-id-to-short-name-with-years-valid($successors)
-                            let $display := 
-                                if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then 
-                                    element span {
-                                        attribute style { 'text-decoration: line-through' },
-                                        $display
-                                    }
-                                else $display
+                            let $warning := 
+                                if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                    gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successors)/valid-since, ', this is not a direct successor and should be removed'))
+                                else 
+                                    ()
                             return
+                                (
                                 if ($enable-link-territories) then
                                     element a { 
                                         attribute href { gsh:link-to-territory($successors) },
@@ -450,6 +451,9 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                     }
                                 else
                                     $display
+                                ,
+                                $warning
+                                )
                     else if ($warning) then 
                         ()
                     else 

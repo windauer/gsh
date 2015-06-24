@@ -8,17 +8,12 @@
     <valid-until>1941</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>abyssinia-1974</predecessor>
+        <predecessor>abyssinia-1936</predecessor>
         <predecessor>eritrea-1936</predecessor>
     </predecessors>
     <successors>
         <successor>abyssinia-1974</successor>
         <successor>british-somaliland-1960</successor>
-        <successor>somali-republic-1969</successor>
-        <successor>somali-democratic-republic-2008</successor>
-        <successor>somalia</successor>
-        <successor>eritrea</successor>
-        <successor>ethiopia</successor>
     </successors>
     <notes>Italian authority not publicly recognized by U.S.</notes>
     <sources>

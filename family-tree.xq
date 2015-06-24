@@ -78,13 +78,58 @@ declare function local:predecessor-tree($territory) {
     }
 };
 
-let $title := 'Predecessors'
-let $content :=
+declare function local:successor-tree-recurse($territory) {
+    let $territory-id := $territory/id
+    let $successor-ids := $territory//successor
+    let $successors := gsh:territories($successor-ids)
+    let $midterm-split-offs := $successors[valid-since lt $territory/valid-until]
+    let $endterm-successors := $successors[valid-since = $territory/valid-until]
+    let $successors-to-graph := ($midterm-split-offs, $endterm-successors)
+    return
+        <li><a href="#">{gsh:territory-id-to-short-name-with-years-valid($territory-id)}</a>
+            {
+            if ($successors) then
+                <ul>{
+                    for $successor in gsh:order-territories-chronologically($successors)
+                    return
+                        local:successor-tree-recurse($successor)
+                }</ul>
+            else 
+                ()
+            }
+        </li>
+};
+
+declare function local:successor-tree($territory) {
     element div {
-        for $territory in $gsh:territories[exists-on-todays-map = 'true']
-        order by $territory/short-form-name
-        return 
-            local:predecessor-tree($territory)
+        attribute class {'row tree'},
+        element h3 { gsh:territory-id-to-short-name($territory/id) },
+            try 
+                { <ul>{local:successor-tree-recurse($territory)}</ul> } 
+            catch * 
+                { 'Error generating tree' }
     }
+};
+
+(:let $title := 'Predecessors':)
+(:let $content :=:)
+(:    element div {:)
+(:        for $territory in $gsh:territories[id='qing-dynasty-1912']:)
+(:        order by $territory/short-form-name:)
+(:        return :)
+(:            local:predecessor-tree($territory):)
+(:    }:)
+(:return:)
+(:    gsh:wrap-html($content, $title):)
+
+
+let $content := 
+    <div>{
+        for $territory in $gsh:territories[not(.//predecessor)]
+        order by $territory/short-form-name
+        return
+            local:successor-tree($territory)
+    }</div>
+let $title := 'Territories'
 return
     gsh:wrap-html($content, $title)

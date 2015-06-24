@@ -5,10 +5,12 @@
     <long-form-name type="none"/>
     <type-of-territory/>
     <valid-since/>
-    <valid-until/>
+    <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
-    <successors/>
+    <successors>
+        <successor>french-equatorial-africa-1959</successor>
+    </successors>
     <notes/>
     <sources>
         <source/>

@@ -9,8 +9,9 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
+        <successor>hong-kong</successor>
+        <successor>taiwan-1945</successor>
         <successor>republic-of-china-1949</successor>
-        <successor>china</successor>
     </successors>
     <notes>Also known as Manchu Dynasty</notes>
     <sources>

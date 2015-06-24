@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>hawaii</id>
+    <id>hawaii-1948</id>
     <short-form-name>Hawai’i</short-form-name>
     <long-form-name>State of Hawai’i</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1898</valid-since>
-    <valid-until>9999</valid-until>
-    <exists-on-todays-map>true</exists-on-todays-map>
+    <valid-until>1948</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>kingdom-of-hawaii-1898</predecessor>
         <predecessor>hawaiian-islands-1826</predecessor>
     </predecessors>
-    <successors/>
-    <notes>Part of the United States </notes>
+    <successors>
+        <successor>united-states</successor>
+    </successors>
+    <notes>Part of the United States</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/257332/Hawaii</source>
     </sources>

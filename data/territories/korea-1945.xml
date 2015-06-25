@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>korea-1948</id>
+    <id>korea-1945</id>
     <short-form-name>Korea</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Chōsen</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1945</valid-since>
-    <valid-until>1948</valid-until>
+    <valid-since>1910</valid-since>
+    <valid-until>1945</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>korea-1945</predecessor>
+        <predecessor>joseon-dynasty-1910</predecessor>
     </predecessors>
     <successors>
-        <successor>korea-north</successor>
-        <successor>korea-south</successor>
+        <successor>korea-1948</successor>
     </successors>
     <notes/>
     <sources>

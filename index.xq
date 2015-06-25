@@ -13,10 +13,10 @@ let $content :=
         <p>Welcome to the {$title}.</p>
         <p>The application and data are in draft form and have not been reviewed for accuracy.</p>
         <ul>
-            <li><a href="locales">Locales</a></li>
-            <li><a href="posts">Posts</a></li>
-            <li><a href="regions">Regions</a></li>
-            <li><a href="territories">Territories</a></li>
+            <li><a href="{$gsh:locales-home}">Locales</a></li>
+            <li><a href="{$gsh:posts-home}">Posts</a></li>
+            <li><a href="{$gsh:regions-home}">Regions</a></li>
+            <li><a href="{$gsh:territories-home}">Territories</a></li>
         </ul>
     </div>
 return

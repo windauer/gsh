@@ -18,12 +18,12 @@ declare variable $gsh:territory-types := doc('/db/apps/gsh/data/code-tables/terr
 
 (: functions for creating links :)
 
-declare variable $gsh:app-home := '/apps/gsh/';
+declare variable $gsh:app-home := '/apps/gsh';
 
-declare variable $gsh:locales-home := $gsh:app-home || 'locales';
-declare variable $gsh:posts-home := $gsh:app-home || 'posts';
-declare variable $gsh:regions-home := $gsh:app-home || 'regions';
-declare variable $gsh:territories-home := $gsh:app-home || 'territories';
+declare variable $gsh:locales-home := $gsh:app-home || '/locales';
+declare variable $gsh:posts-home := $gsh:app-home || '/posts';
+declare variable $gsh:regions-home := $gsh:app-home || '/regions';
+declare variable $gsh:territories-home := $gsh:app-home || '/territories';
 
 declare function gsh:link-to-locale($locale-id) {
     $gsh:locales-home || '/' || $locale-id

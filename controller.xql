@@ -78,11 +78,11 @@ let $path-fragments := tokenize($path, '/')
 return
 
     (: Handle initial requests to the app :)
-    if ($path = '') then
-        local:redirect(concat($context, $prefix, $controller, '/'))
-    else if ($path = '/') then
+    if ($path = '/') then
+        local:redirect(concat($context, $prefix, $controller))
+    else if ($path = '') then
         local:forward($controller, 'index.xq')
-    
+
     (: gsh-specific pages :)
     else if ($path-fragments[2] = ('locales', 'posts', 'regions', 'territories')) then
         if ($path-fragments[3]) then 

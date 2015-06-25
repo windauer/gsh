@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>qing-dynasty-1912</id>
-    <short-form-name>Qing Dynasty</short-form-name>
-    <long-form-name type="none"/>
+    <id>china-1912</id>
+    <short-form-name>China</short-form-name>
+    <long-form-name>Qing Dynasty</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1644</valid-since>
     <valid-until>1912</valid-until>

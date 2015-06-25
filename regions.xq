@@ -25,7 +25,7 @@ declare function local:region-landing-page() {
     let $content :=
         <div>
             { gsh:breadcrumbs($breadcrumbs) }
-            <p>{count($gsh:regions)} regions.</p>
+            <p>{count($gsh:regions)} regions; {count($gsh:regions//territory-id)} territories listed.</p>
             <ol>{
                 for $region in $gsh:regions
                 let $region-id := $region/id
@@ -36,9 +36,38 @@ declare function local:region-landing-page() {
                         <a href="{gsh:link-to-region($region-id)}">{$region/label/string()}</a> ({$region/description/string()}; {count($territories-in-region)} territories.)
                     </li>
             }</ol>
+            <p>Also:</p>
+            <ol>
+                <li>
+                    <a href="{$gsh:regions-home}/none">Territories not included in a region</a>
+                </li>
+            </ol>
         </div>
     return
         gsh:wrap-html($content, $title)
+};
+
+declare function local:show-territories-not-in-regions() {
+    let $region-territories := $gsh:regions//territory-id
+    let $current-territories := $gsh:territories[exists-on-todays-map = 'true']/id
+    let $hits := $current-territories[not(. = $region-territories)] 
+    let $title := 'Territories not included in a region'
+    let $breadcrumbs := 
+        (
+        local:landing-page-breadcrumbs(),
+        <li><a href="{$gsh:regions-home}/none">{$title}</a></li>
+        )
+    let $content :=
+        <div>
+            { gsh:breadcrumbs($breadcrumbs) }
+            <p>{count($hits)} territories on today's map.</p>
+            <ol>
+                {$hits ! <li><a href="{gsh:link-to-territory(.)}">{gsh:territory-id-to-short-name-with-years-valid(.)}</a></li>}
+            </ol>
+        </div>
+    return
+        gsh:wrap-html($content, $title)
+    
 };
 
 declare function local:show-region($region-id) {
@@ -61,6 +90,9 @@ declare function local:show-region($region-id) {
 let $region-id := request:get-parameter('region', ())
 return
     if ($region-id) then 
-        local:show-region($region-id)
+        if ($region-id = 'none') then
+            local:show-territories-not-in-regions()
+        else
+            local:show-region($region-id)
     else
         local:region-landing-page()

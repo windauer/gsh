@@ -8,10 +8,10 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>taiwan-1949</predecessor>
+        <predecessor>republic-of-china-1949</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>U.S. recognized as the legitimate government of China until 1979</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html</source>
         <source>http://www.britannica.com/EBchecked/topic/580902/Taiwan/30027/Cultural-life#toc214552 </source>

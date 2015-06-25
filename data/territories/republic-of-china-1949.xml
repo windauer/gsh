@@ -12,8 +12,9 @@
     </predecessors>
     <successors>
         <successor>china</successor>
+        <successor>taiwan</successor>
     </successors>
-    <notes>U.S. recognized as the legitimate government of China until 1979</notes>
+    <notes></notes>
     <sources>
         <source>http://history.state.gov/countries/china</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html</source>

@@ -6,6 +6,7 @@ declare option output:method "html5";
 declare option output:media-type "text/html";
 
 import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistory" at "/db/apps/gsh/modules/gsh.xqm";
+import module namespace console="http://exist-db.org/xquery/console";
 
 declare function local:landing-page-breadcrumbs() {
     <li><a href="{$gsh:territories-home}">Territories</a></li>
@@ -155,6 +156,8 @@ declare function local:successor-tree($territory) {
 };
 
 declare function local:get-ancestor($territory) {
+    console:log("get-ancestor for " || $territory/id)
+    ,
     if (not($territory//predecessor)) then
         $territory
     else
@@ -162,6 +165,8 @@ declare function local:get-ancestor($territory) {
 };
 
 declare function local:ancestor-tree($territory) {
+    console:log("ancestor-tree for " || $territory/id)
+    ,
     element div {
         attribute class {'row tree'},
             try 

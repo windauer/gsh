@@ -14,12 +14,8 @@
     </predecessors>
     <successors>
         <successor>state-of-vietnam-1955</successor>
-        <successor>north-vietnam-1975</successor>
-        <successor>south-vietnam-1975</successor>
         <successor>laos</successor>
         <successor>state-of-cambodia-1993</successor>
-        <successor>cambodia</successor>
-        <successor>vietnam</successor>
     </successors>
     <notes/>
     <sources>

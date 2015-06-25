@@ -9,7 +9,6 @@
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>fiji-1970</predecessor>
-        <predecessor>fiji-1874</predecessor>
     </predecessors>
     <successors/>
     <notes/>

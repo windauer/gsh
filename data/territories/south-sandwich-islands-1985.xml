@@ -5,8 +5,8 @@
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1820</valid-since>
-    <valid-until>9999</valid-until>
-    <exists-on-todays-map>true</exists-on-todays-map>
+    <valid-until>1985</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>south-sandwich-islands-1820</predecessor>
     </predecessors>

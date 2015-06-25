@@ -6,7 +6,7 @@
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1960</valid-since>
     <valid-until>1986</valid-until>
-    <exists-on-todays-map>true</exists-on-todays-map>
+    <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>ivory-coast-1960</predecessor>
     </predecessors>

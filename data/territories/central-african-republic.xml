@@ -8,7 +8,6 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>central-african-republic-1977</predecessor>
         <predecessor>central-african-empire-1980</predecessor>
     </predecessors>
     <successors/>

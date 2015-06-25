@@ -9,7 +9,6 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>egypt-1922</predecessor>
-        <predecessor>ottoman-empire-1922</predecessor>
     </predecessors>
     <successors>
         <successor>united-arab-republic-1971</successor>

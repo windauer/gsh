@@ -118,6 +118,62 @@ declare function local:predecessor-tree($territory) {
     }
 };
 
+declare function local:successor-tree-recurse($territory, $territory-id-to-highlight) {
+    let $territory-id := $territory/id
+    let $successor-ids := $territory//successor
+    let $successors := gsh:territories($successor-ids)
+    let $midterm-split-offs := $successors[valid-since lt $territory/valid-until]
+    let $endterm-successors := $successors[valid-since = $territory/valid-until]
+    let $successors-to-graph := ($midterm-split-offs, $endterm-successors)
+    return
+        element li {
+            element a { 
+                attribute href { gsh:link-to-territory($territory/id) }, 
+                if ($territory-id = $territory-id-to-highlight) then attribute class {"selected"} else (),
+                gsh:territory-id-to-short-name-with-years-valid($territory-id)
+            },
+            if ($successors) then
+                element ul {
+                    for $successor in gsh:order-territories-chronologically($successors)
+                    return
+                        local:successor-tree-recurse($successor, $territory-id-to-highlight)
+                }
+            else 
+                ()
+        }
+};
+
+declare function local:successor-tree($territory) {
+    element div {
+        attribute class {'row tree'},
+        element h3 { gsh:territory-id-to-short-name($territory/id) },
+            try 
+                { <ul>{local:successor-tree-recurse($territory, $territory/id)}</ul> } 
+            catch * 
+                { 'Error generating tree' }
+    }
+};
+
+declare function local:get-ancestor($territory) {
+    if (not($territory//predecessor)) then
+        $territory
+    else
+        local:get-ancestor(local:immediate-predecessor($territory))
+};
+
+declare function local:ancestor-tree($territory) {
+    element div {
+        attribute class {'row tree'},
+            try 
+                { 
+                    let $ancestor := local:get-ancestor($territory)
+                    return
+                        <ul>{local:successor-tree-recurse($ancestor, $territory/id)}</ul> } 
+            catch * 
+                { 'Error generating tree' }
+    }
+};
+
 declare function local:show-territory($territory-id as xs:string) {
     let $territory := gsh:territories($territory-id)
     let $title := gsh:territory-id-to-short-name($territory-id)
@@ -128,7 +184,7 @@ declare function local:show-territory($territory-id as xs:string) {
             { gsh:breadcrumbs($breadcrumbs) }
             <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference id "{$territory-id}"</a>.</p>
             { gsh:territories-to-list($territory, $counter-name, true()) }
-            { local:predecessor-tree($territory) }
+            { local:ancestor-tree($territory) }
         </div>
     return
         gsh:wrap-html($content, $title)

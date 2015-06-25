@@ -5,6 +5,7 @@
     <description>Region covered by the Bureau of Western Hemisphere Affairs, spanning Latin America, the Carribean, Canada</description>
     <valid-since/>
     <valid-until>9999</valid-until>
+    <territory-id>antigua-and-barbuda</territory-id>
     <territory-id>argentina</territory-id>
     <territory-id>aruba</territory-id>
     <territory-id>bahamas</territory-id>
@@ -19,6 +20,7 @@
     <territory-id>colombia</territory-id>
     <territory-id>costa-rica</territory-id>
     <territory-id>cuba</territory-id>
+    <territory-id>curacao</territory-id>
     <territory-id>dominica</territory-id>
     <territory-id>dominican-republic</territory-id>
     <territory-id>ecuador</territory-id>
@@ -34,7 +36,10 @@
     <territory-id>panama</territory-id>
     <territory-id>paraguay</territory-id>
     <territory-id>peru</territory-id>
+    <territory-id>saint-kitts-and-nevis</territory-id>
     <territory-id>saint-lucia</territory-id>
+    <territory-id>sint-maarten</territory-id>
+    <territory-id>saint-vincent-and-grenadines</territory-id>
     <territory-id>suriname</territory-id>
     <territory-id>trinidad-and-tobago</territory-id>
     <territory-id>uruguay</territory-id>

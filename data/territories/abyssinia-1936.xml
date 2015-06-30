@@ -7,9 +7,7 @@
     <valid-since>1137</valid-since>
     <valid-until>1936</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor/>
-    </predecessors>
+    <predecessors/>
     <successors>
         <successor>italian-east-africa-1941</successor>
     </successors>

@@ -21,7 +21,6 @@
         <successor>kyrgyzstan</successor>
         <successor>latvia</successor>
         <successor>lithuania</successor>
-        <successor>moldavia-1862</successor>
         <successor>moldova</successor>
         <successor>russia</successor>
         <successor>tajikistan</successor>
@@ -29,7 +28,7 @@
         <successor>ukraine</successor>
         <successor>uzbekistan</successor>
     </successors>
-    <notes>1922 was given as valid-since date in earlier draft</notes>
+    <notes>1922 was given as valid-since date in earlier draft. Please clarify.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
         <source>http://history.state.gov/countries/russia</source>

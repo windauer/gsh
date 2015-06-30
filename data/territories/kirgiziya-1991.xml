@@ -8,7 +8,6 @@
     <valid-until>1991</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>russian-empire-1917</predecessor>
         <predecessor>soviet-union-1991</predecessor>
     </predecessors>
     <successors>

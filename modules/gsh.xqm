@@ -117,7 +117,7 @@ declare function gsh:territory-id-to-short-name-with-years-valid($territory-id a
 
 declare function gsh:order-territories-chronologically($territories as element(territory)*) {
     for $territory in $territories
-    order by $territory/valid-since
+    order by $territory/valid-since, $territory/id
     return
         $territory
 };

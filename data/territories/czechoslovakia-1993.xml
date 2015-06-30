@@ -9,7 +9,6 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>austria-hungary-1918</predecessor>
-        <predecessor>austrian-empire-1867</predecessor>
     </predecessors>
     <successors>
         <successor>czech-republic</successor>

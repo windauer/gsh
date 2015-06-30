@@ -8,8 +8,6 @@
     <valid-until>2008</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>italian-east-africa-1941</predecessor>
-        <predecessor>british-somaliland-1960</predecessor>
         <predecessor>somali-republic-1969</predecessor>
     </predecessors>
     <successors>

@@ -360,7 +360,9 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                 for $predecessor at $n in $predecessors 
                                 let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor)
                                 let $warning := 
-                                    if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
+                                    if (gsh:territories($predecessor)/valid-until = '') then 
+                                        gsh:generate-warning($counter-name, 'Expected a valid until date')                                    
+                                    else if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
                                         gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessor)/valid-until, ', this is not a direct predecessor and should be removed'))
                                     else 
                                         ()
@@ -380,7 +382,8 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         else
                             let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
                             let $warning := 
-                                if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then
+                                if (gsh:territories($predecessors)/valid-until = '') then 
+                                        gsh:generate-warning($counter-name, 'Expected valid dates')                                                else if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then
                                     gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessors)/valid-until, ', this is not a direct predecessor and should be removed'))
                                 else 
                                     ()
@@ -418,7 +421,9 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                 for $successor at $n in $successors 
                                 let $display := gsh:territory-id-to-short-name-with-years-valid($successor)
                                 let $warning := 
-                                    if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                    if (gsh:territories($successor)/valid-since = '') then 
+                                        gsh:generate-warning($counter-name, 'Expected a valid date')                                    
+                                    else if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
                                         gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successor)/valid-since, ', this is not a direct successor and should be removed'))
                                     else 
                                         ()
@@ -438,7 +443,9 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         else
                             let $display := gsh:territory-id-to-short-name-with-years-valid($successors)
                             let $warning := 
-                                if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                if (gsh:territories($successors)/valid-since = '') then 
+                                    gsh:generate-warning($counter-name, 'Expected a valid date')                                    
+                                else if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
                                     gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successors)/valid-since, ', this is not a direct successor and should be removed'))
                                 else 
                                     ()

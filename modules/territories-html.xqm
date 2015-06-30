@@ -255,7 +255,7 @@ declare function th:mentions($territory-id as xs:string) {
 
 
 declare function th:contains($territory-id as xs:string) {
-    let $hits := $gsh:territories[contains(id, $territory-id)]
+    let $hits := gsh:order-territories-chronologically($gsh:territories[contains(id, $territory-id)])
     let $title := concat('Territories whose id contains "', $territory-id, '"')
     let $breadcrumbs := (th:landing-page-breadcrumbs(), <li><a href="#">{$title}</a></li>)
     let $content :=

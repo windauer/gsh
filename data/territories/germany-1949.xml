@@ -8,15 +8,11 @@
     <valid-until>1949</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>prussia-1871</predecessor>
-        <predecessor>prussia-1918</predecessor>
-        <predecessor>germany-1933</predecessor>
         <predecessor>germany-1945</predecessor>
     </predecessors>
     <successors>
         <successor>west-germany-1990</successor>
         <successor>east-germany-1990</successor>
-        <successor>germany</successor>
     </successors>
     <notes/>
     <sources>

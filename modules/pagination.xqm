@@ -11,7 +11,7 @@ declare function p8n:summarize($start as xs:integer, $per-page as xs:integer, $h
  : @param href a function taking two parameters ($start and $per-page, both integers) and returning a URL :)
 declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $how-many as xs:integer, $href as function) {
     let $total-pages := xs:integer(ceiling($how-many div $per-page))
-    let $current-page := ($start - 1) div $per-page + 1
+    let $current-page := xs:integer(($start - 1) div $per-page + 1)
     let $max-window-size := 10 (: match Google :)
     let $keep-stable-until := $max-window-size - 3
     let $start-page := if ($current-page lt $keep-stable-until) then 1 else (max(($current-page - floor($max-window-size div 2), 1)) cast as xs:integer)
@@ -22,6 +22,8 @@ declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $ho
     let $prev-start := if ($is-first-page) then 1 else $start - $per-page
     let $next-start := if ($is-last-page) then $start else $start + $per-page
     return
+        if ($total-pages le 1) then ()
+        else
         element nav {
             element ul {
                 attribute class { "pagination" },

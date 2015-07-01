@@ -6,6 +6,13 @@
         <!-- Disable the standard full text index -->
         <fulltext default="none" attributes="false"/>
         
+        <!-- Lucene full text index configuration -->
+        <lucene>
+            <analyzer class="org.apache.lucene.analysis.WhitespaceAnalyzer"/>
+            <text qname="short-form-name"/>
+            <text qname="long-form-name"/>
+        </lucene>
+        
         <!-- Range index configuration -->
         <create qname="id" type="xs:string"/>
         <create qname="short-form-name" type="xs:string"/>

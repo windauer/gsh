@@ -17,6 +17,7 @@ let $content :=
             <li><a href="{$gsh:posts-home}">Posts</a></li>
             <li><a href="{$gsh:regions-home}">Regions</a></li>
             <li><a href="{$gsh:territories-home}">Territories</a></li>
+            <li><a href="{$gsh:app-home}/resources">Resources</a></li>
         </ul>
     </div>
 return

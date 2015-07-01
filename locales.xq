@@ -19,6 +19,13 @@ declare function local:locale-breadcrumbs($locale-id) {
     )
 };
 
+declare function local:locales-within-territory-breadcrumbs($territory-id) {
+    (
+    local:landing-page-breadcrumbs(),
+    <li><a href="{concat($gsh:locales-home, '?territory=', $territory-id)}">Within {gsh:territory-id-to-short-name($territory-id)}</a></li>
+    )
+};
+
 declare function local:show-locale($locale-id) {
     let $locale := $gsh:locales[id = $locale-id]
     let $title := $locale/name/string()
@@ -32,10 +39,28 @@ declare function local:show-locale($locale-id) {
         gsh:wrap-html($content, $title)
 };
 
-declare function local:browse-locales($q, $start, $per-page, $show-all) {
+declare function local:show-locales-within-territory($territory-id) {
+    let $locales := $gsh:locales[current-territory = $territory-id]
+    let $title := gsh:territory-id-to-short-name($territory-id)
+    let $breadcrumbs := local:locales-within-territory-breadcrumbs($territory-id)
+    let $content := 
+        <div>
+            <p>{count($locales)} within {$title}.</p>
+            {gsh:breadcrumbs($breadcrumbs)}
+            {gsh:locales-to-table($locales)}
+        </div>
+    return
+        gsh:wrap-html($content, $title)
+};
+
+declare function local:browse-locales($q, $territory, $start, $per-page, $show-all) {
     let $all-locales := 
         if ($q) then 
             $gsh:locales[ft:query(name, $q)]
+        else if ($territory) then
+            let $territories := $gsh:territories[ft:query(short-form-name, $territory) or ft:query(long-form-name, $territory)]/id
+            return
+                $gsh:locales[current-territory = $territories]
         else 
             $gsh:locales
     let $ordered-locales := for $locale in $all-locales order by $locale/id return $locale
@@ -54,15 +79,16 @@ declare function local:browse-locales($q, $start, $per-page, $show-all) {
     let $table := gsh:locales-to-table($locales-to-show)
     let $params-sans-per-page := p8n:strip-parameters(request:get-query-string(), ('per-page', 'show-all'))
     let $params-for-show-all := p8n:strip-parameters(request:get-query-string(), ('per-page', 'start'))
+    let $breadcrumbs := gsh:breadcrumbs((<li><a href="{$gsh:locales-home}">Locales</a></li>, if ($q) then <li>{$q}</li> else if ($territory) then <li>Within {$territory}</li> else ()))
     let $content := 
         <div>
-            <ol class="breadcrumb">
-                <li><a href="{$gsh:app-home}">Home</a></li>
-                <li><a href="{$gsh:locales-home}">Locales</a></li>
-            </ol>
+            { $breadcrumbs }
             <form class="form-inline">
                 <div class="input-group">
                     <input name="q" type="search" class="form-control" placeholder="Search locales..." value="{$q}"/>
+                </div>
+                <div class="input-group">
+                    <input name="territory" type="search" class="form-control" placeholder="Search by territory..." value="{$territory}"/>
                 </div>
                 <div class="input-group">
                     <div class="dropdown">
@@ -90,6 +116,7 @@ declare function local:browse-locales($q, $start, $per-page, $show-all) {
 };
 
 let $locale-id := request:get-parameter('locale', ())
+let $territory := request:get-parameter('territory', ())
 let $q := request:get-parameter('q', ())
 let $start := request:get-parameter('start', 1)
 let $per-page := request:get-parameter('per-page', 10)
@@ -98,4 +125,4 @@ return
     if ($locale-id) then
         local:show-locale($locale-id)
     else
-        local:browse-locales($q, $start, $per-page, $show-all)
+        local:browse-locales($q, $territory, $start, $per-page, $show-all)

@@ -8,18 +8,11 @@
     <valid-until>1911</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>southern-rhodesia-1964</predecessor>
         <predecessor>north-western-rhodesia-1911</predecessor>
         <predecessor>north-eastern-rhodesia-1911</predecessor>
-        <predecessor>northern-rhodesia-1964</predecessor>
-        <predecessor>zambia</predecessor>
-        <predecessor>rhodesia-1979</predecessor>
-        <predecessor>zimbabwe-rhodesia-1980</predecessor>
-        <predecessor>zimbabwe</predecessor>
     </predecessors>
     <successors>
-        <successor>zimbabwe-rhodesia-1980</successor>
-        <successor>zimbabwe</successor>
+        <successor>southern-rhodesia-1964</successor>
     </successors>
     <notes>British Protectorate.</notes>
     <sources>

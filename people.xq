@@ -30,11 +30,11 @@ declare function local:people-list($people, $show-descriptions) {
     }
 };
 
-let $show-descriptions := xs:boolean(request:get-parameter('show-descriptions', false()))
-let $people := collection('/db/people')/persons/person[name ne '']
+let $show-descriptions := xs:boolean(request:get-parameter('show-descriptions', ()))
+let $people := collection('/db/apps/gsh/data/people')/persons/person[name ne '']
 let $content :=
     <div>
-        <p>{count($people)} people. {if ($show-descriptions) then <a href="?show-descriptions=true">Show descriptions.</a> else <a href="?">Hide descriptions.</a>}</p>
+        <p>{count($people)} people. {if ($show-descriptions) then <a href="?">Hide descriptions.</a> else <a href="?show-descriptions=true">Show descriptions.</a> }</p>
         {local:people-list($people, $show-descriptions)}
     </div>
 return

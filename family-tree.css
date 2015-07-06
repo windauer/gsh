@@ -1,7 +1,7 @@
 /* from http://thecodeplayer.com/walkthrough/css3-family-tree */
 
 /*Now the CSS*/
-* {margin: 0; padding: 0;}
+.tree * {margin: 0; padding: 0;}
 
 .tree ul {
 	padding-top: 20px; position: relative;

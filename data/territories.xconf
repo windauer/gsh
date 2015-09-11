@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
-    <index>
+    <index xmlns:xs="http://www.w3.org/2001/XMLSchema">
         
         <!-- Full text index configuration -->
         <!-- Disable the standard full text index -->
@@ -8,7 +8,7 @@
         
         <!-- Lucene full text index configuration -->
         <lucene>
-            <analyzer class="org.apache.lucene.analysis.WhitespaceAnalyzer"/>
+            <analyzer class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
             <text qname="short-form-name"/>
             <text qname="long-form-name"/>
         </lucene>

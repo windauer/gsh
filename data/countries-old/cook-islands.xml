@@ -1,0 +1,16 @@
+<country>
+    <id>cook-islands</id>
+    <iso2>cw</iso2>
+    <region>eap</region>
+    <label>Cook Islands</label>
+    <country-modern-indicator>true</country-modern-indicator>
+    <created-by>wicentowskijc</created-by>
+    <created-datetime>2013-01-30T16:59:47.34-05:00</created-datetime>
+    <last-modified-by>joewiz</last-modified-by>
+    <last-modified-datetime>2013-01-30T16:59:47.34-05:00</last-modified-datetime>
+    <release-status-code>released</release-status-code>
+    <released-by>wicentowskijc</released-by>
+    <release-datetime>2013-01-30T16:59:47.34-05:00</release-datetime>
+    <recalled-by/>
+    <recall-datetime/>
+</country>

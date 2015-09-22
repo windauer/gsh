@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table>
+    <name>region-code</name>
+    <hint>Regions of the world by geographic bureau</hint>
+    <description>Regions of the world according to U.S. Department of State geographic bureau
+        designations, as retrieved from http://www.state.gov/p/ on June 5, 2013</description>
+    <items>
+        <item>
+            <label>Africa (Sub-Sahara)</label>
+            <value>af</value>
+            <definition>Region of the Bureau of African Affairs</definition>
+        </item>
+        <item>
+            <label>East Asia and the Pacific</label>
+            <value>eap</value>
+            <definition>Region of the Bureau of East Asian and Pacific Affairs</definition>
+        </item>
+        <item>
+            <label>Europe &amp; Eurasia</label>
+            <value>eur</value>
+            <definition>Region of the Bureau of European and Eurasian Affairs</definition>
+        </item>
+        <item>
+            <label>Near East (northern Africa, Middle East)</label>
+            <value>nea</value>
+            <definition>Region of the Bureau of Near Eastern Affairs</definition>
+        </item>
+        <item>
+            <label>South and Central Asia</label>
+            <value>sca</value>
+            <definition>Region of the Bureau of South and Central Asian Affairs</definition>
+        </item>
+        <item>
+            <label>Western Hemisphere (Latin America, the Carribean, Canada)</label>
+            <value>wha</value>
+            <definition>Region of the Bureau of Western Hemisphere Affairs</definition>
+        </item>
+    </items>
+</code-table>

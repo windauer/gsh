@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+    <id>brunei</id>
+    <iso2>bn</iso2>
+    <region>eap</region>
+    <label>Brunei</label>
+    <alternate-labels>
+        <alternate-label>Brunei Darussalam</alternate-label>
+    </alternate-labels>
+    <country-modern-indicator>true</country-modern-indicator>
+    <created-by>joewiz</created-by>
+    <created-datetime>2010-04-22T09:59:47.34-05:00</created-datetime>
+    <last-modified-by>wicentowskijc</last-modified-by>
+    <last-modified-datetime>2012-04-11T15:40:54.809-04:00</last-modified-datetime>
+    <release-status-code>released</release-status-code>
+    <released-by>wicentowskijc</released-by>
+    <release-datetime>2012-04-11T15:40:54.809-04:00</release-datetime>
+    <recalled-by/>
+    <recall-datetime/>
+</country>

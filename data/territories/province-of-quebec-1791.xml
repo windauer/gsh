@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
     <id>province-of-quebec-1791</id>
-    <short-form-name>Province of Quebec, The</short-form-name>
+    <short-form-name>The Province of Quebec</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1763</valid-since>

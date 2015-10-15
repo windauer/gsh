@@ -1,0 +1,15 @@
+<locale>
+    <id>bissau</id>
+    <name>Bissau</name>
+    <current-territory>guinea-bissau</current-territory>
+    <latitude>11.85</latitude>
+    <longitude>-15.566667</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

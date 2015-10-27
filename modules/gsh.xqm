@@ -18,7 +18,7 @@ declare variable $gsh:territory-types := doc('/db/apps/gsh/data/code-tables/terr
 
 (: functions for creating links :)
 
-declare variable $gsh:app-home := '/apps/gsh';
+declare variable $gsh:app-home := '/exist/apps/gsh';
 
 declare variable $gsh:locales-home := $gsh:app-home || '/locales';
 declare variable $gsh:posts-home := $gsh:app-home || '/posts';

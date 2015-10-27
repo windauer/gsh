@@ -9,7 +9,7 @@ declare function p8n:summarize($start as xs:integer, $per-page as xs:integer, $h
 (:~ Paginate results, Google-style
  : @see http://getbootstrap.com/components/#pagination 
  : @param href a function taking two parameters ($start and $per-page, both integers) and returning a URL :)
-declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $how-many as xs:integer, $href as function) {
+declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $how-many as xs:integer, $href as function(*)) {
     let $total-pages := xs:integer(ceiling($how-many div $per-page))
     let $current-page := xs:integer(($start - 1) div $per-page + 1)
     let $max-window-size := 10 (: match Google :)

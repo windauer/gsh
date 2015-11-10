@@ -10,7 +10,7 @@
     <target>gsh</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <permissions user="gsh-admin" group="gsh-admin" mode="rw-rw-r--" password=""/>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="gsh-admin" group="gsh-admin" mode="rw-rw-r--"/>
     <changelog>
         <change version="0.1.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
@@ -30,6 +30,11 @@
         <change xmlns:repo="http://exist-db.org/xquery/repo" version="0.4.0">
             <ul xmlns="http://www.w3.org/1999/xhtml">
                 <li>Added old country data to assist with migration</li>
+            </ul>
+        </change>
+        <change xmlns:repo="http://exist-db.org/xquery/repo" version="0.4.1">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Deduplicate locale ids</li>
             </ul>
         </change>
     </changelog>

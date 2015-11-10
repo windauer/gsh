@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>trujillo_hn</id>
+    <name>Trujillo</name>
+    <current-territory>honduras</current-territory>
+    <latitude>15.916667</latitude>
+    <longitude>-87</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>sydney_ca</id>
+    <name>Sydney</name>
+    <current-territory>canada</current-territory>
+    <latitude>46.1378</latitude>
+    <longitude>-60.1829</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

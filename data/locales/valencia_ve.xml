@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>valencia_ve</id>
+    <name>Valencia</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.1780011229</latitude>
+    <longitude>-68.00300053</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

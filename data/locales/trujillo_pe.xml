@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>trujillo_pe</id>
+    <name>Trujillo</name>
+    <current-territory>peru</current-territory>
+    <latitude>-8.112</latitude>
+    <longitude>-79.0288</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

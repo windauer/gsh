@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>barcelona_vz</id>
+    <name>Barcelona</name>
+    <current-territory>venezuela</current-territory>
+    <latitude>10.133000986</latitude>
+    <longitude>-64.6919995049</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

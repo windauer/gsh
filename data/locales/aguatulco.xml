@@ -6,11 +6,11 @@
     <latitude>15.85</latitude>
     <longitude>-96.333333</longitude>
     <predecessors/>
-    <successors>Huatulco</successors>
+    <successors></successors>
     <alternate-names>
         <alternate-name>
-            <label/>
-            <notes/>
+            <label>Huatulco</label>
+            <notes>Formerly known as</notes>
         </alternate-name>
     </alternate-names>
 </locale>

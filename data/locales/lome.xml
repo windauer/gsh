@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>lome</id>
+    <name>Lome</name>
+    <current-territory>togo</current-territory>
+    <latitude>6.137778</latitude>
+    <longitude>1.2125</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

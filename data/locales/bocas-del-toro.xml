@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locale>
     <id>bocas-del-toro</id>
-    <name>Bocas Del Toro</name>
-    <current-territory>colombia</current-territory>
-    <latitude>9.3339090244</latitude>
-    <longitude>-82.249388468</longitude>
+    <name>Bocas del Toro</name>
+    <current-territory>panama</current-territory>
+    <latitude>9.335882</latitude>
+    <longitude>-82.254511</longitude>
     <predecessors/>
     <successors/>
     <alternate-names>

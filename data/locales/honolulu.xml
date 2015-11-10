@@ -2,7 +2,7 @@
 <locale>
     <id>honolulu</id>
     <name>Honolulu</name>
-    <current-territory>hawaii</current-territory>
+    <current-territory>united-states</current-territory>
     <latitude>21.3290009981</latitude>
     <longitude>-157.861997684</longitude>
     <predecessors/>

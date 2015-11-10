@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>trieste_at</id>
+    <name>Trieste</name>
+    <current-territory>austria</current-territory>
+    <latitude>45.6450030745</latitude>
+    <longitude>13.7770024673</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

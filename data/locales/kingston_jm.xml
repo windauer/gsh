@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>kingston_jm</id>
+    <name>Kingston</name>
+    <current-territory>jamaica</current-territory>
+    <latitude>17.9669250965</latitude>
+    <longitude>-76.7995195874</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

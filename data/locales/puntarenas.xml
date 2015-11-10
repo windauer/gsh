@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>puntarenas</id>
+    <name>Puntarenas</name>
+    <current-territory>costa-rica</current-territory>
+    <latitude>9.966667</latitude>
+    <longitude>-84.8333</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

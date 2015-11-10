@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>la-paz_mx</id>
+    <name>La Paz</name>
+    <current-territory>mexico</current-territory>
+    <latitude>24.142222</latitude>
+    <longitude>-110.310833</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label/>
+            <notes/>
+        </alternate-name>
+    </alternate-names>
+</locale>

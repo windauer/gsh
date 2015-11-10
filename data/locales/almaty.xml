@@ -5,12 +5,12 @@
     <current-territory>kazakhstan</current-territory>
     <latitude>43.2550620873</latitude>
     <longitude>76.9126236818</longitude>
-    <predecessors>Alma-Ata</predecessors>
+    <predecessors/>
     <successors/>
     <alternate-names>
         <alternate-name>
-            <label/>
-            <notes/>
+            <label>Alma Ata</label>
+            <notes>Formerly known as</notes>
         </alternate-name>
     </alternate-names>
 </locale>

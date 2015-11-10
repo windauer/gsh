@@ -5,7 +5,9 @@
     <current-territory>united-arab-emirates</current-territory>
     <latitude>24.4760040762</latitude>
     <longitude>54.3709986284</longitude>
-    <predecessors>Muscat, Oman</predecessors>
+    <predecessors>
+        <predecessor>muscat</predecessor>
+    </predecessors>
     <successors/>
     <alternate-names>
         <alternate-name>

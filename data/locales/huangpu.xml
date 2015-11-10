@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+    <id>huangpu</id>
+    <name>Huangpu</name>
+    <current-territory>china</current-territory>
+    <latitude>23.109418</latitude>
+    <longitude>113.454197</longitude>
+    <predecessors/>
+    <successors/>
+    <alternate-names>
+        <alternate-name>
+            <label>Whampoa</label>
+            <notes>Former romanization of the Chinese place name</notes>
+        </alternate-name>
+    </alternate-names>
+</locale>

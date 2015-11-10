@@ -3,9 +3,9 @@
     <id>kehl</id>
     <name>Kehl</name>
     <current-territory>germany</current-territory>
-    <latitude>47.465131</latitude>
-    <longitude>8.287102</longitude>
-    <predecessors/>
+    <latitude>48.578873</latitude>
+    <longitude>7.816082</longitude>
+    <predecessors>Kiel</predecessors>
     <successors/>
     <alternate-names>
         <alternate-name>

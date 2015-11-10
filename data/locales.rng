@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns=""
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="locale">
+            <element name="id">
+                <data type="NCName"/>
+            </element>
+            <element name="name">
+                <text/>
+            </element>
+            <element name="current-territory">
+                <text/>
+            </element>
+            <element name="latitude">
+                <data type="double"/>
+            </element>
+            <element name="longitude">
+                <data type="double"/>
+            </element>
+            <element name="predecessors">
+                <zeroOrMore>
+                    <element name="predecessor">
+                        <data type="NCName"/>
+                    </element>
+                </zeroOrMore>
+            </element>
+            <element name="successors">
+                <zeroOrMore>
+                    <element name="successor">
+                        <data type="NCName"/>
+                    </element>
+                </zeroOrMore>
+            </element>
+            <element name="alternate-names">
+                <zeroOrMore>
+                    <element name="alternate-name">
+                        <element name="label">
+                            <text/>
+                        </element>
+                        <element name="notes">
+                            <text/>
+                        </element>
+                    </element>
+                </zeroOrMore>
+            </element>
+        </element>
+    </start>
+</grammar>

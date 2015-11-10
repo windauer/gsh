@@ -8,7 +8,7 @@
         
         <!-- Lucene full text index configuration -->
         <lucene>
-            <analyzer class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
+            <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="short-form-name"/>
             <text qname="long-form-name"/>
         </lucene>

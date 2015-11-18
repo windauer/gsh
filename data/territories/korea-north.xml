@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
     <id>korea-north</id>
-    <short-form-name>Korea, North</short-form-name>
+    <short-form-name>North Korea</short-form-name>
     <long-form-name>Democratic People’s Republic of Korea</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1948</valid-since>

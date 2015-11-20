@@ -10,7 +10,7 @@ import module namespace counter="http://exist-db.org/xquery/counter" at "xmldb:e
 declare variable $gsh:locales := collection('/db/apps/gsh/data/locales')/locale;
 declare variable $gsh:posts := collection('/db/apps/gsh/data/posts')/post;
 declare variable $gsh:regions := collection('/db/apps/gsh/data/regions')/region;
-declare variable $gsh:territories := collection('/db/apps/gsh/data/territories')/territory;
+declare variable $gsh:territories := collection('/db/apps/gsh/data/territories');
 
 declare variable $gsh:post-types := doc('/db/apps/gsh/data/code-tables/post-types.xml');
 declare variable $gsh:territory-types := doc('/db/apps/gsh/data/code-tables/territory-types.xml');
@@ -87,7 +87,7 @@ declare function gsh:breadcrumbs($links as element(li)*) {
 (: functions for accessing territories :)
 
 declare function gsh:territories($territory-ids as xs:string*) {
-    $gsh:territories[id = $territory-ids]
+    $gsh:territories/territory[id = $territory-ids]
 };
 
 declare function gsh:post-type-id-to-label($type-id) {
@@ -626,7 +626,7 @@ declare function gsh:locales-to-table($locales) {
                 element tr {
                     element td { $locale/id/string() },
                     element td { <a href="{gsh:link-to-locale($locale/id)}">{$locale/name/string()}</a> },
-                    element td { <a href="{gsh:link-to-territory($locale/current-territory)}">{ $gsh:territories[id = $locale/current-territory]/short-form-name/string() }</a> },
+                    element td { <a href="{gsh:link-to-territory($locale/current-territory)}">{ $gsh:territories/territory[id = $locale/current-territory]/short-form-name/string() }</a> },
                     element td { string-join(tokenize($locale/predecessors, ', '),'; ') },
                     element td { string-join(tokenize($locale/successors, ', '),'; ')},
                     element td { string-join(($locale/latitude, $locale/longitude), ', ') }

@@ -34,16 +34,13 @@ local:mkcol("/db/system/config", $target),
 xmldb:store-files-from-pattern("/db/system/config" || $target,  $dir, "replication.xconf"),
 
 (: store the collection configuration :)
-for $xconf in file:directory-list($dir, "*.xconf")/file:file/@name
+for $xconf in file:directory-list(concat($dir, "/data"), "*.xconf")/file:file/@name
 let $data-dir := substring-before($xconf, ".xconf")
 return (
-    if($data-dir != 'replication')
-    then (
-      local:mkcol-recursive(concat("/db/system/config/", $target), $data-dir),
-      xmldb:store-files-from-pattern(
-        concat("/db/system/config", $target, "/", $data-dir),
-        $dir,
-        $xconf
+    local:mkcol-recursive(concat("/db/system/config/", $target), $data-dir),
+    xmldb:store-files-from-pattern(
+      concat("/db/system/config", $target, "/", $data-dir),
+      $dir,
+      $xconf
       )
-    ) else ()
 )

@@ -11,7 +11,7 @@ import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistor
 
 
 let $title := 'Resources'
-let $territories := $gsh:territories[exists-on-todays-map = 'true'][type-of-territory = 'independent-state']
+let $territories := $gsh:territories/territory[exists-on-todays-map = 'true'][type-of-territory = 'independent-state']
 let $breadcrumbs := gsh:breadcrumbs(<li><a href="{$gsh:app-home}/resources.xq">{$title}</a></li>)
 let $content :=
     element div {
@@ -66,7 +66,7 @@ let $content :=
                             }
                         },
                         element td {
-                            if (doc(concat('/db/cms/apps/tei-content/data/countries/', $territory-id, '.xml'))) then
+                            if (doc(concat('/db/apps/rdcr/articles/', $territory-id, '.xml'))) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/countries/{$territory-id}">Yes</a>
@@ -78,7 +78,7 @@ let $content :=
                                 )
                         },
                         element td {
-                            if (doc(concat('/db/cms/apps/principals-chiefs/data/missions-countries/', $territory-id, '.xml'))) then
+                            if (doc(concat('/db/apps/pocom/missions-countries/', $territory-id, '.xml'))) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/departmenthistory/people/chiefsofmission/{$territory-id}">Yes</a>
@@ -90,7 +90,7 @@ let $content :=
                                 )
                         },
                         element td {
-                            if (collection('/db/cms/apps/travels/data/presidents')//country/@id = $territory-id) then
+                            if (collection('/db/apps/travels/president-travels')//country/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/departmenthistory/travels/presidents/{$territory-id}">Yes</a>
@@ -102,7 +102,7 @@ let $content :=
                                 )
                         },
                         element td {
-                            if (collection('/db/cms/apps/travels/data/secretaries')//country/@id = $territory-id) then
+                            if (collection('/db/apps/travels/secretary-travels')//country/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/departmenthistory/travels/secretaries/{$territory-id}">Yes</a>
@@ -114,7 +114,7 @@ let $content :=
                                 )
                         },
                         element td {
-                            if (collection('/db/cms/apps/visits/data/')//from/@id = $territory-id) then
+                            if (collection('/db/apps/visits/data/')//from/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/departmenthistory/visits/{$territory-id}">Yes</a>
@@ -126,7 +126,7 @@ let $content :=
                                 )
                         },
                         element td {
-                            if (doc('/db/cms/apps/tags/data/taxonomy.xml')//id = $territory-id) then
+                            if (doc('/db/apps/tags/taxonomy/taxonomy.xml')//id = $territory-id) then
                                 (
                                 attribute class { 'success' },
                                 <a href="/tags/{$territory-id}">Yes</a>

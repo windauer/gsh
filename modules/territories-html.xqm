@@ -30,7 +30,7 @@ declare function th:territories-landing-page() {
                 :)
             },
             element ul {
-                for $territory in $gsh:territories
+                for $territory in $gsh:territories/territory
                 order by $territory/id, $territory/valid-since (: alphabetical, then chronological tie breaker :)
                 return
                     element li {

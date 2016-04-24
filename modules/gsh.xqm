@@ -54,7 +54,7 @@ declare function gsh:wrap-html($content as element(), $title as xs:string) {
                 dl {{ margin-above: 1em }}
                 dt {{ font-weight: normal }}
             </style>
-            <link href="/apps/gsh/family-tree.css" rel="stylesheet"/>
+            <link href="{$gsh:app-home}/family-tree.css" rel="stylesheet"/>
             <style type="text/css" media="print">
                 a, a:visited {{ text-decoration: underline; color: #428bca; }}
                 a[href]:after {{ content: "" }}

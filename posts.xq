@@ -26,7 +26,7 @@ declare function local:posts-landing-page($show-all-posts as xs:boolean) {
             {gsh:breadcrumbs($breadcrumbs)}
             <p>Select a territory from the list below { if ($show-all-posts) then <a href="?">(Show only territory names)</a> else <a href="?show-all-posts=true">(Show all posts)</a>}:</p>
             <ul>{
-                for $territory in $gsh:territories[exists-on-todays-map = 'true']
+                for $territory in $gsh:territories/territory[exists-on-todays-map = 'true']
                 let $locales := $gsh:locales[current-territory = $territory/id]
                 let $posts := $gsh:posts[locale-id = $locales/id]
                 let $ordered-posts := 

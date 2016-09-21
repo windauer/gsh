@@ -8,12 +8,10 @@
     <valid-until>1935</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>ottoman-empire-1922</predecessor>
         <predecessor>kingdom-of-greece-1923</predecessor>
     </predecessors>
     <successors>
         <successor>kingdom-of-greece-1973</successor>
-        <successor>greece</successor>
     </successors>
     <notes/>
     <sources>

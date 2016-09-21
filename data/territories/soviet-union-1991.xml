@@ -9,6 +9,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>russian-empire-1917</predecessor>
+        <predecessor>armenian-republic-1920</predecessor>
     </predecessors>
     <successors>
         <successor>armenia</successor>

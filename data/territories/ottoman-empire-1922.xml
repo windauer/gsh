@@ -9,10 +9,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
-        <successor>albania</successor>
         <successor>albania-1946</successor>
-        <successor>peoples-republic-of-albania-1976</successor>
-        <successor>peoples-socialist-republic-of-albania-1991</successor>
         <successor>algeria</successor>
         <successor>armenia</successor>
         <successor>azerbaijan</successor>

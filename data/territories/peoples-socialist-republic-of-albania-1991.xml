@@ -9,8 +9,6 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>peoples-republic-of-albania-1976</predecessor>
-        <predecessor>albania-1946</predecessor>
-        <predecessor>ottoman-empire-1922</predecessor>
     </predecessors>
     <successors>
         <successor>albania</successor>

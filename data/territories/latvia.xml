@@ -8,8 +8,6 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>russian-empire-1917</predecessor>
-        <predecessor>latvia-1940</predecessor>
         <predecessor>soviet-union-1991</predecessor>
     </predecessors>
     <successors/>

@@ -69,7 +69,7 @@ let $content :=
                             if (doc(concat('/db/apps/rdcr/articles/', $territory-id, '.xml'))) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/countries/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/countries/{$territory-id}">Yes</a>
                                 )
                             else
                                 (
@@ -81,7 +81,7 @@ let $content :=
                             if (doc(concat('/db/apps/pocom/missions-countries/', $territory-id, '.xml'))) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/departmenthistory/people/chiefsofmission/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/departmenthistory/people/chiefsofmission/{$territory-id}">Yes</a>
                                 )
                             else
                                 (
@@ -93,7 +93,7 @@ let $content :=
                             if (collection('/db/apps/travels/president-travels')//country/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/departmenthistory/travels/presidents/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/departmenthistory/travels/presidents/{$territory-id}">Yes</a>
                                 )
                             else
                                 (
@@ -105,7 +105,7 @@ let $content :=
                             if (collection('/db/apps/travels/secretary-travels')//country/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/departmenthistory/travels/secretaries/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/departmenthistory/travels/secretaries/{$territory-id}">Yes</a>
                                 )
                             else
                                 (
@@ -117,7 +117,7 @@ let $content :=
                             if (collection('/db/apps/visits/data/')//from/@id = $territory-id) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/departmenthistory/visits/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/departmenthistory/visits/{$territory-id}">Yes</a>
                                 )
                             else
                                 (
@@ -129,7 +129,7 @@ let $content :=
                             if (doc('/db/apps/tags/taxonomy/taxonomy.xml')//id = $territory-id) then
                                 (
                                 attribute class { 'success' },
-                                <a href="/tags/{$territory-id}">Yes</a>
+                                <a href="/exist/apps/hsg-shell/tags/{$territory-id}">Yes</a>
                                 )
                             else
                                 (

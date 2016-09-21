@@ -10,7 +10,9 @@
     <predecessors>
         <predecessor>kingdom-of-holland-1815</predecessor>
     </predecessors>
-    <successors/>
+    <successors>
+        <successor>belgium</successor>
+    </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nl.html</source>

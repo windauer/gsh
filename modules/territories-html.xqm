@@ -208,7 +208,7 @@ declare function th:show-territory($territory-id as xs:string) {
             { gsh:breadcrumbs($breadcrumbs) }
             <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference id "{$territory-id}"</a>.</p>
             { gsh:territories-to-list($territory, $counter-name, true()) }
-            { th:ancestor-tree($territory) }
+            { (: th:ancestor-tree($territory) :) () }
         </div>
     return
         gsh:wrap-html($content, $title)

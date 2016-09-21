@@ -9,12 +9,11 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>democratic-republic-of-afghanistan-1987</predecessor>
-        <predecessor>durrani-empire-1978</predecessor>
     </predecessors>
     <successors>
         <successor>afghanistan</successor>
     </successors>
-    <notes>Mulitple predecessors</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/af.html</source>
         <source>http://memory.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+af0122)</source>

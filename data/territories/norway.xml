@@ -9,7 +9,6 @@
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>sweden</predecessor>
-        <predecessor>denmark</predecessor>
     </predecessors>
     <successors/>
     <notes/>

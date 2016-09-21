@@ -7,7 +7,9 @@
     <valid-since>1721</valid-since>
     <valid-until>1917</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>polish-lithuanian-commonwealth-1795</predecessor>
+    </predecessors>
     <successors>
         <successor>soviet-union-1991</successor>
         <successor>latvia-1940</successor>

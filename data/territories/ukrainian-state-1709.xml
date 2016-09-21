@@ -9,11 +9,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
-        <successor>russian-empire-1917</successor>
-        <successor>ukraine-1922</successor>
-        <successor>ukrainian-national-republic-1920</successor>
-        <successor>soviet-union-1991</successor>
-        <successor>ukraine</successor>
+        <successor>polish-lithuanian-commonwealth-1795</successor>
     </successors>
     <notes/>
     <sources>

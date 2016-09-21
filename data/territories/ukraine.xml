@@ -8,14 +8,6 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>polish-lithuanian-commonwealth-1795</predecessor>
-        <predecessor>russian-empire-1917</predecessor>
-        <predecessor>ottoman-empire-1922</predecessor>
-        <predecessor>habsburg-empire-1804</predecessor>
-        <predecessor>austrian-empire-1867</predecessor>
-        <predecessor>austria-hungary-1918</predecessor>
-        <predecessor>ukrainian-state-1709</predecessor>
-        <predecessor>ukrainian-national-republic-1920</predecessor>
         <predecessor>soviet-union-1991</predecessor>
     </predecessors>
     <successors/>

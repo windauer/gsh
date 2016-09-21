@@ -7,7 +7,9 @@
     <valid-since>1569</valid-since>
     <valid-until>1795</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>ukrainian-state-1709</predecessor>
+    </predecessors>
     <successors>
         <successor>duchy-of-warsaw-1815</successor>
     </successors>

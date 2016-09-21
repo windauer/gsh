@@ -11,6 +11,7 @@
         <predecessor>russian-empire-1917</predecessor>
         <predecessor>armenian-republic-1920</predecessor>
         <predecessor>latvia-1940</predecessor>
+        <predecessor>ukraine-1922</predecessor>
     </predecessors>
     <successors>
         <successor>armenia</successor>

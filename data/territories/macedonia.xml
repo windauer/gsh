@@ -8,7 +8,6 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>ottoman-empire-1922</predecessor>
         <predecessor>socialist-federal-republic-of-yugoslavia-1992</predecessor>
     </predecessors>
     <successors/>

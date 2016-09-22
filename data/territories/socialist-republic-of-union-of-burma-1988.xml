@@ -9,8 +9,6 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>burma-1962</predecessor>
-        <predecessor>british-burma-1948</predecessor>
-        <predecessor>alaungpaya-dynasty-1885</predecessor>
     </predecessors>
     <successors>
         <successor>burma</successor>

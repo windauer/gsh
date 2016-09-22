@@ -11,9 +11,6 @@
     <successors>
         <successor>upper-canada-1841</successor>
         <successor>lower-canada-1841</successor>
-        <successor>canada-west-1867</successor>
-        <successor>canada-east-1867</successor>
-        <successor>canada</successor>
     </successors>
     <notes/>
     <sources>

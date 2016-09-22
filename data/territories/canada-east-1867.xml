@@ -9,13 +9,12 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>lower-canada-1841</predecessor>
-        <predecessor>province-of-quebec-1791</predecessor>
     </predecessors>
     <successors>
         <successor>canada</successor>
     </successors>
     <notes/>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/91849/Canada-East</source>
+        <source>http://www.britannica.com/EBchecked/topic/91872/Canada-West</source>
     </sources>
 </territory>

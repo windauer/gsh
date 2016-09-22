@@ -9,6 +9,7 @@
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>canada-east-1867</predecessor>
+        <predecessor>canada-west-1867</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1927</notes>

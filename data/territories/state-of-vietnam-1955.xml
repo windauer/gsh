@@ -8,7 +8,6 @@
     <valid-until>1955</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>dai-viet-1802</predecessor>
         <predecessor>vietnam-1862</predecessor>
         <predecessor>cochinchina-1887</predecessor>
         <predecessor>indochina-1950</predecessor>
@@ -17,7 +16,7 @@
         <successor>south-vietnam-1975</successor>
         <successor>north-vietnam-1975</successor>
     </successors>
-    <notes>Mulitple predecessors.  U.S. recognized independence in 1950.</notes>
+    <notes>U.S. recognized independence in 1950.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
         <source>http://www.britannica.com/EBchecked/topic/628349/Vietnam</source>

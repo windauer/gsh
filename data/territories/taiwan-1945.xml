@@ -8,7 +8,7 @@
     <valid-until>1945</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>qing-dynasty-1912</predecessor>
+        <predecessor>china-1912</predecessor>
     </predecessors>
     <successors>
         <successor>republic-of-china-1949</successor>

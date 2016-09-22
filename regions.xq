@@ -95,7 +95,7 @@ declare function local:show-region($region-id, $view-all) {
                 let $counter-name := concat($territory-id, '-issue')
                 order by $territory/short-form-name, $territory/valid-since
                 return
-                    <div>
+                    <div style="page-break-before: always">
                         <h3>{gsh:territory-id-to-short-name-with-years-valid($territory-id)}</h3>
                         <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference id "{$territory-id}"</a>.</p>
                         { gsh:territories-to-list($territory, $counter-name, true()) }

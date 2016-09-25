@@ -15,7 +15,16 @@ declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $ho
     let $max-window-size := 10 (: match Google :)
     let $keep-stable-until := $max-window-size - 3
     let $start-page := if ($current-page lt $keep-stable-until) then 1 else (max(($current-page - floor($max-window-size div 2), 1)) cast as xs:integer)
-    let $end-page := if ($total-pages lt $max-window-size) then $total-pages else if ($current-page lt $keep-stable-until) then $max-window-size else $current-page + ceiling($max-window-size div 2 - 1) cast as xs:integer
+    let $end-page := 
+        if ($total-pages lt $max-window-size) then 
+            $total-pages 
+        else if ($current-page lt $keep-stable-until) then 
+            $max-window-size 
+        else 
+            min((
+                $current-page + ceiling($max-window-size div 2 - 1) cast as xs:integer,
+                $total-pages
+            ))
     let $pages-to-show := $start-page to $end-page
     let $is-first-page := $current-page eq 1
     let $is-last-page := $current-page eq $total-pages

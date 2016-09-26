@@ -9,11 +9,9 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>mahdist-state-1889</predecessor>
-        <predecessor>funj-dynasty-1821</predecessor>
     </predecessors>
     <successors>
         <successor>sudan</successor>
-        <successor>south-sudan</successor>
     </successors>
     <notes/>
     <sources>

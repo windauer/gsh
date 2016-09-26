@@ -78,7 +78,7 @@ declare function local:browse-locales($q, $territory, $start, $per-page, $show-a
         }
     let $table := gsh:locales-to-table($locales-to-show)
     let $params-sans-per-page := p8n:strip-parameters(request:get-query-string(), ('per-page', 'show-all'))
-    let $params-for-show-all := p8n:strip-parameters(request:get-query-string(), ('per-page', 'start'))
+    let $params-for-show-all := p8n:strip-parameters(request:get-query-string(), ('per-page', 'start', 'show-all'))
     let $breadcrumbs := gsh:breadcrumbs((<li><a href="{$gsh:locales-home}">Locales</a></li>, if ($q) then <li>{$q}</li> else if ($territory) then <li>Within {$territory}</li> else ()))
     let $content := 
         <div>

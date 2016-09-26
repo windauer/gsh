@@ -90,8 +90,8 @@ return
 :)
 
 declare function p8n:strip-parameters($query-string, $names) {
-    let $original-parameters := tokenize($query-string, '&amp;')
+    let $original-parameters := tokenize($query-string, '&amp;')[. ne '']
     let $trimmed := $original-parameters[not(tokenize(., '=')[1] = $names)]
     return 
-        string-join($trimmed, '&amp;')
+        string-join($trimmed, '&amp;')[. ne '']
 };

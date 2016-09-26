@@ -49,8 +49,8 @@ declare function local:region-landing-page() {
 };
 
 declare function local:show-territories-not-in-regions($view-all) {
+    let $current-territories := $gsh:territories/territory[exists-on-todays-map = 'true']/id
     let $region-territories := $gsh:regions//territory-id
-    let $current-territories := $gsh:territories[exists-on-todays-map = 'true']/id
     let $hits := $current-territories[not(. = $region-territories)]
     let $title := 'Territories not included in a region'
     let $breadcrumbs := 

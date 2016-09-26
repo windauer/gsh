@@ -8,8 +8,8 @@
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <successor>jordan-1958</successor>
-        <successor>iraq-1958</successor>
+        <predecessor>jordan-1958</predecessor>
+        <predecessor>iraq-1958</predecessor>
     </predecessors>
     <successors>
         <successor>jordan</successor>

@@ -4,7 +4,7 @@
     <short-form-name>Senegal</short-form-name>
     <long-form-name>Republic of Senegal</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1960-09</valid-since>
+    <valid-since>1960</valid-since>
     <valid-until>1982</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
@@ -14,7 +14,7 @@
         <successor>senegambia-1989</successor>
         <successor>senegal</successor>
     </successors>
-    <notes/>
+    <notes>From September, 1960</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html</source>
         <source>http://history.state.gov/countries/senegal</source>

@@ -60,7 +60,7 @@ declare function p8n:paginate($start as xs:integer, $per-page as xs:integer, $ho
                 element li {
                     if ($is-last-page) then attribute class {"disabled"} else (),
                     element a {
-                        attribute href { $href($next-start, $per-page) },
+                        attribute href { if ($is-last-page) then '#' else $href($next-start, $per-page) },
                         attribute aria-label { "Next" },
                         element span { 
                             attribute aria-hidden { "true" },

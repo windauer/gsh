@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lineage>
+    <description-of>czech-republic</description-of>
+    <event>
+        <subject>
+            <territory-id>czech-republic</territory-id>
+        </subject>
+        <relationship>was-previously-part-of</relationship>
+        <object>
+            <territory-id>austria-hungary-1918</territory-id>
+        </object>
+    </event>
+    <event>
+        <subject>
+            <territory-id>czechoslovakia-1993</territory-id>
+        </subject>
+        <relationship>became-independent-of</relationship>
+        <object>
+            <territory-id>austria-hungary-1918</territory-id>
+        </object>
+    </event>
+    <event>
+        <subject>
+            <territory-id>czechoslovakia-1993</territory-id>
+        </subject>
+        <relationship>split-into</relationship>
+        <object>
+            <territory-id>czech-republic</territory-id>
+            <territory-id>slovakia</territory-id>
+        </object>
+    </event>
+</lineage>

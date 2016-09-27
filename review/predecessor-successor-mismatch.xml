@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+    <problem>
+        <territory-id>abyssinia-1974</territory-id>
+        <successor>eritrea</successor>
+        <description>abyssinia-1974 should list eritrea as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>abyssinia-1974</territory-id>
+        <successor>eritrea-1936</successor>
+        <description>abyssinia-1974 should list eritrea-1936 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>alaungpaya-dynasty-1885</territory-id>
+        <predecessor>luang-1752</predecessor>
+        <description>alaungpaya-dynasty-1885 should list luang-1752 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>alaungpaya-dynasty-1885</territory-id>
+        <successor>laos</successor>
+        <description>alaungpaya-dynasty-1885 should list laos as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>alaungpaya-dynasty-1885</territory-id>
+        <predecessor>lan-xang-1707</predecessor>
+        <description>alaungpaya-dynasty-1885 should list lan-xang-1707 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>anglo-egyptian-sudan-1955</territory-id>
+        <successor>south-sudan</successor>
+        <description>anglo-egyptian-sudan-1955 should list south-sudan as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>arab-union-1958</territory-id>
+        <predecessor>jordan-1958</predecessor>
+        <description>arab-union-1958 should list jordan-1958 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>arab-union-1958</territory-id>
+        <predecessor>iraq-1958</predecessor>
+        <description>arab-union-1958 should list iraq-1958 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>aruba</territory-id>
+        <predecessor>aruba-1954</predecessor>
+        <description>aruba should list aruba-1954 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>austria-hungary-1918</territory-id>
+        <successor>ukrainian-national-republic-1920</successor>
+        <description>austria-hungary-1918 should list ukrainian-national-republic-1920 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>bahrain</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>bahrain should list wahhabi-empire-1818 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>bangladesh</territory-id>
+        <predecessor>east-pakistan-1971</predecessor>
+        <description>bangladesh should list east-pakistan-1971 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>barbados</territory-id>
+        <predecessor>barbados-1958</predecessor>
+        <description>barbados should list barbados-1958 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>belize</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>belize should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>benin</territory-id>
+        <predecessor>dahomey-1975</predecessor>
+        <description>benin should list dahomey-1975 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>bornu-empire-1904</territory-id>
+        <successor>chad</successor>
+        <description>bornu-empire-1904 should list chad as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <predecessor>bunyoro-1896</predecessor>
+        <description>british-east-africa-1963 should list bunyoro-1896 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <predecessor>buganda-1894</predecessor>
+        <description>british-east-africa-1963 should list buganda-1894 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <successor>zanzibar-1963</successor>
+        <description>british-east-africa-1963 should list zanzibar-1963 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <successor>zanzibar-1890</successor>
+        <description>british-east-africa-1963 should list zanzibar-1890 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <successor>united-republic-of-tanganyika-and-zanzibar-1964</successor>
+        <description>british-east-africa-1963 should list
+            united-republic-of-tanganyika-and-zanzibar-1964 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-east-africa-1963</territory-id>
+        <successor>peoples-republic-of-zanzibar-1964</successor>
+        <description>british-east-africa-1963 should list peoples-republic-of-zanzibar-1964 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>british-somaliland-1960</territory-id>
+        <predecessor>italian-east-africa-1941</predecessor>
+        <description>british-somaliland-1960 should list italian-east-africa-1941 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>burundi</territory-id>
+        <predecessor>german-east-africa-1920</predecessor>
+        <description>burundi should list german-east-africa-1920 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>burundi</territory-id>
+        <predecessor>ruanda-urundi-1962</predecessor>
+        <description>burundi should list ruanda-urundi-1962 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cambodia</territory-id>
+        <successor>democratic-kampuchea-1979</successor>
+        <description>cambodia should list democratic-kampuchea-1979 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>cambodia</territory-id>
+        <successor>khmer-republic-1970</successor>
+        <description>cambodia should list khmer-republic-1970 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon</territory-id>
+        <predecessor>french-cameroun-1960</predecessor>
+        <description>cameroon should list french-cameroun-1960 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon</territory-id>
+        <predecessor>federal-republic-of-cameroon-1972</predecessor>
+        <description>cameroon should list federal-republic-of-cameroon-1972 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon</territory-id>
+        <predecessor>cameroon-1961</predecessor>
+        <description>cameroon should list cameroon-1961 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon</territory-id>
+        <predecessor>british-cameroons-1961</predecessor>
+        <description>cameroon should list british-cameroons-1961 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon</territory-id>
+        <predecessor>kamerun-1916</predecessor>
+        <description>cameroon should list kamerun-1916 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cameroon-1961</territory-id>
+        <predecessor>kamerun-1916</predecessor>
+        <description>cameroon-1961 should list kamerun-1916 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cape-colony-1910</territory-id>
+        <successor>transvaal-1910</successor>
+        <description>cape-colony-1910 should list transvaal-1910 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>cape-colony-1910</territory-id>
+        <successor>swaziland</successor>
+        <description>cape-colony-1910 should list swaziland as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>cape-colony-1910</territory-id>
+        <successor>natal-1910</successor>
+        <description>cape-colony-1910 should list natal-1910 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>cape-verde</territory-id>
+        <successor>portuguese-guinea-1974</successor>
+        <description>cape-verde should list portuguese-guinea-1974 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>central-african-empire-1980</territory-id>
+        <successor>central-african-republic-1977</successor>
+        <description>central-african-empire-1980 should list central-african-republic-1977 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>central-african-republic</territory-id>
+        <predecessor>french-equatorial-africa-1959</predecessor>
+        <description>central-african-republic should list french-equatorial-africa-1959 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>central-african-republic-1977</territory-id>
+        <successor>central-african-empire-1980</successor>
+        <description>central-african-republic-1977 should list central-african-empire-1980 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>chad</territory-id>
+        <predecessor>french-congo-1910</predecessor>
+        <description>chad should list french-congo-1910 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>china-1912</territory-id>
+        <predecessor>formosa-1683</predecessor>
+        <description>china-1912 should list formosa-1683 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>china-1912</territory-id>
+        <successor>macau</successor>
+        <description>china-1912 should list macau as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>colombia</territory-id>
+        <predecessor>grenadine-confederation-1863</predecessor>
+        <description>colombia should list grenadine-confederation-1863 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>colombia</territory-id>
+        <predecessor>gran-colombia-1830</predecessor>
+        <description>colombia should list gran-colombia-1830 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>colombia</territory-id>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <description>colombia should list viceroyalty-of-new-granada-1823 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>colombia</territory-id>
+        <predecessor>new-granada-1856</predecessor>
+        <description>colombia should list new-granada-1856 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>congo-brazzaville</territory-id>
+        <predecessor>french-congo-1910</predecessor>
+        <description>congo-brazzaville should list french-congo-1910 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>congo-brazzaville</territory-id>
+        <predecessor>middle-congo-1960</predecessor>
+        <description>congo-brazzaville should list middle-congo-1960 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>congo-kinshasa</territory-id>
+        <predecessor>congo-free-state-1908</predecessor>
+        <description>congo-kinshasa should list congo-free-state-1908 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>congo-kinshasa</territory-id>
+        <predecessor>kongo-1914</predecessor>
+        <description>congo-kinshasa should list kongo-1914 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>costa-rica</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>costa-rica should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>cote-divoire</territory-id>
+        <predecessor>ivory-coast-1960</predecessor>
+        <description>cote-divoire should list ivory-coast-1960 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>democratic-kampuchea-1979</territory-id>
+        <successor>peoples-republic-of-kampuchea-1993</successor>
+        <description>democratic-kampuchea-1979 should list peoples-republic-of-kampuchea-1993 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>djibouti</territory-id>
+        <predecessor>french-somaliland-1967</predecessor>
+        <description>djibouti should list french-somaliland-1967 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>dominica</territory-id>
+        <predecessor>dominica-1958</predecessor>
+        <description>dominica should list dominica-1958 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>ecuador</territory-id>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <description>ecuador should list viceroyalty-of-new-granada-1823 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>ecuador</territory-id>
+        <predecessor>quito-1830</predecessor>
+        <description>ecuador should list quito-1830 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>el-salvador</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>el-salvador should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>eritrea-1936</territory-id>
+        <successor>eritrea</successor>
+        <description>eritrea-1936 should list eritrea as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>eritrea-1936</territory-id>
+        <predecessor>eritrea-1936</predecessor>
+        <description>eritrea-1936 should list eritrea-1936 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>eritrea-autonomous-region-in-ethiopia-1993</territory-id>
+        <predecessor>eritrea-1936</predecessor>
+        <description>eritrea-autonomous-region-in-ethiopia-1993 should list eritrea-1936 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>falkland-islands-islas-malvinas</territory-id>
+        <predecessor>south-sandwich-islands-1985</predecessor>
+        <description>falkland-islands-islas-malvinas should list south-sandwich-islands-1985 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>falkland-islands-islas-malvinas</territory-id>
+        <predecessor>south-sandwich-islands-1820</predecessor>
+        <description>falkland-islands-islas-malvinas should list south-sandwich-islands-1820 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>falkland-islands-islas-malvinas</territory-id>
+        <predecessor>south-georgia-island-1985</predecessor>
+        <description>falkland-islands-islas-malvinas should list south-georgia-island-1985 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>falkland-islands-islas-malvinas</territory-id>
+        <predecessor>south-georgia-and-south-sandwich-islands</predecessor>
+        <description>falkland-islands-islas-malvinas should list
+            south-georgia-and-south-sandwich-islands as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>federation-of-mali-1960</territory-id>
+        <predecessor>french-sudan-1960</predecessor>
+        <description>federation-of-mali-1960 should list french-sudan-1960 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>federation-of-mali-1960</territory-id>
+        <predecessor>sudanese-republic-1959</predecessor>
+        <description>federation-of-mali-1960 should list sudanese-republic-1959 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>federation-of-mali-1960</territory-id>
+        <successor>senegal</successor>
+        <description>federation-of-mali-1960 should list senegal as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>federation-of-mali-1960</territory-id>
+        <successor>senegal-1982</successor>
+        <description>federation-of-mali-1960 should list senegal-1982 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>french-cameroun-1960</territory-id>
+        <predecessor>bornu-empire-1904</predecessor>
+        <description>french-cameroun-1960 should list bornu-empire-1904 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>french-congo-1910</territory-id>
+        <successor>gabon</successor>
+        <description>french-congo-1910 should list gabon as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>french-equatorial-africa-1959</territory-id>
+        <successor>gabon</successor>
+        <description>french-equatorial-africa-1959 should list gabon as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>french-equatorial-africa-1959</territory-id>
+        <successor>congo-brazzaville</successor>
+        <description>french-equatorial-africa-1959 should list congo-brazzaville as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>french-togoland-1960</territory-id>
+        <successor>togoland-1922</successor>
+        <description>french-togoland-1960 should list togoland-1922 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>funj-dynasty-1821</territory-id>
+        <successor>south-sudan</successor>
+        <description>funj-dynasty-1821 should list south-sudan as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>gabon</territory-id>
+        <predecessor>kongo-1914</predecessor>
+        <description>gabon should list kongo-1914 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>german-east-africa-1920</territory-id>
+        <successor>ruanda-urundi-1962</successor>
+        <description>german-east-africa-1920 should list ruanda-urundi-1962 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>german-east-africa-1920</territory-id>
+        <successor>ruanda-1922</successor>
+        <description>german-east-africa-1920 should list ruanda-1922 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>german-south-west-africa-1919</territory-id>
+        <successor>south-west-africa-1990</successor>
+        <description>german-south-west-africa-1919 should list south-west-africa-1990 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>germany-1933</territory-id>
+        <successor>marshall-islands-district-1986</successor>
+        <description>germany-1933 should list marshall-islands-district-1986 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>germany-1933</territory-id>
+        <successor>mariana-islands-district-1986</successor>
+        <description>germany-1933 should list mariana-islands-district-1986 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>gilbert-and-ellice-islands-1975</territory-id>
+        <successor>gilbert-islands-1979</successor>
+        <description>gilbert-and-ellice-islands-1975 should list gilbert-islands-1979 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>gilbert-islands-1979</territory-id>
+        <successor>gilbert-and-ellice-islands-1975</successor>
+        <description>gilbert-islands-1979 should list gilbert-and-ellice-islands-1975 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>gran-colombia-1830</territory-id>
+        <successor>quito-1830</successor>
+        <description>gran-colombia-1830 should list quito-1830 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>grenadine-confederation-1863</territory-id>
+        <predecessor>gran-colombia-1830</predecessor>
+        <description>grenadine-confederation-1863 should list gran-colombia-1830 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>grenadine-confederation-1863</territory-id>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <description>grenadine-confederation-1863 should list viceroyalty-of-new-granada-1823 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>guadeloupe</territory-id>
+        <successor>saint-martin</successor>
+        <description>guadeloupe should list saint-martin as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>guatemala</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>guatemala should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>hawaiian-islands-1826</territory-id>
+        <successor>hawaii-1948</successor>
+        <description>hawaiian-islands-1826 should list hawaii-1948 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>holy-see</territory-id>
+        <predecessor>pontifical-states-1929</predecessor>
+        <description>holy-see should list pontifical-states-1929 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>honduras</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>honduras should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>india</territory-id>
+        <successor>east-pakistan-1971</successor>
+        <description>india should list east-pakistan-1971 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>india</territory-id>
+        <successor>east-bengal-1955</successor>
+        <description>india should list east-bengal-1955 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <successor>democratic-kampuchea-1979</successor>
+        <description>indochina-1950 should list democratic-kampuchea-1979 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <predecessor>champasak-1778</predecessor>
+        <description>indochina-1950 should list champasak-1778 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <successor>cambodia</successor>
+        <description>indochina-1950 should list cambodia as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <predecessor>vietenne-1782</predecessor>
+        <description>indochina-1950 should list vietenne-1782 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <successor>peoples-republic-of-kampuchea-1993</successor>
+        <description>indochina-1950 should list peoples-republic-of-kampuchea-1993 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <predecessor>luang-1752</predecessor>
+        <description>indochina-1950 should list luang-1752 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <predecessor>lan-xang-1707</predecessor>
+        <description>indochina-1950 should list lan-xang-1707 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>indochina-1950</territory-id>
+        <successor>khmer-republic-1970</successor>
+        <description>indochina-1950 should list khmer-republic-1970 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>indonesia</territory-id>
+        <predecessor>dutch-east-indies-1945</predecessor>
+        <description>indonesia should list dutch-east-indies-1945 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>iraq</territory-id>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <description>iraq should list ottoman-empire-1922 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>italian-east-africa-1941</territory-id>
+        <successor>eritrea</successor>
+        <description>italian-east-africa-1941 should list eritrea as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>italy</territory-id>
+        <predecessor>kingdom-of-naples-1815</predecessor>
+        <description>italy should list kingdom-of-naples-1815 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>jamaica</territory-id>
+        <predecessor>federation-of-west-indies-TBD</predecessor>
+        <description>jamaica should list federation-of-west-indies-TBD as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>japan</territory-id>
+        <successor>marshall-islands-district-1986</successor>
+        <description>japan should list marshall-islands-district-1986 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>japan</territory-id>
+        <successor>mariana-islands-district-1986</successor>
+        <description>japan should list mariana-islands-district-1986 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>jordan</territory-id>
+        <predecessor>transjordan-1950</predecessor>
+        <description>jordan should list transjordan-1950 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>kingdom-of-italy-1946</territory-id>
+        <predecessor>kingdom-of-naples-1815</predecessor>
+        <description>kingdom-of-italy-1946 should list kingdom-of-naples-1815 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>kiribati</territory-id>
+        <predecessor>gilbert-and-ellice-islands-1975</predecessor>
+        <description>kiribati should list gilbert-and-ellice-islands-1975 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>kongo-1914</territory-id>
+        <successor>congo-free-state-1908</successor>
+        <description>kongo-1914 should list congo-free-state-1908 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>kuwait</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>kuwait should list wahhabi-empire-1818 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>kyrgyzstan</territory-id>
+        <predecessor>soviet-union-1991</predecessor>
+        <description>kyrgyzstan should list soviet-union-1991 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>leeward-islands-1960</territory-id>
+        <predecessor>barbuda-1872</predecessor>
+        <description>leeward-islands-1960 should list barbuda-1872 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>leeward-islands-1960</territory-id>
+        <predecessor>antigua-1872</predecessor>
+        <description>leeward-islands-1960 should list antigua-1872 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>mahdist-state-1889</territory-id>
+        <successor>south-sudan</successor>
+        <description>mahdist-state-1889 should list south-sudan as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>malawi</territory-id>
+        <predecessor>nyasaland-protectorate-1893</predecessor>
+        <description>malawi should list nyasaland-protectorate-1893 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>malawi</territory-id>
+        <predecessor>nyasaland-1964</predecessor>
+        <description>malawi should list nyasaland-1964 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>malaya-1963</territory-id>
+        <successor>singapore</successor>
+        <description>malaya-1963 should list singapore as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>mali</territory-id>
+        <predecessor>french-sudan-1960</predecessor>
+        <description>mali should list french-sudan-1960 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>mali</territory-id>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <description>mali should list upper-senegal-niger-1920 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>mali</territory-id>
+        <predecessor>sudanese-republic-1959</predecessor>
+        <description>mali should list sudanese-republic-1959 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>marshall-islands</territory-id>
+        <predecessor>marshall-islands-district-1986</predecessor>
+        <description>marshall-islands should list marshall-islands-district-1986 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>mauritius</territory-id>
+        <successor>british-indian-ocean-territory</successor>
+        <description>mauritius should list british-indian-ocean-territory as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>mauritius</territory-id>
+        <successor>seychelles</successor>
+        <description>mauritius should list seychelles as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>mexico</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>mexico should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>mexico</territory-id>
+        <successor>republic-of-texas-1845</successor>
+        <description>mexico should list republic-of-texas-1845 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>british-east-africa-1963</successor>
+        <description>muscat-and-oman-1970 should list british-east-africa-1963 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>zanzibar-1964</successor>
+        <description>muscat-and-oman-1970 should list zanzibar-1964 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>zanzibar-1963</successor>
+        <description>muscat-and-oman-1970 should list zanzibar-1963 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>zanzibar-1890</successor>
+        <description>muscat-and-oman-1970 should list zanzibar-1890 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>united-republic-of-tanganyika-and-zanzibar-1964</successor>
+        <description>muscat-and-oman-1970 should list
+            united-republic-of-tanganyika-and-zanzibar-1964 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>muscat-and-oman-1970</territory-id>
+        <successor>peoples-republic-of-zanzibar-1964</successor>
+        <description>muscat-and-oman-1970 should list peoples-republic-of-zanzibar-1964 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>namibia</territory-id>
+        <predecessor>south-west-africa-1990</predecessor>
+        <description>namibia should list south-west-africa-1990 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>natal-1910</territory-id>
+        <predecessor>zululand-1879</predecessor>
+        <description>natal-1910 should list zululand-1879 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>netherlands-antilles-2010</territory-id>
+        <predecessor>curacao-1807</predecessor>
+        <description>netherlands-antilles-2010 should list curacao-1807 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>netherlands-antilles-2010</territory-id>
+        <predecessor>aruba-1954</predecessor>
+        <description>netherlands-antilles-2010 should list aruba-1954 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>new-granada-1856</territory-id>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <description>new-granada-1856 should list viceroyalty-of-new-granada-1823 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>nicaragua</territory-id>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <description>nicaragua should list viceroyalty-of-new-spain-1821 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>niger</territory-id>
+        <predecessor>bornu-empire-1904</predecessor>
+        <description>niger should list bornu-empire-1904 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>nigeria</territory-id>
+        <predecessor>bornu-empire-1904</predecessor>
+        <description>nigeria should list bornu-empire-1904 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>nigeria</territory-id>
+        <predecessor>kamerun-1916</predecessor>
+        <description>nigeria should list kamerun-1916 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>north-eastern-rhodesia-1911</territory-id>
+        <successor>rhodesia-1911</successor>
+        <description>north-eastern-rhodesia-1911 should list rhodesia-1911 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>north-western-rhodesia-1911</territory-id>
+        <successor>rhodesia-1911</successor>
+        <description>north-western-rhodesia-1911 should list rhodesia-1911 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>oman</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>oman should list wahhabi-empire-1818 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>greater-lebanon-1943</successor>
+        <description>ottoman-empire-1922 should list greater-lebanon-1943 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>french-syria-1944</successor>
+        <description>ottoman-empire-1922 should list french-syria-1944 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>egypt-1922</successor>
+        <description>ottoman-empire-1922 should list egypt-1922 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>ottoman-empire-1922 should list wahhabi-empire-1818 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>ukrainian-national-republic-1920</successor>
+        <description>ottoman-empire-1922 should list ukrainian-national-republic-1920 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>syria</successor>
+        <description>ottoman-empire-1922 should list syria as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>syria-1958</successor>
+        <description>ottoman-empire-1922 should list syria-1958 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>southern-yemen-1990</successor>
+        <description>ottoman-empire-1922 should list southern-yemen-1990 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>saudi-arabia</successor>
+        <description>ottoman-empire-1922 should list saudi-arabia as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>qatar</successor>
+        <description>ottoman-empire-1922 should list qatar as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>qatar-1971</successor>
+        <description>ottoman-empire-1922 should list qatar-1971 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>northern-yemen-1990</successor>
+        <description>ottoman-empire-1922 should list northern-yemen-1990 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>libya</successor>
+        <description>ottoman-empire-1922 should list libya as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>libya-1951</successor>
+        <description>ottoman-empire-1922 should list libya-1951 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>ottoman-empire-1922</territory-id>
+        <successor>iraq-1958</successor>
+        <description>ottoman-empire-1922 should list iraq-1958 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>palau</territory-id>
+        <predecessor>palau-district-1981</predecessor>
+        <description>palau should list palau-district-1981 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>panama</territory-id>
+        <predecessor>grenadine-confederation-1863</predecessor>
+        <description>panama should list grenadine-confederation-1863 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>panama</territory-id>
+        <predecessor>gran-colombia-1830</predecessor>
+        <description>panama should list gran-colombia-1830 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>panama</territory-id>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <description>panama should list viceroyalty-of-new-granada-1823 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>panama</territory-id>
+        <predecessor>new-granada-1856</predecessor>
+        <description>panama should list new-granada-1856 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>persia-1935</territory-id>
+        <successor>bahrain-1971</successor>
+        <description>persia-1935 should list bahrain-1971 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>persia-1935</territory-id>
+        <successor>state-of-bahrain-2002</successor>
+        <description>persia-1935 should list state-of-bahrain-2002 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>poland</territory-id>
+        <predecessor>grand-duchy-of-poznan-1919</predecessor>
+        <description>poland should list grand-duchy-of-poznan-1919 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>poland</territory-id>
+        <predecessor>congress-poland-1863</predecessor>
+        <description>poland should list congress-poland-1863 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>poland</territory-id>
+        <predecessor>republic-of-cracow-1846</predecessor>
+        <description>poland should list republic-of-cracow-1846 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>polish-lithuanian-commonwealth-1795</territory-id>
+        <successor>russian-empire-1917</successor>
+        <description>polish-lithuanian-commonwealth-1795 should list russian-empire-1917 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>portugal</territory-id>
+        <successor>macau</successor>
+        <description>portugal should list macau as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>qatar</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>qatar should list wahhabi-empire-1818 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>republic-of-china-1949</territory-id>
+        <predecessor>taiwan-1945</predecessor>
+        <description>republic-of-china-1949 should list taiwan-1945 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>republic-of-upper-volta-1960</territory-id>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <description>republic-of-upper-volta-1960 should list upper-senegal-niger-1920 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>russian-empire-1917</territory-id>
+        <successor>finland</successor>
+        <description>russian-empire-1917 should list finland as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>russian-empire-1917</territory-id>
+        <successor>estonia-1940</successor>
+        <description>russian-empire-1917 should list estonia-1940 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>russian-empire-1917</territory-id>
+        <successor>armenian-republic-1920</successor>
+        <description>russian-empire-1917 should list armenian-republic-1920 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>russian-empire-1917</territory-id>
+        <successor>ukrainian-national-republic-1920</successor>
+        <description>russian-empire-1917 should list ukrainian-national-republic-1920 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>rwanda</territory-id>
+        <predecessor>german-east-africa-1920</predecessor>
+        <description>rwanda should list german-east-africa-1920 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>rwanda</territory-id>
+        <predecessor>ruanda-urundi-1962</predecessor>
+        <description>rwanda should list ruanda-urundi-1962 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>saint-christopher-and-nevis-1988</territory-id>
+        <predecessor>saint-kitts-1882</predecessor>
+        <description>saint-christopher-and-nevis-1988 should list saint-kitts-1882 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>saint-christopher-and-nevis-1988</territory-id>
+        <predecessor>nevis-1882</predecessor>
+        <description>saint-christopher-and-nevis-1988 should list nevis-1882 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>saint-christopher-nevis-anguilla-1980</territory-id>
+        <predecessor>nevis-1882</predecessor>
+        <description>saint-christopher-nevis-anguilla-1980 should list nevis-1882 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>sakalava-1817</territory-id>
+        <successor>mayotte</successor>
+        <description>sakalava-1817 should list mayotte as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>samoa</territory-id>
+        <successor>american-samoa</successor>
+        <description>samoa should list american-samoa as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>samoa</territory-id>
+        <predecessor>western-samoa-1962</predecessor>
+        <description>samoa should list western-samoa-1962 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>senegal</territory-id>
+        <successor>mauritania</successor>
+        <description>senegal should list mauritania as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>senegal</territory-id>
+        <successor>mauritania-1960</successor>
+        <description>senegal should list mauritania-1960 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>senegambia-1989</territory-id>
+        <predecessor>gambia-1965</predecessor>
+        <description>senegambia-1989 should list gambia-1965 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>seychelles</territory-id>
+        <successor>british-indian-ocean-territory</successor>
+        <description>seychelles should list british-indian-ocean-territory as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>siam-1939</territory-id>
+        <predecessor>champasak-1778</predecessor>
+        <description>siam-1939 should list champasak-1778 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>siam-1939</territory-id>
+        <predecessor>vietenne-1782</predecessor>
+        <description>siam-1939 should list vietenne-1782 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>siam-1939</territory-id>
+        <predecessor>luang-1752</predecessor>
+        <description>siam-1939 should list luang-1752 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>siam-1939</territory-id>
+        <successor>laos</successor>
+        <description>siam-1939 should list laos as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>siam-1939</territory-id>
+        <predecessor>lan-xang-1707</predecessor>
+        <description>siam-1939 should list lan-xang-1707 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>sint-maarten</territory-id>
+        <predecessor>curacao-1807</predecessor>
+        <description>sint-maarten should list curacao-1807 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>south-africa</territory-id>
+        <predecessor>german-south-west-africa-1919</predecessor>
+        <description>south-africa should list german-south-west-africa-1919 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>soviet-union-1991</territory-id>
+        <predecessor>estonia-1940</predecessor>
+        <description>soviet-union-1991 should list estonia-1940 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>spain</territory-id>
+        <successor>mariana-islands-district-1986</successor>
+        <description>spain should list mariana-islands-district-1986 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>swaziland</territory-id>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <description>swaziland should list swazi-kingdom-1894 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>sweden</territory-id>
+        <successor>finland</successor>
+        <description>sweden should list finland as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>tanganyika-1964</territory-id>
+        <successor>united-republic-of-tanganyika-and-zanzibar-1964</successor>
+        <description>tanganyika-1964 should list united-republic-of-tanganyika-and-zanzibar-1964 as
+            a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>tanzania</territory-id>
+        <predecessor>zanzibar-1963</predecessor>
+        <description>tanzania should list zanzibar-1963 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>tanzania</territory-id>
+        <predecessor>zanzibar-1890</predecessor>
+        <description>tanzania should list zanzibar-1890 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>tanzania</territory-id>
+        <predecessor>peoples-republic-of-zanzibar-1964</predecessor>
+        <description>tanzania should list peoples-republic-of-zanzibar-1964 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>transjordan-1950</territory-id>
+        <successor>jordan-1958</successor>
+        <description>transjordan-1950 should list jordan-1958 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>transvaal-1910</territory-id>
+        <successor>swaziland</successor>
+        <description>transvaal-1910 should list swaziland as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>transvaal-1910</territory-id>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <description>transvaal-1910 should list swazi-kingdom-1894 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>trinidad-1889</territory-id>
+        <successor>trinidad-and-tobago-1962</successor>
+        <description>trinidad-1889 should list trinidad-and-tobago-1962 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>trust-territory-of-pacific-islands-1986</territory-id>
+        <successor>palau-district-1981</successor>
+        <description>trust-territory-of-pacific-islands-1986 should list palau-district-1981 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>tuvalu</territory-id>
+        <predecessor>gilbert-and-ellice-islands-1975</predecessor>
+        <description>tuvalu should list gilbert-and-ellice-islands-1975 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>ubangi-shari-chad-1910</territory-id>
+        <successor>french-congo-1910</successor>
+        <description>ubangi-shari-chad-1910 should list french-congo-1910 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-arab-republic-1971</territory-id>
+        <predecessor>french-syria-1944</predecessor>
+        <description>united-arab-republic-1971 should list french-syria-1944 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-republic-of-tanganyika-and-zanzibar-1964</territory-id>
+        <predecessor>zanzibar-1963</predecessor>
+        <description>united-republic-of-tanganyika-and-zanzibar-1964 should list zanzibar-1963 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-republic-of-tanganyika-and-zanzibar-1964</territory-id>
+        <predecessor>zanzibar-1890</predecessor>
+        <description>united-republic-of-tanganyika-and-zanzibar-1964 should list zanzibar-1890 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-republic-of-tanganyika-and-zanzibar-1964</territory-id>
+        <predecessor>peoples-republic-of-zanzibar-1964</predecessor>
+        <description>united-republic-of-tanganyika-and-zanzibar-1964 should list
+            peoples-republic-of-zanzibar-1964 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-states</territory-id>
+        <predecessor>hawaii-1948</predecessor>
+        <description>united-states should list hawaii-1948 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>united-states</territory-id>
+        <predecessor>republic-of-texas-1845</predecessor>
+        <description>united-states should list republic-of-texas-1845 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>upper-senegal-niger-1920</territory-id>
+        <successor>french-sudan-1960</successor>
+        <description>upper-senegal-niger-1920 should list french-sudan-1960 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>upper-senegal-niger-1920</territory-id>
+        <successor>federation-of-mali-1960</successor>
+        <description>upper-senegal-niger-1920 should list federation-of-mali-1960 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>upper-senegal-niger-1920</territory-id>
+        <successor>upper-volta-1984</successor>
+        <description>upper-senegal-niger-1920 should list upper-volta-1984 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>upper-senegal-niger-1920</territory-id>
+        <successor>sudanese-republic-1959</successor>
+        <description>upper-senegal-niger-1920 should list sudanese-republic-1959 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>viceroyalty-of-new-granada-1823</territory-id>
+        <successor>quito-1830</successor>
+        <description>viceroyalty-of-new-granada-1823 should list quito-1830 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>viceroyalty-of-new-spain-1821</territory-id>
+        <successor>british-honduras-1973</successor>
+        <description>viceroyalty-of-new-spain-1821 should list british-honduras-1973 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>viceroyalty-of-rio-de-la-plata-1810</territory-id>
+        <successor>buenos-ayres-1861</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 should list buenos-ayres-1861 as a
+            successor.</description>
+    </problem>
+    <problem>
+        <territory-id>viceroyalty-of-rio-de-la-plata-1810</territory-id>
+        <successor>argentine-confederation-1861</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 should list argentine-confederation-1861 as
+            a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>vietnam-1862</territory-id>
+        <successor>state-of-vietnam-1955</successor>
+        <description>vietnam-1862 should list state-of-vietnam-1955 as a successor.</description>
+    </problem>
+    <problem>
+        <territory-id>west-indies-federation-1962</territory-id>
+        <predecessor>dominica-1958</predecessor>
+        <description>west-indies-federation-1962 should list dominica-1958 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>west-indies-federation-1962</territory-id>
+        <predecessor>barbuda-1872</predecessor>
+        <description>west-indies-federation-1962 should list barbuda-1872 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>west-indies-federation-1962</territory-id>
+        <predecessor>barbados-1958</predecessor>
+        <description>west-indies-federation-1962 should list barbados-1958 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>west-indies-federation-1962</territory-id>
+        <predecessor>antigua-1872</predecessor>
+        <description>west-indies-federation-1962 should list antigua-1872 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>western-samoa-1997</territory-id>
+        <predecessor>western-samoa-1962</predecessor>
+        <description>western-samoa-1997 should list western-samoa-1962 as a
+            predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>yemen</territory-id>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <description>yemen should list wahhabi-empire-1818 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>yemen</territory-id>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <description>yemen should list ottoman-empire-1922 as a predecessor.</description>
+    </problem>
+    <problem>
+        <territory-id>zululand-1910</territory-id>
+        <predecessor>zululand-1910</predecessor>
+        <description>zululand-1910 should list zululand-1910 as a predecessor.</description>
+    </problem>
+</problems>

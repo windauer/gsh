@@ -1,0 +1,2223 @@
+<problems>
+    <problem>
+        <predecessor>abyssinia-1974</predecessor>
+        <successor>eritrea</successor>
+        <description>abyssinia-1974 is valid until 1974, but eritrea is valid since
+            1993.</description>
+    </problem>
+    <problem>
+        <predecessor>alaungpaya-dynasty-1885</predecessor>
+        <successor>laos</successor>
+        <description>alaungpaya-dynasty-1885 is valid until 1885, but laos is valid since
+            1950.</description>
+    </problem>
+    <problem>
+        <predecessor>anglo-egyptian-sudan-1955</predecessor>
+        <successor>south-sudan</successor>
+        <description>anglo-egyptian-sudan-1955 is valid until 1955, but south-sudan is valid since
+            2011.</description>
+    </problem>
+    <problem>
+        <predecessor>antigua-1872</predecessor>
+        <successor>antigua-and-barbuda</successor>
+        <description>antigua-1872 is valid until 1872, but antigua-and-barbuda is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>antigua-1872</predecessor>
+        <successor>antigua-and-barbuda</successor>
+        <description>antigua-1872 is valid until 1872, but antigua-and-barbuda is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>antigua-1872</predecessor>
+        <successor>west-indies-federation-1962</successor>
+        <description>antigua-1872 is valid until 1872, but west-indies-federation-1962 is valid
+            since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>aruba-1954</predecessor>
+        <successor>aruba</successor>
+        <description>aruba-1954 is valid until 1954, but aruba is valid since 1986.</description>
+    </problem>
+    <problem>
+        <predecessor>asante-empire-1874</predecessor>
+        <successor>ghana</successor>
+        <description>asante-empire-1874 is valid until 1874, but ghana is valid since
+            1957.</description>
+    </problem>
+    <problem>
+        <predecessor>asante-empire-1874</predecessor>
+        <successor>ghana</successor>
+        <description>asante-empire-1874 is valid until 1874, but ghana is valid since
+            1957.</description>
+    </problem>
+    <problem>
+        <predecessor>bahrain-1971</predecessor>
+        <successor>bahrain</successor>
+        <description>bahrain-1971 is valid until 1971, but bahrain is valid since
+            2002.</description>
+    </problem>
+    <problem>
+        <predecessor>bahrain-1971</predecessor>
+        <successor>bahrain</successor>
+        <description>bahrain-1971 is valid until 1971, but bahrain is valid since
+            2002.</description>
+    </problem>
+    <problem>
+        <predecessor>barbados-1958</predecessor>
+        <successor>barbados</successor>
+        <description>barbados-1958 is valid until 1958, but barbados is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>barbuda-1872</predecessor>
+        <successor>antigua-and-barbuda</successor>
+        <description>barbuda-1872 is valid until 1872, but antigua-and-barbuda is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>barbuda-1872</predecessor>
+        <successor>antigua-and-barbuda</successor>
+        <description>barbuda-1872 is valid until 1872, but antigua-and-barbuda is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>barbuda-1872</predecessor>
+        <successor>west-indies-federation-1962</successor>
+        <description>barbuda-1872 is valid until 1872, but west-indies-federation-1962 is valid
+            since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>british-cameroons-1961</successor>
+        <description>bornu-empire-1904 is valid until 1904, but british-cameroons-1961 is valid
+            since 1916.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>british-cameroons-1961</successor>
+        <description>bornu-empire-1904 is valid until 1904, but british-cameroons-1961 is valid
+            since 1916.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>cameroon</successor>
+        <description>bornu-empire-1904 is valid until 1904, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>cameroon</successor>
+        <description>bornu-empire-1904 is valid until 1904, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>cameroon-1961</successor>
+        <description>bornu-empire-1904 is valid until 1904, but cameroon-1961 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>cameroon-1961</successor>
+        <description>bornu-empire-1904 is valid until 1904, but cameroon-1961 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>chad</successor>
+        <description>bornu-empire-1904 is valid until 1904, but chad is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>federal-republic-of-cameroon-1972</successor>
+        <description>bornu-empire-1904 is valid until 1904, but federal-republic-of-cameroon-1972 is
+            valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>federal-republic-of-cameroon-1972</successor>
+        <description>bornu-empire-1904 is valid until 1904, but federal-republic-of-cameroon-1972 is
+            valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>french-cameroun-1960</successor>
+        <description>bornu-empire-1904 is valid until 1904, but french-cameroun-1960 is valid since
+            1916.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>french-equatorial-africa-1959</successor>
+        <description>bornu-empire-1904 is valid until 1904, but french-equatorial-africa-1959 is
+            valid since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>french-equatorial-africa-1959</successor>
+        <description>bornu-empire-1904 is valid until 1904, but french-equatorial-africa-1959 is
+            valid since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>niger</successor>
+        <description>bornu-empire-1904 is valid until 1904, but niger is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>nigeria</successor>
+        <description>bornu-empire-1904 is valid until 1904, but nigeria is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>bornu-empire-1904 is valid until 1904, but united-republic-of-cameroon-1984 is
+            valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>bornu-empire-1904</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>bornu-empire-1904 is valid until 1904, but united-republic-of-cameroon-1984 is
+            valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>brazil-1815</predecessor>
+        <successor>brazil</successor>
+        <description>brazil-1815 is valid until 1815, but brazil is valid since 1889.</description>
+    </problem>
+    <problem>
+        <predecessor>brazil-1815</predecessor>
+        <successor>brazil</successor>
+        <description>brazil-1815 is valid until 1815, but brazil is valid since 1889.</description>
+    </problem>
+    <problem>
+        <predecessor>brazil-1815</predecessor>
+        <successor>empire-of-brazil-1889</successor>
+        <description>brazil-1815 is valid until 1815, but empire-of-brazil-1889 is valid since
+            1822.</description>
+    </problem>
+    <problem>
+        <predecessor>brazil-1815</predecessor>
+        <successor>empire-of-brazil-1889</successor>
+        <description>brazil-1815 is valid until 1815, but empire-of-brazil-1889 is valid since
+            1822.</description>
+    </problem>
+    <problem>
+        <predecessor>british-cameroons-1961</predecessor>
+        <successor>cameroon</successor>
+        <description>british-cameroons-1961 is valid until 1961, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>british-cameroons-1961</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>british-cameroons-1961 is valid until 1961, but
+            united-republic-of-cameroon-1984 is valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>british-cameroons-1961</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>british-cameroons-1961 is valid until 1961, but
+            united-republic-of-cameroon-1984 is valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>british-central-africa-protectorate-1907</predecessor>
+        <successor>malawi</successor>
+        <description>british-central-africa-protectorate-1907 is valid until 1907, but malawi is
+            valid since 1964.</description>
+    </problem>
+    <problem>
+        <predecessor>british-central-africa-protectorate-1907</predecessor>
+        <successor>malawi</successor>
+        <description>british-central-africa-protectorate-1907 is valid until 1907, but malawi is
+            valid since 1964.</description>
+    </problem>
+    <problem>
+        <predecessor>buganda-1894</predecessor>
+        <successor>uganda</successor>
+        <description>buganda-1894 is valid until 1894, but uganda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>buganda-1894</predecessor>
+        <successor>uganda</successor>
+        <description>buganda-1894 is valid until 1894, but uganda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>bunker-island-TBD</predecessor>
+        <successor>jarvis-island</successor>
+        <description>bunker-island-TBD is valid until , but jarvis-island is valid since
+            1821.</description>
+    </problem>
+    <problem>
+        <predecessor>bunker-island-TBD</predecessor>
+        <successor>jarvis-island</successor>
+        <description>bunker-island-TBD is valid until , but jarvis-island is valid since
+            1821.</description>
+    </problem>
+    <problem>
+        <predecessor>bunyoro-1896</predecessor>
+        <successor>uganda</successor>
+        <description>bunyoro-1896 is valid until 1896, but uganda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>bunyoro-1896</predecessor>
+        <successor>uganda</successor>
+        <description>bunyoro-1896 is valid until 1896, but uganda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>cameroon-1961</predecessor>
+        <successor>cameroon</successor>
+        <description>cameroon-1961 is valid until 1961, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>cameroon-1961</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>cameroon-1961 is valid until 1961, but united-republic-of-cameroon-1984 is
+            valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>cameroon-1961</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>cameroon-1961 is valid until 1961, but united-republic-of-cameroon-1984 is
+            valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>cape-colony-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>cape-colony-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>cape-colony-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>cape-colony-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>cape-colony-1910</predecessor>
+        <successor>swaziland</successor>
+        <description>cape-colony-1910 is valid until 1910, but swaziland is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>champasak-1778</predecessor>
+        <successor>indochina-1950</successor>
+        <description>champasak-1778 is valid until 1778, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>champasak-1778</predecessor>
+        <successor>laos</successor>
+        <description>champasak-1778 is valid until 1778, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>champasak-1778</predecessor>
+        <successor>laos</successor>
+        <description>champasak-1778 is valid until 1778, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>cochinchina-1887</predecessor>
+        <successor>state-of-vietnam-1955</successor>
+        <description>cochinchina-1887 is valid until 1887, but state-of-vietnam-1955 is valid since
+            1949.</description>
+    </problem>
+    <problem>
+        <predecessor>cochinchina-1887</predecessor>
+        <successor>state-of-vietnam-1955</successor>
+        <description>cochinchina-1887 is valid until 1887, but state-of-vietnam-1955 is valid since
+            1949.</description>
+    </problem>
+    <problem>
+        <predecessor>congo-free-state-1908</predecessor>
+        <successor>congo-kinshasa</successor>
+        <description>congo-free-state-1908 is valid until 1908, but congo-kinshasa is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>congress-poland-1863</predecessor>
+        <successor>poland</successor>
+        <description>congress-poland-1863 is valid until 1863, but poland is valid since
+            1918.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-1807</predecessor>
+        <successor>curacao</successor>
+        <description>curacao-1807 is valid until 1807, but curacao is valid since
+            2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-1807</predecessor>
+        <successor>curacao</successor>
+        <description>curacao-1807 is valid until 1807, but curacao is valid since
+            2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-1807</predecessor>
+        <successor>netherlands-antilles-2010</successor>
+        <description>curacao-1807 is valid until 1807, but netherlands-antilles-2010 is valid since
+            1954.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-1807</predecessor>
+        <successor>sint-maarten</successor>
+        <description>curacao-1807 is valid until 1807, but sint-maarten is valid since
+            2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-and-dependencies-1954</predecessor>
+        <successor>curacao</successor>
+        <description>curacao-and-dependencies-1954 is valid until 1954, but curacao is valid since
+            2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-and-dependencies-1954</predecessor>
+        <successor>curacao</successor>
+        <description>curacao-and-dependencies-1954 is valid until 1954, but curacao is valid since
+            2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-and-dependencies-1954</predecessor>
+        <successor>sint-maarten</successor>
+        <description>curacao-and-dependencies-1954 is valid until 1954, but sint-maarten is valid
+            since 2010.</description>
+    </problem>
+    <problem>
+        <predecessor>curacao-and-dependencies-1954</predecessor>
+        <successor>sint-maarten</successor>
+        <description>curacao-and-dependencies-1954 is valid until 1954, but sint-maarten is valid
+            since 2010.</description>
+    </problem>
+    <problem>
+        <predecessor>dahomey-1975</predecessor>
+        <successor>benin</successor>
+        <description>dahomey-1975 is valid until 1975, but benin is valid since 1990.</description>
+    </problem>
+    <problem>
+        <predecessor>dai-viet-1802</predecessor>
+        <successor>cochinchina-1887</successor>
+        <description>dai-viet-1802 is valid until 1802, but cochinchina-1887 is valid since
+            1862.</description>
+    </problem>
+    <problem>
+        <predecessor>dai-viet-1802</predecessor>
+        <successor>cochinchina-1887</successor>
+        <description>dai-viet-1802 is valid until 1802, but cochinchina-1887 is valid since
+            1862.</description>
+    </problem>
+    <problem>
+        <predecessor>dai-viet-1802</predecessor>
+        <successor>indochina-1950</successor>
+        <description>dai-viet-1802 is valid until 1802, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>dai-viet-1802</predecessor>
+        <successor>indochina-1950</successor>
+        <description>dai-viet-1802 is valid until 1802, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>dominica-1958</predecessor>
+        <successor>dominica</successor>
+        <description>dominica-1958 is valid until 1958, but dominica is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>east-bengal-1955</predecessor>
+        <successor>bangladesh</successor>
+        <description>east-bengal-1955 is valid until 1955, but bangladesh is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>east-bengal-1955</predecessor>
+        <successor>bangladesh</successor>
+        <description>east-bengal-1955 is valid until 1955, but bangladesh is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>eritrea-1936</predecessor>
+        <successor>eritrea</successor>
+        <description>eritrea-1936 is valid until 1936, but eritrea is valid since
+            1993.</description>
+    </problem>
+    <problem>
+        <predecessor>eritrea-1936</predecessor>
+        <successor>eritrea-autonomous-region-in-ethiopia-1993</successor>
+        <description>eritrea-1936 is valid until 1936, but
+            eritrea-autonomous-region-in-ethiopia-1993 is valid since .</description>
+    </problem>
+    <problem>
+        <predecessor>federal-republic-of-cameroon-1972</predecessor>
+        <successor>cameroon</successor>
+        <description>federal-republic-of-cameroon-1972 is valid until 1972, but cameroon is valid
+            since 1984.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>mali</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but mali is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>mali</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but mali is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>senegal</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but senegal is valid since
+            1989.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>senegal-1982</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but senegal-1982 is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>senegambia-1989</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but senegambia-1989 is valid since
+            1982.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-mali-1960</predecessor>
+        <successor>senegambia-1989</successor>
+        <description>federation-of-mali-1960 is valid until 1960, but senegambia-1989 is valid since
+            1982.</description>
+    </problem>
+    <problem>
+        <predecessor>federation-of-west-indies-TBD</predecessor>
+        <successor>jamaica</successor>
+        <description>federation-of-west-indies-TBD is valid until , but jamaica is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>french-cameroun-1960</predecessor>
+        <successor>cameroon</successor>
+        <description>french-cameroun-1960 is valid until 1960, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>french-cameroun-1960</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>french-cameroun-1960 is valid until 1960, but united-republic-of-cameroon-1984
+            is valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>french-cameroun-1960</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>french-cameroun-1960 is valid until 1960, but united-republic-of-cameroon-1984
+            is valid since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>french-congo-1910</predecessor>
+        <successor>chad</successor>
+        <description>french-congo-1910 is valid until 1910, but chad is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>french-congo-1910</predecessor>
+        <successor>congo-brazzaville</successor>
+        <description>french-congo-1910 is valid until 1910, but congo-brazzaville is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>french-congo-1910</predecessor>
+        <successor>gabon</successor>
+        <description>french-congo-1910 is valid until 1910, but gabon is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>french-equatorial-africa-1959</predecessor>
+        <successor>central-african-republic</successor>
+        <description>french-equatorial-africa-1959 is valid until 1959, but central-african-republic
+            is valid since 1980.</description>
+    </problem>
+    <problem>
+        <predecessor>french-somaliland-1967</predecessor>
+        <successor>djibouti</successor>
+        <description>french-somaliland-1967 is valid until 1967, but djibouti is valid since
+            1977.</description>
+    </problem>
+    <problem>
+        <predecessor>french-sudan-1960</predecessor>
+        <successor>mali</successor>
+        <description>french-sudan-1960 is valid until 1960, but mali is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>french-syria-1944</predecessor>
+        <successor>syria</successor>
+        <description>french-syria-1944 is valid until 1944, but syria is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>french-syria-1944</predecessor>
+        <successor>syria</successor>
+        <description>french-syria-1944 is valid until 1944, but syria is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>french-syria-1944</predecessor>
+        <successor>united-arab-republic-1971</successor>
+        <description>french-syria-1944 is valid until 1944, but united-arab-republic-1971 is valid
+            since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>funj-dynasty-1821</predecessor>
+        <successor>mahdist-state-1889</successor>
+        <description>funj-dynasty-1821 is valid until 1821, but mahdist-state-1889 is valid since
+            1885.</description>
+    </problem>
+    <problem>
+        <predecessor>funj-dynasty-1821</predecessor>
+        <successor>mahdist-state-1889</successor>
+        <description>funj-dynasty-1821 is valid until 1821, but mahdist-state-1889 is valid since
+            1885.</description>
+    </problem>
+    <problem>
+        <predecessor>funj-dynasty-1821</predecessor>
+        <successor>south-sudan</successor>
+        <description>funj-dynasty-1821 is valid until 1821, but south-sudan is valid since
+            2011.</description>
+    </problem>
+    <problem>
+        <predecessor>gabon-1897</predecessor>
+        <successor>french-equatorial-africa-1959</successor>
+        <description>gabon-1897 is valid until 1897, but french-equatorial-africa-1959 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>gabon-1897</predecessor>
+        <successor>french-equatorial-africa-1959</successor>
+        <description>gabon-1897 is valid until 1897, but french-equatorial-africa-1959 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>gabon-1897</predecessor>
+        <successor>gabon</successor>
+        <description>gabon-1897 is valid until 1897, but gabon is valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>gabon-1897</predecessor>
+        <successor>gabon</successor>
+        <description>gabon-1897 is valid until 1897, but gabon is valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>gambia-1965</predecessor>
+        <successor>senegambia-1989</successor>
+        <description>gambia-1965 is valid until 1965, but senegambia-1989 is valid since
+            1982.</description>
+    </problem>
+    <problem>
+        <predecessor>german-east-africa-1920</predecessor>
+        <successor>burundi</successor>
+        <description>german-east-africa-1920 is valid until 1920, but burundi is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>german-east-africa-1920</predecessor>
+        <successor>rwanda</successor>
+        <description>german-east-africa-1920 is valid until 1920, but rwanda is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>german-south-west-africa-1919</predecessor>
+        <successor>namibia</successor>
+        <description>german-south-west-africa-1919 is valid until 1919, but namibia is valid since
+            1990.</description>
+    </problem>
+    <problem>
+        <predecessor>german-south-west-africa-1919</predecessor>
+        <successor>namibia</successor>
+        <description>german-south-west-africa-1919 is valid until 1919, but namibia is valid since
+            1990.</description>
+    </problem>
+    <problem>
+        <predecessor>german-south-west-africa-1919</predecessor>
+        <successor>south-africa</successor>
+        <description>german-south-west-africa-1919 is valid until 1919, but south-africa is valid
+            since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>germany-1933</predecessor>
+        <successor>mariana-islands-district-1986</successor>
+        <description>germany-1933 is valid until 1933, but mariana-islands-district-1986 is valid
+            since 1947.</description>
+    </problem>
+    <problem>
+        <predecessor>germany-1933</predecessor>
+        <successor>marshall-islands-district-1986</successor>
+        <description>germany-1933 is valid until 1933, but marshall-islands-district-1986 is valid
+            since 1947.</description>
+    </problem>
+    <problem>
+        <predecessor>gilbert-and-ellice-islands-1975</predecessor>
+        <successor>kiribati</successor>
+        <description>gilbert-and-ellice-islands-1975 is valid until 1975, but kiribati is valid
+            since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>gilbert-and-ellice-islands-1975</predecessor>
+        <successor>tuvalu</successor>
+        <description>gilbert-and-ellice-islands-1975 is valid until 1975, but tuvalu is valid since
+            1978.</description>
+    </problem>
+    <problem>
+        <predecessor>gran-colombia-1830</predecessor>
+        <successor>colombia</successor>
+        <description>gran-colombia-1830 is valid until 1830, but colombia is valid since
+            1866.</description>
+    </problem>
+    <problem>
+        <predecessor>gran-colombia-1830</predecessor>
+        <successor>grenadine-confederation-1863</successor>
+        <description>gran-colombia-1830 is valid until 1830, but grenadine-confederation-1863 is
+            valid since 1856.</description>
+    </problem>
+    <problem>
+        <predecessor>gran-colombia-1830</predecessor>
+        <successor>panama</successor>
+        <description>gran-colombia-1830 is valid until 1830, but panama is valid since
+            1903.</description>
+    </problem>
+    <problem>
+        <predecessor>gran-colombia-1830</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>gran-colombia-1830 is valid until 1830, but united-states-of-colombia-1866 is
+            valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>gran-colombia-1830</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>gran-colombia-1830 is valid until 1830, but united-states-of-colombia-1866 is
+            valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>grenadine-confederation-1863</predecessor>
+        <successor>colombia</successor>
+        <description>grenadine-confederation-1863 is valid until 1863, but colombia is valid since
+            1866.</description>
+    </problem>
+    <problem>
+        <predecessor>grenadine-confederation-1863</predecessor>
+        <successor>panama</successor>
+        <description>grenadine-confederation-1863 is valid until 1863, but panama is valid since
+            1903.</description>
+    </problem>
+    <problem>
+        <predecessor>hawaiian-islands-1826</predecessor>
+        <successor>hawaii-1948</successor>
+        <description>hawaiian-islands-1826 is valid until 1826, but hawaii-1948 is valid since
+            1898.</description>
+    </problem>
+    <problem>
+        <predecessor>ile-de-la-passion-TBD</predecessor>
+        <successor>clipperton-island</successor>
+        <description>ile-de-la-passion-TBD is valid until , but clipperton-island is valid since
+            1704.</description>
+    </problem>
+    <problem>
+        <predecessor>ile-de-la-passion-TBD</predecessor>
+        <successor>clipperton-island</successor>
+        <description>ile-de-la-passion-TBD is valid until , but clipperton-island is valid since
+            1704.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar-1958</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar-1958 is valid since
+            1895.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar-1958</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar-1958 is valid since
+            1895.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>imerina-1817 is valid until 1817, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>imerina-1817 is valid until 1817, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>imerina-1817</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>imerina-1817 is valid until 1817, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>india</predecessor>
+        <successor>east-bengal-1955</successor>
+        <description>india is valid until 9999, but east-bengal-1955 is valid since .</description>
+    </problem>
+    <problem>
+        <predecessor>indochina-1950</predecessor>
+        <successor>democratic-kampuchea-1979</successor>
+        <description>indochina-1950 is valid until 1950, but democratic-kampuchea-1979 is valid
+            since 1976.</description>
+    </problem>
+    <problem>
+        <predecessor>indochina-1950</predecessor>
+        <successor>khmer-republic-1970</successor>
+        <description>indochina-1950 is valid until 1950, but khmer-republic-1970 is valid since
+            1970.</description>
+    </problem>
+    <problem>
+        <predecessor>indochina-1950</predecessor>
+        <successor>peoples-republic-of-kampuchea-1993</successor>
+        <description>indochina-1950 is valid until 1950, but peoples-republic-of-kampuchea-1993 is
+            valid since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>indochina-1950</predecessor>
+        <successor>state-of-cambodia-1993</successor>
+        <description>indochina-1950 is valid until 1950, but state-of-cambodia-1993 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>indochina-1950</predecessor>
+        <successor>state-of-cambodia-1993</successor>
+        <description>indochina-1950 is valid until 1950, but state-of-cambodia-1993 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>irish-free-state-TBD</predecessor>
+        <successor>ireland</successor>
+        <description>irish-free-state-TBD is valid until , but ireland is valid since
+            1921.</description>
+    </problem>
+    <problem>
+        <predecessor>irish-free-state-TBD</predecessor>
+        <successor>ireland</successor>
+        <description>irish-free-state-TBD is valid until , but ireland is valid since
+            1921.</description>
+    </problem>
+    <problem>
+        <predecessor>italian-east-africa-1941</predecessor>
+        <successor>eritrea</successor>
+        <description>italian-east-africa-1941 is valid until 1941, but eritrea is valid since
+            1993.</description>
+    </problem>
+    <problem>
+        <predecessor>ivory-coast-1960</predecessor>
+        <successor>cote-divoire</successor>
+        <description>ivory-coast-1960 is valid until , but cote-divoire is valid since
+            1986.</description>
+    </problem>
+    <problem>
+        <predecessor>ivory-coast-1960</predecessor>
+        <successor>ivory-coast-1986</successor>
+        <description>ivory-coast-1960 is valid until , but ivory-coast-1986 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>ivory-coast-1960</predecessor>
+        <successor>ivory-coast-1986</successor>
+        <description>ivory-coast-1960 is valid until , but ivory-coast-1986 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>cameroon</successor>
+        <description>kamerun-1916 is valid until 1916, but cameroon is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>cameroon-1961</successor>
+        <description>kamerun-1916 is valid until 1916, but cameroon-1961 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>federal-republic-of-cameroon-1972</successor>
+        <description>kamerun-1916 is valid until 1916, but federal-republic-of-cameroon-1972 is
+            valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>federal-republic-of-cameroon-1972</successor>
+        <description>kamerun-1916 is valid until 1916, but federal-republic-of-cameroon-1972 is
+            valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>nigeria</successor>
+        <description>kamerun-1916 is valid until 1916, but nigeria is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>kamerun-1916 is valid until 1916, but united-republic-of-cameroon-1984 is valid
+            since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>kamerun-1916</predecessor>
+        <successor>united-republic-of-cameroon-1984</successor>
+        <description>kamerun-1916 is valid until 1916, but united-republic-of-cameroon-1984 is valid
+            since 1972.</description>
+    </problem>
+    <problem>
+        <predecessor>khmer-republic-1970</predecessor>
+        <successor>peoples-republic-of-kampuchea-1993</successor>
+        <description>khmer-republic-1970 is valid until 1976, but peoples-republic-of-kampuchea-1993
+            is valid since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>khmer-republic-1970</predecessor>
+        <successor>peoples-republic-of-kampuchea-1993</successor>
+        <description>khmer-republic-1970 is valid until 1976, but peoples-republic-of-kampuchea-1993
+            is valid since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>kingdom-of-naples-1815</predecessor>
+        <successor>italy</successor>
+        <description>kingdom-of-naples-1815 is valid until 1815, but italy is valid since
+            1946.</description>
+    </problem>
+    <problem>
+        <predecessor>kingdom-of-naples-1815</predecessor>
+        <successor>kingdom-of-italy-1946</successor>
+        <description>kingdom-of-naples-1815 is valid until 1815, but kingdom-of-italy-1946 is valid
+            since 1861.</description>
+    </problem>
+    <problem>
+        <predecessor>kongo-1914</predecessor>
+        <successor>congo-kinshasa</successor>
+        <description>kongo-1914 is valid until 1914, but congo-kinshasa is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>kongo-1914</predecessor>
+        <successor>gabon</successor>
+        <description>kongo-1914 is valid until 1914, but gabon is valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>luang-1752</predecessor>
+        <successor>indochina-1950</successor>
+        <description>luang-1752 is valid until 1752, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>luang-1752</predecessor>
+        <successor>laos</successor>
+        <description>luang-1752 is valid until 1752, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>luang-1752</predecessor>
+        <successor>laos</successor>
+        <description>luang-1752 is valid until 1752, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>madagascar</successor>
+        <description>madagascar-1895 is valid until 1895, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>madagascar</successor>
+        <description>madagascar-1895 is valid until 1895, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>madagascar-1895 is valid until 1895, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>madagascar-1895 is valid until 1895, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>madagascar-1895 is valid until 1895, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1895</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>madagascar-1895 is valid until 1895, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1958</predecessor>
+        <successor>madagascar</successor>
+        <description>madagascar-1958 is valid until 1958, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1958</predecessor>
+        <successor>madagascar</successor>
+        <description>madagascar-1958 is valid until 1958, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1958</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>madagascar-1958 is valid until 1958, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>madagascar-1958</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>madagascar-1958 is valid until 1958, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>mahdist-state-1889</predecessor>
+        <successor>south-sudan</successor>
+        <description>mahdist-state-1889 is valid until 1899, but south-sudan is valid since
+            2011.</description>
+    </problem>
+    <problem>
+        <predecessor>malagasy-republic-1976</predecessor>
+        <successor>madagascar</successor>
+        <description>malagasy-republic-1976 is valid until 1976, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>malagasy-republic-1976</predecessor>
+        <successor>madagascar</successor>
+        <description>malagasy-republic-1976 is valid until 1976, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>natal-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>natal-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>natal-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>natal-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>nevis-1882</predecessor>
+        <successor>saint-christopher-and-nevis-1988</successor>
+        <description>nevis-1882 is valid until 1882, but saint-christopher-and-nevis-1988 is valid
+            since 1980.</description>
+    </problem>
+    <problem>
+        <predecessor>nevis-1882</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>nevis-1882 is valid until 1882, but saint-kitts-and-nevis is valid since
+            1988.</description>
+    </problem>
+    <problem>
+        <predecessor>nevis-1882</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>nevis-1882 is valid until 1882, but saint-kitts-and-nevis is valid since
+            1988.</description>
+    </problem>
+    <problem>
+        <predecessor>new-granada-1856</predecessor>
+        <successor>colombia</successor>
+        <description>new-granada-1856 is valid until 1856, but colombia is valid since
+            1866.</description>
+    </problem>
+    <problem>
+        <predecessor>new-granada-1856</predecessor>
+        <successor>panama</successor>
+        <description>new-granada-1856 is valid until 1856, but panama is valid since
+            1903.</description>
+    </problem>
+    <problem>
+        <predecessor>new-granada-1856</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>new-granada-1856 is valid until 1856, but united-states-of-colombia-1866 is
+            valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>new-granada-1856</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>new-granada-1856 is valid until 1856, but united-states-of-colombia-1866 is
+            valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <successor>northern-rhodesia-1964</successor>
+        <description>north-eastern-rhodesia-1911 is valid until 1911, but northern-rhodesia-1964 is
+            valid since 1986.</description>
+    </problem>
+    <problem>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <successor>northern-rhodesia-1964</successor>
+        <description>north-eastern-rhodesia-1911 is valid until 1911, but northern-rhodesia-1964 is
+            valid since 1986.</description>
+    </problem>
+    <problem>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <successor>zambia</successor>
+        <description>north-eastern-rhodesia-1911 is valid until 1911, but zambia is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>north-eastern-rhodesia-1911</predecessor>
+        <successor>zambia</successor>
+        <description>north-eastern-rhodesia-1911 is valid until 1911, but zambia is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>north-western-rhodesia-1911</predecessor>
+        <successor>northern-rhodesia-1964</successor>
+        <description>north-western-rhodesia-1911 is valid until 1911, but northern-rhodesia-1964 is
+            valid since 1986.</description>
+    </problem>
+    <problem>
+        <predecessor>north-western-rhodesia-1911</predecessor>
+        <successor>northern-rhodesia-1964</successor>
+        <description>north-western-rhodesia-1911 is valid until 1911, but northern-rhodesia-1964 is
+            valid since 1986.</description>
+    </problem>
+    <problem>
+        <predecessor>north-western-rhodesia-1911</predecessor>
+        <successor>zambia</successor>
+        <description>north-western-rhodesia-1911 is valid until 1911, but zambia is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>north-western-rhodesia-1911</predecessor>
+        <successor>zambia</successor>
+        <description>north-western-rhodesia-1911 is valid until 1911, but zambia is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>nyasaland-protectorate-1893</predecessor>
+        <successor>malawi</successor>
+        <description>nyasaland-protectorate-1893 is valid until 1893, but malawi is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>nyasaland-protectorate-1893</predecessor>
+        <successor>nyasaland-1964</successor>
+        <description>nyasaland-protectorate-1893 is valid until 1893, but nyasaland-1964 is valid
+            since 1907.</description>
+    </problem>
+    <problem>
+        <predecessor>nyasaland-protectorate-1893</predecessor>
+        <successor>nyasaland-1964</successor>
+        <description>nyasaland-protectorate-1893 is valid until 1893, but nyasaland-1964 is valid
+            since 1907.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-free-state-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>orange-free-state-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-free-state-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>orange-free-state-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+        <successor>south-africa</successor>
+        <description>orange-river-sovereignty-1854 is valid until 1854, but south-africa is valid
+            since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+        <successor>south-africa</successor>
+        <description>orange-river-sovereignty-1854 is valid until 1854, but south-africa is valid
+            since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>orange-river-sovereignty-1854 is valid until 1854, but
+            union-of-south-africa-1961 is valid since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>orange-river-sovereignty-1854</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>orange-river-sovereignty-1854 is valid until 1854, but
+            union-of-south-africa-1961 is valid since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>iraq</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but iraq is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>iraq-1958</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but iraq-1958 is valid since
+            1932.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>israel</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but israel is valid since
+            1948.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>israel</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but israel is valid since
+            1948.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>libya</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but libya is valid since
+            1951.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>libya-1951</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but libya-1951 is valid since
+            1931.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>qatar</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but qatar is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>saudi-arabia</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but saudi-arabia is valid since
+            1932.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>southern-yemen-1990</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but southern-yemen-1990 is valid since
+            1967.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>syria</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but syria is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>syria-1958</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but syria-1958 is valid since
+            1944.</description>
+    </problem>
+    <problem>
+        <predecessor>ottoman-empire-1922</predecessor>
+        <successor>yemen</successor>
+        <description>ottoman-empire-1922 is valid until 1922, but yemen is valid since
+            1990.</description>
+    </problem>
+    <problem>
+        <predecessor>palau-district-1981</predecessor>
+        <successor>palau</successor>
+        <description>palau-district-1981 is valid until 1981, but palau is valid since
+            1994.</description>
+    </problem>
+    <problem>
+        <predecessor>persia-1935</predecessor>
+        <successor>bahrain</successor>
+        <description>persia-1935 is valid until 1935, but bahrain is valid since 2002.</description>
+    </problem>
+    <problem>
+        <predecessor>persia-1935</predecessor>
+        <successor>bahrain</successor>
+        <description>persia-1935 is valid until 1935, but bahrain is valid since 2002.</description>
+    </problem>
+    <problem>
+        <predecessor>persia-1935</predecessor>
+        <successor>state-of-bahrain-2002</successor>
+        <description>persia-1935 is valid until 1935, but state-of-bahrain-2002 is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>pleasant-island-1888</predecessor>
+        <successor>nauru</successor>
+        <description>pleasant-island-1888 is valid until 1888, but nauru is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>pleasant-island-1888</predecessor>
+        <successor>nauru</successor>
+        <description>pleasant-island-1888 is valid until 1888, but nauru is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>polish-lithuanian-commonwealth-1795</predecessor>
+        <successor>duchy-of-warsaw-1815</successor>
+        <description>polish-lithuanian-commonwealth-1795 is valid until 1795, but
+            duchy-of-warsaw-1815 is valid since 1807.</description>
+    </problem>
+    <problem>
+        <predecessor>polish-lithuanian-commonwealth-1795</predecessor>
+        <successor>duchy-of-warsaw-1815</successor>
+        <description>polish-lithuanian-commonwealth-1795 is valid until 1795, but
+            duchy-of-warsaw-1815 is valid since 1807.</description>
+    </problem>
+    <problem>
+        <predecessor>republic-of-cracow-1846</predecessor>
+        <successor>poland</successor>
+        <description>republic-of-cracow-1846 is valid until 1846, but poland is valid since
+            1918.</description>
+    </problem>
+    <problem>
+        <predecessor>republic-of-upper-volta-1960</predecessor>
+        <successor>burkina-faso</successor>
+        <description>republic-of-upper-volta-1960 is valid until 1960, but burkina-faso is valid
+            since 1984.</description>
+    </problem>
+    <problem>
+        <predecessor>republic-of-upper-volta-1960</predecessor>
+        <successor>burkina-faso</successor>
+        <description>republic-of-upper-volta-1960 is valid until 1960, but burkina-faso is valid
+            since 1984.</description>
+    </problem>
+    <problem>
+        <predecessor>reunion-1815</predecessor>
+        <successor>reunion</successor>
+        <description>reunion-1815 is valid until 1815, but reunion is valid since
+            1848.</description>
+    </problem>
+    <problem>
+        <predecessor>reunion-1815</predecessor>
+        <successor>reunion</successor>
+        <description>reunion-1815 is valid until 1815, but reunion is valid since
+            1848.</description>
+    </problem>
+    <problem>
+        <predecessor>rio-de-oro-1958</predecessor>
+        <successor>western-sahara</successor>
+        <description>rio-de-oro-1958 is valid until 1958, but western-sahara is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>rio-de-oro-1958</predecessor>
+        <successor>western-sahara</successor>
+        <description>rio-de-oro-1958 is valid until 1958, but western-sahara is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>ruanda-1922</predecessor>
+        <successor>rwanda</successor>
+        <description>ruanda-1922 is valid until 1922, but rwanda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>ruanda-1922</predecessor>
+        <successor>rwanda</successor>
+        <description>ruanda-1922 is valid until 1922, but rwanda is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>russian-empire-1917</predecessor>
+        <successor>latvia-1940</successor>
+        <description>russian-empire-1917 is valid until 1917, but latvia-1940 is valid since
+            1922.</description>
+    </problem>
+    <problem>
+        <predecessor>russian-empire-1917</predecessor>
+        <successor>latvia-1940</successor>
+        <description>russian-empire-1917 is valid until 1917, but latvia-1940 is valid since
+            1922.</description>
+    </problem>
+    <problem>
+        <predecessor>saguia-el-hamra-1958</predecessor>
+        <successor>western-sahara</successor>
+        <description>saguia-el-hamra-1958 is valid until 1958, but western-sahara is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>saguia-el-hamra-1958</predecessor>
+        <successor>western-sahara</successor>
+        <description>saguia-el-hamra-1958 is valid until 1958, but western-sahara is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>saint-christopher-nevis-anguilla-1980</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>saint-christopher-nevis-anguilla-1980 is valid until 1980, but
+            saint-kitts-and-nevis is valid since 1988.</description>
+    </problem>
+    <problem>
+        <predecessor>saint-christopher-nevis-anguilla-1980</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>saint-christopher-nevis-anguilla-1980 is valid until 1980, but
+            saint-kitts-and-nevis is valid since 1988.</description>
+    </problem>
+    <problem>
+        <predecessor>saint-kitts-1882</predecessor>
+        <successor>saint-christopher-and-nevis-1988</successor>
+        <description>saint-kitts-1882 is valid until 1882, but saint-christopher-and-nevis-1988 is
+            valid since 1980.</description>
+    </problem>
+    <problem>
+        <predecessor>saint-kitts-1882</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>saint-kitts-1882 is valid until 1882, but saint-kitts-and-nevis is valid since
+            1988.</description>
+    </problem>
+    <problem>
+        <predecessor>saint-kitts-1882</predecessor>
+        <successor>saint-kitts-and-nevis</successor>
+        <description>saint-kitts-1882 is valid until 1882, but saint-kitts-and-nevis is valid since
+            1988.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar is valid since
+            1992.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar-1958</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar-1958 is valid since
+            1895.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar-1958</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar-1958 is valid since
+            1895.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>madagascar-1992</successor>
+        <description>sakalava-1817 is valid until 1817, but madagascar-1992 is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>sakalava-1817 is valid until 1817, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>malagasy-republic-1976</successor>
+        <description>sakalava-1817 is valid until 1817, but malagasy-republic-1976 is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>sakalava-1817</predecessor>
+        <successor>mayotte</successor>
+        <description>sakalava-1817 is valid until 1817, but mayotte is valid since
+            1843.</description>
+    </problem>
+    <problem>
+        <predecessor>samarang-1802</predecessor>
+        <successor>palmyra-atoll</successor>
+        <description>samarang-1802 is valid until 1802, but palmyra-atoll is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>samarang-1802</predecessor>
+        <successor>palmyra-atoll</successor>
+        <description>samarang-1802 is valid until 1802, but palmyra-atoll is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>senegal-1982</predecessor>
+        <successor>senegal</successor>
+        <description>senegal-1982 is valid until 1982, but senegal is valid since
+            1989.</description>
+    </problem>
+    <problem>
+        <predecessor>senegal-1982</predecessor>
+        <successor>senegal</successor>
+        <description>senegal-1982 is valid until 1982, but senegal is valid since
+            1989.</description>
+    </problem>
+    <problem>
+        <predecessor>serendib-1796</predecessor>
+        <successor>ceylon-1972</successor>
+        <description>serendib-1796 is valid until 1796, but ceylon-1972 is valid since
+            1948.</description>
+    </problem>
+    <problem>
+        <predecessor>serendib-1796</predecessor>
+        <successor>ceylon-1972</successor>
+        <description>serendib-1796 is valid until 1796, but ceylon-1972 is valid since
+            1948.</description>
+    </problem>
+    <problem>
+        <predecessor>serendib-1796</predecessor>
+        <successor>sri-lanka</successor>
+        <description>serendib-1796 is valid until 1796, but sri-lanka is valid since
+            1972.</description>
+    </problem>
+    <problem>
+        <predecessor>serendib-1796</predecessor>
+        <successor>sri-lanka</successor>
+        <description>serendib-1796 is valid until 1796, but sri-lanka is valid since
+            1972.</description>
+    </problem>
+    <problem>
+        <predecessor>siam-1939</predecessor>
+        <successor>laos</successor>
+        <description>siam-1939 is valid until 1939, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>sicily-1815</predecessor>
+        <successor>kingdom-of-two-sicilies-1861</successor>
+        <description>sicily-1815 is valid until , but kingdom-of-two-sicilies-1861 is valid since
+            1815.</description>
+    </problem>
+    <problem>
+        <predecessor>sicily-1815</predecessor>
+        <successor>kingdom-of-two-sicilies-1861</successor>
+        <description>sicily-1815 is valid until , but kingdom-of-two-sicilies-1861 is valid since
+            1815.</description>
+    </problem>
+    <problem>
+        <predecessor>somers-islands-1901</predecessor>
+        <successor>bermuda</successor>
+        <description>somers-islands-1901 is valid until 1901, but bermuda is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>somers-islands-1901</predecessor>
+        <successor>bermuda</successor>
+        <description>somers-islands-1901 is valid until 1901, but bermuda is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>south-sandwich-islands-1820</predecessor>
+        <successor>south-georgia-and-south-sandwich-islands</successor>
+        <description>south-sandwich-islands-1820 is valid until 1820, but
+            south-georgia-and-south-sandwich-islands is valid since 1985.</description>
+    </problem>
+    <problem>
+        <predecessor>south-sandwich-islands-1820</predecessor>
+        <successor>south-georgia-and-south-sandwich-islands</successor>
+        <description>south-sandwich-islands-1820 is valid until 1820, but
+            south-georgia-and-south-sandwich-islands is valid since 1985.</description>
+    </problem>
+    <problem>
+        <predecessor>sudanese-republic-1959</predecessor>
+        <successor>mali</successor>
+        <description>sudanese-republic-1959 is valid until 1959, but mali is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <successor>south-africa</successor>
+        <description>swazi-kingdom-1894 is valid until 1894, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <successor>south-africa</successor>
+        <description>swazi-kingdom-1894 is valid until 1894, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <successor>swaziland</successor>
+        <description>swazi-kingdom-1894 is valid until 1894, but swaziland is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>swazi-kingdom-1894 is valid until 1894, but union-of-south-africa-1961 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>swazi-kingdom-1894</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>swazi-kingdom-1894 is valid until 1894, but union-of-south-africa-1961 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>syria-1958</predecessor>
+        <successor>syria</successor>
+        <description>syria-1958 is valid until 1958, but syria is valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>syria-1958</predecessor>
+        <successor>syria</successor>
+        <description>syria-1958 is valid until 1958, but syria is valid since 1961.</description>
+    </problem>
+    <problem>
+        <predecessor>territory-of-papua-and-new-guinea-TBD</predecessor>
+        <successor>papua-new-guinea</successor>
+        <description>territory-of-papua-and-new-guinea-TBD is valid until , but papua-new-guinea is
+            valid since 1975.</description>
+    </problem>
+    <problem>
+        <predecessor>territory-of-papua-and-new-guinea-TBD</predecessor>
+        <successor>papua-new-guinea</successor>
+        <description>territory-of-papua-and-new-guinea-TBD is valid until , but papua-new-guinea is
+            valid since 1975.</description>
+    </problem>
+    <problem>
+        <predecessor>tobago-1889</predecessor>
+        <successor>trinidad-and-tobago</successor>
+        <description>tobago-1889 is valid until 1889, but trinidad-and-tobago is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>tobago-1889</predecessor>
+        <successor>trinidad-and-tobago</successor>
+        <description>tobago-1889 is valid until 1889, but trinidad-and-tobago is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>tobago-1889</predecessor>
+        <successor>trinidad-and-tobago-1962</successor>
+        <description>tobago-1889 is valid until 1889, but trinidad-and-tobago-1962 is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>tobago-1889</predecessor>
+        <successor>trinidad-and-tobago-1962</successor>
+        <description>tobago-1889 is valid until 1889, but trinidad-and-tobago-1962 is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>togoland-1922</predecessor>
+        <successor>togo</successor>
+        <description>togoland-1922 is valid until 1922, but togo is valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>togoland-1922</predecessor>
+        <successor>togo</successor>
+        <description>togoland-1922 is valid until 1922, but togo is valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>transjordan-1950</predecessor>
+        <successor>jordan</successor>
+        <description>transjordan-1950 is valid until 1950, but jordan is valid since
+            1958.</description>
+    </problem>
+    <problem>
+        <predecessor>transvaal-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>transvaal-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>transvaal-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>transvaal-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>transvaal-1910</predecessor>
+        <successor>swaziland</successor>
+        <description>transvaal-1910 is valid until 1910, but swaziland is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>trinidad-1889</predecessor>
+        <successor>trinidad-and-tobago</successor>
+        <description>trinidad-1889 is valid until 1889, but trinidad-and-tobago is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>trinidad-1889</predecessor>
+        <successor>trinidad-and-tobago</successor>
+        <description>trinidad-1889 is valid until 1889, but trinidad-and-tobago is valid since
+            1962.</description>
+    </problem>
+    <problem>
+        <predecessor>trinidad-1889</predecessor>
+        <successor>trinidad-and-tobago-1962</successor>
+        <description>trinidad-1889 is valid until 1889, but trinidad-and-tobago-1962 is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>trucial-oman-TBD</predecessor>
+        <successor>united-arab-emirates</successor>
+        <description>trucial-oman-TBD is valid until , but united-arab-emirates is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>trucial-oman-TBD</predecessor>
+        <successor>united-arab-emirates</successor>
+        <description>trucial-oman-TBD is valid until , but united-arab-emirates is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>trust-territory-of-pacific-islands-1986</predecessor>
+        <successor>palau</successor>
+        <description>trust-territory-of-pacific-islands-1986 is valid until 1986, but palau is valid
+            since 1994.</description>
+    </problem>
+    <problem>
+        <predecessor>trust-territory-of-pacific-islands-1986</predecessor>
+        <successor>palau</successor>
+        <description>trust-territory-of-pacific-islands-1986 is valid until 1986, but palau is valid
+            since 1994.</description>
+    </problem>
+    <problem>
+        <predecessor>tswana-states-1885</predecessor>
+        <successor>bechuanaland-1966</successor>
+        <description>tswana-states-1885 is valid until , but bechuanaland-1966 is valid since
+            1885.</description>
+    </problem>
+    <problem>
+        <predecessor>tswana-states-1885</predecessor>
+        <successor>bechuanaland-1966</successor>
+        <description>tswana-states-1885 is valid until , but bechuanaland-1966 is valid since
+            1885.</description>
+    </problem>
+    <problem>
+        <predecessor>union-group-1946</predecessor>
+        <successor>tokelau</successor>
+        <description>union-group-1946 is valid until 1946, but tokelau is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>union-group-1946</predecessor>
+        <successor>tokelau</successor>
+        <description>union-group-1946 is valid until 1946, but tokelau is valid since
+            1976.</description>
+    </problem>
+    <problem>
+        <predecessor>union-of-south-africa-1961</predecessor>
+        <successor>swaziland</successor>
+        <description>union-of-south-africa-1961 is valid until 1961, but swaziland is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>union-of-south-africa-1961</predecessor>
+        <successor>swaziland</successor>
+        <description>union-of-south-africa-1961 is valid until 1961, but swaziland is valid since
+            1968.</description>
+    </problem>
+    <problem>
+        <predecessor>united-kingdom-of-portugal-brazil-and-algarves-1822</predecessor>
+        <successor>brazil</successor>
+        <description>united-kingdom-of-portugal-brazil-and-algarves-1822 is valid until 1822, but
+            brazil is valid since 1889.</description>
+    </problem>
+    <problem>
+        <predecessor>united-kingdom-of-portugal-brazil-and-algarves-1822</predecessor>
+        <successor>brazil</successor>
+        <description>united-kingdom-of-portugal-brazil-and-algarves-1822 is valid until 1822, but
+            brazil is valid since 1889.</description>
+    </problem>
+    <problem>
+        <predecessor>united-provinces-of-rio-de-la-plata-1828</predecessor>
+        <successor>argentina</successor>
+        <description>united-provinces-of-rio-de-la-plata-1828 is valid until 1828, but argentina is
+            valid since 1861.</description>
+    </problem>
+    <problem>
+        <predecessor>united-provinces-of-rio-de-la-plata-1828</predecessor>
+        <successor>argentina</successor>
+        <description>united-provinces-of-rio-de-la-plata-1828 is valid until 1828, but argentina is
+            valid since 1861.</description>
+    </problem>
+    <problem>
+        <predecessor>united-provinces-of-rio-de-la-plata-1828</predecessor>
+        <successor>argentine-confederation-1861</successor>
+        <description>united-provinces-of-rio-de-la-plata-1828 is valid until 1828, but
+            argentine-confederation-1861 is valid since 1854.</description>
+    </problem>
+    <problem>
+        <predecessor>united-provinces-of-rio-de-la-plata-1828</predecessor>
+        <successor>argentine-confederation-1861</successor>
+        <description>united-provinces-of-rio-de-la-plata-1828 is valid until 1828, but
+            argentine-confederation-1861 is valid since 1854.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>federation-of-mali-1960</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but federation-of-mali-1960 is
+            valid since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>mali</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but mali is valid since
+            1960-09.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>republic-of-upper-volta-1960</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but republic-of-upper-volta-1960
+            is valid since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>sudanese-republic-1959</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but sudanese-republic-1959 is
+            valid since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>upper-volta-1958</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but upper-volta-1958 is valid
+            since 1947.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>upper-volta-1958</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but upper-volta-1958 is valid
+            since 1947.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-senegal-niger-1920</predecessor>
+        <successor>upper-volta-1984</successor>
+        <description>upper-senegal-niger-1920 is valid until 1920, but upper-volta-1984 is valid
+            since 1960.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-volta-1932 is valid until 1932, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-volta-1932 is valid until 1932, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>republic-of-upper-volta-1960</successor>
+        <description>upper-volta-1932 is valid until 1932, but republic-of-upper-volta-1960 is valid
+            since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>republic-of-upper-volta-1960</successor>
+        <description>upper-volta-1932 is valid until 1932, but republic-of-upper-volta-1960 is valid
+            since 1958.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>upper-volta-1958</successor>
+        <description>upper-volta-1932 is valid until 1932, but upper-volta-1958 is valid since
+            1947.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>upper-volta-1958</successor>
+        <description>upper-volta-1932 is valid until 1932, but upper-volta-1958 is valid since
+            1947.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>upper-volta-1984</successor>
+        <description>upper-volta-1932 is valid until 1932, but upper-volta-1984 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1932</predecessor>
+        <successor>upper-volta-1984</successor>
+        <description>upper-volta-1932 is valid until 1932, but upper-volta-1984 is valid since
+            1960.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1958</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-volta-1958 is valid until 1958, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>upper-volta-1958</predecessor>
+        <successor>burkina-faso</successor>
+        <description>upper-volta-1958 is valid until 1958, but burkina-faso is valid since
+            1984.</description>
+    </problem>
+    <problem>
+        <predecessor>urundi-TBD</predecessor>
+        <successor>burundi</successor>
+        <description>urundi-TBD is valid until , but burundi is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>urundi-TBD</predecessor>
+        <successor>burundi</successor>
+        <description>urundi-TBD is valid until , but burundi is valid since 1962.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>colombia</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but colombia is valid
+            since 1866.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>ecuador</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but ecuador is valid since
+            1830.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>grenadine-confederation-1863</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but
+            grenadine-confederation-1863 is valid since 1856.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>new-granada-1856</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but new-granada-1856 is
+            valid since 1830.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>panama</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but panama is valid since
+            1903.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but
+            united-states-of-colombia-1866 is valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>united-states-of-colombia-1866</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but
+            united-states-of-colombia-1866 is valid since 1863.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>venezuela</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but venezuela is valid
+            since 1830.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-granada-1823</predecessor>
+        <successor>venezuela</successor>
+        <description>viceroyalty-of-new-granada-1823 is valid until 1823, but venezuela is valid
+            since 1830.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>belize</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but belize is valid since
+            1973.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>british-honduras-1973</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but british-honduras-1973 is
+            valid since 1862.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>costa-rica</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but costa-rica is valid
+            since 1839.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>el-salvador</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but el-salvador is valid
+            since 1839.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>guatemala</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but guatemala is valid since
+            1839.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>honduras</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but honduras is valid since
+            1838.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-new-spain-1821</predecessor>
+        <successor>nicaragua</successor>
+        <description>viceroyalty-of-new-spain-1821 is valid until 1821, but nicaragua is valid since
+            1838.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>argentina</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but argentina is valid
+            since 1861.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>argentina</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but argentina is valid
+            since 1861.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>argentine-confederation-1861</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but
+            argentine-confederation-1861 is valid since 1854.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>bolivia</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but bolivia is valid
+            since 1825.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>bolivia</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but bolivia is valid
+            since 1825.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>buenos-ayres-1861</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but buenos-ayres-1861
+            is valid since 1828.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>united-provinces-of-rio-de-la-plata-1828</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but
+            united-provinces-of-rio-de-la-plata-1828 is valid since 1816.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>united-provinces-of-rio-de-la-plata-1828</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but
+            united-provinces-of-rio-de-la-plata-1828 is valid since 1816.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>uruguay</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but uruguay is valid
+            since 1828.</description>
+    </problem>
+    <problem>
+        <predecessor>viceroyalty-of-rio-de-la-plata-1810</predecessor>
+        <successor>uruguay</successor>
+        <description>viceroyalty-of-rio-de-la-plata-1810 is valid until 1810, but uruguay is valid
+            since 1828.</description>
+    </problem>
+    <problem>
+        <predecessor>vietenne-1782</predecessor>
+        <successor>indochina-1950</successor>
+        <description>vietenne-1782 is valid until 1782, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>vietenne-1782</predecessor>
+        <successor>laos</successor>
+        <description>vietenne-1782 is valid until 1782, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>vietenne-1782</predecessor>
+        <successor>laos</successor>
+        <description>vietenne-1782 is valid until 1782, but laos is valid since 1950.</description>
+    </problem>
+    <problem>
+        <predecessor>vietnam-1862</predecessor>
+        <successor>indochina-1950</successor>
+        <description>vietnam-1862 is valid until 1862, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>vietnam-1862</predecessor>
+        <successor>indochina-1950</successor>
+        <description>vietnam-1862 is valid until 1862, but indochina-1950 is valid since
+            1887.</description>
+    </problem>
+    <problem>
+        <predecessor>vietnam-1862</predecessor>
+        <successor>state-of-vietnam-1955</successor>
+        <description>vietnam-1862 is valid until 1862, but state-of-vietnam-1955 is valid since
+            1949.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>bahrain</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but bahrain is valid since
+            2002.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>oman</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but oman is valid since
+            1970.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>qatar</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but qatar is valid since
+            1971.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>saudi-arabia</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but saudi-arabia is valid since
+            1932.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>saudi-arabia</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but saudi-arabia is valid since
+            1932.</description>
+    </problem>
+    <problem>
+        <predecessor>wahhabi-empire-1818</predecessor>
+        <successor>yemen</successor>
+        <description>wahhabi-empire-1818 is valid until 1818, but yemen is valid since
+            1990.</description>
+    </problem>
+    <problem>
+        <predecessor>west-indies-federation-1962</predecessor>
+        <successor>saint-vincent-and-grenadines</successor>
+        <description>west-indies-federation-1962 is valid until 1962, but
+            saint-vincent-and-grenadines is valid since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>west-indies-federation-1962</predecessor>
+        <successor>saint-vincent-and-grenadines</successor>
+        <description>west-indies-federation-1962 is valid until 1962, but
+            saint-vincent-and-grenadines is valid since 1979.</description>
+    </problem>
+    <problem>
+        <predecessor>western-samoa-1962</predecessor>
+        <successor>samoa</successor>
+        <description>western-samoa-1962 is valid until 1962, but samoa is valid since
+            1997.</description>
+    </problem>
+    <problem>
+        <predecessor>western-samoa-1962</predecessor>
+        <successor>western-samoa-1997</successor>
+        <description>western-samoa-1962 is valid until 1962, but western-samoa-1997 is valid since
+            .</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>peoples-republic-of-zanzibar-1964</successor>
+        <description>zanzibar-1890 is valid until 1890, but peoples-republic-of-zanzibar-1964 is
+            valid since 1963.</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>peoples-republic-of-zanzibar-1964</successor>
+        <description>zanzibar-1890 is valid until 1890, but peoples-republic-of-zanzibar-1964 is
+            valid since 1963.</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>tanzania</successor>
+        <description>zanzibar-1890 is valid until 1890, but tanzania is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>united-republic-of-tanganyika-and-zanzibar-1964</successor>
+        <description>zanzibar-1890 is valid until 1890, but
+            united-republic-of-tanganyika-and-zanzibar-1964 is valid since 1964.</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>zanzibar-1964</successor>
+        <description>zanzibar-1890 is valid until 1890, but zanzibar-1964 is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>zanzibar-1890</predecessor>
+        <successor>zanzibar-1964</successor>
+        <description>zanzibar-1890 is valid until 1890, but zanzibar-1964 is valid since
+            1964.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1879</predecessor>
+        <successor>south-africa</successor>
+        <description>zululand-1879 is valid until 1879, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1879</predecessor>
+        <successor>south-africa</successor>
+        <description>zululand-1879 is valid until 1879, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1879</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>zululand-1879 is valid until 1879, but union-of-south-africa-1961 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1879</predecessor>
+        <successor>union-of-south-africa-1961</successor>
+        <description>zululand-1879 is valid until 1879, but union-of-south-africa-1961 is valid
+            since 1910.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>zululand-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+    <problem>
+        <predecessor>zululand-1910</predecessor>
+        <successor>south-africa</successor>
+        <description>zululand-1910 is valid until 1910, but south-africa is valid since
+            1961.</description>
+    </problem>
+</problems>

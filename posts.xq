@@ -38,7 +38,7 @@ declare function local:posts-landing-page($show-all-posts as xs:boolean) {
                             $post
                     else 
                         $posts
-                order by $territory/id
+                order by $territory/short-form-name
                 return
                     <li><a href="?territory={$territory/id}">{$territory/short-form-name/string()}</a> {if ($show-all-posts and count($posts) ge 1) then gsh:posts-to-table($ordered-posts) else concat(' (', count($posts), ' posts)')}</li>
             }</ul>

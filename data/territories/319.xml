@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>319</id>
+    <old-id>dahomey-1975</old-id>
+    <short-form-name>Dahomey</short-form-name>
+    <long-form-name>Republic of Dahamoey</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1727</valid-since>
+    <valid-until>1975</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>454</successor>
+        <successor>26</successor>
+    </successors>
+    <notes>Gained independence in 1960</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/149772/Dahomey</source>
+    </sources>
+</territory>

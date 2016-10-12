@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>220</id>
+    <old-id>south-georgia-and-south-sandwich-islands</old-id>
+    <short-form-name>South Georgia and the South Sandwich Islands</short-form-name>
+    <long-form-name>South Georgia and the South Sandwich Islands</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1985</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>506</predecessor>
+        <predecessor>508</predecessor>
+        <predecessor>507</predecessor>
+    </predecessors>
+    <successors>
+        <successor>77</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/556226/South-Georgia</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/556380/South-Sandwich-Islands</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7011</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7014</source>
+    </sources>
+</territory>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>325</id>
+    <old-id>duchy-of-warsaw-1815</old-id>
+    <short-form-name>Duchy of Warsaw</short-form-name>
+    <long-form-name>Grand Duchy of Warsaw</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1807</valid-since>
+    <valid-until>1815</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>461</predecessor>
+    </predecessors>
+    <successors>
+        <successor>371</successor>
+        <successor>474</successor>
+        <successor>314</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/636120/Duchy-of-Warsaw</source>
+    </sources>
+</territory>

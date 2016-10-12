@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>8</id>
+    <old-id>anguilla</old-id>
+    <short-form-name>Anguilla</short-form-name>
+    <long-form-name>Anguilla</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1980</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>486</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Overseas territory of the UK</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/517489/Saint-Kitts-and-Nevis</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/av.html</source>
+    </sources>
+</territory>

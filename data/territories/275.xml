@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>275</id>
+    <old-id>austria-hungary-1918</old-id>
+    <short-form-name>Austria-Hungary</short-form-name>
+    <long-form-name>Austro-Hungarian Empire</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1867</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>276</predecessor>
+    </predecessors>
+    <successors>
+        <successor>318</successor>
+        <successor>16</successor>
+        <successor>107</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/au.html</source>
+        <source>http://history.state.gov/countries/austria</source>
+        <source>http://www.britannica.com/EBchecked/topic/44386/Austria-Hungary</source>
+    </sources>
+</territory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>532</id>
+    <old-id>trinidad-and-tobago-1962</old-id>
+    <short-form-name>Trinidad and Tobago</short-form-name>
+    <long-form-name/>
+    <type-of-territory/>
+    <valid-since/>
+    <valid-until>1962</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>531</predecessor>
+        <predecessor>526</predecessor>
+    </predecessors>
+    <successors>
+        <successor>240</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source/>
+    </sources>
+</territory>

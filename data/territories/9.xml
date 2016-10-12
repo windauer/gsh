@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>9</id>
+    <old-id>antarctica</old-id>
+    <short-form-name>Antarctica</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1840</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Antarctic Treaty entered into force in 1961 and is administered through consultative
+            member nations; U.S. does not recognize claims from other countries</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ay.html</source>
+    </sources>
+</territory>

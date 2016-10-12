@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>303</id>
+    <old-id>canada-east-1867</old-id>
+    <short-form-name>Canada East</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1841</valid-since>
+    <valid-until>1867</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>412</predecessor>
+    </predecessors>
+    <successors>
+        <successor>42</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/91872/Canada-West</source>
+    </sources>
+</territory>

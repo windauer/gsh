@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>518</id>
+    <old-id>state-of-cambodia-1993</old-id>
+    <short-form-name>State of Cambodia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>false</type-of-territory>
+    <valid-since>1958</valid-since>
+    <valid-until>1959</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>383</predecessor>
+        <predecessor>393</predecessor>
+        <predecessor>322</predecessor>
+        <predecessor>455</predecessor>
+    </predecessors>
+    <successors>
+        <successor>40</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
+    </sources>
+</territory>

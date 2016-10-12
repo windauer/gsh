@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>35</id>
+    <old-id>brunei</old-id>
+    <short-form-name>Brunei</short-form-name>
+    <long-form-name>Brunei Darussalam</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since precision="50">1450</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Became a British protectorate in 1888; Gained independence in 1984</notes>
+    <sources>
+        <source/>
+    </sources>
+</territory>

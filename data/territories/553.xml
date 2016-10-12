@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>553</id>
+    <old-id>upper-volta-1932</old-id>
+    <short-form-name>Upper Volta</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1919</valid-since>
+    <valid-until>1932</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>552</predecessor>
+    </predecessors>
+    <successors>
+        <successor>554</successor>
+        <successor>476</successor>
+        <successor>555</successor>
+        <successor>37</successor>
+    </successors>
+    <notes>Partitioned in 1932 between Côte d’Ivoire, Niger, and French Sudan</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso/282547/Local-government#toc129474</source>
+    </sources>
+</territory>

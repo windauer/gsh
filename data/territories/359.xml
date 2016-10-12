@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>359</id>
+    <old-id>funj-dynasty-1821</old-id>
+    <short-form-name>Funj Dynasty</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1504</valid-since>
+    <valid-until>1821</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>417</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/222414/Funj-Dynasty</source>
+    </sources>
+</territory>

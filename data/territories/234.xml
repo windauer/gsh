@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>234</id>
+    <old-id>tanzania</old-id>
+    <short-form-name>Tanzania</short-form-name>
+    <long-form-name>United Republic of Tanzania</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1964</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>549</predecessor>
+        <predecessor>524</predecessor>
+        <predecessor>574</predecessor>
+        <predecessor>291</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8189</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/655813/Zanzibar</source>
+    </sources>
+</territory>

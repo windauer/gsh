@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>270</id>
+    <old-id>arab-union-1958</old-id>
+    <short-form-name>Arab Union</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1958</valid-since>
+    <valid-until>1958</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>390</predecessor>
+        <predecessor>384</predecessor>
+    </predecessors>
+    <successors>
+        <successor>123</successor>
+        <successor>112</successor>
+    </successors>
+    <notes>U.S. recognized in 1958</notes>
+    <sources>
+        <source>http://history.state.gov/countries/iraq</source>
+    </sources>
+</territory>

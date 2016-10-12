@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>400</id>
+    <old-id>kingdom-of-serbia-1918</old-id>
+    <short-form-name>Kingdom of Serbia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1882</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>466</predecessor>
+    </predecessors>
+    <successors>
+        <successor>401</successor>
+    </successors>
+    <notes>U.S. recognized in 1881</notes>
+    <sources>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
+        <source>http://www.britannica.com/EBchecked/topic/382133/Milan-IV-or-II</source>
+    </sources>
+</territory>

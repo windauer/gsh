@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>276</id>
+    <old-id>austrian-empire-1867</old-id>
+    <short-form-name>Austrian Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1804</valid-since>
+    <valid-until>1867</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>376</predecessor>
+    </predecessors>
+    <successors>
+        <successor>275</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://lcweb2.loc.gov/frd/cs/attoc.html#at0028</source>
+    </sources>
+</territory>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>389</id>
+    <old-id>ivory-coast-1986</old-id>
+    <short-form-name>Ivory Coast</short-form-name>
+    <long-form-name>Republic of the Ivory Coast</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1960</valid-since>
+    <valid-until>1986</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>388</predecessor>
+    </predecessors>
+    <successors>
+        <successor>59</successor>
+    </successors>
+    <notes>Côte d’Ivoire requested in 1980 to have its official name be communicated in French in all communications and languages worldwide.  The United States acquiesed in 1986, and the Bureau of Geographic Names at the United States Geological Survey changed its official designation to the French language in 1997.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html</source>
+        <source>https://history.state.gov/countries/cote-divoire</source>
+        <source>http://geonames.nga.mil/namesgaz/</source>
+        <source>http://education.randmcnally.com/classroom/rmc/getABNArchive.do;jsessionid=150DA19FF7F12F26A1B9B0C119FAC1EC</source>
+        <source>http://lcweb2.loc.gov/frd/cs/citoc.html</source>
+    </sources>
+</territory>

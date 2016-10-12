@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>209</id>
+    <old-id>senegal</old-id>
+    <short-form-name>Senegal</short-form-name>
+    <long-form-name>Republic of Senegal</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1989</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>495</predecessor>
+        <predecessor>494</predecessor>
+        <predecessor>343</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html</source>
+        <source>http://history.state.gov/countries/senegal</source>
+    </sources>
+</territory>

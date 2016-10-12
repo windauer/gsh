@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>502</id>
+    <old-id>socialist-republic-of-union-of-burma-1988</old-id>
+    <short-form-name>Socialist Republic of the Union of Burma</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1962</valid-since>
+    <valid-until>1988</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>301</predecessor>
+    </predecessors>
+    <successors>
+        <successor>38</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/400119/Myanmar</source>
+    </sources>
+</territory>

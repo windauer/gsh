@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>408</id>
+    <old-id>land-of-vistula-1918</old-id>
+    <short-form-name>Land of the Vistula</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1863</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>314</predecessor>
+    </predecessors>
+    <successors>
+        <successor>190</successor>
+    </successors>
+    <notes>Part of the Russian Empire.  After Russia's collapse and cessation of territory to Prussia in 1917, the establishment of independent and united Poland ended the usage of this term. </notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/132571/Congress-Kingdom-of-Poland</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/466681/Poland/</source>
+    </sources>
+</territory>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>447</id>
+    <old-id>orange-river-sovereignty-1854</old-id>
+    <short-form-name>Orange River Sovereignty</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1848</valid-since>
+    <valid-until>1854</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>305</predecessor>
+    </predecessors>
+    <successors>
+        <successor>446</successor>
+        <successor>542</successor>
+        <successor>219</successor>
+    </successors>
+    <notes>Dutch established colony taken over by the British as a result of the Napoleonic Wars.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3665</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-2391</source>
+    </sources>
+</territory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>385</id>
+    <old-id>irish-free-state-TBD</old-id>
+    <short-form-name>Irish Free State</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory/>
+    <valid-since/>
+    <valid-until/>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>113</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1924</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html</source>
+        <source>http://history.state.gov/countries/ireland</source>
+    </sources>
+</territory>

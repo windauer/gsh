@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>256</id>
+    <old-id>virgin-islands-british</old-id>
+    <short-form-name>Virgin Islands, British</short-form-name>
+    <long-form-name>Virgin Islands, British</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1956</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>410</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/80384/British-Virgin-Islands</source>
+    </sources>
+</territory>

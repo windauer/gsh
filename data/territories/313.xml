@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>313</id>
+    <old-id>congo-free-state-1908</old-id>
+    <short-form-name>Congo Free State</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1885</valid-since>
+    <valid-until>1908</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>404</predecessor>
+    </predecessors>
+    <successors>
+        <successor>284</successor>
+        <successor>55</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/132463/Congo-Free-State</source>
+        <source>http://www.britannica.com/EBchecked/topic/336654/Leopold-II</source>
+    </sources>
+</territory>

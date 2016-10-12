@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>548</id>
+    <old-id>united-republic-of-cameroon-1984</old-id>
+    <short-form-name>United Republic of Cameroon</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1972</valid-since>
+    <valid-until>1984</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>285</predecessor>
+        <predecessor>341</predecessor>
+        <predecessor>302</predecessor>
+        <predecessor>289</predecessor>
+        <predecessor>348</predecessor>
+        <predecessor>392</predecessor>
+    </predecessors>
+    <successors>
+        <successor>41</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
+        <source>http://history.state.gov/countries/cameroon</source>
+        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon</source>
+    </sources>
+</territory>

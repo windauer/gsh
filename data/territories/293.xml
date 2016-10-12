@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>293</id>
+    <old-id>british-honduras-1973</old-id>
+    <short-form-name>British Honduras</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1862</valid-since>
+    <valid-until>1973</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>558</predecessor>
+    </predecessors>
+    <successors>
+        <successor>25</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html</source>
+        <source>http://history.state.gov/countries/belize</source>
+        <source>http://www.britannica.com/EBchecked/topic/59500/Belize/129445/History?anchor=ref467895</source>
+    </sources>
+</territory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>2</id>
+    <old-id>akrotiri</old-id>
+    <short-form-name>Akrotiri</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1960</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>317</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Special form of UK overseas territory</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/668520/Akrotiri</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html</source>
+    </sources>
+</territory>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>232</id>
+    <old-id>taiwan</old-id>
+    <short-form-name>Taiwan</short-form-name>
+    <long-form-name>Republic of China</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1949</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>473</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized as the legitimate government of China until 1979</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/580902/Taiwan/30027/Cultural-life#toc214552 </source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/580902/Taiwan</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/111803/China</source>
+        <source>http://history.state.gov/countries/china</source>
+    </sources>
+</territory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>545</id>
+    <old-id>united-kingdom-of-portugal-brazil-and-algarves-1822</old-id>
+    <short-form-name>United Kingdom of Portugal, Brazil, and the Algarves</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1815</valid-since>
+    <valid-until>1822</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>287</predecessor>
+    </predecessors>
+    <successors>
+        <successor>337</successor>
+        <successor>33</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/78101/Brazil</source>
+    </sources>
+</territory>

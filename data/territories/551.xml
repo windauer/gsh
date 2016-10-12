@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>551</id>
+    <old-id>upper-canada-1841</old-id>
+    <short-form-name>Upper Canada</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1791</valid-since>
+    <valid-until>1841</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>467</predecessor>
+    </predecessors>
+    <successors>
+        <successor>304</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/91872/Canada-West</source>
+    </sources>
+</territory>

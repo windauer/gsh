@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>90</id>
+    <old-id>gibraltar</old-id>
+    <short-form-name>Gibraltar</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>711</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Overseas territory of the United Kingdom</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gi.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/233245/Gibraltar</source>
+    </sources>
+</territory>

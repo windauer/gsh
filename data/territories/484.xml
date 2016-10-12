@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>484</id>
+    <old-id>saguia-el-hamra-1958</old-id>
+    <short-form-name>Saguia el Hamra</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1884</valid-since>
+    <valid-until>1958</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>515</successor>
+        <successor>260</successor>
+    </successors>
+    <notes>Dependent of Spain. Name likely originates prior to the colony, but reliable information cannot be located.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7978</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/516332/Saguia-el-Hamra</source>
+    </sources>
+</territory>

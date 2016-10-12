@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>300</id>
+    <old-id>bunyoro-1896</old-id>
+    <short-form-name>Bunyoro</short-form-name>
+    <long-form-name>Kingdom of Bunyoro-Kitara</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1200</valid-since>
+    <valid-until>1896</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>291</successor>
+        <successor>246</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/84810/Bunyoro</source>
+    </sources>
+</territory>

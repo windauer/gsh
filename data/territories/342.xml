@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>342</id>
+    <old-id>federal-republic-of-yugoslavia-2003</old-id>
+    <short-form-name>Federal Republic of Yugoslavia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1992</valid-since>
+    <valid-until>2003</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>501</predecessor>
+    </predecessors>
+    <successors>
+        <successor>496</successor>
+    </successors>
+    <notes>U.S. does not recognize any state as the sole continuation of the Socialist Federal
+            Republic of Yugoslavia; Mulitple predecessors and successors</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html</source>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
+    </sources>
+</territory>

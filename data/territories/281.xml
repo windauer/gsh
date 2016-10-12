@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>281</id>
+    <old-id>batavian-commonwealth-1806</old-id>
+    <short-form-name>Batavian Commonwealth</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1805</valid-since>
+    <valid-until>1806</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>282</predecessor>
+    </predecessors>
+    <successors>
+        <successor>397</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/55774/Batavian-Republic</source>
+    </sources>
+</territory>

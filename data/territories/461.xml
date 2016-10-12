@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>461</id>
+    <old-id>polish-lithuanian-commonwealth-1795</old-id>
+    <short-form-name>Polish-Lithuanian Commonwealth</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1569</valid-since>
+    <valid-until>1795</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>540</predecessor>
+    </predecessors>
+    <successors>
+        <successor>325</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html</source>
+    </sources>
+</territory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>38</id>
+    <old-id>burma</old-id>
+    <short-form-name>Burma</short-form-name>
+    <long-form-name>Union of Burma</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1988</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>502</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>The U.S. does not recognize the name Myanmar</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/400119/Myanmar</source>
+    </sources>
+</territory>

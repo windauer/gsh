@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>34</id>
+    <old-id>british-indian-ocean-territory</old-id>
+    <short-form-name>British Indian Ocean Territory</short-form-name>
+    <long-form-name>British Indian Ocean Territory</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1965</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>211</predecessor>
+        <predecessor>153</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Overseas territory of the UK</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/80241/British-Indian-Ocean-Territory</source>
+    </sources>
+</territory>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>6</id>
+    <old-id>andorra</old-id>
+    <short-form-name>Andorra</short-form-name>
+    <long-form-name>Principality of Andorra</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1278</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/an.html</source>
+    </sources>
+</territory>

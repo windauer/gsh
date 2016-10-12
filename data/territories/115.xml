@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>115</id>
+    <old-id>israel</old-id>
+    <short-form-name>Israel</short-form-name>
+    <long-form-name>State of Israel</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1948</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>448</predecessor>
+        <predecessor>451</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/is.html</source>
+        <source>http://academic.eb.com/EBchecked/topic/296740/Israel</source>
+        <source>http://academic.eb.com/EBchecked/topic/439645/Palestine/</source>
+        <source>http://www.state.gov/r/pa/ei/bgn/3581.htm</source>
+    </sources>
+</territory>

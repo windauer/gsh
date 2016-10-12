@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>346</id>
+    <old-id>fiji-1970</old-id>
+    <short-form-name>Fiji</short-form-name>
+    <long-form-name/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1874</valid-since>
+    <valid-until>1970</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>345</predecessor>
+    </predecessors>
+    <successors>
+        <successor>79</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/206686/Fiji</source>
+    </sources>
+</territory>

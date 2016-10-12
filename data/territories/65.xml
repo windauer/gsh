@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>65</id>
+    <old-id>denmark</old-id>
+    <short-form-name>Denmark</short-form-name>
+    <long-form-name>Kingdom of Denmark</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1361</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Begin year is the year of reunificaiton - Denmark as a political unit existed prior to 1361 but a proper foundation date wasn't found.</notes>
+    <sources>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/157748/Denmark</source>
+    </sources>
+</territory>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>285</id>
+    <old-id>bornu-empire-1904</old-id>
+    <short-form-name>Bornu Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1380</valid-since>
+    <valid-until>1904</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>392</successor>
+        <successor>289</successor>
+        <successor>351</successor>
+        <successor>348</successor>
+        <successor>302</successor>
+        <successor>173</successor>
+        <successor>174</successor>
+        <successor>341</successor>
+        <successor>548</successor>
+        <successor>41</successor>
+    </successors>
+    <notes>Date given as end date is date of its partition into european-governed areas.  Date given as begin date approximately is the date of its independent rise to prosperity.</notes>
+    <sources>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2170</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-0785</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/74323/Bornu</source>
+    </sources>
+</territory>

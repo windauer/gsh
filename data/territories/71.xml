@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>71</id>
+    <old-id>egypt</old-id>
+    <short-form-name>Egypt</short-form-name>
+    <long-form-name>Arab Republic of Egypt</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1971</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>543</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html</source>
+        <source>http://history.state.gov/countries/egypt</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/180382/Egypt</source>
+    </sources>
+</territory>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>379</id>
+    <old-id>hawaiian-islands-1826</old-id>
+    <short-form-name>Hawaiian Islands</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1778</valid-since>
+    <valid-until>1826</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>396</successor>
+    </successors>
+    <notes>Date marks when Hawaii was first visited by Europeans and the name was noted.  It was also called the Sandwich Islands.  It has presumably been called the Hawaiian Islands for considerably longer than since 1778.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/hawaii</source>
+    </sources>
+</territory>

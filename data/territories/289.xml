@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>289</id>
+    <old-id>british-cameroons-1961</old-id>
+    <short-form-name>British Cameroons</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1916</valid-since>
+    <valid-until>1961</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>285</predecessor>
+        <predecessor>392</predecessor>
+    </predecessors>
+    <successors>
+        <successor>174</successor>
+        <successor>341</successor>
+        <successor>548</successor>
+        <successor>41</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
+        <source>http://history.state.gov/countries/cameroon</source>
+        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon</source>
+    </sources>
+</territory>

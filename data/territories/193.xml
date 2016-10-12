@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>193</id>
+    <old-id>qatar</old-id>
+    <short-form-name>Qatar</short-form-name>
+    <long-form-name>State of Qatar</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1971</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>448</predecessor>
+        <predecessor>470</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/qa.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/qa.hi</source>
+    </sources>
+</territory>

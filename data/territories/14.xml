@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>14</id>
+    <old-id>ashmore-and-cartier-islands</old-id>
+    <short-form-name>Ashmore and Cartier Islands</short-form-name>
+    <long-form-name>Territory of Ashmore and Cartier Islands</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1931</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Territory of Australia; Ashmore Island (1811); Cartier Islands (1800)</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/at.html</source>
+    </sources>
+</territory>

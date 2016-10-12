@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>153</id>
+    <old-id>mauritius</old-id>
+    <short-form-name>Mauritius</short-form-name>
+    <long-form-name>Republic of Mauritius</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1968</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mp.html</source>
+        <source>http://www.britannica.com.proxy.lib.umich.edu/EBchecked/topic/370153/Mauritius</source>
+    </sources>
+</territory>

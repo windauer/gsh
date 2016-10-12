@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>277</id>
+    <old-id>bahrain-1971</old-id>
+    <short-form-name>Bahrain</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1783</valid-since>
+    <valid-until>1971</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>458</predecessor>
+    </predecessors>
+    <successors>
+        <successor>517</successor>
+        <successor>19</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/49072/Bahrain</source>
+    </sources>
+</territory>

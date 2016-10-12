@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>320</id>
+    <old-id>dai-viet-1802</old-id>
+    <short-form-name>Dai Viet</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1009</valid-since>
+    <valid-until>1802</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>562</successor>
+        <successor>312</successor>
+        <successor>383</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
+    </sources>
+</territory>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>429</id>
+    <old-id>natal-1910</old-id>
+    <short-form-name>Natal</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-state-of-special-sovereiegnty</type-of-territory>
+    <valid-since>1843</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>305</predecessor>
+        <predecessor>577</predecessor>
+    </predecessors>
+    <successors>
+        <successor>542</successor>
+        <successor>219</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+    </sources>
+</territory>

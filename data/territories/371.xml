@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>371</id>
+    <old-id>grand-duchy-of-poznan-1919</old-id>
+    <short-form-name>Grand Duchy of Poznan</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1815</valid-since>
+    <valid-until>1919</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>325</predecessor>
+    </predecessors>
+    <successors>
+        <successor>190</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/636120/Duchy-of-Warsaw</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780199546091.001.0001/acref-9780199546091-e-9333</source>
+    </sources>
+</territory>

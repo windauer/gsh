@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>564</id>
+    <old-id>wallachia-1862</old-id>
+    <short-form-name>Wallachia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1290</valid-since>
+    <valid-until>1862</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>195</successor>
+    </successors>
+    <notes>Gained independence in 1330; Acknowledged Ottoman Empire suzerainty in 1417</notes>
+    <sources>
+        <source>http://history.state.gov/countries/romania</source>
+        <source>http://www.britannica.com/EBchecked/topic/634322/Walachia</source>
+    </sources>
+</territory>

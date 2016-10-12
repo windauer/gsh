@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>513</id>
+    <old-id>soviet-union-1991</old-id>
+    <short-form-name>Soviet Union</short-form-name>
+    <long-form-name>Union of Soviet Socialist Republics</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1917</valid-since>
+    <valid-until>1991</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>483</predecessor>
+        <predecessor>272</predecessor>
+        <predecessor>409</predecessor>
+        <predecessor>538</predecessor>
+    </predecessors>
+    <successors>
+        <successor>12</successor>
+        <successor>17</successor>
+        <successor>23</successor>
+        <successor>75</successor>
+        <successor>87</successor>
+        <successor>124</successor>
+        <successor>403</successor>
+        <successor>132</successor>
+        <successor>134</successor>
+        <successor>140</successor>
+        <successor>158</successor>
+        <successor>196</successor>
+        <successor>233</successor>
+        <successor>243</successor>
+        <successor>247</successor>
+        <successor>252</successor>
+    </successors>
+    <notes>1922 was given as valid-since date in earlier draft. Please clarify.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
+        <source>http://history.state.gov/countries/russia</source>
+    </sources>
+</territory>

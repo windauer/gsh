@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>19</id>
+    <old-id>bahrain</old-id>
+    <short-form-name>Bahrain</short-form-name>
+    <long-form-name>Kingdom of Bahrain</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>2002</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>517</predecessor>
+        <predecessor>277</predecessor>
+        <predecessor>458</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ba.html</source>
+        <source>http://history.state.gov/countries/bahrain</source>
+        <source>http://www.britannica.com/EBchecked/topic/49072/Bahrain/93662/Domestic-and-foreign-relations-since-independence</source>
+    </sources>
+</territory>

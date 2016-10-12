@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>22</id>
+    <old-id>barbados</old-id>
+    <short-form-name>Barbados</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1962</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>566</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized independence in 1966</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html</source>
+        <source>http://history.state.gov/countries/barbados</source>
+        <source>http://www.britannica.com/EBchecked/topic/52655/Barbados</source>
+    </sources>
+</territory>

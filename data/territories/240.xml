@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>240</id>
+    <old-id>trinidad-and-tobago</old-id>
+    <short-form-name>Trinidad and Tobago</short-form-name>
+    <long-form-name>Republic of Trinidad and Tobago</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1962</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>531</predecessor>
+        <predecessor>526</predecessor>
+        <predecessor>532</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/td.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/605453/Trinidad-and-Tobago</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/tt.hi</source>
+    </sources>
+</territory>

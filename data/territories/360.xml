@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>360</id>
+    <old-id>gabon-1897</old-id>
+    <short-form-name>Gabon</short-form-name>
+    <long-form-name/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1840</valid-since>
+    <valid-until>1897</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>350</successor>
+        <successor>351</successor>
+        <successor>85</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gb.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/223148/Gabon</source>
+    </sources>
+</territory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>462</id>
+    <old-id>pontifical-states-1929</old-id>
+    <short-form-name>Pontifical States</short-form-name>
+    <long-form-name/>
+    <type-of-territory>indepedent-state</type-of-territory>
+    <valid-since>756</valid-since>
+    <valid-until>1929</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>103</successor>
+    </successors>
+    <notes>Synonymous with Papal States.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/441848/Papal-States</source>
+    </sources>
+</territory>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>482</id>
+    <old-id>ruanda-urundi-1962</old-id>
+    <short-form-name>Ruanda-Urundi</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1922</valid-since>
+    <valid-until>1962</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>362</predecessor>
+        <predecessor>481</predecessor>
+    </predecessors>
+    <successors>
+        <successor>197</successor>
+        <successor>39</successor>
+    </successors>
+    <notes>Multiple successors.  Belgian colony.  Name is also concurrent with territorial name during this territory's integration into German East Africa, 1884-1920.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/514402/Rwanda</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/511771/Ruanda-Urundi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/230748/German-East-Africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3414</source>
+    </sources>
+</territory>

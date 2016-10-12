@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>392</id>
+    <old-id>kamerun-1916</old-id>
+    <short-form-name>Kamerun</short-form-name>
+    <long-form-name>German Kamerun</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1884</valid-since>
+    <valid-until>1916</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>285</predecessor>
+    </predecessors>
+    <successors>
+        <successor>289</successor>
+        <successor>348</successor>
+        <successor>302</successor>
+        <successor>174</successor>
+        <successor>341</successor>
+        <successor>548</successor>
+        <successor>41</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon/281016/German-Kamerun-1884-1916</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-0785</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cm.hi</source>
+    </sources>
+</territory>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>187</id>
+    <old-id>peru</old-id>
+    <short-form-name>Peru</short-form-name>
+    <long-form-name>Republic of Peru</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1821</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>559</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>U.S. recognized independence in 1826</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/453253/Viceroyalty-of-Peru</source>
+        <source>http://history.state.gov/countries/peru</source>
+    </sources>
+</territory>

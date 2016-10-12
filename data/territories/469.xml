@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>469</id>
+    <old-id>prussia-1918</old-id>
+    <short-form-name>Prussia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1871</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>468</predecessor>
+    </predecessors>
+    <successors>
+        <successor>364</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source/>
+    </sources>
+</territory>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>376</id>
+    <old-id>habsburg-empire-1804</old-id>
+    <short-form-name>Habsburg Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1526</valid-since>
+    <valid-until>1804</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>276</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://lcweb2.loc.gov/frd/cs/attoc.html#at0017</source>
+        <source>http://www.britannica.com/EBchecked/topic/44183/Austria</source>
+    </sources>
+</territory>

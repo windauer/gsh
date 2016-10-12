@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>192</id>
+    <old-id>puerto-rico</old-id>
+    <short-form-name>Puerto Rico</short-form-name>
+    <long-form-name>Commonwealth of Puerto Rico</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1521</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Unincorporated, organized territory of the United States</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rq.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/482879/Puerto-Rico</source>
+    </sources>
+</territory>

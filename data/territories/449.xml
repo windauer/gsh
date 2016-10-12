@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>449</id>
+    <old-id>outer-mongolia-1921</old-id>
+    <short-form-name>Outer Mongolia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1759</valid-since>
+    <valid-until>1921</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>160</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/389284/Mongol/284625/Formation-of-Inner-and-Outer-Mongolia</source>
+    </sources>
+</territory>

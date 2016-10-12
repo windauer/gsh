@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>316</id>
+    <old-id>curacao-and-dependencies-1954</old-id>
+    <short-form-name>Curacao and Dependencies</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1807</valid-since>
+    <valid-until>1954</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>315</predecessor>
+    </predecessors>
+    <successors>
+        <successor>430</successor>
+        <successor>214</successor>
+        <successor>62</successor>
+    </successors>
+    <notes>A combination of several dependent territories the Dutch retook from other colonizing powers in 1807.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cw.hi</source>
+    </sources>
+</territory>

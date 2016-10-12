@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>317</id>
+    <old-id>cyprus-1960</old-id>
+    <short-form-name>Cyprus</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>599</valid-since>
+    <valid-until>1960</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors/>
+    <successors>
+        <successor>2</successor>
+        <successor>66</successor>
+        <successor>63</successor>
+    </successors>
+    <notes>British colony</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/148573/Cyprus</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cy.hi</source>
+    </sources>
+</territory>

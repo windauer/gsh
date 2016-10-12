@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>411</id>
+    <old-id>libya-1951</old-id>
+    <short-form-name>Libya</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1931</valid-since>
+    <valid-until>1951</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>448</predecessor>
+    </predecessors>
+    <successors>
+        <successor>138</successor>
+    </successors>
+    <notes>Italian Dependency that was ruled by Britain during and after World war II, later given independence.  The three districts of Tripolitania, Cyrenaca, and Fezzan that were combined by the Italians to administer Libya were at times somewhat autonomous from the Ottoman rule, going so far as to sign peace treaties and claim official recognition (as Tripolitania did for the US) but all were still somewhat dependent on Ottoman Rule for stability of some sort.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/339574/Libya</source>
+        <source>https://history.state.gov/countries/libya</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2358</source>
+    </sources>
+</territory>

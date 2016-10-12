@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>577</id>
+    <old-id>zululand-1910</old-id>
+    <short-form-name>Zululand</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1879</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>576</predecessor>
+    </predecessors>
+    <successors>
+        <successor>577</successor>
+        <successor>429</successor>
+        <successor>542</successor>
+        <successor>219</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8244#</source>
+        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-4205</source>
+    </sources>
+</territory>

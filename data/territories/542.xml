@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>542</id>
+    <old-id>union-of-south-africa-1961</old-id>
+    <short-form-name>Union of South Africa</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1910</valid-since>
+    <valid-until>1961</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>521</predecessor>
+        <predecessor>447</predecessor>
+        <predecessor>446</predecessor>
+        <predecessor>305</predecessor>
+        <predecessor>576</predecessor>
+        <predecessor>577</predecessor>
+        <predecessor>429</predecessor>
+        <predecessor>530</predecessor>
+    </predecessors>
+    <successors>
+        <successor>219</successor>
+        <successor>228</successor>
+    </successors>
+    <notes>U.S. recognized independence in 1929</notes>
+    <sources>
+        <source>http://history.state.gov/countries/south-africa</source>
+    </sources>
+</territory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>52</id>
+    <old-id>colombia</old-id>
+    <short-form-name>Colombia</short-form-name>
+    <long-form-name>Republic of Colombia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1866</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>550</predecessor>
+    </predecessors>
+    <successors>
+        <successor>183</successor>
+    </successors>
+    <notes>Panama separated in 1903</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/co.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/411531/Viceroyalty-of-New-Granada</source>
+    </sources>
+</territory>

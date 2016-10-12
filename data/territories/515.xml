@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>515</id>
+    <old-id>spanish-sahara-1976</old-id>
+    <short-form-name>Spanish Sahara</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1958</valid-since>
+    <valid-until>1976</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>480</predecessor>
+        <predecessor>484</predecessor>
+    </predecessors>
+    <successors>
+        <successor>260</successor>
+    </successors>
+    <notes>Dependent of Spain</notes>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/640800/Western-Sahara</source>
+    </sources>
+</territory>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>424</id>
+    <old-id>mexican-empire-1823</old-id>
+    <short-form-name>The Mexican Empire</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1821</valid-since>
+    <valid-until>1823</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>558</predecessor>
+    </predecessors>
+    <successors>
+        <successor>155</successor>
+        <successor>546</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/379167/Mexico/27357/The-Mexican-Empire-1821-23?anchor=ref1103120</source>
+    </sources>
+</territory>

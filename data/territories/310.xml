@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>310</id>
+    <old-id>champasak-1778</old-id>
+    <short-form-name>Champasak</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1707</valid-since>
+    <valid-until>1778</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>407</predecessor>
+    </predecessors>
+    <successors>
+        <successor>498</successor>
+        <successor>383</successor>
+        <successor>133</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/la.html</source>
+        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/la.hi</source>
+        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/330219/Laos</source>
+    </sources>
+</territory>

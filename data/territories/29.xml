@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>29</id>
+    <old-id>bolivia</old-id>
+    <short-form-name>Bolivia</short-form-name>
+    <long-form-name>Plurinational State of Bolivia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1825</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>547</predecessor>
+        <predecessor>560</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/504222/Viceroyalty-of-the-Rio-de-la-Plata</source>
+        <source>http://www.britannica.com/EBchecked/topic/72106/Bolivia</source>
+    </sources>
+</territory>

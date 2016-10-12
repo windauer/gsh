@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>126</id>
+    <old-id>kingman-reef</old-id>
+    <short-form-name>Kingman Reef</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1853</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Unincorporated territory of the United States; First discovered in 1798 by the United
+            States; Annexed in 1922</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/318623/Kingman-Reef</source>
+    </sources>
+</territory>

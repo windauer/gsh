@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>225</id>
+    <old-id>sudan</old-id>
+    <short-form-name>Sudan</short-form-name>
+    <long-form-name>Republic of the Sudan</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1956</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>268</predecessor>
+    </predecessors>
+    <successors>
+        <successor>221</successor>
+    </successors>
+    <notes>Mulitple predecessors</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/su.html</source>
+    </sources>
+</territory>

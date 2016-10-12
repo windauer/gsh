@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>214</id>
+    <old-id>sint-maarten</old-id>
+    <short-form-name>Sint Maarten</short-form-name>
+    <long-form-name>Country of Sint Maarten</long-form-name>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>2010</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>430</predecessor>
+        <predecessor>316</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>Dependent of Netherlands</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
+    </sources>
+</territory>

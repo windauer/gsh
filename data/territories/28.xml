@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>28</id>
+    <old-id>bhutan</old-id>
+    <short-form-name>Bhutan</short-form-name>
+    <long-form-name>Kingdom of Bhutan</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1616</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors/>
+    <successors/>
+    <notes>Kingdom established in 1907</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html</source>
+        <source>http://memory.loc.gov/frd/cs/aftoc.htmlhttp://www.britannica.com/EBchecked/topic/64215/Bhutan</source>
+    </sources>
+</territory>

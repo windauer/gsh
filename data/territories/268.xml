@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>268</id>
+    <old-id>anglo-egyptian-sudan-1955</old-id>
+    <short-form-name>Anglo-Egyptian Sudan</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1899</valid-since>
+    <valid-until>1955</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>417</predecessor>
+    </predecessors>
+    <successors>
+        <successor>225</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/su.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/571417/Sudan/24319/</source>
+        <source>http://www.britannica.com/EBchecked/topic/25025/Anglo-Egyptian-Condominium</source>
+    </sources>
+</territory>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>350</id>
+    <old-id>french-congo-1910</old-id>
+    <short-form-name>French Congo</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1897</valid-since>
+    <valid-until>1910</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>360</predecessor>
+        <predecessor>425</predecessor>
+        <predecessor>537</predecessor>
+    </predecessors>
+    <successors>
+        <successor>351</successor>
+        <successor>46</successor>
+        <successor>54</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/EBchecked/topic/219037/French-Congo</source>
+    </sources>
+</territory>

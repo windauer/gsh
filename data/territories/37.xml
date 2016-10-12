@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>37</id>
+    <old-id>burkina-faso</old-id>
+    <short-form-name>Burkina Faso</short-form-name>
+    <long-form-name>Burkina Faso</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1984</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>555</predecessor>
+        <predecessor>476</predecessor>
+        <predecessor>554</predecessor>
+        <predecessor>553</predecessor>
+        <predecessor>552</predecessor>
+    </predecessors>
+    <successors/>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso</source>
+        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso/282547/Local-government#toc129474</source>
+    </sources>
+</territory>

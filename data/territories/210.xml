@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>210</id>
+    <old-id>serbia</old-id>
+    <short-form-name>Serbia</short-form-name>
+    <long-form-name>Republic of Serbia</long-form-name>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>2006</valid-since>
+    <valid-until>9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor>496</predecessor>
+    </predecessors>
+    <successors>
+        <successor>130</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html</source>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
+        <source>http://www.britannica.com/EBchecked/topic/654783/Yugoslavia</source>
+    </sources>
+</territory>

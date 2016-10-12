@@ -5,17 +5,17 @@
     <description>Region covered by the Bureau of South and Central Asian Affairs</description>
     <valid-since/>
     <valid-until>9999</valid-until>
-    <territory-id>afghanistan</territory-id>
-    <territory-id>bangladesh</territory-id>
-    <territory-id>bhutan</territory-id>
-    <territory-id>india</territory-id>
-    <territory-id>kazakhstan</territory-id>
-    <territory-id>kyrgyzstan</territory-id>
-    <territory-id>maldives</territory-id>
-    <territory-id>nepal</territory-id>
-    <territory-id>pakistan</territory-id>
-    <territory-id>sri-lanka</territory-id>
-    <territory-id>tajikistan</territory-id>
-    <territory-id>turkmenistan</territory-id>
-    <territory-id>uzbekistan</territory-id>
+    <territory-id>1</territory-id>
+    <territory-id>21</territory-id>
+    <territory-id>28</territory-id>
+    <territory-id>109</territory-id>
+    <territory-id>124</territory-id>
+    <territory-id>132</territory-id>
+    <territory-id>147</territory-id>
+    <territory-id>168</territory-id>
+    <territory-id>180</territory-id>
+    <territory-id>224</territory-id>
+    <territory-id>233</territory-id>
+    <territory-id>243</territory-id>
+    <territory-id>252</territory-id>
 </region>

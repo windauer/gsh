@@ -5,22 +5,22 @@
     <description>Region covered by the Bureau of Near Eastern Affairs, spanning northern Africa and the Middle East</description>
     <valid-since/>
     <valid-until>9999</valid-until>
-    <territory-id>algeria</territory-id>
-    <territory-id>bahrain</territory-id>
-    <territory-id>egypt</territory-id>
-    <territory-id>iran</territory-id>
-    <territory-id>iraq</territory-id>
-    <territory-id>israel</territory-id>
-    <territory-id>jordan</territory-id>
-    <territory-id>kuwait</territory-id>
-    <territory-id>lebanon</territory-id>
-    <territory-id>libya</territory-id>
-    <territory-id>morocco</territory-id>
-    <territory-id>oman</territory-id>
-    <territory-id>qatar</territory-id>
-    <territory-id>saudi-arabia</territory-id>
-    <territory-id>syria</territory-id>
-    <territory-id>tunisia</territory-id>
-    <territory-id>united-arab-emirates</territory-id>
-    <territory-id>yemen</territory-id>
+    <territory-id>4</territory-id>
+    <territory-id>19</territory-id>
+    <territory-id>71</territory-id>
+    <territory-id>111</territory-id>
+    <territory-id>112</territory-id>
+    <territory-id>115</territory-id>
+    <territory-id>123</territory-id>
+    <territory-id>131</territory-id>
+    <territory-id>135</territory-id>
+    <territory-id>138</territory-id>
+    <territory-id>163</territory-id>
+    <territory-id>179</territory-id>
+    <territory-id>193</territory-id>
+    <territory-id>208</territory-id>
+    <territory-id>231</territory-id>
+    <territory-id>241</territory-id>
+    <territory-id>248</territory-id>
+    <territory-id>261</territory-id>
 </region>

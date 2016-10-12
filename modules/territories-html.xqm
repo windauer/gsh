@@ -202,32 +202,33 @@ declare function th:show-territory($territory-id as xs:string) {
     let $territory := gsh:territories($territory-id)
     let $title := gsh:territory-id-to-short-name($territory-id)
     let $breadcrumbs := th:territory-breadcrumbs($territory-id)
+    let $display-name := gsh:territory-id-to-short-name-with-years-valid($territory-id)
     let $counter-name := concat($territory-id, '-issue')
     let $content :=
         <div>
             { gsh:breadcrumbs($breadcrumbs) }
-            <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference id "{$territory-id}"</a>.</p>
+            <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference {$display-name}</a>.</p>
             { gsh:territories-to-list($territory, $counter-name, true()) }
             { (: th:ancestor-tree($territory) :) () }
         </div>
     return
-        gsh:wrap-html($content, $title)
+        gsh:wrap-html($content, $display-name)
 };
 
 declare function th:mentions($territory-id as xs:string) {
     let $direct-hit := gsh:territories($territory-id)
     let $pred-succ := gsh:order-territories-chronologically($gsh:territories/territory[.//predecessor = $territory-id or .//successor = $territory-id])
-    let $title := concat('Mentions of "', $territory-id, '"')
+    let $display-name := gsh:territory-id-to-short-name-with-years-valid($territory-id)
+    let $title := concat('Mentions of ', $display-name)
     let $breadcrumbs := (th:landing-page-breadcrumbs(), <li><a href="#">{$title}</a></li>)
     let $content :=
         <div>
             { gsh:breadcrumbs($breadcrumbs) }
-            <p>{count(($direct-hit, $pred-succ))} mentions of "{$territory-id}"</p>
+            <p>{count(($direct-hit, $pred-succ))} mentions of {$display-name}</p>
             { 
                 if ($direct-hit) then
                     (
-                        <h3>Territory with id "{$territory-id}"</h3>,
-                        <h4><a href="{gsh:link-to-territory($territory-id)}">{gsh:territory-id-to-short-name-with-years-valid($territory-id)}</a></h4>,
+                        <h3><a href="{gsh:link-to-territory($territory-id)}">{$display-name}</a></h3>,
                         gsh:territories-to-list($direct-hit, (), true())
                     )
                 else 
@@ -236,12 +237,13 @@ declare function th:mentions($territory-id as xs:string) {
             {
                 if ($pred-succ) then
                     (
-                        <h3>Territories with "{$territory-id}" tagged as a direct predecessor or successor</h3>,
+                        <h3>Territories with {$display-name} tagged as a direct predecessor or successor</h3>,
                         for $hit at $n in $pred-succ
+                        let $hit-display-name := gsh:territory-id-to-short-name-with-years-valid($hit/id)
                         return
                             (
-                                <h4><a href="{gsh:link-to-territory($hit/id)}">{gsh:territory-id-to-short-name-with-years-valid($hit/id)}</a></h4>,
-                                <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit/id}">mentions of "{$hit/id}"</a>.</p>,
+                                <h4><a href="{gsh:link-to-territory($hit/id)}">{$hit-display-name}</a></h4>,
+                                <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit/id}">mentions of {$hit-display-name}</a>.</p>,
                                 gsh:territories-to-list($hit, (), true())
                             )
                     )

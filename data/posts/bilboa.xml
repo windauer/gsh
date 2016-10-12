@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bilboa</locale-id>
-    <territory-id>spain</territory-id>
+    <territory-id>222</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1825</valid-since>
     <valid-until>1996</valid-until>

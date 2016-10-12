@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bamako</locale-id>
-    <territory-id>mali</territory-id>
+    <territory-id>148</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1960</valid-since>
     <valid-until>9999</valid-until>

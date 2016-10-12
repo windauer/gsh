@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>singapore</locale-id>
-    <territory-id>singapore</territory-id>
+    <territory-id>213</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1836</valid-since>
     <valid-until>9999</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>belmopan</locale-id>
-    <territory-id>belize</territory-id>
+    <territory-id>25</territory-id>
     <post-type>embassy</post-type>
     <valid-since>2006</valid-since>
     <valid-until>9999</valid-until>

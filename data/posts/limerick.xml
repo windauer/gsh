@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>limerick</locale-id>
-    <territory-id>ireland</territory-id>
+    <territory-id>113</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1861</valid-since>
     <valid-until>1949</valid-until>

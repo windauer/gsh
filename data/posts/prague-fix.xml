@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>prague</locale-id>
-    <territory-id>czech-republic</territory-id>
+    <territory-id>64</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1869</valid-since>
     <valid-until>9999</valid-until>

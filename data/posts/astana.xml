@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>astana</locale-id>
-    <territory-id>kazakhstan</territory-id>
+    <territory-id>124</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1990</valid-since>
     <valid-until>9999</valid-until>

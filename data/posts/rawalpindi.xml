@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>rawalpindi</locale-id>
-    <territory-id>pakistan</territory-id>
+    <territory-id>180</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1963</valid-since>
     <valid-until>1970</valid-until>

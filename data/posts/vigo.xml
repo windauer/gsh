@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>vigo</locale-id>
-    <territory-id>spain</territory-id>
+    <territory-id>222</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1852</valid-since>
     <valid-until>1965</valid-until>

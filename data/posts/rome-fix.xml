@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>rome</locale-id>
-    <territory-id>holy-see</territory-id>
+    <territory-id>103</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1797</valid-since>
     <valid-until>1867</valid-until>

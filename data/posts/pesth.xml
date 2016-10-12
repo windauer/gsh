@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>pesth</locale-id>
-    <territory-id>hungary</territory-id>
+    <territory-id>107</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1840</valid-since>
     <valid-until>1917</valid-until>

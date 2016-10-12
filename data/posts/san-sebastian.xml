@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>san-sebastian</locale-id>
-    <territory-id>spain</territory-id>
+    <territory-id>222</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1880</valid-since>
     <valid-until>1946</valid-until>

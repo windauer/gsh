@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>galt</locale-id>
-    <territory-id>canada</territory-id>
+    <territory-id>42</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1887</valid-since>
     <valid-until>1925</valid-until>

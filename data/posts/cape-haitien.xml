@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>cape-haitien</locale-id>
-    <territory-id>haiti</territory-id>
+    <territory-id>101</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1920</valid-since>
     <valid-until>1933</valid-until>

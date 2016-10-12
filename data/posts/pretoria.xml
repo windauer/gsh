@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>pretoria</locale-id>
-    <territory-id>south-africa</territory-id>
+    <territory-id>219</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1898</valid-since>
     <valid-until>9999</valid-until>

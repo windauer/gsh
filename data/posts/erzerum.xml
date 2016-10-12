@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>erzerum</locale-id>
-    <territory-id>armenia</territory-id>
+    <territory-id>12</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1895</valid-since>
     <valid-until>1904</valid-until>

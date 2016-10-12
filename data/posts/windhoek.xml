@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>windhoek</locale-id>
-    <territory-id>namibia</territory-id>
+    <territory-id>165</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1990</valid-since>
     <valid-until>9999</valid-until>

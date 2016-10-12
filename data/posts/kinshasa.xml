@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>kinshasa</locale-id>
-    <territory-id>congo-kinshasa</territory-id>
+    <territory-id>55</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1924</valid-since>
     <valid-until>9999</valid-until>

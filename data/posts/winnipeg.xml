@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>winnipeg</locale-id>
-    <territory-id>canada</territory-id>
+    <territory-id>42</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1869</valid-since>
     <valid-until>9999</valid-until>

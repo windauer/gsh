@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>aguadilla</locale-id>
-    <territory-id>puerto-rico</territory-id>
+    <territory-id>192</territory-id>
     <post-type>consular-agency</post-type>
     <valid-since>1864</valid-since>
     <valid-until>1899</valid-until>

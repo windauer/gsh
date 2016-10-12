@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>managua</locale-id>
-    <territory-id>nicaragua</territory-id>
+    <territory-id>172</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1885</valid-since>
     <valid-until>9999</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>leipzig</locale-id>
-    <territory-id>germany</territory-id>
+    <territory-id>88</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1826</valid-since>
     <valid-until>9999</valid-until>

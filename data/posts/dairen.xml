@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>dairen</locale-id>
-    <territory-id>china</territory-id>
+    <territory-id>48</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1903</valid-since>
     <valid-until>1949</valid-until>

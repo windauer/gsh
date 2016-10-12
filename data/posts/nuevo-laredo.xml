@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>nuevo-laredo</locale-id>
-    <territory-id>mexico</territory-id>
+    <territory-id>155</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1871</valid-since>
     <valid-until>9999</valid-until>

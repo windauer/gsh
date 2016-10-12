@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bandar-seri-begawan</locale-id>
-    <territory-id>brunei</territory-id>
+    <territory-id>35</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1984</valid-since>
     <valid-until>9999</valid-until>

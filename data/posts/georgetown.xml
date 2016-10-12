@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>georgetown</locale-id>
-    <territory-id>guyana</territory-id>
+    <territory-id>100</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1966</valid-since>
     <valid-until>9999</valid-until>

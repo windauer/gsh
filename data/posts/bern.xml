@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bern</locale-id>
-    <territory-id>switzerland</territory-id>
+    <territory-id>230</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1878</valid-since>
     <valid-until>9999</valid-until>

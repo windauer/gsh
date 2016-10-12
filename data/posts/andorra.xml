@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>andorra</locale-id>
-    <territory-id>andorra</territory-id>
+    <territory-id>6</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1996</valid-since>
     <valid-until>9999</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>fredericia</locale-id>
-    <territory-id>denmark</territory-id>
+    <territory-id>65</territory-id>
     <post-type>consulate</post-type>
     <valid-since>1918</valid-since>
     <valid-until>1919</valid-until>

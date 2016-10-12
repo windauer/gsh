@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>karachi</locale-id>
-    <territory-id>pakistan</territory-id>
+    <territory-id>180</territory-id>
     <post-type>consulate-general</post-type>
     <valid-since>1947</valid-since>
     <valid-until>9999</valid-until>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>banja-luca</locale-id>
-    <territory-id>bosnia-and-herzegovina</territory-id>
+    <territory-id>30</territory-id>
     <post-type>branch-office</post-type>
     <valid-since>1998</valid-since>
     <valid-until>9999</valid-until>

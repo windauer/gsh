@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <post>
     <locale-id>bujumbura</locale-id>
-    <territory-id>burundi</territory-id>
+    <territory-id>39</territory-id>
     <post-type>embassy</post-type>
     <valid-since>1962</valid-since>
     <valid-until>9999</valid-until>

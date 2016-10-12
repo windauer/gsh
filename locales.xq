@@ -58,7 +58,7 @@ declare function local:browse-locales($q, $territory, $start, $per-page, $show-a
         if ($q) then 
             $gsh:locales[ft:query(name, $q)]
         else if ($territory) then
-            let $territories := $gsh:territories[ft:query(short-form-name, $territory) or ft:query(long-form-name, $territory)]/id
+            let $territories := $gsh:territories/territory[ft:query(short-form-name, $territory) or ft:query(long-form-name, $territory)]/id
             return
                 $gsh:locales[current-territory = $territories]
         else 

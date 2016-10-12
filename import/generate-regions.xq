@@ -8,13 +8,13 @@ declare function local:countries-in-region($region as xs:string) {
 
 (: doc('/db/apps/gsh/import/country-territory-mapping')//entry :)
 
-let $regions := doc('/db/cms/apps/countries/code-tables/region-codes.xml')//item
+let $regions := doc('/db/apps/gsh/data/code-tables/region-codes-old.xml')//item
 for $region in $regions
 let $region-id := $region/value
 let $countries-in-region := local:countries-in-region($region-id)
 let $territories-in-region := 
     (
-    $gsh:territories[id = $countries-in-region/id]
+    $gsh:territories/territory[id = $countries-in-region/id]
     ,
     doc('/db/apps/gsh/import/country-territory-mapping')//territory-id[parent::entry/country-id = $countries-in-region/id] ! <id>{.}</id>
     )

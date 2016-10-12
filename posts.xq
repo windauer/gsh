@@ -48,7 +48,7 @@ declare function local:posts-landing-page($show-all-posts as xs:boolean) {
 };
 
 declare function local:show-posts-in-territory($territory-id as xs:string) {
-    let $territory := $gsh:territories[id = $territory-id]
+    let $territory := $gsh:territories/territory[id = $territory-id]
     let $locales := $gsh:locales[current-territory = $territory-id]
     let $posts := $gsh:posts[locale-id = $locales/id]
     let $ordered-posts := 

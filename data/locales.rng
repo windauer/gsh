@@ -10,7 +10,7 @@
                 <text/>
             </element>
             <element name="current-territory">
-                <text/>
+                <data type="integer"/>
             </element>
             <element name="latitude">
                 <data type="double"/>

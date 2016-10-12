@@ -14,15 +14,17 @@
         </lucene>
 
         <!-- Range index configuration -->
-        <create qname="id" type="xs:string"/>
-        <create qname="short-form-name" type="xs:string"/>
-        <create qname="long-form-name" type="xs:string"/>
-        <create qname="type-of-territory" type="xs:string"/>
-        <create qname="valid-since" type="xs:string"/>
-        <create qname="valid-until" type="xs:string"/>
-        <create qname="exists-on-todays-map" type="xs:boolean"/>
-        <create qname="predecessor" type="xs:string"/>
-        <create qname="successor" type="xs:string"/>
+        <range>
+            <create qname="id" type="xs:string"/>
+            <create qname="short-form-name" type="xs:string"/>
+            <create qname="long-form-name" type="xs:string"/>
+            <create qname="type-of-territory" type="xs:string"/>
+            <create qname="valid-since" type="xs:string"/>
+            <create qname="valid-until" type="xs:string"/>
+            <create qname="exists-on-todays-map" type="xs:boolean"/>
+            <create qname="predecessor" type="xs:string"/>
+            <create qname="successor" type="xs:string"/>
+        </range>
     </index>
     <!-- Replication -->
     <triggers>

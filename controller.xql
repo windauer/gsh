@@ -95,7 +95,10 @@ return
                 default return ()
             let $param := local:add-parameter($param-name, $path-fragments[3])
             return
-                local:forward($controller, concat($path-fragments[2], '.xq'), $param)
+                if (ends-with($path, '.xml')) then
+                    local:forward($controller, "data/" || $path-fragments[2] || "/" || $path-fragments[3])
+                else
+                    local:forward($controller, concat($path-fragments[2], '.xq'), $param)
         else
             local:forward($controller, concat($path-fragments[2], '.xq'))
 

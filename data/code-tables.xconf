@@ -7,8 +7,10 @@
         <fulltext default="none" attributes="false"/>
 
         <!-- Range index configuration -->
-        <create qname="name" type="xs:string"/>
-        <create qname="value" type="xs:string"/>
+        <range>
+            <create qname="name" type="xs:string"/>
+            <create qname="value" type="xs:string"/>
+        </range>
     </index>
     <!-- Replication -->
     <triggers>

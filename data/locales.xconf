@@ -13,9 +13,11 @@
         </lucene>
 
         <!-- Range index configuration -->
-        <create qname="id" type="xs:string"/>
-        <create qname="current-territory" type="xs:string"/>
-        <create qname="name" type="xs:string"/>
+        <range>
+            <create qname="id" type="xs:string"/>
+            <create qname="current-territory" type="xs:string"/>
+            <create qname="name" type="xs:string"/>
+        </range>
     </index>
     <!-- Replication -->
     <triggers>

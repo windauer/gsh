@@ -7,13 +7,15 @@
         <fulltext default="none" attributes="false"/>
 
         <!-- Range index configuration -->
-        <create qname="locale-id" type="xs:string"/>
-        <create qname="territory" type="xs:string"/>
-        <create qname="post-type" type="xs:string"/>
-        <create qname="valid-since" type="xs:string"/>
-        <create qname="valid-until" type="xs:string"/>
-        <create qname="type" type="xs:string"/>
-        <create qname="date" type="xs:string"/>
+        <range>
+            <create qname="locale-id" type="xs:string"/>
+            <create qname="territory" type="xs:string"/>
+            <create qname="post-type" type="xs:string"/>
+            <create qname="valid-since" type="xs:string"/>
+            <create qname="valid-until" type="xs:string"/>
+            <create qname="type" type="xs:string"/>
+            <create qname="date" type="xs:string"/>
+        </range>
     </index>
     <!-- Replication -->
     <triggers>

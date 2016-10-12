@@ -3,6 +3,9 @@
     <start>
         <element name="territory">
             <element name="id">
+                <data type="integer"/>
+            </element>
+            <element name="old-id">
                 <data type="NCName"/>
             </element>
             <element name="short-form-name">
@@ -56,14 +59,14 @@
             <element name="predecessors">
                 <zeroOrMore>
                     <element name="predecessor">
-                        <data type="NCName"/>
+                        <data type="integer"/>
                     </element>
                 </zeroOrMore>
             </element>
             <element name="successors">
                 <zeroOrMore>
                     <element name="successor">
-                        <data type="NCName"/>
+                        <data type="integer"/>
                     </element>
                 </zeroOrMore>
             </element>

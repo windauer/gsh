@@ -2,7 +2,7 @@
 <locale>
     <id>st-leonards</id>
     <name>St. Leonards</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.585848</latitude>
     <longitude>-73.596066</longitude>
     <predecessors/>

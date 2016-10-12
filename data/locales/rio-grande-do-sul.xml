@@ -2,7 +2,7 @@
 <locale>
     <id>rio-grande-do-sul</id>
     <name>Rio Grande Do Sul</name>
-    <current-territory>brazil</current-territory>
+    <current-territory>33</current-territory>
     <latitude>-30.034632</latitude>
     <longitude>-53</longitude>
     <predecessors/>

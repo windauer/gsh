@@ -2,7 +2,7 @@
 <locale>
     <id>cordoba</id>
     <name>Cordoba</name>
-    <current-territory>argentina</current-territory>
+    <current-territory>11</current-territory>
     <latitude>-31.3160038997</latitude>
     <longitude>-64.1799985243</longitude>
     <predecessors/>

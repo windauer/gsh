@@ -2,7 +2,7 @@
 <locale>
     <id>huangpu</id>
     <name>Huangpu</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>23.109418</latitude>
     <longitude>113.454197</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>copenhagen</id>
     <name>Copenhagen</name>
-    <current-territory>denmark</current-territory>
+    <current-territory>65</current-territory>
     <latitude>55.7199990724</latitude>
     <longitude>12.5499965713</longitude>
     <predecessors/>

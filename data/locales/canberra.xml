@@ -2,7 +2,7 @@
 <locale>
     <id>canberra</id>
     <name>Canberra</name>
-    <current-territory>australia</current-territory>
+    <current-territory>15</current-territory>
     <latitude>-35.3075</latitude>
     <longitude>149.124417</longitude>
     <predecessors/>

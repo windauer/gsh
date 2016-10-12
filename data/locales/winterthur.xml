@@ -2,7 +2,7 @@
 <locale>
     <id>winterthur</id>
     <name>Winterthur</name>
-    <current-territory>switzerland</current-territory>
+    <current-territory>230</current-territory>
     <latitude>47.49995</latitude>
     <longitude>8.737565</longitude>
     <predecessors/>

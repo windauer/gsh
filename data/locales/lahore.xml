@@ -2,7 +2,7 @@
 <locale>
     <id>lahore</id>
     <name>Lahore</name>
-    <current-territory>pakistan</current-territory>
+    <current-territory>180</current-territory>
     <latitude>31.545000161</latitude>
     <longitude>74.3409996745</longitude>
     <predecessors/>

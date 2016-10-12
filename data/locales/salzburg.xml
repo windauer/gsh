@@ -2,7 +2,7 @@
 <locale>
     <id>salzburg</id>
     <name>Salzburg</name>
-    <current-territory>austria</current-territory>
+    <current-territory>16</current-territory>
     <latitude>47.8080001024</latitude>
     <longitude>13.0519985328</longitude>
     <predecessors/>

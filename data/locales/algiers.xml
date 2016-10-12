@@ -2,7 +2,7 @@
 <locale>
     <id>algiers</id>
     <name>Algiers</name>
-    <current-territory>algeria</current-territory>
+    <current-territory>4</current-territory>
     <latitude>36.783297025</latitude>
     <longitude>3.050001514</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>nha-trang</id>
     <name>Nha Trang</name>
-    <current-territory>vietnam</current-territory>
+    <current-territory>255</current-territory>
     <latitude>12.2429970731</latitude>
     <longitude>109.203003628</longitude>
     <predecessors/>

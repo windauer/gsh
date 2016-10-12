@@ -2,7 +2,7 @@
 <locale>
     <id>morpeth</id>
     <name>Morpeth</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>42.393056</latitude>
     <longitude>-81.845556</longitude>
     <predecessors/>

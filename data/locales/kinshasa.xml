@@ -2,7 +2,7 @@
 <locale>
     <id>kinshasa</id>
     <name>Kinshasa</name>
-    <current-territory>congo-kinshasa</current-territory>
+    <current-territory>55</current-territory>
     <latitude>-4.3209989447</latitude>
     <longitude>15.29900152</longitude>
     <predecessors>Leopoldville</predecessors>

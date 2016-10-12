@@ -2,7 +2,7 @@
 <locale>
     <id>belize-city</id>
     <name>Belize City</name>
-    <current-territory>belize</current-territory>
+    <current-territory>25</current-territory>
     <latitude>17.497713</latitude>
     <longitude>-88.186654</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>tehran</id>
     <name>Tehran</name>
-    <current-territory>iran</current-territory>
+    <current-territory>111</current-territory>
     <latitude>35.7740011001</latitude>
     <longitude>51.4479965481</longitude>
     <predecessors/>

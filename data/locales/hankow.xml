@@ -2,7 +2,7 @@
 <locale>
     <id>hankow</id>
     <name>Hankow</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>30.581179</latitude>
     <longitude>114.272597</longitude>
     <predecessors/>

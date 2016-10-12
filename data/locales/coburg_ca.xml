@@ -2,7 +2,7 @@
 <locale>
     <id>coburg_ca</id>
     <name>Coburg</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.966667</latitude>
     <longitude>-78.166667</longitude>
     <predecessors/>

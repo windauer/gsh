@@ -2,7 +2,7 @@
 <locale>
     <id>holy-see</id>
     <name>Holy See</name>
-    <current-territory>holy-see</current-territory>
+    <current-territory>103</current-territory>
     <latitude>41.903611</latitude>
     <longitude>12.450278</longitude>
     <predecessors/>

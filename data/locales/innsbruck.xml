@@ -2,7 +2,7 @@
 <locale>
     <id>innsbruck</id>
     <name>Innsbruck</name>
-    <current-territory>austria</current-territory>
+    <current-territory>16</current-territory>
     <latitude>47.2650030395</latitude>
     <longitude>11.3499995943</longitude>
     <predecessors/>

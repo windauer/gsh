@@ -2,7 +2,7 @@
 <locale>
     <id>adelaide</id>
     <name>Adelaide</name>
-    <current-territory>australia</current-territory>
+    <current-territory>15</current-territory>
     <latitude>-34.929</latitude>
     <longitude>138.601</longitude>
     <predecessors/>

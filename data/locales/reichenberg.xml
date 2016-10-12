@@ -2,7 +2,7 @@
 <locale>
     <id>reichenberg</id>
     <name>Reichenberg</name>
-    <current-territory>austria</current-territory>
+    <current-territory>16</current-territory>
     <latitude>47.655596</latitude>
     <longitude>10.715234</longitude>
     <predecessors/>

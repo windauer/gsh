@@ -2,7 +2,7 @@
 <locale>
     <id>lugano</id>
     <name>Lugano</name>
-    <current-territory>switzerland</current-territory>
+    <current-territory>230</current-territory>
     <latitude>46.006512</latitude>
     <longitude>8.952312</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>sao-paulo</id>
     <name>São Paulo</name>
-    <current-territory>brazil</current-territory>
+    <current-territory>33</current-territory>
     <latitude>-23.55052</latitude>
     <longitude>-46.633309</longitude>
     <predecessors/>

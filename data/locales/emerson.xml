@@ -2,7 +2,7 @@
 <locale>
     <id>emerson</id>
     <name>Emerson</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>49.006944</latitude>
     <longitude>-97.214722</longitude>
     <predecessors/>

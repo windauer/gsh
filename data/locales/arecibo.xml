@@ -2,7 +2,7 @@
 <locale>
     <id>arecibo</id>
     <name>Arecibo</name>
-    <current-territory>puerto-rico</current-territory>
+    <current-territory>192</current-territory>
     <latitude>18.472445</latitude>
     <longitude>-66.715731</longitude>
     <predecessors/>

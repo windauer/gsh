@@ -2,7 +2,7 @@
 <locale>
     <id>cornwallis</id>
     <name>Cornwallis</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>49.798056</latitude>
     <longitude>-99.848056</longitude>
     <predecessors/>

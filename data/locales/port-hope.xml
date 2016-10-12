@@ -2,7 +2,7 @@
 <locale>
     <id>port-hope</id>
     <name>Port Hope</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.95</latitude>
     <longitude>-78.3</longitude>
     <predecessors/>

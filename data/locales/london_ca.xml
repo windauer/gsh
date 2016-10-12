@@ -2,7 +2,7 @@
 <locale>
     <id>london_ca</id>
     <name>London</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>42.9837</latitude>
     <longitude>-81.2497</longitude>
     <predecessors/>

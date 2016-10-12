@@ -2,7 +2,7 @@
 <locale>
     <id>riviere-du-loup</id>
     <name>Riviere Du Loup</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>47.833333</latitude>
     <longitude>-69.533333</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>brantford</id>
     <name>Brantford</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.166667</latitude>
     <longitude>-80.25</longitude>
     <predecessors/>

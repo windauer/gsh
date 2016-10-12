@@ -2,7 +2,7 @@
 <locale>
     <id>phnom-penh</id>
     <name>Phnom Penh</name>
-    <current-territory>cambodia</current-territory>
+    <current-territory>40</current-territory>
     <latitude>11.5647391281</latitude>
     <longitude>104.913189595</longitude>
     <predecessors/>

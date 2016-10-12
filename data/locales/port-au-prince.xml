@@ -2,7 +2,7 @@
 <locale>
     <id>port-au-prince</id>
     <name>Port-au-Prince</name>
-    <current-territory>haiti</current-territory>
+    <current-territory>101</current-territory>
     <latitude>18.539269</latitude>
     <longitude>-72.336408</longitude>
     <predecessors/>

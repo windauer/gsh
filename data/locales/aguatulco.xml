@@ -2,11 +2,11 @@
 <locale>
     <id>aguatulco</id>
     <name>Aguatulco</name>
-    <current-territory>mexico</current-territory>
+    <current-territory>155</current-territory>
     <latitude>15.85</latitude>
     <longitude>-96.333333</longitude>
     <predecessors/>
-    <successors></successors>
+    <successors/>
     <alternate-names>
         <alternate-name>
             <label>Huatulco</label>

@@ -2,7 +2,7 @@
 <locale>
     <id>majuro</id>
     <name>Majuro</name>
-    <current-territory>marshall-islands</current-territory>
+    <current-territory>150</current-territory>
     <latitude>7.1209801155</latitude>
     <longitude>171.367659732</longitude>
     <predecessors/>

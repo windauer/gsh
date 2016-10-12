@@ -2,7 +2,7 @@
 <locale>
     <id>magdalen-islands</id>
     <name>Magdalen Islands</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>47.448333</latitude>
     <longitude>-61.752222</longitude>
     <predecessors/>

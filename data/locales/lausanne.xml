@@ -2,7 +2,7 @@
 <locale>
     <id>lausanne</id>
     <name>Lausanne</name>
-    <current-territory>switzerland</current-territory>
+    <current-territory>230</current-territory>
     <latitude>46.5249960255</latitude>
     <longitude>6.6230015638</longitude>
     <predecessors/>

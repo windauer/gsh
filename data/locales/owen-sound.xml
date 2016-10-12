@@ -2,7 +2,7 @@
 <locale>
     <id>owen-sound</id>
     <name>Owen Sound</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.566667</latitude>
     <longitude>-80.9333333</longitude>
     <predecessors/>

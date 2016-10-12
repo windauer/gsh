@@ -2,7 +2,7 @@
 <locale>
     <id>tsinan</id>
     <name>Tsinan</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>36.666667</latitude>
     <longitude>116.983333</longitude>
     <predecessors>Tsinanfu</predecessors>

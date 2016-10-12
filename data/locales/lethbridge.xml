@@ -2,7 +2,7 @@
 <locale>
     <id>lethbridge</id>
     <name>Lethbridge</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>49.694167</latitude>
     <longitude>-112.832278</longitude>
     <predecessors/>

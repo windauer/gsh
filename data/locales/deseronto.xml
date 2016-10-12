@@ -2,7 +2,7 @@
 <locale>
     <id>deseronto</id>
     <name>Deseronto</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.2</latitude>
     <longitude>-77.05</longitude>
     <predecessors/>

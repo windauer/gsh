@@ -2,7 +2,7 @@
 <locale>
     <id>dhaka</id>
     <name>Dhaka</name>
-    <current-territory>bangladesh</current-territory>
+    <current-territory>21</current-territory>
     <latitude>23.7099150172</latitude>
     <longitude>90.4071425716</longitude>
     <predecessors>Dacca</predecessors>

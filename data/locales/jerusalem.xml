@@ -2,7 +2,7 @@
 <locale>
     <id>jerusalem</id>
     <name>Jerusalem</name>
-    <current-territory>israel</current-territory>
+    <current-territory>115</current-territory>
     <latitude>31.7737440861</latitude>
     <longitude>35.2252175756</longitude>
     <predecessors/>

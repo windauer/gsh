@@ -2,7 +2,7 @@
 <locale>
     <id>port-rowan</id>
     <name>Port Rowan</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>42.54</latitude>
     <longitude>-80.059167</longitude>
     <predecessors/>

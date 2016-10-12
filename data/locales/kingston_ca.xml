@@ -2,7 +2,7 @@
 <locale>
     <id>kingston_ca</id>
     <name>Kingston</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.233333</latitude>
     <longitude>-76.5</longitude>
     <predecessors/>

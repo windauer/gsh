@@ -2,7 +2,7 @@
 <locale>
     <id>guangzhou</id>
     <name>Guangzhou</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>23.133333</latitude>
     <longitude>113.266667</longitude>
     <predecessors/>

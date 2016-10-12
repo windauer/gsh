@@ -2,7 +2,7 @@
 <locale>
     <id>sault-ste-marie</id>
     <name>Sault Ste. Marie</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>46.533333</latitude>
     <longitude>-84.35</longitude>
     <predecessors/>

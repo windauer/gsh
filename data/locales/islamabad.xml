@@ -2,7 +2,7 @@
 <locale>
     <id>islamabad</id>
     <name>Islamabad</name>
-    <current-territory>pakistan</current-territory>
+    <current-territory>180</current-territory>
     <latitude>33.7181580511</latitude>
     <longitude>73.0605425566</longitude>
     <predecessors/>

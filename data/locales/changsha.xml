@@ -2,7 +2,7 @@
 <locale>
     <id>changsha</id>
     <name>Changsha</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>28.196111</latitude>
     <longitude>112.972222</longitude>
     <predecessors/>

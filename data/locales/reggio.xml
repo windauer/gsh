@@ -2,7 +2,7 @@
 <locale>
     <id>reggio</id>
     <name>Reggio</name>
-    <current-territory>italy</current-territory>
+    <current-territory>116</current-territory>
     <latitude>38.111301</latitude>
     <longitude>15.647291</longitude>
     <predecessors>Calabria</predecessors>

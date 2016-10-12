@@ -2,7 +2,7 @@
 <locale>
     <id>viborg</id>
     <name>Viborg</name>
-    <current-territory>finland</current-territory>
+    <current-territory>80</current-territory>
     <latitude>56.4530041418</latitude>
     <longitude>9.4169975478</longitude>
     <predecessors>Wiborg</predecessors>

@@ -2,7 +2,7 @@
 <locale>
     <id>mazar-e-sharif</id>
     <name>Mazar-e-Sharif</name>
-    <current-territory>afghanistan</current-territory>
+    <current-territory>1</current-territory>
     <latitude>36.7</latitude>
     <longitude>67.116667</longitude>
     <predecessors/>

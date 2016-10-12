@@ -2,7 +2,7 @@
 <locale>
     <id>collingwood</id>
     <name>Collingwood</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.5</latitude>
     <longitude>-80.216667</longitude>
     <predecessors/>

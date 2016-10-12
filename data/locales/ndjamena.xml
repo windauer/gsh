@@ -2,7 +2,7 @@
 <locale>
     <id>ndjamena</id>
     <name>N’Djamena</name>
-    <current-territory>chad</current-territory>
+    <current-territory>46</current-territory>
     <latitude>12.104797</latitude>
     <longitude>15.044506</longitude>
     <predecessors>Fort Lamy</predecessors>

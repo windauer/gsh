@@ -2,7 +2,7 @@
 <locale>
     <id>ottawa</id>
     <name>Ottawa</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.417</latitude>
     <longitude>-75.7</longitude>
     <predecessors/>

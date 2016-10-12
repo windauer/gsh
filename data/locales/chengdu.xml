@@ -2,7 +2,7 @@
 <locale>
     <id>chengdu</id>
     <name>Chengdu</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>30.658611</latitude>
     <longitude>104.064722</longitude>
     <predecessors>Chengtu</predecessors>

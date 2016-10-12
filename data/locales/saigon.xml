@@ -2,7 +2,7 @@
 <locale>
     <id>saigon</id>
     <name>Saigon</name>
-    <current-territory>vietnam</current-territory>
+    <current-territory>255</current-territory>
     <latitude>10.823099</latitude>
     <longitude>106.629664</longitude>
     <predecessors/>

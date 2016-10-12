@@ -2,7 +2,7 @@
 <locale>
     <id>fort-erie</id>
     <name>Fort Erie</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>42.89325</latitude>
     <longitude>-78.923817</longitude>
     <predecessors/>

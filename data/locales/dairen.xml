@@ -2,7 +2,7 @@
 <locale>
     <id>dairen</id>
     <name>Dairen</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>38.920833</latitude>
     <longitude>121.639167</longitude>
     <predecessors>Dalny</predecessors>

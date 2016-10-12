@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <locale>
     <id>bissau</id>
     <name>Bissau</name>
-    <current-territory>guinea-bissau</current-territory>
+    <current-territory>99</current-territory>
     <latitude>11.85</latitude>
     <longitude>-15.566667</longitude>
     <predecessors/>

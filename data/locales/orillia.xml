@@ -2,7 +2,7 @@
 <locale>
     <id>orillia</id>
     <name>Orillia</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.6</latitude>
     <longitude>-79.416667</longitude>
     <predecessors/>

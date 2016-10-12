@@ -2,7 +2,7 @@
 <locale>
     <id>hong-kong</id>
     <name>Hong Kong</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>22.278333</latitude>
     <longitude>114.158889</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>gananoque</id>
     <name>Gananoque</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.333333</latitude>
     <longitude>-76.166667</longitude>
     <predecessors/>

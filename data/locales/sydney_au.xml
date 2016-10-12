@@ -2,7 +2,7 @@
 <locale>
     <id>sydney_au</id>
     <name>Sydney</name>
-    <current-territory>australia</current-territory>
+    <current-territory>15</current-territory>
     <latitude>-33.859972</latitude>
     <longitude>151.211111</longitude>
     <predecessors/>

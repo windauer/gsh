@@ -2,7 +2,7 @@
 <locale>
     <id>clinton</id>
     <name>Clinton</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.615883</latitude>
     <longitude>-81.539454</longitude>
     <predecessors/>

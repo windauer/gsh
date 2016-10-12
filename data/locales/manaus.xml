@@ -2,7 +2,7 @@
 <locale>
     <id>manaus</id>
     <name>Manaus</name>
-    <current-territory>brazil</current-territory>
+    <current-territory>33</current-territory>
     <latitude>-3.1220009926</latitude>
     <longitude>-60.0149965702</longitude>
     <predecessors>Manaas</predecessors>

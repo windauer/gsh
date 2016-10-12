@@ -2,7 +2,7 @@
 <locale>
     <id>luanda</id>
     <name>Luanda</name>
-    <current-territory>angola</current-territory>
+    <current-territory>7</current-territory>
     <latitude>-8.8119989085</latitude>
     <longitude>13.2350045947</longitude>
     <predecessors>Loanda</predecessors>

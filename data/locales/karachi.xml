@@ -2,7 +2,7 @@
 <locale>
     <id>karachi</id>
     <name>Karachi</name>
-    <current-territory>pakistan</current-territory>
+    <current-territory>180</current-territory>
     <latitude>24.8930010536</latitude>
     <longitude>67.0280045535</longitude>
     <predecessors/>

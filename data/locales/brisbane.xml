@@ -2,7 +2,7 @@
 <locale>
     <id>brisbane</id>
     <name>Brisbane</name>
-    <current-territory>australia</current-territory>
+    <current-territory>15</current-territory>
     <latitude>-27.467917</latitude>
     <longitude>153.027778</longitude>
     <predecessors/>

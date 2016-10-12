@@ -2,7 +2,7 @@
 <locale>
     <id>halifax</id>
     <name>Halifax</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.854444</latitude>
     <longitude>-63.199167</longitude>
     <predecessors/>

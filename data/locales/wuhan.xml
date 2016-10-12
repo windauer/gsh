@@ -2,7 +2,7 @@
 <locale>
     <id>wuhan</id>
     <name>Wuhan</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>30.583333</latitude>
     <longitude>114.283333</longitude>
     <predecessors/>

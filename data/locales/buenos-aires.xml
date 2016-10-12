@@ -2,7 +2,7 @@
 <locale>
     <id>buenos-aires</id>
     <name>Buenos Aires</name>
-    <current-territory>argentina</current-territory>
+    <current-territory>11</current-territory>
     <latitude>-34.6224959915</latitude>
     <longitude>-58.4498335872</longitude>
     <predecessors>Buenos Ayres</predecessors>

@@ -2,7 +2,7 @@
 <locale>
     <id>prince-rupert</id>
     <name>Prince Rupert</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>54.312194</latitude>
     <longitude>-130.327083</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>peterborough</id>
     <name>Peterborough</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.3</latitude>
     <longitude>-78.316667</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>tel-aviv</id>
     <name>Tel Aviv</name>
-    <current-territory>israel</current-territory>
+    <current-territory>115</current-territory>
     <latitude>32.0853</latitude>
     <longitude>34.781768</longitude>
     <predecessors/>

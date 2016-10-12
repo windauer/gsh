@@ -2,7 +2,7 @@
 <locale>
     <id>amoy</id>
     <name>Amoy</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>24.479836</latitude>
     <longitude>118.089419</longitude>
     <predecessors>Xiamen</predecessors>

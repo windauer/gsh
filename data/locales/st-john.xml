@@ -2,7 +2,7 @@
 <locale>
     <id>st-john</id>
     <name>St. John</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.2796</latitude>
     <longitude>-66.0628</longitude>
     <predecessors/>

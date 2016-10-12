@@ -2,7 +2,7 @@
 <locale>
     <id>paris_ca</id>
     <name>Paris</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.116667</latitude>
     <longitude>-80.366667</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>port-of-spain</id>
     <name>Port of Spain</name>
-    <current-territory>trinidad-and-tobago</current-territory>
+    <current-territory>240</current-territory>
     <latitude>10.666667</latitude>
     <longitude>-61.516667</longitude>
     <predecessors/>

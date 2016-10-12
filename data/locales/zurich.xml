@@ -2,7 +2,7 @@
 <locale>
     <id>zurich</id>
     <name>Zurich</name>
-    <current-territory>switzerland</current-territory>
+    <current-territory>230</current-territory>
     <latitude>47.4010021442</latitude>
     <longitude>8.5339985861</longitude>
     <predecessors/>

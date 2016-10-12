@@ -2,7 +2,7 @@
 <locale>
     <id>the-hague</id>
     <name>The Hague</name>
-    <current-territory>netherlands</current-territory>
+    <current-territory>169</current-territory>
     <latitude>52.0759980931</latitude>
     <longitude>4.2810035094</longitude>
     <predecessors>Hague</predecessors>

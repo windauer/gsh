@@ -2,7 +2,7 @@
 <locale>
     <id>kenora</id>
     <name>Kenora</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>49.766667</latitude>
     <longitude>-94.483333</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>belleville</id>
     <name>Belleville</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>44.166667</latitude>
     <longitude>-77.383333</longitude>
     <predecessors/>

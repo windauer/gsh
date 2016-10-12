@@ -2,7 +2,7 @@
 <locale>
     <id>kyiv</id>
     <name>Kyiv</name>
-    <current-territory>ukraine</current-territory>
+    <current-territory>247</current-territory>
     <latitude>50.4481591672</latitude>
     <longitude>30.5021075838</longitude>
     <predecessors>Kiev</predecessors>

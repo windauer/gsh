@@ -2,7 +2,7 @@
 <locale>
     <id>cape-haitien</id>
     <name>Cape Haitien</name>
-    <current-territory>haiti</current-territory>
+    <current-territory>101</current-territory>
     <latitude>19.732779</latitude>
     <longitude>-72.195</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>danang</id>
     <name>Danang</name>
-    <current-territory>vietnam</current-territory>
+    <current-territory>255</current-territory>
     <latitude>16.051571</latitude>
     <longitude>108.214897</longitude>
     <predecessors/>

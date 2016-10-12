@@ -2,7 +2,7 @@
 <locale>
     <id>peiping</id>
     <name>Peiping</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>39.913889</latitude>
     <longitude>116.391667</longitude>
     <predecessors>Peking</predecessors>

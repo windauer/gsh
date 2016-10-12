@@ -2,7 +2,7 @@
 <locale>
     <id>auckland</id>
     <name>Auckland</name>
-    <current-territory>new-zealand</current-territory>
+    <current-territory>171</current-territory>
     <latitude>-36.840417</latitude>
     <longitude>174.739869</longitude>
     <predecessors/>

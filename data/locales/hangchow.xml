@@ -2,7 +2,7 @@
 <locale>
     <id>hangchow</id>
     <name>Hangchow</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>30.25</latitude>
     <longitude>120.166667</longitude>
     <predecessors/>

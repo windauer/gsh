@@ -2,7 +2,7 @@
 <locale>
     <id>sudbury</id>
     <name>Sudbury</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>46.49</latitude>
     <longitude>-81.01</longitude>
     <predecessors/>

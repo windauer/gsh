@@ -2,7 +2,7 @@
 <locale>
     <id>seoul</id>
     <name>Seoul</name>
-    <current-territory>korea-south</current-territory>
+    <current-territory>129</current-territory>
     <latitude>37.5423571656</latitude>
     <longitude>126.935244611</longitude>
     <predecessors/>

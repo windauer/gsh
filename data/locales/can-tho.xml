@@ -2,7 +2,7 @@
 <locale>
     <id>can-tho</id>
     <name>Can Tho</name>
-    <current-territory>vietnam</current-territory>
+    <current-territory>255</current-territory>
     <latitude>10.0320029991</latitude>
     <longitude>105.784002671</longitude>
     <predecessors/>

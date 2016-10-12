@@ -2,7 +2,7 @@
 <locale>
     <id>ocean-falls</id>
     <name>Ocean Falls</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>52.351389</latitude>
     <longitude>-127.691667</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>stratford</id>
     <name>Stratford</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>43.366667</latitude>
     <longitude>-80.96667</longitude>
     <predecessors/>

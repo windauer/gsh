@@ -2,7 +2,7 @@
 <locale>
     <id>galveston</id>
     <name>Galveston</name>
-    <current-territory>united-states</current-territory>
+    <current-territory>250</current-territory>
     <latitude>29.281111</latitude>
     <longitude>-94.825833</longitude>
     <predecessors/>

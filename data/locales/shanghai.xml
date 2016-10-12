@@ -2,7 +2,7 @@
 <locale>
     <id>shanghai</id>
     <name>Shanghai</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>31.2</latitude>
     <longitude>121.5</longitude>
     <predecessors/>

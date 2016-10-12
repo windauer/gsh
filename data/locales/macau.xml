@@ -2,7 +2,7 @@
 <locale>
     <id>macau</id>
     <name>Macau</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>22.166667</latitude>
     <longitude>113.55</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>rawalpindi</id>
     <name>Rawalpindi</name>
-    <current-territory>pakistan</current-territory>
+    <current-territory>180</current-territory>
     <latitude>33.6058020933</latitude>
     <longitude>73.0437486129</longitude>
     <predecessors/>

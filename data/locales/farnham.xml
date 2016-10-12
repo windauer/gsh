@@ -2,7 +2,7 @@
 <locale>
     <id>farnham</id>
     <name>Farnham</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.283333</latitude>
     <longitude>-72.983333</longitude>
     <predecessors/>

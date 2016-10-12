@@ -2,7 +2,7 @@
 <locale>
     <id>north-bay</id>
     <name>North Bay</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>46.3</latitude>
     <longitude>-79.45</longitude>
     <predecessors/>

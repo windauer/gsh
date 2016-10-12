@@ -2,7 +2,7 @@
 <locale>
     <id>civita-vecchia</id>
     <name>Civita Vecchia</name>
-    <current-territory>italy</current-territory>
+    <current-territory>116</current-territory>
     <latitude>41.885921</latitude>
     <longitude>13.470527</longitude>
     <predecessors/>

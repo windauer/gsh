@@ -2,7 +2,7 @@
 <locale>
     <id>kabul</id>
     <name>Kabul</name>
-    <current-territory>afghanistan</current-territory>
+    <current-territory>1</current-territory>
     <latitude>34.5309120127</latitude>
     <longitude>69.1367585202</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>sarnia</id>
     <name>Sarnia</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>42.999444</latitude>
     <longitude>-82.308889</longitude>
     <predecessors>Port Sarnia</predecessors>

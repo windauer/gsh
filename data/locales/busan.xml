@@ -2,7 +2,7 @@
 <locale>
     <id>busan</id>
     <name>Busan</name>
-    <current-territory>korea-south</current-territory>
+    <current-territory>129</current-territory>
     <latitude>35.179554</latitude>
     <longitude>129.075642</longitude>
     <predecessors>Pusan</predecessors>

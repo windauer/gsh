@@ -2,7 +2,7 @@
 <locale>
     <id>mumbai</id>
     <name>Mumbai</name>
-    <current-territory>india</current-territory>
+    <current-territory>109</current-territory>
     <latitude>19.0770030521</latitude>
     <longitude>72.8260025664</longitude>
     <predecessors>Bombay</predecessors>

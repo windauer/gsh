@@ -2,7 +2,7 @@
 <locale>
     <id>melbourne</id>
     <name>Melbourne</name>
-    <current-territory>australia</current-territory>
+    <current-territory>15</current-territory>
     <latitude>-37.813611</latitude>
     <longitude>144.963056</longitude>
     <predecessors/>

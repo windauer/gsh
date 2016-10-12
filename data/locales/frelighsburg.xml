@@ -2,7 +2,7 @@
 <locale>
     <id>frelighsburg</id>
     <name>Frelighsburg</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.05</latitude>
     <longitude>-72.833333</longitude>
     <predecessors/>

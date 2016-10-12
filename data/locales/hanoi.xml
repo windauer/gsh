@@ -2,7 +2,7 @@
 <locale>
     <id>hanoi</id>
     <name>Hanoi</name>
-    <current-territory>vietnam</current-territory>
+    <current-territory>255</current-territory>
     <latitude>21.0300031369</latitude>
     <longitude>105.820002649</longitude>
     <predecessors/>

@@ -2,7 +2,7 @@
 <locale>
     <id>kunming</id>
     <name>Kunming</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>25.066667</latitude>
     <longitude>102.683333</longitude>
     <predecessors>Yunnanfu</predecessors>

@@ -2,7 +2,7 @@
 <locale>
     <id>rome</id>
     <name>Rome</name>
-    <current-territory>italy</current-territory>
+    <current-territory>116</current-territory>
     <latitude>41.879997134</latitude>
     <longitude>12.5199995139</longitude>
     <predecessors/>

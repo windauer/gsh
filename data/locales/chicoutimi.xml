@@ -2,7 +2,7 @@
 <locale>
     <id>chicoutimi</id>
     <name>Chicoutimi</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>48.427778</latitude>
     <longitude>-71.059167</longitude>
     <predecessors/>

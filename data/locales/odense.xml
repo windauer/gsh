@@ -2,7 +2,7 @@
 <locale>
     <id>odense</id>
     <name>Odense</name>
-    <current-territory>denmark</current-territory>
+    <current-territory>65</current-territory>
     <latitude>55.3989960215</latitude>
     <longitude>10.3920036037</longitude>
     <predecessors/>

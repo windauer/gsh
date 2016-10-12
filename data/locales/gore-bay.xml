@@ -2,7 +2,7 @@
 <locale>
     <id>gore-bay</id>
     <name>Gore Bay</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.916667</latitude>
     <longitude>-82.466667</longitude>
     <predecessors/>

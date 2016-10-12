@@ -2,7 +2,7 @@
 <locale>
     <id>montreal</id>
     <name>Montreal</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.5</latitude>
     <longitude>-73.566667</longitude>
     <predecessors/>

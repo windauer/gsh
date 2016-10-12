@@ -2,7 +2,7 @@
 <locale>
     <id>carleton</id>
     <name>Carleton</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.1333333</latitude>
     <longitude>-76.133333</longitude>
     <predecessors/>

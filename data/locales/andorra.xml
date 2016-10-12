@@ -2,7 +2,7 @@
 <locale>
     <id>andorra</id>
     <name>Andorra</name>
-    <current-territory>andorra</current-territory>
+    <current-territory>6</current-territory>
     <latitude>42.506317</latitude>
     <longitude>1.521835</longitude>
     <predecessors/>

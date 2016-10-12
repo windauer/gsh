@@ -2,7 +2,7 @@
 <locale>
     <id>grenville</id>
     <name>Grenville</name>
-    <current-territory>canada</current-territory>
+    <current-territory>42</current-territory>
     <latitude>45.633333</latitude>
     <longitude>-74.6</longitude>
     <predecessors/>

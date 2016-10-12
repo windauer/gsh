@@ -2,7 +2,7 @@
 <locale>
     <id>tsingtao</id>
     <name>Tsingtao</name>
-    <current-territory>china</current-territory>
+    <current-territory>48</current-territory>
     <latitude>36.066667</latitude>
     <longitude>120.383333</longitude>
     <predecessors>Tsingtau</predecessors>

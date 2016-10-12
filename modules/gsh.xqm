@@ -146,10 +146,10 @@ declare function gsh:territories-to-table($territories, $counter-name) {
                     'ID'
                 },
                 element th {
-                    'Short Form Name'
+                    'Short-Form Name'
                 },
                 element th {
-                    'Long Form Name'
+                    'Long-Form Name'
                 },
                 element th {
                     'Type of Territory'
@@ -297,7 +297,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
             (
             element tr {
                 element td {
-                    'Short Form Name'
+                    'Display Name'
                 },
                 element td { 
                     attribute style {'font-weight: bold'},
@@ -306,13 +306,21 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
             },
             element tr {
                 element td {
-                    'Long Form Name'
+                    'Short-Form Name'
+                },
+                element td { 
+                    gsh:territory-id-to-short-name($territory/id) 
+                }
+            },
+            element tr {
+                element td {
+                    'Long-Form Name'
                 },
                 element td { 
                     let $warning := (empty($territory/long-form-name/node()) and not($territory/long-form-name/@type = 'none'))
                     return
                         (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a long form name; if none, please note it') else ()
+                        if ($warning) then gsh:generate-warning($counter-name, 'expected a long-form name; if none, please note it') else ()
                         ,
                         if ($territory/long-form-name/@type="none") then 
                             '-' 
@@ -540,20 +548,20 @@ declare function gsh:territories-to-definition-list($territories, $counter-name,
             (:attribute style {'border-top: 1px black solid'},:)
             (
             element dt {
-                'Short Form Name'
+                'Short-Form Name'
             },
             element dd { 
                 attribute style {'font-weight: bold'},
                 gsh:territory-id-to-short-name-with-years-valid($territory/id) 
             },
             element dt {
-                'Long Form Name'
+                'Long-Form Name'
             },
             element dd { 
                 let $warning := (empty($territory/long-form-name/node()) and not($territory/long-form-name/@type = 'none'))
                 return
                     (
-                    if ($warning) then gsh:generate-warning($counter-name, 'expected a long form name; if none, please note it') else ()
+                    if ($warning) then gsh:generate-warning($counter-name, 'expected a long-form name; if none, please note it') else ()
                     ,
                     if ($territory/long-form-name/@type="none") then 
                         '-' 

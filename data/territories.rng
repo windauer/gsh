@@ -20,7 +20,10 @@
                 </choice>
             </element>
             <element name="type-of-territory">
-                <data type="NCName"/>
+                <choice>
+                    <value>independent-state</value>
+                    <value>dependency-or-area-of-special-sovereignty</value>
+                </choice>
             </element>
             <element name="valid-since">
                 <choice>

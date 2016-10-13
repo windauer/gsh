@@ -4,9 +4,9 @@
     <old-id>sicily-1815</old-id>
     <short-form-name>Sicily</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory/>
-    <valid-since>1815</valid-since>
-    <valid-until/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since/>
+    <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>

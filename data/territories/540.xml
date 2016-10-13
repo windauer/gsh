@@ -2,9 +2,9 @@
 <territory>
     <id>540</id>
     <old-id>ukrainian-state-1709</old-id>
-    <short-form-name>Ukrainian State</short-form-name>
+    <short-form-name>Cossack Hetmanate</short-form-name>
     <long-form-name>Cossack Hetmanate</long-form-name>
-    <type-of-territory/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1648</valid-since>
     <valid-until>1709</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>

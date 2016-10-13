@@ -4,9 +4,9 @@
     <old-id>territory-of-papua-and-new-guinea-TBD</old-id>
     <short-form-name>Territory of Papua and New Guinea</short-form-name>
     <long-form-name/>
-    <type-of-territory/>
-    <valid-since/>
-    <valid-until/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1949</valid-since>
+    <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>

@@ -208,7 +208,7 @@ declare function th:show-territory($territory-id as xs:string) {
         <div>
             { gsh:breadcrumbs($breadcrumbs) }
             <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference {$display-name}</a>.</p>
-            { gsh:territories-to-list($territory, $counter-name, true()) }
+            { gsh:territories-to-list($territory, $counter-name, true(), false()) }
             { (: th:ancestor-tree($territory) :) () }
         </div>
     return
@@ -229,7 +229,7 @@ declare function th:mentions($territory-id as xs:string) {
                 if ($direct-hit) then
                     (
                         <h3><a href="{gsh:link-to-territory($territory-id)}">{$display-name}</a></h3>,
-                        gsh:territories-to-list($direct-hit, (), true())
+                        gsh:territories-to-list($direct-hit, (), true(), false())
                     )
                 else 
                     ()
@@ -244,7 +244,7 @@ declare function th:mentions($territory-id as xs:string) {
                             (
                                 <h4><a href="{gsh:link-to-territory($hit/id)}">{$hit-display-name}</a></h4>,
                                 <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit/id}">mentions of {$hit-display-name}</a>.</p>,
-                                gsh:territories-to-list($hit, (), true())
+                                gsh:territories-to-list($hit, (), true(), false())
                             )
                     )
                 else 
@@ -271,7 +271,7 @@ declare function th:contains($territory-id as xs:string) {
                     (
                         <h3><a href="{gsh:link-to-territory($hit-id)}">{gsh:territory-id-to-short-name-with-years-valid($hit-id)}</a></h3>,
                         <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit-id}">mentions of "{$hit-id}"</a>.</p>,
-                        gsh:territories-to-list($hit, (), true())
+                        gsh:territories-to-list($hit, (), true(), false())
                     )
             }
         </div>

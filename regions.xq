@@ -98,7 +98,7 @@ declare function local:show-region($region-id, $view-all) {
                     <div style="page-break-before: always">
                         <h3>{gsh:territory-id-to-short-name-with-years-valid($territory-id)}</h3>
                         <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference id "{$territory-id}"</a>.</p>
-                        { gsh:territories-to-list($territory, $counter-name, true()) }
+                        { gsh:territories-to-list($territory, $counter-name, true(), false()) }
                         { (: th:ancestor-tree($territory) :) () }
                     </div>
             else ()

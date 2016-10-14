@@ -27,7 +27,7 @@ let $content :=
                     return
                         <div style="page-break-after:always;">
                             <h3>{$n}. {gsh:territory-id-to-short-name-with-years-valid($territory/id)}</h3>
-                            { gsh:territories-to-list(($territory, reverse(gsh:order-territories-chronologically($predecessors))), $counter-name, false()) }
+                            { gsh:territories-to-list(($territory, reverse(gsh:order-territories-chronologically($predecessors))), $counter-name, false(), false()) }
                         </div>
                 }
             </div>

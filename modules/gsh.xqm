@@ -287,255 +287,348 @@ declare function gsh:generate-warning($counter-name, $message) {
     <span style="background-color: yellow">{concat('&#9744; ', if ($counter-name) then concat('#', counter:next-value($counter-name), ': ') else (), $message)}</span>
 };
 
-declare function gsh:territories-to-list($territories, $counter-name, $enable-link-territories as xs:boolean) {
+declare function gsh:review-checkbox($messages) {
+    " " || string-join($messages ! ('&#9744; ' || .), ' ')
+};
+
+declare function gsh:format-source($source) {
+    if (starts-with($source, 'http')) then 
+        let $strip-scheme := substring-after($source, '//')
+        let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
+        return
+            <a href="{$source}">{$strip-www}</a>
+    else
+        $source
+};
+
+declare function gsh:territories-to-list($territories, $counter-name, $enable-link-territories as xs:boolean, $enable-review-checkboxes as xs:boolean) {
     for $territory in $territories 
+    let $predecessors := $territory/predecessors/predecessor 
+    let $successors := $territory/successors/successor 
+    let $sources := $territory/sources/source 
     (:order by $territory/id:)
     return
         element table {
-            attribute class {'table'},
+            attribute class {'table table-bordered'},
             (:attribute style {'border-top: 1px black solid'},:)
-            (
-            element tr {
-                element td {
-                    'Display Name'
+            element colgroup {
+                element col {
+                    attribute class { "col-md-3" }
                 },
-                element td { 
-                    attribute style {'font-weight: bold'},
-                    gsh:territory-id-to-short-name-with-years-valid($territory/id) 
-                }
-            },
-            element tr {
-                element td {
-                    'Short-Form Name'
-                },
-                element td { 
-                    gsh:territory-id-to-short-name($territory/id) 
-                }
-            },
-            element tr {
-                element td {
-                    'Long-Form Name'
-                },
-                element td { 
-                    let $warning := (empty($territory/long-form-name/node()) and not($territory/long-form-name/@type = 'none'))
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a long-form name; if none, please note it') else ()
-                        ,
-                        if ($territory/long-form-name/@type="none") then 
-                            '-' 
-                        else
-                            $territory/long-form-name/string() 
-                        )
-                }
-            },
-            element tr {
-                element td {
-                    'Type of Territory'
-                },
-                element td { 
-                    let $warning := $territory/type-of-territory = ''
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'independent or dependent/special') else ()
-                        ,
-                        gsh:territory-type-id-to-label($territory/type-of-territory)
-                        )
+                element col {
+                    attribute class { 
+                        if ($enable-review-checkboxes) then
+                            "col-md-5"
+                        else 
+                            "col-md-9"
                     }
+                },
+                if ($enable-review-checkboxes) then
+                    element col {
+                        attribute class { "col-md-4" }
+                    }
+                else ()
             },
-            element tr {
-                element td {
-                    'Valid Since'
+            element tbody {
+                element tr {
+                    element td {
+                        'Display Name'
                     },
-                element td { 
-                    let $warning := ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{3,4}(-\d{2})?$')))
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a valid since date') else ()
-                        ,
-                        concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
-                        )
-                }
-            },
-            element tr {
-                element td {
-                    'Valid Until'
+                    element td { 
+                        attribute style {'font-weight: bold'},
+                        gsh:territory-id-to-short-name-with-years-valid($territory/id) 
+                    },
+                    if ($enable-review-checkboxes) then element td {} else ()
                 },
-                element td { 
-                    let $warning := ($territory/valid-until = '' or not(matches($territory/valid-until, '^-?\d{4}(-\d{2})?$'))) 
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a valid until date') else ()
-                        ,
-                        concat(if ($territory/valid-until = '9999') then 'present' else $territory/valid-until, if ($territory/valid-until/@precision) then concat(' (±', $territory/valid-until/@precision, ' yrs)') else ())
-                        )
-                }
-            },
-            element tr {
-                element td {
-                    'Predecessors'
+                element tr {
+                    element td {
+                        'Short-Form Name'
+                    },
+                    element td { 
+                        gsh:territory-id-to-short-name($territory/id)
+                    },
+                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____")) } else ()
                 },
-                element td { 
-                    let $predecessors := $territory/predecessors/predecessor 
-                    let $warning := (empty($predecessors) and $territory/valid-since[. eq '' or xs:integer(.) gt 1776])
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a predecessor') else ()
-                        ,
-                        if ($predecessors) then
-                            if (count($predecessors) gt 1) then
-                                <ol style="padding-left: 1.5em">{
-                                    for $predecessor at $n in $predecessors 
-                                    let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor)
-                                    let $warning := 
-                                        if (gsh:territories($predecessor)/valid-until = '') then 
-                                            gsh:generate-warning($counter-name, 'Expected a valid until date')                                    
-                                        else if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
-                                            gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessor)/valid-until, ', this is not a direct predecessor and should be removed'))
-                                        else 
-                                            ()
-                                    return 
-                                        element li { 
-                                            if ($enable-link-territories) then
-                                                element a { 
-                                                    attribute href { gsh:link-to-territory($predecessor) },
-                                                $display
-                                                }
-                                            else 
-                                                $display
-                                            ,
-                                            $warning
-                                        }
-                                }</ol>
+                element tr {
+                    element td {
+                        'Long-Form Name'
+                    },
+                    element td { 
+                        let $warning := (empty($territory/long-form-name/node()) and not($territory/long-form-name/@type = 'none'))
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'expected a long-form name; if none, please note it') else ()
+                            ,
+                            if ($territory/long-form-name/@type="none") then 
+                                <em>(No long form name)</em>
                             else
-                                let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
-                                let $warning := 
-                                    if (gsh:territories($predecessors)/valid-until = '') then 
-                                            gsh:generate-warning($counter-name, 'Expected valid dates')                                                else if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then
-                                        gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessors)/valid-until, ', this is not a direct predecessor and should be removed'))
-                                    else 
-                                        ()
-                                return
-                                    (
-                                    if ($enable-link-territories) then
-                                        element a { 
-                                            attribute href { gsh:link-to-territory($predecessors) },
-                                            $display
-                                        }
-                                    else 
-                                        $display
-                                    ,
-                                    $warning
-                                    )
-                        else if ($warning) then 
-                            ()
-                        else
-                            '-'
-                        )
-                    }
-            },
-            element tr {
-                element td {
-                    'Successors'
+                                $territory/long-form-name/string()
+                            )
+                    },
+                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____")) } else ()
                 },
-                element td { 
-                    let $successors := $territory/successors/successor 
-                    let $warning := (empty($successors) and $territory/valid-until ne '9999')
-                    return
-                        (
-                        if ($warning) then gsh:generate-warning($counter-name, 'expected a successor') else ()
-                        ,
-                        if ($successors) then
-                            if (count($successors) gt 1) then 
-                                <ol style="padding-left: 1.5em">{
-                                    for $successor at $n in $successors 
-                                    let $display := gsh:territory-id-to-short-name-with-years-valid($successor)
+                element tr {
+                    element td {
+                        'Type of Territory'
+                    },
+                    element td { 
+                        let $warning := $territory/type-of-territory = ''
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'independent or dependent/special') else ()
+                            ,
+                            gsh:territory-type-id-to-label($territory/type-of-territory)
+                            )
+                    },
+                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to " || gsh:territory-type-id-to-label(if ($territory/type-of-territory = 'independent-state') then 'dependency-or-area-of-special-sovereignty' else 'independent-state'))) } else ()
+                },
+                element tr {
+                    element td {
+                        'Valid Since'
+                        },
+                    element td { 
+                        let $warning := ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{3,4}(-\d{2})?$')))
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'expected a valid since date') else ()
+                            ,
+                            concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
+                            )
+                    },
+                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____ (± __ years)")) } else ()
+                },
+                element tr {
+                    element td {
+                        'Valid Until'
+                    },
+                    element td { 
+                        let $warning := ($territory/valid-until = '' or not(matches($territory/valid-until, '^-?\d{4}(-\d{2})?$'))) 
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'expected a valid until date') else ()
+                            ,
+                            concat(if ($territory/valid-until = '9999') then 'present' else $territory/valid-until, if ($territory/valid-until/@precision) then concat(' (±', $territory/valid-until/@precision, ' yrs)') else ())
+                            )
+                    },
+                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____ (± __ years)")) } else ()
+                },
+                element tr {
+                    element td {
+                        'Predecessors'
+                    },
+                    element td { 
+                        let $warning := (empty($predecessors) and $territory/valid-since[. eq '' or xs:integer(.) gt 1776])
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'expected a predecessor') else ()
+                            ,
+                            if ($predecessors) then
+                                if (count($predecessors) gt 1) then
+                                    <ol style="padding-left: 1.5em">{
+                                        for $predecessor at $n in $predecessors 
+                                        let $display := gsh:territory-id-to-short-name-with-years-valid($predecessor)
+                                        let $warning := 
+                                            if (gsh:territories($predecessor)/valid-until = '') then 
+                                                gsh:generate-warning($counter-name, 'Expected a valid until date')                                    
+                                            else if (substring(gsh:territories($predecessor)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then 
+                                                gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessor)/valid-until, ', this is not a direct predecessor and should be removed'))
+                                            else 
+                                                ()
+                                        return 
+                                            element li { 
+                                                if ($enable-link-territories) then
+                                                    element a { 
+                                                        attribute href { gsh:link-to-territory($predecessor) },
+                                                    $display
+                                                    }
+                                                else 
+                                                    $display
+                                                ,
+                                                $warning
+                                            }
+                                    }</ol>
+                                else
+                                    let $display := gsh:territory-id-to-short-name-with-years-valid($predecessors) 
                                     let $warning := 
-                                        if (gsh:territories($successor)/valid-since = '') then 
-                                            gsh:generate-warning($counter-name, 'Expected a valid date')                                    
-                                        else if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
-                                            gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successor)/valid-since, ', this is not a direct successor and should be removed'))
+                                        if (gsh:territories($predecessors)/valid-until = '') then 
+                                                gsh:generate-warning($counter-name, 'Expected valid dates')
+                                        else if (substring(gsh:territories($predecessors)/valid-until, 1, 4) lt substring($territory/valid-since, 1, 4)) then
+                                            gsh:generate-warning($counter-name, concat('Based on valid-until date of ', gsh:territories($predecessors)/valid-until, ', this is not a direct predecessor and should be removed'))
                                         else 
                                             ()
-                                    return 
-                                        element li { 
-                                            if ($enable-link-territories) then
-                                                element a { 
-                                                    attribute href { gsh:link-to-territory($successor) },
-                                                    $display
-                                                }
-                                            else 
+                                    return
+                                        (
+                                        if ($enable-link-territories) then
+                                            element a { 
+                                                attribute href { gsh:link-to-territory($predecessors) },
                                                 $display
+                                            }
+                                        else 
+                                            $display
                                         ,
                                         $warning
-                                        }
-                                }</ol>
+                                        )
+                            else if ($warning) then 
+                                ()
                             else
-                                let $display := gsh:territory-id-to-short-name-with-years-valid($successors)
-                                let $warning := 
-                                    if (gsh:territories($successors)/valid-since = '') then 
-                                        gsh:generate-warning($counter-name, 'Expected a valid date')                                    
-                                    else if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
-                                        gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successors)/valid-since, ', this is not a direct successor and should be removed'))
-                                    else 
-                                        ()
-                                return
+                                '-'
+                            )
+                        },
+                        if ($enable-review-checkboxes) then
+                            element td {
+                                if (count($predecessors) gt 1) then
+                                    element ol {
+                                        $predecessors ! element li { gsh:review-checkbox(("Delete", "Keep with relationship _____")) },
+                                        element li { gsh:review-checkbox("Add _____ with relationship _____") }
+                                    }
+                                else if (count($predecessors) eq 1) then
                                     (
-                                    if ($enable-link-territories) then
-                                        element a { 
-                                            attribute href { gsh:link-to-territory($successors) },
-                                            $display
-                                        }
-                                    else
-                                        $display
-                                    ,
-                                    $warning
+                                        gsh:review-checkbox(("Delete", "Keep with relationship _____")),
+                                        element br { () },
+                                        gsh:review-checkbox("Add predecessor _____ with relationship _____")
                                     )
-                        else if ($warning) then 
-                            ()
-                        else 
-                            '-'
-                        )
-                    }
-            },
-            element tr {
-                element td {
-                    'Notes'
+                                else 
+                                    gsh:review-checkbox("Add predecessor _____ with relationship _____")
+                            }
+                        else ()
                 },
-                element td { 
-                    if ($territory/notes ne '') then $territory/notes/string() else '-' 
-                }
-            },
-            element tr {
-                element td {
-                    'Sources'
-                },
-                element td { 
-                    let $sources := $territory/sources/source 
-                    for $source at $n in $sources
-                    return 
-                        if (starts-with($source, 'http')) then 
-                            let $strip-scheme := substring-after($source, '//')
-                            let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
-                            return
+                element tr {
+                    element td {
+                        'Successors'
+                    },
+                    element td { 
+                        let $warning := (empty($successors) and $territory/valid-until ne '9999')
+                        return
+                            (
+                            if ($warning) then gsh:generate-warning($counter-name, 'expected a successor') else ()
+                            ,
+                            if ($successors) then
+                                if (count($successors) gt 1) then 
+                                    <ol style="padding-left: 1.5em">{
+                                        for $successor at $n in $successors 
+                                        let $display := gsh:territory-id-to-short-name-with-years-valid($successor)
+                                        let $warning := 
+                                            if (gsh:territories($successor)/valid-since = '') then 
+                                                gsh:generate-warning($counter-name, 'Expected a valid date')                                    
+                                            else if (substring(gsh:territories($successor)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                                gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successor)/valid-since, ', this is not a direct successor and should be removed'))
+                                            else 
+                                                ()
+                                        return 
+                                            element li { 
+                                                if ($enable-link-territories) then
+                                                    element a { 
+                                                        attribute href { gsh:link-to-territory($successor) },
+                                                        $display
+                                                    }
+                                                else 
+                                                    $display
+                                            ,
+                                            $warning
+                                            }
+                                    }</ol>
+                                else
+                                    let $display := gsh:territory-id-to-short-name-with-years-valid($successors)
+                                    let $warning := 
+                                        if (gsh:territories($successors)/valid-since = '') then 
+                                            gsh:generate-warning($counter-name, 'Expected a valid date')                                    
+                                        else if (substring(gsh:territories($successors)/valid-since, 1, 4) gt substring($territory/valid-until, 1, 4)) then
+                                            gsh:generate-warning($counter-name, concat('Based on valid-since date of ', gsh:territories($successors)/valid-since, ', this is not a direct successor and should be removed'))
+                                        else 
+                                            ()
+                                    return
+                                        (
+                                        if ($enable-link-territories) then
+                                            element a { 
+                                                attribute href { gsh:link-to-territory($successors) },
+                                                $display
+                                            }
+                                        else
+                                            $display
+                                        ,
+                                        $warning
+                                        )
+                            else if ($warning) then 
+                                ()
+                            else 
+                                '-'
+                            )
+                    },
+                    if ($enable-review-checkboxes) then
+                        element td {
+                            if (count($successors) gt 1) then
+                                element ol {
+                                    $successors ! element li { gsh:review-checkbox(("Delete", "Keep with relationship _____")) },
+                                    element li { gsh:review-checkbox("Add _____ with relationship _____") }
+                                }
+                            else if (count($successors) eq 1) then
                                 (
-                                <a href="{$source}">{(:$strip-www:)$strip-scheme}</a>, 
-                                if ($n lt count($sources)) then <br/> else ()
-                                ) 
-                        else 
-                            $source 
-                    }
-            },
-            element tr {
-                element td {
-                    'ID'
+                                    gsh:review-checkbox(("Delete", "Keep with relationship _____")),
+                                    element br { () },
+                                    gsh:review-checkbox("Add successor _____ with relationship _____")
+                                )
+                            else
+                                gsh:review-checkbox("Add successor _____ with relationship _____")
+                        }
+                    else 
+                        ()
                 },
-                element td { 
-                    attribute id { $territory/id }, 
-                    $territory/id/string() 
+                element tr {
+                    element td {
+                        'Notes'
+                    },
+                    element td { 
+                        if ($territory/notes ne '') then $territory/notes/string() else '-' 
+                    },
+                    if ($enable-review-checkboxes) then 
+                        element td { 
+                            gsh:review-checkbox(("Complete", "Delete", "Change to _____"))
+                        }
+                    else
+                        ()
+                },
+                element tr {
+                    element td {
+                        'Sources'
+                    },
+                    element td { 
+                        if (count($sources) gt 1) then
+                            element ol { $sources ! element li { gsh:format-source(.) } }
+                        else if (count($sources) eq 1) then 
+                            gsh:format-source($sources)
+                        else
+                            <em>(No source provided.)</em>
+                    },
+                    if ($enable-review-checkboxes) then 
+                        element td { 
+                            if (count($sources) gt 1) then
+                                element ol { 
+                                    (1 to count($sources)) ! element li { gsh:review-checkbox(("Valid", "Delete")) },
+                                    element li { gsh:review-checkbox("Add source _____") }
+                                }
+                            else if (count($sources) eq 1) then 
+                                (
+                                    gsh:review-checkbox(("Valid", "Delete")),
+                                    element br { () },
+                                    gsh:review-checkbox("Add source _____")
+                                )
+                            else
+                                gsh:review-checkbox("Add source _____")
+                        }
+                    else
+                        ()
+                },
+                element tr {
+                    element td {
+                        'ID'
+                    },
+                    element td { 
+                        attribute id { $territory/id }, 
+                        $territory/id/string() 
+                    },
+                    if ($enable-review-checkboxes) then element td { () } else ()
                 }
             }
-            )
         }
 };
 

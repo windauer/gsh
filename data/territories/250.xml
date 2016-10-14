@@ -8,7 +8,10 @@
     <valid-since>1776</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor>378</predecessor>
+        <predecessor>475</predecessor>
+    </predecessors>
     <successors/>
     <notes/>
     <sources>

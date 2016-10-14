@@ -3,14 +3,13 @@
     <id>378</id>
     <old-id>hawaii-1948</old-id>
     <short-form-name>Hawai’i</short-form-name>
-    <long-form-name>State of Hawai’i</long-form-name>
+    <long-form-name>Territory of Hawai’i</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1898</valid-since>
     <valid-until>1948</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>396</predecessor>
-        <predecessor>379</predecessor>
     </predecessors>
     <successors>
         <successor>250</successor>

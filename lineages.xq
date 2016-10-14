@@ -68,6 +68,18 @@ declare function local:show-lineage($lineage-id) {
             element section {
                 attribute style { "column-break-inside: avoid" },
                 element h3 { "Overview" },
+                element p { 
+                    "The first column below contains a list of the " || count($all) || " " ||
+                    "countries in the “lineage” of " || 
+                    gsh:territory-id-to-short-name-with-years-valid($lineage/current-territory/territory-id) || 
+                    "—newest to oldest. " || 
+                    "Please review these to ensure they all belong in the lineage. " ||
+                    "The second column contains a list of other countries that " ||
+                    "list these as either a predecessor or successor. " ||
+                    "If any of the entries in the second column belong in the lineage, " || 
+                    "please click on their links, complete the forms, and include " ||
+                    "it in your submission."
+                },
                 element table {
                     attribute class { "table table-bordered" },
                     element colgroup {
@@ -161,22 +173,30 @@ declare function local:show-lineage($lineage-id) {
                                             let $matching-successors := $territory//successor[. = $all/territory-id]
                                             return 
                                                 if ($matching-predecessors or $matching-successors) then
-                                                    ": Lists " ||
-                                                    string-join(
-                                                        (
-                                                            if ($matching-predecessors) then
-                                                                string-join($matching-predecessors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
-                                                                || 
-                                                                " as predecessor"
-                                                            else (),
-                                                            if ($matching-successors) then
-                                                                string-join($matching-successors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
-                                                                || 
-                                                                " as successor"
-                                                            else ()
-                                                        )
-                                                        ,
-                                                        " and "
+                                                    (
+                                                        ": Lists " ||
+                                                        string-join(
+                                                            (
+                                                                if ($matching-predecessors) then
+                                                                    string-join($matching-predecessors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
+                                                                    || 
+                                                                    " as predecessor"
+                                                                else (),
+                                                                if ($matching-successors) then
+                                                                    string-join($matching-successors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
+                                                                    || 
+                                                                    " as successor"
+                                                                else ()
+                                                            )
+                                                            ,
+                                                            " and "
+                                                        ),
+                                                        element br { () },
+                                                        element ul { 
+                                                            element li { 
+                                                                gsh:review-checkbox(("Delete", "Promote to ancestor after #__ with relationship _____"))
+                                                            }
+                                                        }
                                                     )
                                                 else
                                                     ()

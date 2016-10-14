@@ -11555,15 +11555,50 @@
             <territory-id>250</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/250</url>
         </current-territory>
-        <other-mention>
-            <display-name>Republic of Texas (1836–1845)</display-name>
-            <territory-id>475</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/475</url>
-        </other-mention>
-        <other-mention>
+        <predecessor>
             <display-name>Hawai’i (1898–1948)</display-name>
             <territory-id>378</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/378</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Republic of Texas (1836–1845)</display-name>
+            <territory-id>475</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/475</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Hawaii (1826–1898)</display-name>
+            <territory-id>396</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/396</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Mexico (1823–present)</display-name>
+            <territory-id>155</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
+        </predecessor>
+        <predecessor>
+            <display-name>The Mexican Empire (1821–1823)</display-name>
+            <territory-id>424</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/424</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Hawaiian Islands (1778–1826)</display-name>
+            <territory-id>379</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/379</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
+            <territory-id>558</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
+        </predecessor>
+        <other-mention>
+            <display-name>British Honduras (1862–1973)</display-name>
+            <territory-id>293</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
+        </other-mention>
+        <other-mention>
+            <display-name>United Provinces of Central America (1823–1839)</display-name>
+            <territory-id>546</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
         </other-mention>
     </lineage>
     <lineage>

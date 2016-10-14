@@ -492,12 +492,12 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             element td {
                                 if (count($predecessors) gt 1) then
                                     element ol {
-                                        $predecessors ! element li { gsh:review-checkbox(("Delete", "Keep with relationship _____")) },
+                                        $predecessors ! element li { gsh:review-checkbox(("Remove", "Keep with relationship _____")) },
                                         element li { gsh:review-checkbox("Add _____ with relationship _____") }
                                     }
                                 else if (count($predecessors) eq 1) then
                                     (
-                                        gsh:review-checkbox(("Delete", "Keep with relationship _____")),
+                                        gsh:review-checkbox(("Remove", "Keep with relationship _____")),
                                         element br { () },
                                         gsh:review-checkbox("Add predecessor _____ with relationship _____")
                                     )
@@ -572,12 +572,12 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         element td {
                             if (count($successors) gt 1) then
                                 element ol {
-                                    $successors ! element li { gsh:review-checkbox(("Delete", "Keep with relationship _____")) },
+                                    $successors ! element li { gsh:review-checkbox(("Remove", "Keep with relationship _____")) },
                                     element li { gsh:review-checkbox("Add _____ with relationship _____") }
                                 }
                             else if (count($successors) eq 1) then
                                 (
-                                    gsh:review-checkbox(("Delete", "Keep with relationship _____")),
+                                    gsh:review-checkbox(("Remove", "Keep with relationship _____")),
                                     element br { () },
                                     gsh:review-checkbox("Add successor _____ with relationship _____")
                                 )
@@ -617,12 +617,12 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         element td { 
                             if (count($sources) gt 1) then
                                 element ol { 
-                                    (1 to count($sources)) ! element li { gsh:review-checkbox(("Valid", "Delete")) },
+                                    (1 to count($sources)) ! element li { gsh:review-checkbox(("Valid", "Irrelevant", "Inaccessible")) },
                                     element li { gsh:review-checkbox("Add source _____") }
                                 }
                             else if (count($sources) eq 1) then 
                                 (
-                                    gsh:review-checkbox(("Valid", "Delete")),
+                                    gsh:review-checkbox(("Valid", "Irrelevant", "Inaccessible")),
                                     element br { () },
                                     gsh:review-checkbox("Add source _____")
                                 )

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <assignments>
     <assignment>
-        <reviewer>Ahlberg</reviewer>
+        <reviewer>AhlbergKL</reviewer>
         <territories>
             <territory-id>4</territory-id>
             <territory-id>19</territory-id>
@@ -16,7 +16,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Barnum</reviewer>
+        <reviewer>BarnumFSL</reviewer>
         <territories>
             <territory-id>91</territory-id>
             <territory-id>103</territory-id>
@@ -30,7 +30,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Berndt</reviewer>
+        <reviewer>BerndtSE</reviewer>
         <territories>
             <territory-id>10</territory-id>
             <territory-id>11</territory-id>
@@ -45,7 +45,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Burton</reviewer>
+        <reviewer>BurtonMF</reviewer>
         <territories>
             <territory-id>7</territory-id>
             <territory-id>26</territory-id>
@@ -60,7 +60,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Charles</reviewer>
+        <reviewer>CharlesEC</reviewer>
         <territories>
             <territory-id>190</territory-id>
             <territory-id>191</territory-id>
@@ -74,7 +74,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Geyer</reviewer>
+        <reviewer>GeyerDC</reviewer>
         <territories>
             <territory-id>60</territory-id>
             <territory-id>63</territory-id>
@@ -88,7 +88,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Hawley</reviewer>
+        <reviewer>HawleyCV</reviewer>
         <territories>
             <territory-id>160</territory-id>
             <territory-id>166</territory-id>
@@ -103,7 +103,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Kolar</reviewer>
+        <reviewer>KolarL</reviewer>
         <territories>
             <territory-id>86</territory-id>
             <territory-id>89</territory-id>
@@ -118,7 +118,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>McCoyer</reviewer>
+        <reviewer>McCoyerMTM</reviewer>
         <territories>
             <territory-id>148</territory-id>
             <territory-id>152</territory-id>
@@ -133,7 +133,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Munteanu</reviewer>
+        <reviewer>MunteanuMA</reviewer>
         <territories>
             <territory-id>209</territory-id>
             <territory-id>211</territory-id>
@@ -148,7 +148,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Nickles</reviewer>
+        <reviewer>NicklesD</reviewer>
         <territories>
             <territory-id>119</territory-id>
             <territory-id>127</territory-id>
@@ -163,7 +163,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Pitman</reviewer>
+        <reviewer>PitmanPM</reviewer>
         <territories>
             <territory-id>232</territory-id>
             <territory-id>235</territory-id>
@@ -177,7 +177,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Poster</reviewer>
+        <reviewer>PosterAO</reviewer>
         <territories>
             <territory-id>70</territory-id>
             <territory-id>72</territory-id>
@@ -192,7 +192,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Rasmussen</reviewer>
+        <reviewer>RasmussenKB</reviewer>
         <territories>
             <territory-id>42</territory-id>
             <territory-id>44</territory-id>
@@ -207,7 +207,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Rotramel</reviewer>
+        <reviewer>RotramelSA</reviewer>
         <territories>
             <territory-id>140</territory-id>
             <territory-id>141</territory-id>
@@ -221,7 +221,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Rubin</reviewer>
+        <reviewer>RubinDA</reviewer>
         <territories>
             <territory-id>15</territory-id>
             <territory-id>35</territory-id>
@@ -236,7 +236,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Smith</reviewer>
+        <reviewer>SmithNL</reviewer>
         <territories>
             <territory-id>172</territory-id>
             <territory-id>183</territory-id>
@@ -251,7 +251,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Wieland</reviewer>
+        <reviewer>WielandAR</reviewer>
         <territories>
             <territory-id>138</territory-id>
             <territory-id>163</territory-id>
@@ -266,7 +266,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Wilson</reviewer>
+        <reviewer>WilsonJG</reviewer>
         <territories>
             <territory-id>3</territory-id>
             <territory-id>6</territory-id>
@@ -280,13 +280,12 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Woodroofe</reviewer>
+        <reviewer>WoodroofeLP</reviewer>
         <territories>
             <territory-id>54</territory-id>
             <territory-id>55</territory-id>
             <territory-id>53</territory-id>
             <territory-id>59</territory-id>
-            <territory-id>67</territory-id>
             <territory-id>73</territory-id>
             <territory-id>74</territory-id>
             <territory-id>76</territory-id>
@@ -295,7 +294,7 @@
         </territories>
     </assignment>
     <assignment>
-        <reviewer>Zierler</reviewer>
+        <reviewer>ZierlerDB</reviewer>
         <territories>
             <territory-id>1</territory-id>
             <territory-id>21</territory-id>

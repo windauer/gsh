@@ -110,6 +110,7 @@ declare function local:show-all-lineages() {
                 },
                 for $lineage in $lineages
                 let $current-territory := $lineage/current-territory
+                let $all := ($lineage/current-territory, $lineage/predecessor)
                 order by $current-territory/display-name
                 return
                     element tr {
@@ -122,24 +123,22 @@ declare function local:show-all-lineages() {
                             }
                         },
                         element td {
-                            let $all := ($lineage/current-territory, $lineage/predecessor)
-                            return
-                                if (count($all) gt 1) then
-                                    element ol {
-                                        for $t in $all/territory-id
-                                        return
-                                            element li {
-                                                element a {
-                                                    attribute href { $gsh:territories-home || "/" || $t },
-                                                    gsh:territory-id-to-short-name-with-years-valid($t)
-                                                }
+                            if (count($all) gt 1) then
+                                element ol {
+                                    for $t in $all/territory-id
+                                    return
+                                        element li {
+                                            element a {
+                                                attribute href { $gsh:territories-home || "/" || $t },
+                                                gsh:territory-id-to-short-name-with-years-valid($t)
                                             }
-                                    }
-                                else 
-                                    element a {
-                                        attribute href { $gsh:territories-home || "/" || $all/territory-id },
-                                        gsh:territory-id-to-short-name-with-years-valid($all/territory-id)
-                                    }
+                                        }
+                                }
+                            else 
+                                element a {
+                                    attribute href { $gsh:territories-home || "/" || $all/territory-id },
+                                    gsh:territory-id-to-short-name-with-years-valid($all/territory-id)
+                                }
                         },
                         element td {
                             if ($lineage/other-mention) then
@@ -152,7 +151,31 @@ declare function local:show-all-lineages() {
                                                 element a {
                                                     attribute href { $gsh:territories-home || "/" || $o/territory-id },
                                                     gsh:territory-id-to-short-name-with-years-valid($o/territory-id)
-                                                }
+                                                },
+                                                let $territory := gsh:territories($o/territory-id)
+                                                let $matching-predecessors := $territory//predecessor[. = $all/territory-id]
+                                                let $matching-successors := $territory//successor[. = $all/territory-id]
+                                                return 
+                                                    if ($matching-predecessors or $matching-successors) then
+                                                        ": Lists " ||
+                                                        string-join(
+                                                            (
+                                                                if ($matching-predecessors) then
+                                                                    string-join($matching-predecessors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
+                                                                    || 
+                                                                    " as predecessor"
+                                                                else (),
+                                                                if ($matching-successors) then
+                                                                    string-join($matching-successors ! gsh:territory-id-to-short-name-with-years-valid(.), ", ")
+                                                                    || 
+                                                                    " as successor"
+                                                                else ()
+                                                            )
+                                                            ,
+                                                            " and "
+                                                        )
+                                                    else
+                                                        ()
                                             }
                                     }
                                 else 

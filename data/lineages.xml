@@ -1,5 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <lineages>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Afghanistan (1992–present)</display-name>
             <territory-id>1</territory-id>
@@ -22,6 +28,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Akrotiri (1960–present)</display-name>
             <territory-id>2</territory-id>
@@ -44,6 +55,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Albania (1991–present)</display-name>
             <territory-id>3</territory-id>
@@ -181,6 +197,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Algeria (1912–present)</display-name>
             <territory-id>4</territory-id>
@@ -303,6 +324,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>American Samoa (1900–present)</display-name>
             <territory-id>5</territory-id>
@@ -325,6 +351,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Andorra (1278–present)</display-name>
             <territory-id>6</territory-id>
@@ -332,6 +363,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Angola (1914–present)</display-name>
             <territory-id>7</territory-id>
@@ -349,6 +385,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Anguilla (1980–present)</display-name>
             <territory-id>8</territory-id>
@@ -381,6 +422,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Antarctica (1840–present)</display-name>
             <territory-id>9</territory-id>
@@ -388,6 +434,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Antigua and Barbuda (1962–present)</display-name>
             <territory-id>10</territory-id>
@@ -460,6 +511,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Argentina (1861–present)</display-name>
             <territory-id>11</territory-id>
@@ -502,6 +558,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Armenia (1991–present)</display-name>
             <territory-id>12</territory-id>
@@ -774,6 +835,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Aruba (1986–present)</display-name>
             <territory-id>13</territory-id>
@@ -811,6 +877,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ashmore and Cartier Islands (1931–present)</display-name>
             <territory-id>14</territory-id>
@@ -818,6 +889,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Australia (1817–present)</display-name>
             <territory-id>15</territory-id>
@@ -830,6 +906,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Austria (1918–present)</display-name>
             <territory-id>16</territory-id>
@@ -867,6 +948,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Azerbaijan (1991–present)</display-name>
             <territory-id>17</territory-id>
@@ -1139,6 +1225,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bahrain (2002–present)</display-name>
             <territory-id>19</territory-id>
@@ -1171,6 +1262,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Baker Island (1832–present)</display-name>
             <territory-id>20</territory-id>
@@ -1183,6 +1279,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bangladesh (1971–present)</display-name>
             <territory-id>21</territory-id>
@@ -1205,6 +1306,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Barbados (1962–present)</display-name>
             <territory-id>22</territory-id>
@@ -1277,6 +1383,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Belarus (1991–present)</display-name>
             <territory-id>23</territory-id>
@@ -1549,6 +1660,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Belgium (1830–present)</display-name>
             <territory-id>24</territory-id>
@@ -1581,6 +1697,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Belize (1973–present)</display-name>
             <territory-id>25</territory-id>
@@ -1608,6 +1729,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Benin (1990–present)</display-name>
             <territory-id>26</territory-id>
@@ -1625,6 +1751,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bermuda (?–present)</display-name>
             <territory-id>27</territory-id>
@@ -1637,6 +1768,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bhutan (1616–present)</display-name>
             <territory-id>28</territory-id>
@@ -1644,6 +1780,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bolivia (1825–present)</display-name>
             <territory-id>29</territory-id>
@@ -1686,6 +1827,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bosnia and Herzegovina (1991–present)</display-name>
             <territory-id>30</territory-id>
@@ -1738,6 +1884,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Botswana (1966–present)</display-name>
             <territory-id>31</territory-id>
@@ -1755,6 +1906,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bouvet Island (1739–present)</display-name>
             <territory-id>32</territory-id>
@@ -1762,6 +1918,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Brazil (1889–present)</display-name>
             <territory-id>33</territory-id>
@@ -1785,6 +1946,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>British Indian Ocean Territory (1965–present)</display-name>
             <territory-id>34</territory-id>
@@ -1802,6 +1968,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Brunei (1450–present)</display-name>
             <territory-id>35</territory-id>
@@ -1809,6 +1980,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WilsonJG</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Bulgaria (1908–present)</display-name>
             <territory-id>36</territory-id>
@@ -1931,6 +2107,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Burkina Faso (1984–present)</display-name>
             <territory-id>37</territory-id>
@@ -1978,6 +2159,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Burma (1988–present)</display-name>
             <territory-id>38</territory-id>
@@ -2020,6 +2206,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Burundi (1962–present)</display-name>
             <territory-id>39</territory-id>
@@ -2042,6 +2233,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cambodia (1949–present)</display-name>
             <territory-id>40</territory-id>
@@ -2119,6 +2315,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cameroon (1984–present)</display-name>
             <territory-id>41</territory-id>
@@ -2176,6 +2377,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Canada (1867–present)</display-name>
             <territory-id>42</territory-id>
@@ -2208,6 +2414,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cape Verde (1975–present)</display-name>
             <territory-id>43</territory-id>
@@ -2225,6 +2436,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cayman Islands (1530–present)</display-name>
             <territory-id>44</territory-id>
@@ -2232,6 +2448,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Central African Republic (1980–present)</display-name>
             <territory-id>45</territory-id>
@@ -2254,6 +2475,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Chad (1960–present)</display-name>
             <territory-id>46</territory-id>
@@ -2331,6 +2557,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Chile (1810–present)</display-name>
             <territory-id>47</territory-id>
@@ -2348,6 +2579,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>China (1949–present)</display-name>
             <territory-id>48</territory-id>
@@ -2390,6 +2626,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Christmas Island (1643–present)</display-name>
             <territory-id>49</territory-id>
@@ -2397,6 +2638,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Clipperton Island (1704–present)</display-name>
             <territory-id>50</territory-id>
@@ -2409,6 +2655,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cocos (Keeling) Islands (1609–present)</display-name>
             <territory-id>51</territory-id>
@@ -2416,6 +2667,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Colombia (1866–present)</display-name>
             <territory-id>52</territory-id>
@@ -2468,6 +2724,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Comoros (1975–present)</display-name>
             <territory-id>53</territory-id>
@@ -2475,6 +2736,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Congo (Brazzaville) (1960–present)</display-name>
             <territory-id>54</territory-id>
@@ -2552,6 +2818,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Congo (Kinshasa) (1960–present)</display-name>
             <territory-id>55</territory-id>
@@ -2579,6 +2850,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cook Islands (1777–present)</display-name>
             <territory-id>56</territory-id>
@@ -2591,6 +2867,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Coral Sea Islands (1969–present)</display-name>
             <territory-id>57</territory-id>
@@ -2598,6 +2879,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Costa Rica (1839–present)</display-name>
             <territory-id>58</territory-id>
@@ -2650,6 +2936,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Croatia (1991–present)</display-name>
             <territory-id>60</territory-id>
@@ -2702,6 +2993,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cuba (1492–present)</display-name>
             <territory-id>61</territory-id>
@@ -2709,6 +3005,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Curaçao (2010–present)</display-name>
             <territory-id>62</territory-id>
@@ -2746,6 +3047,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Cyprus (1960–present)</display-name>
             <territory-id>63</territory-id>
@@ -2768,6 +3074,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Czech Republic (1993–present)</display-name>
             <territory-id>64</territory-id>
@@ -2815,6 +3126,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Côte d’Ivoire (1986–present)</display-name>
             <territory-id>59</territory-id>
@@ -2832,6 +3148,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Denmark (1361–present)</display-name>
             <territory-id>65</territory-id>
@@ -2839,6 +3160,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Dhekelia (1960–present)</display-name>
             <territory-id>66</territory-id>
@@ -2861,6 +3187,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Djibouti (1977–present)</display-name>
             <territory-id>67</territory-id>
@@ -2878,6 +3209,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Dominica (1962–present)</display-name>
             <territory-id>68</territory-id>
@@ -2950,6 +3286,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Dominican Republic (1844–present)</display-name>
             <territory-id>69</territory-id>
@@ -2962,6 +3303,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ecuador (1830–present)</display-name>
             <territory-id>70</territory-id>
@@ -2999,6 +3345,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Egypt (1971–present)</display-name>
             <territory-id>71</territory-id>
@@ -3136,6 +3487,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>El Salvador (1839–present)</display-name>
             <territory-id>72</territory-id>
@@ -3188,6 +3544,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Equatorial Guinea (1968–present)</display-name>
             <territory-id>73</territory-id>
@@ -3200,6 +3561,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Eritrea (1993–present)</display-name>
             <territory-id>74</territory-id>
@@ -3237,6 +3603,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
@@ -3509,6 +3880,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ethiopia (1974–present)</display-name>
             <territory-id>76</territory-id>
@@ -3541,6 +3917,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Falkland Islands (Islas Malvinas) (1690–present)</display-name>
             <territory-id>77</territory-id>
@@ -3568,6 +3949,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Faroe Islands (1225–present)</display-name>
             <territory-id>78</territory-id>
@@ -3575,6 +3961,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Fiji (1970–present)</display-name>
             <territory-id>79</territory-id>
@@ -3592,6 +3983,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Finland (1917–present)</display-name>
             <territory-id>80</territory-id>
@@ -3654,6 +4050,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>France (?–present)</display-name>
             <territory-id>81</territory-id>
@@ -3661,6 +4062,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>French Guiana (1667–present)</display-name>
             <territory-id>82</territory-id>
@@ -3668,6 +4074,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>French Polynesia (1946–present)</display-name>
             <territory-id>83</territory-id>
@@ -3680,6 +4091,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>French Southern and Antarctic Lands (1955–present)</display-name>
             <territory-id>84</territory-id>
@@ -3687,6 +4103,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Gabon (1960–present)</display-name>
             <territory-id>85</territory-id>
@@ -3769,6 +4190,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Georgia (1991–present)</display-name>
             <territory-id>87</territory-id>
@@ -4041,6 +4467,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>GeyerDC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Germany (1990–present)</display-name>
             <territory-id>88</territory-id>
@@ -4093,6 +4524,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ghana (1957–present)</display-name>
             <territory-id>89</territory-id>
@@ -4110,6 +4546,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Gibraltar (711–present)</display-name>
             <territory-id>90</territory-id>
@@ -4117,6 +4558,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Greece (1973–present)</display-name>
             <territory-id>91</territory-id>
@@ -4254,6 +4700,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Greenland (985–present)</display-name>
             <territory-id>92</territory-id>
@@ -4261,6 +4712,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Grenada (1962–present)</display-name>
             <territory-id>93</territory-id>
@@ -4333,6 +4789,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guadeloupe (1493–present)</display-name>
             <territory-id>94</territory-id>
@@ -4345,6 +4806,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guam (1521–present)</display-name>
             <territory-id>95</territory-id>
@@ -4352,6 +4818,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guatemala (1839–present)</display-name>
             <territory-id>96</territory-id>
@@ -4404,6 +4875,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guernsey (1066–present)</display-name>
             <territory-id>97</territory-id>
@@ -4411,6 +4887,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guinea (1958–present)</display-name>
             <territory-id>98</territory-id>
@@ -4423,6 +4904,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guinea-Bissau (1974–present)</display-name>
             <territory-id>99</territory-id>
@@ -4445,6 +4931,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Guyana (1966–present)</display-name>
             <territory-id>100</territory-id>
@@ -4457,6 +4948,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Haiti (1804–present)</display-name>
             <territory-id>101</territory-id>
@@ -4469,6 +4965,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Heard Island and McDonald Islands (1947–present)</display-name>
             <territory-id>102</territory-id>
@@ -4476,6 +4977,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Holy See (1929–present)</display-name>
             <territory-id>103</territory-id>
@@ -4493,6 +4999,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Honduras (1838–present)</display-name>
             <territory-id>104</territory-id>
@@ -4545,6 +5056,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Hong Kong (1997–present)</display-name>
             <territory-id>105</territory-id>
@@ -4582,6 +5098,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Howland Island (1842–present)</display-name>
             <territory-id>106</territory-id>
@@ -4594,6 +5115,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Hungary (1918–present)</display-name>
             <territory-id>107</territory-id>
@@ -4631,6 +5157,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Iceland (1944–present)</display-name>
             <territory-id>108</territory-id>
@@ -4638,6 +5169,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>India (1947–present)</display-name>
             <territory-id>109</territory-id>
@@ -4655,6 +5191,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Indonesia (1945–present)</display-name>
             <territory-id>110</territory-id>
@@ -4672,6 +5213,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Iran (1935–present)</display-name>
             <territory-id>111</territory-id>
@@ -4699,6 +5245,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Iraq (1958–present)</display-name>
             <territory-id>112</territory-id>
@@ -4846,6 +5397,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ireland (1921–present)</display-name>
             <territory-id>113</territory-id>
@@ -4858,6 +5414,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Isle of Man (1765–present)</display-name>
             <territory-id>114</territory-id>
@@ -4865,6 +5426,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Israel (1948–present)</display-name>
             <territory-id>115</territory-id>
@@ -4987,6 +5553,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Italy (1946–present)</display-name>
             <territory-id>116</territory-id>
@@ -5014,6 +5585,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Jamaica (1962–present)</display-name>
             <territory-id>117</territory-id>
@@ -5091,6 +5667,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Jan Mayen (1614–present)</display-name>
             <territory-id>118</territory-id>
@@ -5098,6 +5679,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Japan (1603–present)</display-name>
             <territory-id>119</territory-id>
@@ -5115,6 +5701,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Jarvis Island (1821–present)</display-name>
             <territory-id>120</territory-id>
@@ -5127,6 +5718,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Jersey (1106–present)</display-name>
             <territory-id>121</territory-id>
@@ -5134,6 +5730,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Johnston Atoll (1807–present)</display-name>
             <territory-id>122</territory-id>
@@ -5141,6 +5742,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Jordan (1958–present)</display-name>
             <territory-id>123</territory-id>
@@ -5288,6 +5894,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kazakhstan (1991–present)</display-name>
             <territory-id>124</territory-id>
@@ -5560,6 +6171,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kenya (1963–present)</display-name>
             <territory-id>125</territory-id>
@@ -5632,6 +6248,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kingman Reef (1853–present)</display-name>
             <territory-id>126</territory-id>
@@ -5639,6 +6260,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kiribati (1979–present)</display-name>
             <territory-id>127</territory-id>
@@ -5656,6 +6282,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kosovo (2008–present)</display-name>
             <territory-id>130</territory-id>
@@ -5728,6 +6359,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kuwait (1756–present)</display-name>
             <territory-id>131</territory-id>
@@ -5740,6 +6376,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Kyrgyzstan (1991–present)</display-name>
             <territory-id>132</territory-id>
@@ -6017,6 +6658,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Laos (1950–present)</display-name>
             <territory-id>133</territory-id>
@@ -6114,6 +6760,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Latvia (1991–present)</display-name>
             <territory-id>134</territory-id>
@@ -6386,6 +7037,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Lebanon (1943–present)</display-name>
             <territory-id>135</territory-id>
@@ -6513,6 +7169,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Lesotho (1966–present)</display-name>
             <territory-id>136</territory-id>
@@ -6525,6 +7186,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Liberia (1824–present)</display-name>
             <territory-id>137</territory-id>
@@ -6532,6 +7198,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Libya (1951–present)</display-name>
             <territory-id>138</territory-id>
@@ -6654,6 +7325,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Liechtenstein (1719–present)</display-name>
             <territory-id>139</territory-id>
@@ -6661,6 +7337,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Lithuania (1991–present)</display-name>
             <territory-id>140</territory-id>
@@ -6933,6 +7614,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Luxembourg (963–present)</display-name>
             <territory-id>141</territory-id>
@@ -6940,6 +7626,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Macau (1553–present)</display-name>
             <territory-id>142</territory-id>
@@ -6977,6 +7668,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Macedonia (1991–present)</display-name>
             <territory-id>143</territory-id>
@@ -7029,6 +7725,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Madagascar (1992–present)</display-name>
             <territory-id>144</territory-id>
@@ -7071,6 +7772,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Malawi (1964–present)</display-name>
             <territory-id>145</territory-id>
@@ -7093,6 +7799,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Malaysia (1963–present)</display-name>
             <territory-id>146</territory-id>
@@ -7110,6 +7821,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Maldives (1965–present)</display-name>
             <territory-id>147</territory-id>
@@ -7122,6 +7838,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mali (1960–present)</display-name>
             <territory-id>148</territory-id>
@@ -7184,6 +7905,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Malta (-0800–present)</display-name>
             <territory-id>149</territory-id>
@@ -7191,6 +7917,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Marshall Islands (1986–present)</display-name>
             <territory-id>150</territory-id>
@@ -7228,6 +7959,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Martinique (1502–present)</display-name>
             <territory-id>151</territory-id>
@@ -7235,6 +7971,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mauritania (1960–present)</display-name>
             <territory-id>152</territory-id>
@@ -7317,6 +8058,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mauritius (1968–present)</display-name>
             <territory-id>153</territory-id>
@@ -7334,6 +8080,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mayotte (1843–present)</display-name>
             <territory-id>154</territory-id>
@@ -7371,6 +8122,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mexico (1823–present)</display-name>
             <territory-id>155</territory-id>
@@ -7403,6 +8159,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Micronesia, Federated States of (1986–present)</display-name>
             <territory-id>156</territory-id>
@@ -7435,6 +8196,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Midway Islands (1867–present)</display-name>
             <territory-id>157</territory-id>
@@ -7452,6 +8218,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Moldova (1991–present)</display-name>
             <territory-id>158</territory-id>
@@ -7724,6 +8495,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Monaco (1419–present)</display-name>
             <territory-id>159</territory-id>
@@ -7731,6 +8507,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mongolia (1921–present)</display-name>
             <territory-id>160</territory-id>
@@ -7743,6 +8524,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Montenegro (2006–present)</display-name>
             <territory-id>161</territory-id>
@@ -7810,6 +8596,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Montserrat (1493–present)</display-name>
             <territory-id>162</territory-id>
@@ -7817,6 +8608,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Morocco (1956–present)</display-name>
             <territory-id>163</territory-id>
@@ -7824,6 +8620,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Mozambique (1975–present)</display-name>
             <territory-id>164</territory-id>
@@ -7836,6 +8637,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Namibia (1990–present)</display-name>
             <territory-id>165</territory-id>
@@ -7853,6 +8659,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Nauru (1968–present)</display-name>
             <territory-id>166</territory-id>
@@ -7865,6 +8676,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Navassa Island (1504–present)</display-name>
             <territory-id>167</territory-id>
@@ -7872,6 +8688,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Nepal (1768–present)</display-name>
             <territory-id>168</territory-id>
@@ -7879,6 +8700,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Netherlands (1815–present)</display-name>
             <territory-id>169</territory-id>
@@ -7911,6 +8737,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>New Caledonia (1774–present)</display-name>
             <territory-id>170</territory-id>
@@ -7918,6 +8749,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>New Zealand (1907–present)</display-name>
             <territory-id>171</territory-id>
@@ -7930,6 +8766,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Nicaragua (1838–present)</display-name>
             <territory-id>172</territory-id>
@@ -7982,6 +8823,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Niger (1960–present)</display-name>
             <territory-id>173</territory-id>
@@ -7994,6 +8840,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Nigeria (1960–present)</display-name>
             <territory-id>174</territory-id>
@@ -8051,6 +8902,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Niue (1774–present)</display-name>
             <territory-id>175</territory-id>
@@ -8063,6 +8919,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Norfolk Island (1774–present)</display-name>
             <territory-id>176</territory-id>
@@ -8070,6 +8931,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>North Korea (1948–present)</display-name>
             <territory-id>128</territory-id>
@@ -8097,6 +8963,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Northern Mariana Islands (1986–present)</display-name>
             <territory-id>177</territory-id>
@@ -8169,6 +9040,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RotramelSA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Norway (1905–present)</display-name>
             <territory-id>178</territory-id>
@@ -8186,6 +9062,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Oman (1970–present)</display-name>
             <territory-id>179</territory-id>
@@ -8233,6 +9114,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>ZierlerDB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Pakistan (1947–present)</display-name>
             <territory-id>180</territory-id>
@@ -8245,6 +9131,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Palau (1994–present)</display-name>
             <territory-id>181</territory-id>
@@ -8277,6 +9168,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Palmyra Atoll (?–present)</display-name>
             <territory-id>182</territory-id>
@@ -8289,6 +9185,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Panama (1903–present)</display-name>
             <territory-id>183</territory-id>
@@ -8341,6 +9242,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Papua New Guinea (1975–present)</display-name>
             <territory-id>184</territory-id>
@@ -8353,6 +9259,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Paracel Islands (?–present)</display-name>
             <territory-id>185</territory-id>
@@ -8360,6 +9271,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Paraguay (1811–present)</display-name>
             <territory-id>186</territory-id>
@@ -8402,6 +9318,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Peru (1821–present)</display-name>
             <territory-id>187</territory-id>
@@ -8419,6 +9340,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Philippines (1946–present)</display-name>
             <territory-id>188</territory-id>
@@ -8431,6 +9357,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Pitcairn Islands (1767–present)</display-name>
             <territory-id>189</territory-id>
@@ -8438,6 +9369,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Poland (1918–present)</display-name>
             <territory-id>190</territory-id>
@@ -8485,6 +9421,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Portugal (1143–present)</display-name>
             <territory-id>191</territory-id>
@@ -8497,6 +9438,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Puerto Rico (1521–present)</display-name>
             <territory-id>192</territory-id>
@@ -8504,6 +9450,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Qatar (1971–present)</display-name>
             <territory-id>193</territory-id>
@@ -8626,6 +9577,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Reunion (1848–present)</display-name>
             <territory-id>194</territory-id>
@@ -8643,6 +9599,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Romania (1862–present)</display-name>
             <territory-id>195</territory-id>
@@ -8660,6 +9621,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Russia (1991–present)</display-name>
             <territory-id>196</territory-id>
@@ -8932,6 +9898,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Rwanda (1962–present)</display-name>
             <territory-id>197</territory-id>
@@ -8954,6 +9925,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Barthelemy (1493–present)</display-name>
             <territory-id>198</territory-id>
@@ -8961,6 +9937,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Helena, Ascension, and Tristan da Cunha
                 (1506–present)</display-name>
@@ -8969,6 +9950,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Kitts and Nevis (1988–present)</display-name>
             <territory-id>200</territory-id>
@@ -9001,6 +9987,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Lucia (1962–present)</display-name>
             <territory-id>201</territory-id>
@@ -9073,6 +10064,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Martin (2007–present)</display-name>
             <territory-id>202</territory-id>
@@ -9085,6 +10081,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Pierre and Miquelon (1604–present)</display-name>
             <territory-id>203</territory-id>
@@ -9092,6 +10093,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saint Vincent and the Grenadines (1979–present)</display-name>
             <territory-id>204</territory-id>
@@ -9164,6 +10170,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Samoa (1997–present)</display-name>
             <territory-id>205</territory-id>
@@ -9186,6 +10197,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>San Marino (301–present)</display-name>
             <territory-id>206</territory-id>
@@ -9193,6 +10209,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sao Tome and Principe (1975–present)</display-name>
             <territory-id>207</territory-id>
@@ -9205,6 +10226,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Saudi Arabia (1932–present)</display-name>
             <territory-id>208</territory-id>
@@ -9327,6 +10353,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Senegal (1989–present)</display-name>
             <territory-id>209</territory-id>
@@ -9409,6 +10440,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Serbia (2006–present)</display-name>
             <territory-id>210</territory-id>
@@ -9481,6 +10517,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Seychelles (1976–present)</display-name>
             <territory-id>211</territory-id>
@@ -9498,6 +10539,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sierra Leone (1961–present)</display-name>
             <territory-id>212</territory-id>
@@ -9510,6 +10556,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Singapore (1965–present)</display-name>
             <territory-id>213</territory-id>
@@ -9527,6 +10578,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sint Maarten (2010–present)</display-name>
             <territory-id>214</territory-id>
@@ -9564,6 +10620,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Slovakia (1993–present)</display-name>
             <territory-id>215</territory-id>
@@ -9611,6 +10672,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Slovenia (1991–present)</display-name>
             <territory-id>216</territory-id>
@@ -9663,6 +10729,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Solomon Islands (1975–present)</display-name>
             <territory-id>217</territory-id>
@@ -9680,6 +10751,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Somalia (2008–present)</display-name>
             <territory-id>218</territory-id>
@@ -9707,6 +10783,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>South Africa (1961–present)</display-name>
             <territory-id>219</territory-id>
@@ -9769,6 +10850,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>South Georgia and the South Sandwich Islands (1985–present)</display-name>
             <territory-id>220</territory-id>
@@ -9791,6 +10877,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>South Korea (1948–present)</display-name>
             <territory-id>129</territory-id>
@@ -9818,6 +10909,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>South Sudan (2011–present)</display-name>
             <territory-id>221</territory-id>
@@ -9845,6 +10941,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>CharlesEC</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Spain (1492–present)</display-name>
             <territory-id>222</territory-id>
@@ -9857,6 +10958,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Spratly Islands (1843–present)</display-name>
             <territory-id>223</territory-id>
@@ -9864,6 +10970,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sri Lanka (1972–present)</display-name>
             <territory-id>224</territory-id>
@@ -9881,6 +10992,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sudan (1956–present)</display-name>
             <territory-id>225</territory-id>
@@ -9908,6 +11024,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Suriname (1975–present)</display-name>
             <territory-id>226</territory-id>
@@ -9925,6 +11046,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Svalbard (1925–present)</display-name>
             <territory-id>227</territory-id>
@@ -9937,6 +11063,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Swaziland (1968–present)</display-name>
             <territory-id>228</territory-id>
@@ -9999,6 +11130,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>AhlbergKL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Sweden (1523–present)</display-name>
             <territory-id>229</territory-id>
@@ -10016,6 +11152,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Switzerland (1291–present)</display-name>
             <territory-id>230</territory-id>
@@ -10023,6 +11164,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Syria (1961–present)</display-name>
             <territory-id>231</territory-id>
@@ -10160,6 +11306,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Taiwan (1949–present)</display-name>
             <territory-id>232</territory-id>
@@ -10202,6 +11353,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tajikistan (1991–present)</display-name>
             <territory-id>233</territory-id>
@@ -10474,6 +11630,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tanzania (1964–present)</display-name>
             <territory-id>234</territory-id>
@@ -10546,6 +11707,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Thailand (1939–present)</display-name>
             <territory-id>235</territory-id>
@@ -10583,6 +11749,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>The Bahamas (1492–present)</display-name>
             <territory-id>18</territory-id>
@@ -10590,6 +11761,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>The Gambia (1965–present)</display-name>
             <territory-id>86</territory-id>
@@ -10662,6 +11838,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Timor-Leste (2002–present)</display-name>
             <territory-id>236</territory-id>
@@ -10679,6 +11860,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>McCoyerMTM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Togo (1960–present)</display-name>
             <territory-id>237</territory-id>
@@ -10696,6 +11882,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tokelau (1976–present)</display-name>
             <territory-id>238</territory-id>
@@ -10713,6 +11904,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tonga (1970–present)</display-name>
             <territory-id>239</territory-id>
@@ -10725,6 +11921,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PosterAO</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Trinidad and Tobago (1962–present)</display-name>
             <territory-id>240</territory-id>
@@ -10747,6 +11948,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tunisia (1956–present)</display-name>
             <territory-id>241</territory-id>
@@ -10754,6 +11960,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BurtonMF</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Turkey (1923–present)</display-name>
             <territory-id>242</territory-id>
@@ -10876,6 +12087,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>NicklesD</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Turkmenistan (1991–present)</display-name>
             <territory-id>243</territory-id>
@@ -11148,6 +12364,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Turks and Caicos Islands (?–present)</display-name>
             <territory-id>244</territory-id>
@@ -11155,6 +12376,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Tuvalu (1978–present)</display-name>
             <territory-id>245</territory-id>
@@ -11172,6 +12398,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>MunteanuMA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Uganda (1962–present)</display-name>
             <territory-id>246</territory-id>
@@ -11244,6 +12475,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WoodroofeLP</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Ukraine (1991–present)</display-name>
             <territory-id>247</territory-id>
@@ -11516,6 +12752,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>United Arab Emirates (1971–present)</display-name>
             <territory-id>248</territory-id>
@@ -11533,6 +12774,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>KolarL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>United Kingdom (1927–present)</display-name>
             <territory-id>249</territory-id>
@@ -11550,6 +12796,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>reviewed</status>
+            <reviewer>WicentowskiJC</reviewer>
+            <reviewed-date>2010-10-14</reviewed-date>
+        </review>
         <current-territory>
             <display-name>United States (1776–present)</display-name>
             <territory-id>250</territory-id>
@@ -11571,37 +12822,17 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/396</url>
         </predecessor>
         <predecessor>
-            <display-name>Mexico (1823–present)</display-name>
-            <territory-id>155</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
-        </predecessor>
-        <predecessor>
-            <display-name>The Mexican Empire (1821–1823)</display-name>
-            <territory-id>424</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/424</url>
-        </predecessor>
-        <predecessor>
             <display-name>Hawaiian Islands (1778–1826)</display-name>
             <territory-id>379</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/379</url>
         </predecessor>
-        <predecessor>
-            <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
-            <territory-id>558</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
-        </predecessor>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Provinces of Central America (1823–1839)</display-name>
-            <territory-id>546</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
-        </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>SmithNL</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Uruguay (1828–present)</display-name>
             <territory-id>251</territory-id>
@@ -11644,6 +12875,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>HawleyCV</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Uzbekistan (1991–present)</display-name>
             <territory-id>252</territory-id>
@@ -11916,6 +13152,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Vanuatu (1980–present)</display-name>
             <territory-id>253</territory-id>
@@ -11928,6 +13169,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RubinDA</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Venezuela (1830–present)</display-name>
             <territory-id>254</territory-id>
@@ -11965,6 +13211,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>PitmanPM</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Vietnam (1976–present)</display-name>
             <territory-id>255</territory-id>
@@ -12057,6 +13308,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Virgin Islands, British (1956–present)</display-name>
             <territory-id>256</territory-id>
@@ -12089,6 +13345,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Virgin Islands, U.S. (1917–present)</display-name>
             <territory-id>257</territory-id>
@@ -12101,6 +13362,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Wake Island (1796–present)</display-name>
             <territory-id>258</territory-id>
@@ -12108,6 +13374,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Wallis and Futuna (1888–present)</display-name>
             <territory-id>259</territory-id>
@@ -12115,6 +13386,11 @@
         </current-territory>
     </lineage>
     <lineage>
+        <review>
+            <status>unassigned</status>
+            <reviewer/>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Western Sahara (1976–present)</display-name>
             <territory-id>260</territory-id>
@@ -12137,6 +13413,11 @@
         </predecessor>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>WielandAR</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Yemen (1990–present)</display-name>
             <territory-id>261</territory-id>
@@ -12264,6 +13545,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>BerndtSE</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Zambia (1964–present)</display-name>
             <territory-id>262</territory-id>
@@ -12291,6 +13577,11 @@
         </other-mention>
     </lineage>
     <lineage>
+        <review>
+            <status>unreviewed</status>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date/>
+        </review>
         <current-territory>
             <display-name>Zimbabwe (1980–present)</display-name>
             <territory-id>263</territory-id>

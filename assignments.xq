@@ -31,14 +31,36 @@ declare function local:assignments-landing-page() {
                                 return
                                     element li {
                                         element a {
-                                            attribute href { $gsh:territories-home || "?mentions=" || $territory-id },
+                                            attribute href { $gsh:app-home || "/lineages.xq?lineage-id=" || $territory-id },
                                             gsh:territory-id-to-short-name-with-years-valid($territory-id)
                                         }
                                     }
                             }
                         }
                     }
-            }
+            },
+            let $assigned-territories := doc('/db/apps/gsh/data/assignments.xml')//territory-id
+            (: assignments are for current territories; 
+                old territories should all be captured by these as predecessors/other-mentions, 
+                as tested via import/check-for-territories-missing-from-lineages.xq :)
+            let $all-territories-needing-assignments := collection('/db/apps/gsh/data/territories')/territory[exists-on-todays-map eq 'true']
+            let $unassigned-territories := $all-territories-needing-assignments[not(id = $assigned-territories)]
+            return
+                element div {
+                    element h3 { "Unassigned Territories" },
+                    element ol {
+                        for $t in $unassigned-territories
+                        let $territory-id := $t/id
+                        order by $t/short-form-name
+                        return
+                            element li {
+                                element a {
+                                    attribute href { $gsh:app-home || "/lineages.xq?lineage-id=" || $territory-id },
+                                    gsh:territory-id-to-short-name-with-years-valid($territory-id)
+                                }
+                            }
+                    }
+                }
         }
     return
         gsh:wrap-html($content, $title)

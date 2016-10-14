@@ -347,7 +347,14 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                     element td { 
                         gsh:territory-id-to-short-name($territory/id)
                     },
-                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____")) } else ()
+                    if ($enable-review-checkboxes) then 
+                        element td { 
+                            gsh:review-checkbox(("Correct", "Change to _____")),
+                            element br { () },
+                            gsh:review-checkbox(("Add name variant _____ for years __–__"))
+                        } 
+                    else 
+                        ()
                 },
                 element tr {
                     element td {
@@ -365,7 +372,14 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                 $territory/long-form-name/string()
                             )
                     },
-                    if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____")) } else ()
+                    if ($enable-review-checkboxes) then 
+                        element td { 
+                            gsh:review-checkbox(("Correct", "Change to _____")),
+                            element br { () },
+                            gsh:review-checkbox(("Add name variant _____ for years __–__"))
+                        } 
+                    else 
+                        ()
                 },
                 element tr {
                     element td {
@@ -582,7 +596,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                     },
                     if ($enable-review-checkboxes) then 
                         element td { 
-                            gsh:review-checkbox(("Complete", "Delete", "Change to _____"))
+                            gsh:review-checkbox(("Correct", "Change to _____"))
                         }
                     else
                         ()

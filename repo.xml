@@ -37,5 +37,11 @@
                 <li>Deduplicate locale ids</li>
             </ul>
         </change>
+        <change xmlns:repo="http://exist-db.org/xquery/repo" version="0.5.0">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Change territory ids to numeric form</li>
+                <li>Prepare for review of territories</li>
+            </ul>
+        </change>
     </changelog>
 </meta>

@@ -9,7 +9,7 @@ import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistor
 import module namespace th="http://history.state.gov/ns/xquery/territories-html" at "/db/apps/gsh/modules/territories-html.xqm";
 
 declare function local:lineages-landing-page() {
-    let $lineages := doc('/db/apps/gsh/data/lineages.xml')//lineage
+    let $lineages := collection('/db/apps/gsh/data/lineages')//lineage
     let $content := 
         element div {
             element p { count($lineages) || " lineages ", element a { attribute href { "?show-all=true" }, "(Show full table.)" }},
@@ -31,7 +31,7 @@ declare function local:lineages-landing-page() {
 };
 
 declare function local:show-lineage($lineage-id) {
-    let $lineage :=  doc('/db/apps/gsh/data/lineages.xml')//lineage[current-territory/territory-id = $lineage-id]
+    let $lineage :=  collection('/db/apps/gsh/data/lineages')//lineage[current-territory/territory-id = $lineage-id]
     let $current-territory := $lineage/current-territory
     let $all := ($lineage/current-territory, $lineage/predecessor)
     let $content := 
@@ -224,7 +224,7 @@ declare function local:show-lineage($lineage-id) {
 };
 
 declare function local:show-all-lineages() {
-    let $lineages :=  doc('/db/apps/gsh/data/lineages.xml')//lineage
+    let $lineages :=  collection('/db/apps/gsh/data/lineages')//lineage
     let $content := 
         element div {
             element p { count($lineages) || " lineages ", element a { attribute href { "?" }, "(Just show a list.)" }},

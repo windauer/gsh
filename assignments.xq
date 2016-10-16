@@ -10,9 +10,10 @@ import module namespace gsh="http://history.state.gov/ns/xquery/geospatialhistor
 declare function local:assignments-landing-page() {
     let $title := 'Assignments'
 (:    let $breadcrumbs := th:landing-page-breadcrumbs():)
-    let $lineages := doc('/db/apps/gsh/data/lineages.xml')//lineage
-    let $assignments := doc('/db/apps/gsh/data/assignments.xml')//assignment
-    let $unassigned-lineages := $lineages[not(current-territory/territory-id = $assignments//territory-id)]
+    let $lineages := collection('/db/apps/gsh/data/lineages')//lineage
+    let $assignments := collection('/db/apps/gsh/data/assignments')//assignment
+    let $assigned-territory-ids := $assignments//territory-id
+    let $unassigned-lineages := collection('/db/apps/gsh/data/lineages')//lineage[current-territory/territory-id != $assigned-territory-ids]
     let $content := 
         element div {
 (:            gsh:breadcrumbs($breadcrumbs),:)
@@ -31,7 +32,7 @@ declare function local:assignments-landing-page() {
                         element td {
                             element ol {
                                 for $territory-id in $territory-ids
-                                let $lineage := $lineages[current-territory/territory-id = $territory-id] 
+                                let $lineage := collection('/db/apps/gsh/data/lineages')//lineage[current-territory/territory-id = $territory-id] 
                                 let $predecessors := $lineage/predecessor
                                 let $other-mentions := $lineage/other-mention
                                 return
@@ -97,12 +98,12 @@ declare function local:assignments-landing-page() {
                         }
                 }
             },
-            let $all-territories := collection('/db/apps/gsh/data/territories')/territory
-            let $assigned-territories := doc('/db/apps/gsh/data/lineages.xml')//territory-id
+            let $assigned-territory-ids := distinct-values(collection('/db/apps/gsh/data/lineages')//territory-id)
             (: assignments are for current territories; 
                 old territories should all be captured by these as predecessors/other-mentions, 
                 as tested via import/check-for-territories-missing-from-lineages.xq :)
-            let $unassigned-territories := $all-territories[not(id = $assigned-territories)]
+            let $assigned-territories := gsh:territories($assigned-territory-ids)
+            let $unassigned-territories := $gsh:territories/territory except $assigned-territories
             return
                 element div {
                     element h3 { "Territories Not Part of any Lineage" },

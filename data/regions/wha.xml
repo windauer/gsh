@@ -2,7 +2,7 @@
 <region>
     <id>wha</id>
     <label>Western Hemisphere</label>
-    <description>Region covered by the Bureau of Western Hemisphere Affairs, spanning Latin America, the Carribean, Canada</description>
+    <description>Region covered by the Bureau of Western Hemisphere Affairs, spanning Latin America, the Caribbean, Canada</description>
     <valid-since/>
     <valid-until>9999</valid-until>
     <territory-id>10</territory-id>

@@ -17,12 +17,12 @@ let $content :=
             <li><a href="{$gsh:posts-home}">Posts</a></li>
             <li><a href="{$gsh:regions-home}">Regions</a></li>
             <li><a href="{$gsh:territories-home}">Territories</a></li>
-            <li><a href="{$gsh:app-home}/lineages.xq">Lineages</a></li>
-            <li><a href="{$gsh:app-home}/resources">Resources</a></li>
+            <li><a href="{$gsh:lineages-home}">Lineages</a></li>
+            <li><a href="{$gsh:resources-home}/resources">Resources</a></li>
         </ul>
         <p>Links for the Country Names Review project</p>
         <ul>
-            <li><a href="{$gsh:app-home}/assignments.xq">Assignments</a></li>
+            <li><a href="{$gsh:assignments-home}">Assignments</a></li>
         </ul>
     </div>
 return

@@ -38,7 +38,7 @@ declare function local:assignments-landing-page() {
                                 return
                                     element li {
                                         element a {
-                                            attribute href { $gsh:app-home || "/lineages.xq?lineage-id=" || $territory-id },
+                                            attribute href { $gsh:lineages-home || "/" || $territory-id },
                                             gsh:territory-id-to-short-name-with-years-valid($territory-id)
                                         },
                                         if ($predecessors or $other-mentions) then
@@ -74,7 +74,7 @@ declare function local:assignments-landing-page() {
                     return
                         element li {
                             element a {
-                                attribute href { $gsh:app-home || "/lineages.xq?lineage-id=" || $lineage-id },
+                                attribute href { $gsh:lineages-home || "/" || $lineage-id },
                                 gsh:territory-id-to-short-name-with-years-valid($lineage-id)
                             },
                             if ($predecessors or $other-mentions) then
@@ -115,7 +115,7 @@ declare function local:assignments-landing-page() {
                             return
                                 element li {
                                     element a {
-                                        attribute href { $gsh:app-home || "/lineages.xq?lineage-id=" || $territory-id },
+                                        attribute href { $gsh:lineages-home || "/" || $territory-id },
                                         gsh:territory-id-to-short-name-with-years-valid($territory-id)
                                     }
                                 }

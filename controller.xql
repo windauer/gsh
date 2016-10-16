@@ -84,7 +84,7 @@ return
         local:forward($controller, 'index.xq')
 
     (: gsh-specific pages :)
-    else if ($path-fragments[2] = ('locales', 'posts', 'regions', 'territories', 'resources')) then
+    else if ($path-fragments[2] = ('locales', 'posts', 'regions', 'territories', 'resources', 'lineages', 'assignments')) then
         if ($path-fragments[3]) then 
             let $param-name := switch ($path-fragments[2])
                 case "locales" return "locale"
@@ -92,6 +92,8 @@ return
                 case "regions" return "region"
                 case "territories" return "territory"
                 case "resources" return "resources"
+                case "lineages" return "lineage"
+                case "assignments" return "assignment"
                 default return ()
             let $param := local:add-parameter($param-name, $path-fragments[3])
             return

@@ -19,7 +19,7 @@ declare function local:lineages-landing-page() {
                 return
                     element li {
                         element a {
-                            attribute href { "?lineage-id=" || $current-territory-id },
+                            attribute href { $gsh:lineages-home || "/" || $current-territory-id },
                             gsh:territory-id-to-short-name-with-years-valid($current-territory-id)
                         }
                     }
@@ -256,7 +256,7 @@ declare function local:show-all-lineages() {
                             element td { 
                                 element strong { 
                                     element a {
-                                        attribute href { "?lineage-id=" || $current-territory/territory-id },
+                                        attribute href { $gsh:lineages-home || "/" || $current-territory/territory-id },
                                         gsh:territory-id-to-short-name-with-years-valid($current-territory/territory-id)
                                     }
                                 }
@@ -360,7 +360,7 @@ declare function local:show-all-lineages() {
         gsh:wrap-html($content, $title)
 };
 
-let $lineage-id := request:get-parameter("lineage-id", ())
+let $lineage-id := request:get-parameter("lineage", ())
 let $show-all := request:get-parameter("show-all", ())
 return
     if ($lineage-id) then

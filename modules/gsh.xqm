@@ -24,6 +24,9 @@ declare variable $gsh:locales-home := $gsh:app-home || '/locales';
 declare variable $gsh:posts-home := $gsh:app-home || '/posts';
 declare variable $gsh:regions-home := $gsh:app-home || '/regions';
 declare variable $gsh:territories-home := $gsh:app-home || '/territories';
+declare variable $gsh:lineages-home := $gsh:app-home || '/lineages';
+declare variable $gsh:assignments-home := $gsh:app-home || '/assignments';
+declare variable $gsh:resources-home := $gsh:app-home || '/resources';
 
 declare function gsh:link-to-locale($locale-id) {
     $gsh:locales-home || '/' || $locale-id

@@ -2558,9 +2558,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RasmussenKB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-10-31</reviewed-date>
         </review>
         <current-territory>
             <display-name>Chile (1810–present)</display-name>
@@ -2568,7 +2568,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/47</url>
         </current-territory>
         <predecessor>
-            <display-name>Viceroyalty of Peru (1543–1824)</display-name>
+            <display-name>Viceroyalty of Peru (1542–1824)</display-name>
             <territory-id>559</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/559</url>
         </predecessor>

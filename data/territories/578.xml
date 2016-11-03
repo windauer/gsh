@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>578</id>
+    <old-id/>
+    <short-form-name>Nova Scotia</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1713</valid-since>
+    <valid-until>1867</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>579</predecessor>
+    </predecessors>
+    <successors>
+        <successor>42</successor>
+        <successor>579</successor>
+    </successors>
+    <notes></notes>
+    <sources>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
+    </sources>
+</territory>

@@ -3,19 +3,43 @@
     <id>42</id>
     <old-id>canada</old-id>
     <short-form-name>Canada</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Dominion of Canada</long-form-name>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1867</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>303</predecessor>
-        <predecessor>304</predecessor>
+        <predecessor>578</predecessor>
+        <predecessor>580</predecessor>
+        <predecessor>581</predecessor>
+        <predecessor>584</predecessor>
+        <predecessor>585</predecessor>
+        <predecessor>586</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1927</notes>
+    <notes>In 1867, Canada was created as a self-governing dominion with domestic sovereignty out of
+        three colonies, Canada, Nova Scotia, and New Brunswick. While the country of Canada was
+        established in 1867, its boundaries expanded over the next 8 decades as other British North
+        American colonies and commercial possessions were incorporated into it: 1. In 1870, Rupert’s
+        Land, a huge swath of territory owned by the Hudson’s Bay Company that had been purchased by
+        the Canadian government, was incorporated into Canada. 2. In 1871, the colony of British
+        Columbia joined Canada. 3. In 1873, the colony of Prince Edward Island joined Canada. 4. In
+        1949, the dominion of Newfoundland (which was actually a quasi-colony at that point) joined
+        Canada. While Canada traces its status as an independent nation back to 1867, technically
+        the country acquired independence in stages. When it was created in 1867, Canada enjoyed
+        only sovereignty over domestic affairs: it was still a part of the British Empire, meaning
+        London directed its foreign policy. During the 1920s, Canada acquired sovereignty over its
+        external affairs, culminating in the United Kingdom’s acceptance of Canada’s external
+        sovereignty with the 1926 Balfour Declaration and the 1931 Statute of Westminster. In 1982,
+        full independence was achieved when the United Kingdom passed the Canada Act, which gave
+        effect to the Constitution Act, 1982, representing the patriation of Canada’s constitution.
+        (Until that time, the Canadian constitution had been comprised of a series of laws passed by
+        the British Parliament.) The United States recognized Canada's independence in 1927.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html</source>
         <source>http://history.state.gov/countries/canada</source>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
+        <source>http://www.thecanadianencyclopedia.ca/en/article/constitution-act-1982/</source>
     </sources>
 </territory>

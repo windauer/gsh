@@ -2,19 +2,22 @@
 <territory>
     <id>303</id>
     <old-id>canada-east-1867</old-id>
-    <short-form-name>Canada East</short-form-name>
+    <old-id>304</old-id>
+    <old-id>canada-west-1867</old-id>
+    <short-form-name>United Province of Canada</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1841</valid-since>
     <valid-until>1867</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor>551</predecessor>
         <predecessor>412</predecessor>
     </predecessors>
     <successors>
         <successor>42</successor>
     </successors>
-    <notes/>
+    <notes>Product of the union of the colonies of Lower and Upper Canada into a single colony.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/91872/Canada-West</source>
     </sources>

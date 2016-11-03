@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>579</id>
+    <old-id/>
+    <short-form-name>Cape Breton Island</short-form-name>
+    <long-form-name type="none"/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1784</valid-since>
+    <valid-until>1820</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>578</predecessor>
+    </predecessors>
+    <successors>
+        <successor>578</successor>
+    </successors>
+    <notes>Had been a part of Nova Scotia from 1763 to 1784; became a separate colony in 1784 as a
+        result of the division of Nova Scotia into three distinct colonies; reincorporated into Nova
+        Scotia in 1820.</notes>
+    <sources>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
+    </sources>
+</territory>

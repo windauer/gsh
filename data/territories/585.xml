@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>585</id>
+    <old-id/>
+    <short-form-name>Prince Edward Island</short-form-name>
+    <long-form-name type="none"/>
+    <variant-names>
+        <variant-name-period>
+            <variant-name>St. John's Island</variant-name>
+            <valid-since>1769</valid-since>
+            <valid-until>1799</valid-until>
+            <note></note>
+        </variant-name-period>
+    </variant-names>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1769</valid-since>
+    <valid-until>1873</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor>578</predecessor>
+    </predecessors>
+    <successors>
+        <successor>42</successor>
+    </successors>
+    <notes>Colony. St. John's Island had been a part of Nova Scotia from 1763 to 1769. Became a
+        separate colony in 1769. Renamed Prince Edward Island in 1799.</notes>
+    <sources>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
+        <source>http://www.gov.pe.ca/infopei/index.php3?number=3988&amp;lang=E</source>
+        <source>http://www.gov.pe.ca/infopei/index.php3?number=19672&amp;lang=E</source>
+        <source>http://www.thecanadianencyclopedia.ca/en/article/prince-edward-island/</source>
+    </sources>
+</territory>

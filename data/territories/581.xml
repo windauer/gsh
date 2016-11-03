@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>304</id>
-    <old-id>canada-west-1867</old-id>
-    <short-form-name>Canada West</short-form-name>
+    <id>581</id>
+    <old-id/>
+    <short-form-name>Rupert's Land</short-form-name>
     <long-form-name type="none"/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1841</valid-since>
-    <valid-until>1867</valid-until>
+    <valid-since>1670</valid-since>
+    <valid-until>1870</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>551</predecessor>
-    </predecessors>
+    <predecessors/>
     <successors>
         <successor>42</successor>
     </successors>
-    <notes/>
+    <notes>Property of the Hudson's Bay Company.</notes>
     <sources>
-        <source>http://www.britannica.com</source>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
     </sources>
 </territory>

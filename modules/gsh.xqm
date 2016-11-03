@@ -270,16 +270,10 @@ declare function gsh:territories-to-table($territories, $counter-name) {
                         let $sources := $territory/sources/source 
                         for $source at $n in $sources
                         return 
-                            if (starts-with($source, 'http')) then 
-                                let $strip-scheme := substring-before(substring-after($source, '//'), '/')
-                                let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
-                                return
-                                    (
-                                    <a href="{$source}">{$strip-www}</a>, 
-                                    if ($n lt count($sources)) then <br/> else ()
-                                    ) 
-                            else 
-                                $source 
+                            (
+                                gsh:format-source($source), 
+                                if ($n lt count($sources)) then <br/> else ()
+                            )
                         }
                 }
         }
@@ -298,8 +292,9 @@ declare function gsh:format-source($source) {
     if (starts-with($source, 'http')) then 
         let $strip-scheme := substring-after($source, '//')
         let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
+        let $truncated := if (string-length($strip-www) gt 50) then (substring($strip-www, 1, 50) || '...') else $strip-www
         return
-            <a href="{$source}">{$strip-www}</a>
+            <a href="{$source}">{$truncated}</a>
     else
         $source
 };
@@ -851,16 +846,10 @@ declare function gsh:territories-to-definition-list($territories, $counter-name,
                 let $sources := $territory/sources/source 
                 for $source at $n in $sources
                 return 
-                    if (starts-with($source, 'http')) then 
-                        let $strip-scheme := substring-after($source, '//')
-                        let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
-                        return
-                            (
-                            <a href="{$source}">{(:$strip-www:)$strip-scheme}</a>, 
-                            if ($n lt count($sources)) then <br/> else ()
-                            ) 
-                    else 
-                        $source 
+                    (
+                        gsh:format-source($source), 
+                        if ($n lt count($sources)) then <br/> else ()
+                    )
                 },
             element dt {
                 'ID'
@@ -946,16 +935,11 @@ declare function gsh:posts-to-table($posts) {
                         let $sources := $post/sources/source 
                         for $source at $n in $sources
                         return 
-                            if (starts-with($source, 'http')) then 
-                                let $strip-scheme := substring-after($source, '//')
-                                let $strip-www := if (starts-with($strip-scheme, 'www.')) then substring-after($strip-scheme, 'www.') else $strip-scheme
-                                return
-                                    (
-                                    <a href="{$source}">{xmldb:decode-uri($strip-www)}</a>, 
-                                    if ($n lt count($sources)) then <br/> else ()
-                                    ) 
-                            else 
-                                $source 
+                            (
+                                gsh:format-source($source), 
+                                if ($n lt count($sources)) then <br/> else ()
+                            )
+ 
                         },
                     element td { string-join(($locale/latitude, $locale/longitude), ', ') }
                 }

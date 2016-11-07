@@ -13,7 +13,7 @@ declare function local:assignments-landing-page() {
     let $lineages := collection('/db/apps/gsh/data/lineages')//lineage
     let $assignments := collection('/db/apps/gsh/data/assignments')//assignment
     let $assigned-territory-ids := $assignments//territory-id
-    let $unassigned-lineages := collection('/db/apps/gsh/data/lineages')//lineage[current-territory/territory-id != $assigned-territory-ids]
+    let $unassigned-lineages := collection('/db/apps/gsh/data/lineages')//lineage[not(current-territory/territory-id = $assigned-territory-ids)]
     let $content := 
         element div {
 (:            gsh:breadcrumbs($breadcrumbs),:)
@@ -66,37 +66,40 @@ declare function local:assignments-landing-page() {
             },
             element div {
                 element h3 { "Unassigned Lineages" },
-                element ol {
-                    for $lineage in $unassigned-lineages
-                    let $predecessors := $lineage/predecessor
-                    let $other-mentions := $lineage/other-mention
-                    let $lineage-id := $lineage/current-territory/territory-id
-                    return
-                        element li {
-                            element a {
-                                attribute href { $gsh:lineages-home || "/" || $lineage-id },
-                                gsh:territory-id-to-short-name-with-years-valid($lineage-id)
-                            },
-                            if ($predecessors or $other-mentions) then
-                                " (+ " || 
-                                string-join(
-                                    (
-                                        if ($predecessors) then 
-                                            (count($predecessors) || " predecessors")
-                                        else 
-                                            (),
-                                        if ($other-mentions) then
-                                            (count($other-mentions) || " other territories")
-                                        else 
-                                            ()
-                                    ),
-                                    " &amp; "
-                                )
-                                || ")"
-                            else 
-                                ()
+                if ($unassigned-lineages) then
+                    element ol {
+                        for $lineage in $unassigned-lineages
+                        let $predecessors := $lineage/predecessor
+                        let $other-mentions := $lineage/other-mention
+                        let $lineage-id := $lineage/current-territory/territory-id
+                        return
+                            element li {
+                                element a {
+                                    attribute href { $gsh:lineages-home || "/" || $lineage-id },
+                                    gsh:territory-id-to-short-name-with-years-valid($lineage-id)
+                                },
+                                if ($predecessors or $other-mentions) then
+                                    " (+ " || 
+                                    string-join(
+                                        (
+                                            if ($predecessors) then 
+                                                (count($predecessors) || " predecessors")
+                                            else 
+                                                (),
+                                            if ($other-mentions) then
+                                                (count($other-mentions) || " other territories")
+                                            else 
+                                                ()
+                                        ),
+                                        " &amp; "
+                                    )
+                                    || ")"
+                                else 
+                                    ()
+                            }
                         }
-                }
+                    else
+                        element p { "None." }
             },
             let $assigned-territory-ids := distinct-values(collection('/db/apps/gsh/data/lineages')//territory-id)
             (: assignments are for current territories; 
@@ -121,7 +124,7 @@ declare function local:assignments-landing-page() {
                                 }
                         }
                     else
-                        element p { "None. Good job!" }
+                        element p { "None." }
                 }
         }
     return

@@ -10,9 +10,15 @@
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors/>
     <successors/>
-    <notes>Antarctic Treaty entered into force in 1961 and is administered through consultative
-            member nations; U.S. does not recognize claims from other countries</notes>
+    <notes>According to the Bureau of Intelligence and Research fact sheet on Dependencies and Areas
+        of Special Sovereignty, "Antarctica consists of the territory south of 60 degrees south
+        latitude. This area includes claims by Argentina, Australia, Chile, France, New Zealand,
+        Norway, and the United Kingdom, the legal status of which remains in suspense under the
+        terms of the Antarctic Treaty of 1959. The United States recognizes no claims to
+        Antarctica." The Antarctic Treaty entered into force in 1961, and Antarctica is
+        administered through consultative member nations.</notes>
     <sources>
+        <source>http://www.state.gov/s/inr/rls/10543.htm#note2</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ay.html</source>
     </sources>
 </territory>

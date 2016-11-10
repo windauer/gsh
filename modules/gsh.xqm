@@ -288,6 +288,10 @@ declare function gsh:review-checkbox($messages) {
     " " || string-join($messages ! ('&#9744; ' || .), ' ')
 };
 
+declare function gsh:relationships-form() {
+    "with relationship [Split, Merger, Incorporation, Independence, Other: _____]"
+};
+
 declare function gsh:format-source($source) {
     if (starts-with($source, 'http')) then 
         let $strip-scheme := substring-after($source, '//')
@@ -396,7 +400,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                 },
                 element tr {
                     element td {
-                        'Valid Since'
+                        'Valid From'
                         },
                     element td { 
                         let $warning := ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{3,4}(-\d{2})?$')))
@@ -490,17 +494,17 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             element td {
                                 if (count($predecessors) gt 1) then
                                     element ol {
-                                        $predecessors ! element li { gsh:review-checkbox(("Remove", "Keep with relationship _____")) },
-                                        element li { gsh:review-checkbox("Add _____ with relationship _____") }
+                                        $predecessors ! element li { gsh:review-checkbox(("Remove", "Keep " || gsh:relationships-form() )) },
+                                        element li { gsh:review-checkbox("Add _____ " || gsh:relationships-form()) }
                                     }
                                 else if (count($predecessors) eq 1) then
                                     (
-                                        gsh:review-checkbox(("Remove", "Keep with relationship _____")),
+                                        gsh:review-checkbox(("Remove", "Keep " || gsh:relationships-form())),
                                         element br { () },
-                                        gsh:review-checkbox("Add predecessor _____ with relationship _____")
+                                        gsh:review-checkbox("Add predecessor _____ " || gsh:relationships-form())
                                     )
                                 else 
-                                    gsh:review-checkbox("Add predecessor _____ with relationship _____")
+                                    gsh:review-checkbox("Add predecessor _____ " || gsh:relationships-form())
                             }
                         else ()
                 },
@@ -570,17 +574,17 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                         element td {
                             if (count($successors) gt 1) then
                                 element ol {
-                                    $successors ! element li { gsh:review-checkbox(("Remove", "Keep with relationship _____")) },
-                                    element li { gsh:review-checkbox("Add _____ with relationship _____") }
+                                    $successors ! element li { gsh:review-checkbox(("Remove", "Keep " || gsh:relationships-form())) },
+                                    element li { gsh:review-checkbox("Add _____ " || gsh:relationships-form()) }
                                 }
                             else if (count($successors) eq 1) then
                                 (
-                                    gsh:review-checkbox(("Remove", "Keep with relationship _____")),
+                                    gsh:review-checkbox(("Remove", "Keep " || gsh:relationships-form())),
                                     element br { () },
-                                    gsh:review-checkbox("Add successor _____ with relationship _____")
+                                    gsh:review-checkbox("Add successor _____ " || gsh:relationships-form())
                                 )
                             else
-                                gsh:review-checkbox("Add successor _____ with relationship _____")
+                                gsh:review-checkbox("Add successor _____ " || gsh:relationships-form())
                         }
                     else 
                         ()

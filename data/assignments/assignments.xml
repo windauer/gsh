@@ -1,37 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <assignments>
+    <!-- 263 territory-ids; 30 assignments -->
     <assignment>
         <reviewer>AhlbergKL</reviewer>
         <territories>
-            <territory-id>4</territory-id>
-            <territory-id>19</territory-id>
-            <territory-id>71</territory-id>
-            <territory-id>111</territory-id>
-            <territory-id>112</territory-id>
-            <territory-id>115</territory-id>
-            <territory-id>123</territory-id>
-            <territory-id>131</territory-id>
-            <territory-id>135</territory-id>
+            <territory-id>178</territory-id>
             <territory-id>229</territory-id>
+            <territory-id>252</territory-id>
             <territory-id>8</territory-id>
             <territory-id>20</territory-id>
+            <territory-id>177</territory-id>
+            <territory-id>220</territory-id>
+            <territory-id>256</territory-id>
+            <territory-id>257</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>AshleyCE2</reviewer>
+        <territories>
+            <territory-id>4</territory-id>
+            <territory-id>19</territory-id>
+            <territory-id>91</territory-id>
+            <territory-id>103</territory-id>
+            <territory-id>107</territory-id>
+            <territory-id>263</territory-id>
+            <territory-id>238</territory-id>
+            <territory-id>244</territory-id>
+            <territory-id>97</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>BallMS</reviewer>
+        <territories>
+            <territory-id>67</territory-id>
+            <territory-id>242</territory-id>
+            <territory-id>262</territory-id>
+            <territory-id>5</territory-id>
+            <territory-id>14</territory-id>
+            <territory-id>49</territory-id>
+            <territory-id>95</territory-id>
+            <territory-id>182</territory-id>
         </territories>
     </assignment>
     <assignment>
         <reviewer>BarnumFSL</reviewer>
         <territories>
-            <territory-id>91</territory-id>
-            <territory-id>103</territory-id>
-            <territory-id>107</territory-id>
             <territory-id>108</territory-id>
+            <territory-id>111</territory-id>
+            <territory-id>112</territory-id>
             <territory-id>113</territory-id>
             <territory-id>116</territory-id>
             <territory-id>130</territory-id>
             <territory-id>134</territory-id>
             <territory-id>139</territory-id>
             <territory-id>227</territory-id>
-            <territory-id>238</territory-id>
-            <territory-id>244</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -46,9 +68,6 @@
             <territory-id>27</territory-id>
             <territory-id>29</territory-id>
             <territory-id>33</territory-id>
-            <territory-id>262</territory-id>
-            <territory-id>49</territory-id>
-            <territory-id>182</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -63,9 +82,19 @@
             <territory-id>43</territory-id>
             <territory-id>45</territory-id>
             <territory-id>46</territory-id>
-            <territory-id>242</territory-id>
-            <territory-id>67</territory-id>
-            <territory-id>14</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>ChalouMA</reviewer>
+        <territories>
+            <territory-id>138</territory-id>
+            <territory-id>163</territory-id>
+            <territory-id>230</territory-id>
+            <territory-id>237</territory-id>
+            <territory-id>78</territory-id>
+            <territory-id>90</territory-id>
+            <territory-id>114</territory-id>
+            <territory-id>92</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -80,9 +109,32 @@
             <territory-id>215</territory-id>
             <territory-id>216</territory-id>
             <territory-id>222</territory-id>
-            <territory-id>5</territory-id>
-            <territory-id>95</territory-id>
-            <territory-id>177</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>EckrothSL</reviewer>
+        <territories>
+            <territory-id>246</territory-id>
+            <territory-id>102</territory-id>
+            <territory-id>106</territory-id>
+            <territory-id>118</territory-id>
+            <territory-id>82</territory-id>
+            <territory-id>83</territory-id>
+            <territory-id>84</territory-id>
+            <territory-id>258</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>FaithTI</reviewer>
+        <territories>
+            <territory-id>250</territory-id>
+            <territory-id>9</territory-id>
+            <territory-id>121</territory-id>
+            <territory-id>122</territory-id>
+            <territory-id>157</territory-id>
+            <territory-id>192</territory-id>
+            <territory-id>240</territory-id>
+            <territory-id>259</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -97,9 +149,6 @@
             <territory-id>81</territory-id>
             <territory-id>87</territory-id>
             <territory-id>88</territory-id>
-            <territory-id>2</territory-id>
-            <territory-id>66</territory-id>
-            <territory-id>126</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -114,10 +163,19 @@
             <territory-id>205</territory-id>
             <territory-id>213</territory-id>
             <territory-id>217</territory-id>
-            <territory-id>252</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>HiteKE</reviewer>
+        <territories>
+            <territory-id>2</territory-id>
             <territory-id>32</territory-id>
             <territory-id>34</territory-id>
             <territory-id>50</territory-id>
+            <territory-id>66</territory-id>
+            <territory-id>126</territory-id>
+            <territory-id>51</territory-id>
+            <territory-id>57</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -132,10 +190,6 @@
             <territory-id>137</territory-id>
             <territory-id>144</territory-id>
             <territory-id>145</territory-id>
-            <territory-id>249</territory-id>
-            <territory-id>51</territory-id>
-            <territory-id>57</territory-id>
-            <territory-id>78</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -150,10 +204,20 @@
             <territory-id>174</territory-id>
             <territory-id>197</territory-id>
             <territory-id>207</territory-id>
-            <territory-id>237</territory-id>
-            <territory-id>92</territory-id>
-            <territory-id>94</territory-id>
-            <territory-id>97</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>McDanielHN</reviewer>
+        <territories>
+            <territory-id>226</territory-id>
+            <territory-id>241</territory-id>
+            <territory-id>254</territory-id>
+            <territory-id>167</territory-id>
+            <territory-id>170</territory-id>
+            <territory-id>175</territory-id>
+            <territory-id>201</territory-id>
+            <territory-id>214</territory-id>
+            <territory-id>204</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -168,10 +232,6 @@
             <territory-id>225</territory-id>
             <territory-id>228</territory-id>
             <territory-id>234</territory-id>
-            <territory-id>246</territory-id>
-            <territory-id>102</territory-id>
-            <territory-id>106</territory-id>
-            <territory-id>118</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -186,10 +246,6 @@
             <territory-id>146</territory-id>
             <territory-id>150</territory-id>
             <territory-id>156</territory-id>
-            <territory-id>243</territory-id>
-            <territory-id>151</territory-id>
-            <territory-id>256</territory-id>
-            <territory-id>257</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -204,9 +260,6 @@
             <territory-id>255</territory-id>
             <territory-id>224</territory-id>
             <territory-id>233</territory-id>
-            <territory-id>82</territory-id>
-            <territory-id>83</territory-id>
-            <territory-id>84</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -221,10 +274,6 @@
             <territory-id>104</territory-id>
             <territory-id>117</territory-id>
             <territory-id>155</territory-id>
-            <territory-id>240</territory-id>
-            <territory-id>9</territory-id>
-            <territory-id>157</territory-id>
-            <territory-id>192</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -239,9 +288,6 @@
             <territory-id>62</territory-id>
             <territory-id>68</territory-id>
             <territory-id>69</territory-id>
-            <territory-id>263</territory-id>
-            <territory-id>250</territory-id>
-            <territory-id>258</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -255,11 +301,7 @@
             <territory-id>159</territory-id>
             <territory-id>161</territory-id>
             <territory-id>169</territory-id>
-            <territory-id>178</territory-id>
             <territory-id>120</territory-id>
-            <territory-id>121</territory-id>
-            <territory-id>122</territory-id>
-            <territory-id>259</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -274,10 +316,6 @@
             <territory-id>79</territory-id>
             <territory-id>105</territory-id>
             <territory-id>110</territory-id>
-            <territory-id>254</territory-id>
-            <territory-id>167</territory-id>
-            <territory-id>170</territory-id>
-            <territory-id>175</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -288,10 +326,6 @@
             <territory-id>186</territory-id>
             <territory-id>187</territory-id>
             <territory-id>200</territory-id>
-            <territory-id>201</territory-id>
-            <territory-id>214</territory-id>
-            <territory-id>204</territory-id>
-            <territory-id>226</territory-id>
             <territory-id>251</territory-id>
             <territory-id>176</territory-id>
             <territory-id>185</territory-id>
@@ -299,21 +333,44 @@
         </territories>
     </assignment>
     <assignment>
+        <reviewer>TuddaCJ</reviewer>
+        <territories>
+            <territory-id>243</territory-id>
+            <territory-id>94</territory-id>
+            <territory-id>194</territory-id>
+            <territory-id>198</territory-id>
+            <territory-id>199</territory-id>
+            <territory-id>202</territory-id>
+            <territory-id>203</territory-id>
+            <territory-id>223</territory-id>
+        </territories>
+    </assignment>
+    <assignment>
+        <reviewer>WeatherheadDG</reviewer>
+        <territories>
+            <territory-id>115</territory-id>
+            <territory-id>123</territory-id>
+            <territory-id>131</territory-id>
+            <territory-id>135</territory-id>
+            <territory-id>247</territory-id>
+            <territory-id>151</territory-id>
+            <territory-id>154</territory-id>
+            <territory-id>162</territory-id>
+        </territories>
+
+    </assignment>
+    <assignment>
         <reviewer>WielandAR</reviewer>
         <territories>
-            <territory-id>138</territory-id>
-            <territory-id>163</territory-id>
+            <territory-id>71</territory-id>
             <territory-id>179</territory-id>
             <territory-id>193</territory-id>
             <territory-id>208</territory-id>
             <territory-id>231</territory-id>
-            <territory-id>241</territory-id>
             <territory-id>248</territory-id>
+            <territory-id>249</territory-id>
             <territory-id>261</territory-id>
-            <territory-id>230</territory-id>
             <territory-id>77</territory-id>
-            <territory-id>90</territory-id>
-            <territory-id>114</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -328,9 +385,6 @@
             <territory-id>24</territory-id>
             <territory-id>30</territory-id>
             <territory-id>36</territory-id>
-            <territory-id>194</territory-id>
-            <territory-id>198</territory-id>
-            <territory-id>199</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -344,11 +398,7 @@
             <territory-id>74</territory-id>
             <territory-id>76</territory-id>
             <territory-id>85</territory-id>
-            <territory-id>247</territory-id>
             <territory-id>260</territory-id>
-            <territory-id>202</territory-id>
-            <territory-id>203</territory-id>
-            <territory-id>223</territory-id>
         </territories>
     </assignment>
     <assignment>
@@ -363,9 +413,6 @@
             <territory-id>147</territory-id>
             <territory-id>168</territory-id>
             <territory-id>180</territory-id>
-            <territory-id>154</territory-id>
-            <territory-id>162</territory-id>
-            <territory-id>220</territory-id>
         </territories>
     </assignment>
 </assignments>

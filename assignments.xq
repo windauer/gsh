@@ -50,7 +50,7 @@ declare function local:assignments-landing-page() {
                                                     else 
                                                         (),
                                                     if ($other-mentions) then
-                                                        (count($other-mentions) || " other territories")
+                                                        (count($other-mentions) || " other possible territories")
                                                     else 
                                                         ()
                                                 ),
@@ -87,7 +87,7 @@ declare function local:assignments-landing-page() {
                                             else 
                                                 (),
                                             if ($other-mentions) then
-                                                (count($other-mentions) || " other territories")
+                                                (count($other-mentions) || " other possible territories")
                                             else 
                                                 ()
                                         ),

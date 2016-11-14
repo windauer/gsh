@@ -9,7 +9,7 @@
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>559</predecessor>
+        <predecessor rel="split">559</predecessor>
     </predecessors>
     <successors/>
     <notes>While Chile traces its status as an independent nation back to 1810, it was only

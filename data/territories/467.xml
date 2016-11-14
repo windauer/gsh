@@ -4,17 +4,19 @@
     <old-id>province-of-quebec-1791</old-id>
     <short-form-name>Quebec</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1763</valid-since>
     <valid-until>1791</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>551</successor>
-        <successor>412</successor>
+        <successor rel="split">551</successor>
+        <successor rel="split">412</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/91513/Canada/93704/History?anchor=ref477539</source>
+        <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
     </sources>
 </territory>

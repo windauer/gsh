@@ -10,8 +10,8 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
-        <successor>187</successor>
-        <successor>47</successor>
+        <successor rel="split">187</successor>
+        <successor rel="split">47</successor>
     </successors>
     <notes>Sources disagree about whether the Viceroyalty was established in 1542 or 1543. The
         Viceroyalty of Peru included much of South America for two centuries, before two new

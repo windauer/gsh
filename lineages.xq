@@ -228,7 +228,7 @@ declare function local:show-lineage($lineage-id) {
                     element li { "Split: A territory splits into two or more territories (e.g., Czechoslovakia split into the Czech Republic and the Slovak Republic in 1993)" },
                     element li { "Merger: Two or more territories merge to form one territory (e.g., Egypt and Syria joined to become the United Arab Republic in 1958)" },
                     element li { "Incorporation: A territory is incorporated into an independent state (e.g., the U.S. territory of Hawai’i entered as the 50th state)" },
-                    element li { "Independence: A dependency or a region within a larger territory declares or achieves independence (i.e., the U.S. colony of the Philippines became independent in 1960, South Sudan seceded and gained independence from Sudan in 2011)" }
+                    element li { "Independence: A dependency or a region within a larger territory declares or achieves independence (i.e., the U.S. colony of the Philippines became independent in 1946, South Sudan seceded and gained independence from Sudan in 2011)" }
                 },
                 let $all := ($lineage/current-territory/territory-id, $lineage/predecessor/territory-id)
                 let $territories := for $t in $all return gsh:territories($t)

@@ -4,18 +4,19 @@
     <old-id>viceroyalty-of-peru-1824</old-id>
     <short-form-name>Viceroyalty of Peru</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since precision="1">1542</valid-since>
     <valid-until>1824</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor rel="split">187</successor>
-        <successor rel="split">47</successor>
+        <successor rel="independence">187</successor>
+        <successor rel="independence">47</successor>
     </successors>
     <notes>Sources disagree about whether the Viceroyalty was established in 1542 or 1543. The
         Viceroyalty of Peru included much of South America for two centuries, before two new
-        Viceroyalties, Grenada and Rio de la Plata, were carved out it in the 18th century.</notes>
+        Viceroyalties, Grenada and Rio de la Plata, were carved out of it in the 18th century.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/453253/Viceroyalty-of-Peru</source>
     </sources>

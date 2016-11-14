@@ -4,12 +4,13 @@
     <old-id>peru</old-id>
     <short-form-name>Peru</short-form-name>
     <long-form-name>Republic of Peru</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1821</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>559</predecessor>
+        <predecessor rel="independence">559</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1826</notes>

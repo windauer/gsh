@@ -305,6 +305,7 @@ declare function gsh:format-source($source) {
 
 declare function gsh:territories-to-list($territories, $counter-name, $enable-link-territories as xs:boolean, $enable-review-checkboxes as xs:boolean) {
     for $territory in $territories 
+    let $variants := $territory/variants/variant
     let $predecessors := $territory/predecessors/predecessor 
     let $successors := $territory/successors/successor 
     let $sources := $territory/sources/source 
@@ -351,9 +352,7 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                     },
                     if ($enable-review-checkboxes) then 
                         element td { 
-                            gsh:review-checkbox(("Correct", "Change to _____")),
-                            element br { () },
-                            gsh:review-checkbox(("Add name variant _____ for years __–__"))
+                            gsh:review-checkbox(("Correct", "Change to _____"))
                         } 
                     else 
                         ()
@@ -376,9 +375,46 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                     },
                     if ($enable-review-checkboxes) then 
                         element td { 
-                            gsh:review-checkbox(("Correct", "Change to _____")),
-                            element br { () },
-                            gsh:review-checkbox(("Add name variant _____ for years __–__"))
+                            gsh:review-checkbox(("Correct", "Change to _____"))
+                        } 
+                    else 
+                        ()
+                },
+                element tr {
+                    element td {
+                        'Variant Names'
+                    },
+                    element td { 
+                        (
+                        if (empty($variants)) then 
+                            <em>(No variants)</em>
+                        else if (count($variants) gt 1) then
+                            <ol style="padding-left: 1.5em">{
+                                for $variant in $variants
+                                return
+                                    element li {
+                                        '"' || $variant/variant-name || '" (' || ($variant/valid-since, "?")[. ne ''][1] || "–" || (if ($variant/valid-until = '9999') then 'present' else $variant/valid-until) || "): " || $variant/note
+                                    }
+                            }</ol>
+                        else
+                            '"' || $variants/variant-name || '" (' || ($variants/valid-since, "?")[. ne ''][1] || "–" || (if ($variants/valid-until = '9999') then 'present' else $variants/valid-until) || "): " || $variants/note
+                        )
+                    },
+                    if ($enable-review-checkboxes) then 
+                        element td { 
+                            if (count($variants) gt 1) then
+                                element ol {
+                                    $variants ! element li { gsh:review-checkbox(("Corrent", "Change to _____")) },
+                                    element li {gsh:review-checkbox(("Add name variant _____ for years __–__"))}
+                                }
+                            else if (count($variants) eq 1) then
+                                (
+                                    gsh:review-checkbox(("Corrent", "Change to _____")),
+                                    element br { () },
+                                    gsh:review-checkbox(("Add name variant _____ for years __–__"))
+                                )
+                            else 
+                                gsh:review-checkbox("Add name variant _____ for years __–__")
                         } 
                     else 
                         ()

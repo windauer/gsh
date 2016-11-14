@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">
     <start>
         <element name="territory">
             <element name="id">
                 <data type="integer"/>
             </element>
-            <element name="old-id">
-                <data type="NCName"/>
-            </element>
+            <oneOrMore>
+                <element name="old-id">
+                    <choice>
+                        <text/>
+                        <data type="NCName"/>
+                    </choice>
+                </element>
+            </oneOrMore>
             <element name="short-form-name">
                 <text/>
             </element>
@@ -18,6 +23,24 @@
                         <value>none</value>
                     </attribute>
                 </choice>
+            </element>
+            <element name="variants">
+                <zeroOrMore>
+                    <element name="variant">
+                        <element name="variant-name">
+                            <text/>
+                        </element>
+                        <element name="valid-since">
+                            <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                        </element>
+                        <element name="valid-until">
+                            <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                        </element>
+                        <element name="note">
+                            <text/>
+                        </element>
+                    </element>
+                </zeroOrMore>
             </element>
             <element name="type-of-territory">
                 <choice>
@@ -41,34 +64,70 @@
                                 <data type="integer"/>
                             </attribute>
                         </optional>
-                        <data type="integer"/>
+                        <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
                     </group>
                 </choice>
             </element>
             <element name="valid-until">
                 <choice>
-                    <data type="integer"/>
-                    <attribute name="type">
-                        <value>unknown</value>
-                    </attribute>
-                    <attribute name="certainty">
-                        <data type="integer"/>
-                    </attribute>
+                    <group>
+                        <attribute name="type">
+                            <value>unknown</value>
+                        </attribute>
+                    </group>
+                    <group>
+                        <optional>
+                            <attribute name="certainty">
+                                <data type="integer"/>
+                            </attribute>
+                        </optional>
+                        <data type="gYear"
+                            datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                    </group>
                 </choice>
             </element>
             <element name="exists-on-todays-map">
                 <data type="boolean"/>
             </element>
             <element name="predecessors">
-                <zeroOrMore>
-                    <element name="predecessor">
-                        <data type="integer"/>
-                    </element>
-                </zeroOrMore>
+                <choice>
+                    <attribute name="type">
+                        <value>none</value>
+                    </attribute>
+                    <oneOrMore>
+                        <element name="predecessor">
+                            <attribute name="rel">
+                                <choice>
+                                    <value>split</value>
+                                    <a:documentation>Split</a:documentation>
+                                    <value>merger</value>
+                                    <a:documentation>Merger</a:documentation>
+                                    <value>incorporation</value>
+                                    <a:documentation>Incorporation</a:documentation>
+                                    <value>independence</value>
+                                    <a:documentation>Independence</a:documentation>
+                                </choice>
+                            </attribute>
+                            <data type="integer"/>
+                        </element>
+                    </oneOrMore>
+                </choice>
             </element>
             <element name="successors">
                 <zeroOrMore>
                     <element name="successor">
+                        <attribute name="rel">
+                            <choice>
+                                <value>split</value>
+                                <a:documentation>Split</a:documentation>
+                                <value>merger</value>
+                                <a:documentation>Merger</a:documentation>
+                                <value>incorporation</value>
+                                <a:documentation>Incorporation</a:documentation>
+                                <value>independence</value>
+                                <a:documentation>Independence</a:documentation>
+                            </choice>
+                        </attribute>
                         <data type="integer"/>
                     </element>
                 </zeroOrMore>

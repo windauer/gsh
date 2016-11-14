@@ -27,14 +27,17 @@
             <element name="variants">
                 <zeroOrMore>
                     <element name="variant">
+                        <element name="variant-id">
+                            <data type="NCName"/>
+                        </element>
                         <element name="variant-name">
                             <text/>
                         </element>
                         <element name="valid-since">
-                            <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                            <data type="gYear"/>
                         </element>
                         <element name="valid-until">
-                            <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                            <data type="gYear"/>
                         </element>
                         <element name="note">
                             <text/>
@@ -64,7 +67,7 @@
                                 <data type="integer"/>
                             </attribute>
                         </optional>
-                        <data type="gYear" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                        <data type="gYear"/>
                     </group>
                 </choice>
             </element>
@@ -81,8 +84,7 @@
                                 <data type="integer"/>
                             </attribute>
                         </optional>
-                        <data type="gYear"
-                            datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+                        <data type="gYear"/>
                     </group>
                 </choice>
             </element>

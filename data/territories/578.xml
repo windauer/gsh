@@ -11,10 +11,12 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">579</predecessor>
+        <predecessor rel="incorporation">580</predecessor>
     </predecessors>
     <successors>
         <successor rel="merger">42</successor>
         <successor rel="split">579</successor>
+        <successor rel="split">580</successor>
     </successors>
     <notes>In 1867, Nova Scotia merged with Canada and New Brunswick to form Canada.</notes>
     <sources>

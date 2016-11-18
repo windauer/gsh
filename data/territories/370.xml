@@ -4,21 +4,18 @@
     <old-id>gran-colombia-1830</old-id>
     <short-form-name>Gran Colombia</short-form-name>
     <long-form-name>Republic of Colombia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1819</valid-since>
-    <valid-until>1830</valid-until>
+    <valid-until certainty="1">1830</valid-until><!-- Really, it's 1830 or 1831 -->
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>557</predecessor>
+        <predecessor rel="independence">557</predecessor>
     </predecessors>
     <successors>
-        <successor>254</successor>
-        <successor>70</successor>
-        <successor>434</successor>
-        <successor>375</successor>
-        <successor>550</successor>
-        <successor>52</successor>
-        <successor>183</successor>
+        <successor rel="split">254</successor>
+        <successor rel="split">70</successor>
+        <successor rel="split">434</successor>
     </successors>
     <notes/>
     <sources>

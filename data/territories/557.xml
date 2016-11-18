@@ -4,20 +4,14 @@
     <old-id>viceroyalty-of-new-granada-1823</old-id>
     <short-form-name>Viceroyalty of New Granada</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1739</valid-since>
-    <valid-until>1823</valid-until>
+    <valid-until certainty="4">1821</valid-until><!-- Really, it's 1819 or 1823... -->
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>370</successor>
-        <successor>254</successor>
-        <successor>70</successor>
-        <successor>434</successor>
-        <successor>375</successor>
-        <successor>550</successor>
-        <successor>52</successor>
-        <successor>183</successor>
+        <successor rel="independence">370</successor>
     </successors>
     <notes/>
     <sources>

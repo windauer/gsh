@@ -8,9 +8,7 @@
     <valid-since>1830</valid-since>
     <valid-until>1856</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>370</predecessor>
-    </predecessors>
+    <predecessors/>
     <successors>
         <successor>375</successor>
         <successor>550</successor>

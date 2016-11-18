@@ -2756,11 +2756,6 @@
             <territory-id>70</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/70</url>
         </other-mention>
-        <other-mention>
-            <display-name>Quito (1822–1830)</display-name>
-            <territory-id>471</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/471</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -3343,9 +3338,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-11-18</reviewed-date>
         </review>
         <current-territory>
             <display-name>Ecuador (1830–present)</display-name>
@@ -3362,26 +3357,6 @@
             <territory-id>557</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/557</url>
         </predecessor>
-        <other-mention>
-            <display-name>Venezuela (1830–present)</display-name>
-            <territory-id>254</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/254</url>
-        </other-mention>
-        <other-mention>
-            <display-name>New Granada (1830–1856)</display-name>
-            <territory-id>434</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/434</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United States of Colombia (1863–1866)</display-name>
-            <territory-id>550</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/550</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Quito (1822–1830)</display-name>
-            <territory-id>471</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/471</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -9274,11 +9249,6 @@
             <territory-id>70</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/70</url>
         </other-mention>
-        <other-mention>
-            <display-name>Quito (1822–1830)</display-name>
-            <territory-id>471</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/471</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -13267,11 +13237,6 @@
             <display-name>United States of Colombia (1863–1866)</display-name>
             <territory-id>550</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/550</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Quito (1822–1830)</display-name>
-            <territory-id>471</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/471</url>
         </other-mention>
     </lineage>
     <lineage>

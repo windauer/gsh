@@ -4,12 +4,13 @@
     <old-id>ecuador</old-id>
     <short-form-name>Ecuador</short-form-name>
     <long-form-name>Republic of Ecuador</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1830</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>370</predecessor>
+        <predecessor rel="split">370</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1832</notes>

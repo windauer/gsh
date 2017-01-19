@@ -4,17 +4,21 @@
     <old-id>heard-island-and-mcdonald-islands</old-id>
     <short-form-name>Heard Island and McDonald Islands</short-form-name>
     <long-form-name>Territory of Heard Island and McDonald Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1947</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="merger">587</predecessor>
+        <predecessor rel="merger">588</predecessor>
+    </predecessors>
     <successors/>
-    <notes>Territory of Australia; Heard Island (Discovered 1853); McDonald Islands (Discovered 1854)</notes>
+    <notes>Territory of Australia</notes>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html</source>
         <source>http://www.heardisland.aq/history/discovery</source>
         <source>http://www.britannica.com/EBchecked/topic/258268/Heard-and-McDonald-Islands</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780199571123.001.0001/m_en_gb0369560</source>
+        <source subscription-required="true">http://www.oxfordreference.com/view/10.1093/acref/9780199571123.001.0001/m_en_gb0369560</source>
     </sources>
 </territory>

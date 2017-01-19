@@ -4,14 +4,13 @@
     <old-id>uganda</old-id>
     <short-form-name>Uganda</short-form-name>
     <long-form-name>Republic of Uganda</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1962</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>298</predecessor>
-        <predecessor>300</predecessor>
-        <predecessor>291</predecessor>
+        <predecessor rel="independence">291</predecessor>
     </predecessors>
     <successors/>
     <notes/>

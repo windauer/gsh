@@ -3,16 +3,17 @@
     <id>82</id>
     <old-id>french-guiana</old-id>
     <short-form-name>French Guiana</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Territorial Collectivity of French Guiana</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1667</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Overseas department of France</notes>
+    <notes>Overseas territorial collectivity of France</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/219071/French-Guiana</source>
+        <source>https://www.britannica.com/place/French-Guiana</source>
     </sources>
 </territory>

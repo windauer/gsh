@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>587</id>
+    <old-id/>
+    <short-form-name>Heard Island</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1854</valid-since>
+    <valid-until>1947</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="merger">102</successor>
+    </successors>
+    <notes>Territory of Australia</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html</source>
+        <source>http://www.heardisland.aq/history/discovery</source>
+        <source>http://www.britannica.com/EBchecked/topic/258268/Heard-and-McDonald-Islands</source>
+    </sources>
+</territory>

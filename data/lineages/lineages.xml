@@ -4077,9 +4077,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>French Guiana (1667–present)</display-name>
@@ -4089,9 +4089,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>French Polynesia (1946–present)</display-name>
@@ -4106,9 +4106,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>French Southern and Antarctic Lands (1955–present)</display-name>
@@ -4980,15 +4980,25 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Heard Island and McDonald Islands (1947–present)</display-name>
             <territory-id>102</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/102</url>
         </current-territory>
+        <predecessor>
+            <display-name>Heard Island</display-name>
+            <territory-id>587</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/587</url>
+        </predecessor>
+        <predecessor>
+            <display-name>McDonald Islands</display-name>
+            <territory-id>588</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5113,20 +5123,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Howland Island (1842–present)</display-name>
             <territory-id>106</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/106</url>
         </current-territory>
-        <predecessor>
-            <display-name>Worth Island (1822–1842)</display-name>
-            <territory-id>570</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/570</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5682,9 +5687,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Jan Mayen (1614–present)</display-name>
@@ -12408,9 +12413,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Uganda (1962–present)</display-name>
@@ -12423,11 +12428,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/291</url>
         </predecessor>
         <predecessor>
-            <display-name>Muscat and Oman (1650–1970)</display-name>
-            <territory-id>428</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/428</url>
-        </predecessor>
-        <predecessor>
             <display-name>Buganda (1400–1894)</display-name>
             <territory-id>298</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/298</url>
@@ -12437,51 +12437,6 @@
             <territory-id>300</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/300</url>
         </predecessor>
-        <other-mention>
-            <display-name>Tanzania (1964–present)</display-name>
-            <territory-id>234</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/234</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Oman (1970–present)</display-name>
-            <territory-id>179</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/179</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kenya (1963–present)</display-name>
-            <territory-id>125</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/125</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Tanganyika (1961–1964)</display-name>
-            <territory-id>524</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/524</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1964–1964)</display-name>
-            <territory-id>574</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/574</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1890–1963)</display-name>
-            <territory-id>573</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/573</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1861–1890)</display-name>
-            <territory-id>572</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/572</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Tanganyika and Zanzibar (1964–1964)</display-name>
-            <territory-id>549</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/549</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1963–1964)</display-name>
-            <territory-id>456</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/456</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -13392,9 +13347,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>EckrothSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-12-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Wake Island (1796–present)</display-name>

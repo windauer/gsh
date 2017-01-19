@@ -4,11 +4,12 @@
     <old-id>jan-mayen</old-id>
     <short-form-name>Jan Mayen</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1614</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
     <notes>Territory of Norway</notes>
     <sources>

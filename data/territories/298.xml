@@ -4,14 +4,14 @@
     <old-id>buganda-1894</old-id>
     <short-form-name>Buganda</short-form-name>
     <long-form-name>Kingdom of Buganda</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1400</valid-since>
     <valid-until>1894</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>291</successor>
-        <successor>246</successor>
+        <successor rel="incorporation">291</successor>
     </successors>
     <notes/>
     <sources>

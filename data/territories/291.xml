@@ -4,24 +4,27 @@
     <old-id>british-east-africa-1963</old-id>
     <short-form-name>British East Africa</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1888</valid-since>
     <valid-until>1963</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>428</predecessor>
+        <predecessor rel="incorporation">428</predecessor>
+        <predecessor rel="incorporation">298</predecessor>
+        <predecessor rel="incorporation">300</predecessor>
     </predecessors>
     <successors>
-        <successor>125</successor>
-        <successor>246</successor>
-        <successor>574</successor>
-        <successor>524</successor>
-        <successor>234</successor>
+        <successor rel="independence">125</successor>
+        <successor rel="independence">246</successor>
+        <successor rel="independence">574</successor>
+        <successor rel="independence">524</successor>
+        <successor rel="merger">234</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html</source>
         <source>http://www.britannica.com/EBchecked/topic/80007/British-East-Africa</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2189#</source>
+        <source>http://www.oxfordreference.com/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2189#</source>
     </sources>
 </territory>

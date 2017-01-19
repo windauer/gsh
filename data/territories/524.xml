@@ -4,15 +4,16 @@
     <old-id>tanganyika-1964</old-id>
     <short-form-name>Tanganyika</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1961</valid-since>
     <valid-until>1964</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>291</predecessor>
+        <predecessor rel="independence">291</predecessor>
     </predecessors>
     <successors>
-        <successor>234</successor>
+        <successor rel="merger">234</successor>
     </successors>
     <notes/>
     <sources>

@@ -4,17 +4,18 @@
     <old-id>french-colony-of-oceania-1946</old-id>
     <short-form-name>French Colony of Oceania</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1880</valid-since>
     <valid-until>1946</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>83</successor>
+        <successor rel="incorporation">83</successor>
     </successors>
-    <notes>Culled from several independently settled and indigenously governed islands.  Sovereignty unrecognized by the United States.  Was a series of French Protectorates since 1842, made an official colony in 1880.</notes>
+    <notes>Culled from several independently settled and indigenously governed islands.  Sovereignty unrecognized by the United States.  Was a series of French protectorates since 1842, made an official colony in 1880.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fp.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/219285/French-Polynesia/54080/History?anchor=ref514038</source>
+        <source>https://www.britannica.com/place/French-Guiana/French-Polynesia</source>
     </sources>
 </territory>

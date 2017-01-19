@@ -4,15 +4,23 @@
     <old-id>howland-island</old-id>
     <short-form-name>Howland Island</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>106_1</variant-id>
+            <variant-name>Worth Island</variant-name>
+            <valid-since>1822</valid-since>
+            <valid-until>1842</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1842</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>570</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Unincorporated territory of the United States; Claimed in 1857</notes>
+    <notes>Unincorporated territory of the United States; sighted in 1822; renamed in 1842; claimed
+        in 1857</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
         <source>http://www.britannica.com/EBchecked/topic/273578/Howland-Island</source>

@@ -4989,16 +4989,6 @@
             <territory-id>102</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/102</url>
         </current-territory>
-        <predecessor>
-            <display-name>Heard Island</display-name>
-            <territory-id>587</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/587</url>
-        </predecessor>
-        <predecessor>
-            <display-name>McDonald Islands</display-name>
-            <territory-id>588</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>

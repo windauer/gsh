@@ -3,7 +3,7 @@
     <id>83</id>
     <old-id>french-polynesia</old-id>
     <short-form-name>French Polynesia</short-form-name>
-    <long-form-name>Overseas Country of French Polynesia</long-form-name>
+    <long-form-name>Overseas Collectivity of French Polynesia</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1946</valid-since>
@@ -13,7 +13,9 @@
         <predecessor rel="incorporation">349</predecessor>
     </predecessors>
     <successors/>
-    <notes>Overseas Collectivity of France</notes>
+    <notes>According to the CIA World Factbook, French Polynesia was an overseas territory of France
+        from 1946-2003, became overseas collectivity of France in 2003, and is often referred to as
+        an overseas country due to its degree of autonomy.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fp.html</source>
         <source>https://www.britannica.com/place/French-Guiana/French-Polynesia</source>

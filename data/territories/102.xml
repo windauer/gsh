@@ -6,15 +6,12 @@
     <long-form-name>Territory of Heard Island and McDonald Islands</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1947</valid-since>
+    <valid-since>1853</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor rel="merger">587</predecessor>
-        <predecessor rel="merger">588</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Territory of Australia</notes>
+    <notes>The UK transferred these island to Australia in 1947.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html</source>
         <source>http://www.heardisland.aq/history/discovery</source>

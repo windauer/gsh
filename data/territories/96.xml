@@ -4,17 +4,20 @@
     <old-id>guatemala</old-id>
     <short-form-name>Guatemala</short-form-name>
     <long-form-name>Republic of Guatemala</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1839</valid-since>
+    <valid-since precision="2">1841</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>546</predecessor>
+        <predecessor rel="split">546</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1844</notes>
+    <notes>Guatemalans recognize 1821, the year they became independent from Spain, as the year of
+        independence. 1841 is when Guatemala became an independent state. The United States
+        recognized Guatemala's independence in 1844.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html</source>
-        <source>http://history.state.gov/countries/guatemala</source>
+        <source>https://history.state.gov/countries/guatemala</source>
     </sources>
 </territory>

@@ -4,15 +4,22 @@
     <old-id>el-salvador</old-id>
     <short-form-name>El Salvador</short-form-name>
     <long-form-name>Republic of El Salvador</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1839</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since precision="2">1841</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>546</predecessor>
+        <predecessor rel="split">546</predecessor>
+        <predecessor rel="split">590</predecessor>
     </predecessors>
-    <successors/>
-    <notes>U.S. recognized independence in 1849</notes>
+    <successors>
+        <successor rel="merger">590</successor>
+    </successors>
+    <notes>El Salvador was independent from 1841 until 1895. The United States recognized El
+        Salvador’s independence in 1849. In 1895, Honduras, Nicaragua, and El Salvador merged to
+        create the Greater Republic of Central America. The union dissolved in 1898. The Greater
+        Republic had relations with the United States.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/es.html</source>
         <source>http://history.state.gov/countries/el-salvador</source>

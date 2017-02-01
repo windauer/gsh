@@ -4,21 +4,22 @@
     <old-id>west-indies-federation-1962</old-id>
     <short-form-name>West Indies Federation</short-form-name>
     <long-form-name>Federation of the West Indies</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1958</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>410</predecessor>
+        <predecessor rel="">588</predecessor>
     </predecessors>
     <successors>
-        <successor>22</successor>
-        <successor>68</successor>
-        <successor>93</successor>
-        <successor>10</successor>
-        <successor>117</successor>
-        <successor>201</successor>
-        <successor>204</successor>
+        <successor rel="split">22</successor>
+        <successor rel="split">68</successor>
+        <successor rel="split">93</successor>
+        <successor rel="split">10</successor>
+        <successor rel="split">117</successor>
+        <successor rel="split">201</successor>
+        <successor rel="split">204</successor>
     </successors>
     <notes/>
     <sources>

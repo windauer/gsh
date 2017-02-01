@@ -4,14 +4,18 @@
     <old-id>mexico</old-id>
     <short-form-name>Mexico</short-form-name>
     <long-form-name>United Mexican States</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1823</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>424</predecessor>
+        <predecessor rel="split">424</predecessor>
+        <predecessor rel="split">591</predecessor>
     </predecessors>
-    <successors/>
+    <successors>
+        <successor rel="split">591</successor>
+    </successors>
     <notes>U.S. recognized independence in 1822</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mx.html</source>

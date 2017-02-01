@@ -4,12 +4,13 @@
     <old-id>haiti</old-id>
     <short-form-name>Haiti</short-form-name>
     <long-form-name>Republic of Haiti</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1804</valid-since>
     <valid-until>9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>487</predecessor>
+        <predecessor rel="independence">487</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1862</notes>

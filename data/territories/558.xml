@@ -4,23 +4,16 @@
     <old-id>viceroyalty-of-new-spain-1821</old-id>
     <short-form-name>Viceroyalty of New Spain</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1535</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1821</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>424</successor>
-        <successor>546</successor>
-        <successor>58</successor>
-        <successor>172</successor>
-        <successor>104</successor>
-        <successor>72</successor>
-        <successor>96</successor>
-        <successor>155</successor>
-        <successor>25</successor>
+        <successor rel="independence">424</successor>
     </successors>
-    <notes>Spanish territory</notes>
+    <notes>Spanish territory established in 1535.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/412085/Viceroyalty-of-New-Spain</source>
     </sources>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>424</id>
-    <old-id>mexican-empire-1823</old-id>
-    <short-form-name>The Mexican Empire</short-form-name>
+    <id>591</id>
+    <old-id/>
+    <short-form-name>The Second Mexican Empire</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1821</valid-since>
-    <valid-until>1823</valid-until>
+    <valid-since>1863</valid-since>
+    <valid-until>1867</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="independence">558</predecessor>
+        <predecessor rel="split">155</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">155</successor>
-        <successor rel="split">546</successor>
     </successors>
-    <notes/>
+    <notes>French proxies conquered Mexico in 1863, creating the Second Mexican Empire. It lasted until 1867.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/379167/Mexico/27357/The-Mexican-Empire-1821-23?anchor=ref1103120</source>
     </sources>

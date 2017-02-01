@@ -2,17 +2,28 @@
 <territory>
     <id>292</id>
     <old-id>british-guyana-1966</old-id>
-    <short-form-name>British Guyana</short-form-name>
+    <short-form-name>Guyana</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>292</variant-id>
+            <variant-name>British Guyana</variant-name>
+            <valid-since precision="1">1814</valid-since>
+            <valid-until>1966</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1815</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1966</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>100</successor>
+        <successor rel="independence">100</successor>
     </successors>
-    <notes/>
+    <notes>Guyana was privately-owned by the Dutch West India Company from 1616, as well as many
+        other families, societies, and companies, until it was acquired by the British in 1814, at
+        which it became British Guyana until independence in 1966.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html</source>
     </sources>

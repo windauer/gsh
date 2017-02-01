@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>589</id>
+    <old-id/>
+    <short-form-name>Jamaica</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>589_1</variant-id>
+            <variant-name>British Jamaica</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1962</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1962</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">588</successor>
+        <successor rel="independence">117</successor>
+    </successors>
+    <notes>British Jamaica (1707-1962) _[add notes]__. Incorporated into the West Indies Federation
+        in ___. Jamaica became independent in 1962.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/299716/Jamaica</source>
+    </sources>
+</territory>

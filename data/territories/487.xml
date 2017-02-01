@@ -4,13 +4,14 @@
     <old-id>saint-domingue-1804</old-id>
     <short-form-name>Saint-Domingue</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1697</valid-since>
     <valid-until>1804</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>101</successor>
+        <successor rel="independence">101</successor>
     </successors>
     <notes/>
     <sources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>590</id>
+    <old-id></old-id>
+    <short-form-name>Greater Republic of Central America</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1895</valid-since>
+    <valid-until>1898</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="merger">72</predecessor>
+        <predecessor rel="merger">104</predecessor>
+        <predecessor rel="merger">172</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="split">72</successor>
+        <successor rel="split">104</successor>
+        <successor rel="split">172</successor>
+    </successors>
+    <notes>In 1895, Honduras, Nicaragua, and El Salvador merged to create the Greater Republic of
+        Central America. The union dissolved in 1898.</notes>
+    <sources>
+        <source/>
+    </sources>
+</territory>

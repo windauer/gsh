@@ -4,15 +4,22 @@
     <old-id>honduras</old-id>
     <short-form-name>Honduras</short-form-name>
     <long-form-name>Republic of Honduras</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1838</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>546</predecessor>
+        <predecessor rel="split">546</predecessor>
+        <predecessor rel="split">590</predecessor>
     </predecessors>
-    <successors/>
-    <notes>U.S. recognized independence in 1853</notes>
+    <successors>
+        <successor rel="merger">590</successor>
+    </successors>
+    <notes>Honduras declared independence in 1838. The United States recognized Honduras’s
+        independence in 1853. In 1895, Honduras, El Salvador, and Nicaragua merged to form the
+        Greater Republic of Central America; the union dissolved in 1898. The Greater Republic had
+        relations with the United States. Honduras has been independent since 1898.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ho.html</source>
         <source>http://history.state.gov/countries/honduras</source>

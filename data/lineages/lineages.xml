@@ -3502,15 +3502,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>El Salvador (1839–present)</display-name>
             <territory-id>72</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/72</url>
         </current-territory>
+        <predecessor>
+            <display-name>Greater Republic of Central America (1895–1898)</display-name>
+            <territory-id>590</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/590</url>
+        </predecessor>
         <predecessor>
             <display-name>United Provinces of Central America (1823–1839)</display-name>
             <territory-id>546</territory-id>
@@ -3526,36 +3531,16 @@
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-        <other-mention>
+        <predecessor>
             <display-name>Nicaragua (1838–present)</display-name>
             <territory-id>172</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/172</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Mexico (1823–present)</display-name>
-            <territory-id>155</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
-        </other-mention>
-        <other-mention>
+        </predecessor>
+        <predecessor>
             <display-name>Honduras (1838–present)</display-name>
             <territory-id>104</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/104</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Guatemala (1839–present)</display-name>
-            <territory-id>96</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/96</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Costa Rica (1839–present)</display-name>
-            <territory-id>58</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/58</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4727,80 +4712,30 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Grenada (1962–present)</display-name>
+            <display-name>Grenada (1974–present)</display-name>
             <territory-id>93</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/93</url>
         </current-territory>
+        <predecessor>
+            <display-name>Grenada (pre-1776–1974)</display-name>
+            <territory-id>587</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/587</url>
+        </predecessor>
         <predecessor>
             <display-name>West Indies Federation (1958–1962)</display-name>
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
         </predecessor>
         <predecessor>
-            <display-name>Leeward Islands (1672–1960)</display-name>
-            <territory-id>410</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
+            <display-name>British Windward Islands (1833–1962)</display-name>
+            <territory-id>588</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
         </predecessor>
-        <other-mention>
-            <display-name>Dominica (1493–1958)</display-name>
-            <territory-id>324</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/324</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbuda (1685–1872)</display-name>
-            <territory-id>279</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/279</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1625–1958)</display-name>
-            <territory-id>278</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/278</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua (1493–1872)</display-name>
-            <territory-id>269</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/269</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Virgin Islands, British (1956–present)</display-name>
-            <territory-id>256</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/256</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1962–present)</display-name>
-            <territory-id>22</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/22</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Vincent and the Grenadines (1979–present)</display-name>
-            <territory-id>204</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/204</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Lucia (1962–present)</display-name>
-            <territory-id>201</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/201</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Jamaica (1962–present)</display-name>
-            <territory-id>117</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/117</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua and Barbuda (1962–present)</display-name>
-            <territory-id>10</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/10</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Dominica (1962–present)</display-name>
-            <territory-id>68</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/68</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4833,17 +4768,17 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Guatemala (1839–present)</display-name>
+            <display-name>Guatemala (1841–present)</display-name>
             <territory-id>96</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/96</url>
         </current-territory>
         <predecessor>
-            <display-name>United Provinces of Central America (1823–1839)</display-name>
+            <display-name>United Provinces of Central America (1823–1841)</display-name>
             <territory-id>546</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
         </predecessor>
@@ -4857,36 +4792,6 @@
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-        <other-mention>
-            <display-name>Nicaragua (1838–present)</display-name>
-            <territory-id>172</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/172</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Mexico (1823–present)</display-name>
-            <territory-id>155</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Honduras (1838–present)</display-name>
-            <territory-id>104</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/104</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>El Salvador (1839–present)</display-name>
-            <territory-id>72</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/72</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Costa Rica (1839–present)</display-name>
-            <territory-id>58</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/58</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4946,9 +4851,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>Guyana (1966–present)</display-name>
@@ -4956,16 +4861,16 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/100</url>
         </current-territory>
         <predecessor>
-            <display-name>British Guyana (1815–1966)</display-name>
+            <display-name>Guyana (pre-1776–1966)</display-name>
             <territory-id>292</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/292</url>
         </predecessor>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>Haiti (1804–present)</display-name>
@@ -5014,9 +4919,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>Honduras (1838–present)</display-name>
@@ -5024,7 +4929,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/104</url>
         </current-territory>
         <predecessor>
-            <display-name>United Provinces of Central America (1823–1839)</display-name>
+            <display-name>United Provinces of Central America (1823–1841)</display-name>
             <territory-id>546</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
         </predecessor>
@@ -5038,36 +4943,16 @@
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-        <other-mention>
+        <predecessor>
             <display-name>Nicaragua (1838–present)</display-name>
             <territory-id>172</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/172</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Mexico (1823–present)</display-name>
-            <territory-id>155</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Guatemala (1839–present)</display-name>
-            <territory-id>96</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/96</url>
-        </other-mention>
-        <other-mention>
+        </predecessor>
+        <predecessor>
             <display-name>El Salvador (1839–present)</display-name>
             <territory-id>72</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/72</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Costa Rica (1839–present)</display-name>
-            <territory-id>58</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/58</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5595,9 +5480,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>Jamaica (1962–present)</display-name>
@@ -5610,70 +5495,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
         </predecessor>
         <predecessor>
-            <display-name>Leeward Islands (1672–1960)</display-name>
-            <territory-id>410</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
+            <display-name>Jamaica (pre-1776–1962)</display-name>
+            <territory-id>589</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/589</url>
         </predecessor>
-        <other-mention>
-            <display-name>Federation of the West Indies (1958–1962)</display-name>
-            <territory-id>344</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/344</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Dominica (1493–1958)</display-name>
-            <territory-id>324</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/324</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbuda (1685–1872)</display-name>
-            <territory-id>279</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/279</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1625–1958)</display-name>
-            <territory-id>278</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/278</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua (1493–1872)</display-name>
-            <territory-id>269</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/269</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Virgin Islands, British (1956–present)</display-name>
-            <territory-id>256</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/256</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1962–present)</display-name>
-            <territory-id>22</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/22</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Vincent and the Grenadines (1979–present)</display-name>
-            <territory-id>204</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/204</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Lucia (1962–present)</display-name>
-            <territory-id>201</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/201</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua and Barbuda (1962–present)</display-name>
-            <territory-id>10</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/10</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Grenada (1962–present)</display-name>
-            <territory-id>93</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/93</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Dominica (1962–present)</display-name>
-            <territory-id>68</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/68</url>
-        </other-mention>
+        <predecessor>
+            <display-name>British Windward Islands (1833–1962)</display-name>
+            <territory-id>588</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -8132,15 +7962,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>PosterAO</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-24</reviewed-date>
         </review>
         <current-territory>
             <display-name>Mexico (1823–present)</display-name>
             <territory-id>155</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
         </current-territory>
+        <predecessor>
+            <display-name>The Second Mexican Empire (1863–1867)</display-name>
+            <territory-id>591</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/591</url>
+        </predecessor>
         <predecessor>
             <display-name>The Mexican Empire (1821–1823)</display-name>
             <territory-id>424</territory-id>
@@ -8151,21 +7986,6 @@
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Provinces of Central America (1823–1839)</display-name>
-            <territory-id>546</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Republic of Texas (1836–1845)</display-name>
-            <territory-id>475</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/475</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>

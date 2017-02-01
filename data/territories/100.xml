@@ -4,15 +4,17 @@
     <old-id>guyana</old-id>
     <short-form-name>Guyana</short-form-name>
     <long-form-name>Co-operative Republic of Guyana</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1966</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>292</predecessor>
+        <predecessor rel="independence">292</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Gained independence from Britain in 1966. Formal name changed to the "Co-operative
+        Republic of Guyana" in 1970.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html</source>
     </sources>

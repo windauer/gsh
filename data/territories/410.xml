@@ -4,6 +4,7 @@
     <old-id>leeward-islands-1960</old-id>
     <short-form-name>Leeward Islands</short-form-name>
     <long-form-name>British Leeward Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1672</valid-since>
     <valid-until>1960</valid-until>
@@ -11,7 +12,6 @@
     <predecessors/>
     <successors>
         <successor>256</successor>
-        <successor>566</successor>
         <successor>10</successor>
     </successors>
     <notes/>

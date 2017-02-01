@@ -3,21 +3,29 @@
     <id>546</id>
     <old-id>united-provinces-of-central-america-1839</old-id>
     <short-form-name>United Provinces of Central America</short-form-name>
-    <long-form-name>Central American Federation</long-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>546_1</variant-id>
+            <variant-name>Central American Federation</variant-name>
+            <valid-since>1823</valid-since>
+            <valid-until precision="2">1841</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1823</valid-since>
-    <valid-until>1839</valid-until>
+    <valid-until precision="2">1841</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>424</predecessor>
-        <predecessor>558</predecessor>
+        <predecessor rel="split">424</predecessor>
     </predecessors>
     <successors>
-        <successor>58</successor>
-        <successor>72</successor>
-        <successor>96</successor>
-        <successor>104</successor>
-        <successor>172</successor>
+        <successor rel="split">58</successor>
+        <successor rel="split">72</successor>
+        <successor rel="split">96</successor>
+        <successor rel="split">104</successor>
+        <successor rel="split">172</successor>
     </successors>
     <notes>U.S. recognized independence in 1824</notes>
     <sources>

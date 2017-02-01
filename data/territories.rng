@@ -18,10 +18,16 @@
             </element>
             <element name="long-form-name">
                 <choice>
-                    <text/>
-                    <attribute name="type">
-                        <value>none</value>
-                    </attribute>
+                    <!-- Require non-empty text node http://stackoverflow.com/a/13385628/659732 -->
+                    <data type="string">
+                        <param name="pattern">(.|\n|\r)*\S(.|\n|\r)*</param>
+                    </data>
+                    <group>
+                        <attribute name="type">
+                            <value>none</value>
+                        </attribute>
+                        <empty/>
+                    </group>
                 </choice>
             </element>
             <element name="variants">
@@ -57,6 +63,12 @@
                         <value>unknown</value>
                     </attribute>
                     <group>
+                        <attribute name="type">
+                            <value>pre-1776</value>
+                        </attribute>
+                        <value>1775</value>
+                    </group>
+                    <group>
                         <optional>
                             <attribute name="certainty">
                                 <data type="string"/>
@@ -73,14 +85,23 @@
             </element>
             <element name="valid-until">
                 <choice>
+                    <attribute name="type">
+                        <value>unknown</value>
+                    </attribute>
                     <group>
                         <attribute name="type">
-                            <value>unknown</value>
+                            <value>present</value>
                         </attribute>
+                        <value>9999</value>
                     </group>
                     <group>
                         <optional>
                             <attribute name="certainty">
+                                <data type="string"/>
+                            </attribute>
+                        </optional>
+                        <optional>
+                            <attribute name="precision">
                                 <data type="integer"/>
                             </attribute>
                         </optional>
@@ -140,6 +161,11 @@
             <element name="sources">
                 <oneOrMore>
                     <element name="source">
+                        <optional>
+                            <attribute name="requires-subscription">
+                                <data type="boolean"/>
+                            </attribute>
+                        </optional>
                         <data type="anyURI"/>
                     </element>
                 </oneOrMore>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>592</id>
+    <old-id/>
+    <short-form-name>Kingdom of Ireland</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1801</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">249</successor>
+    </successors>
+    <notes>The Irish Parliament declared Henry VIII and his descendants monarchs of Ireland in 1542,
+        creating a union of the crowns. Ireland was a subsidiary client state to the Kingdoms of
+        England, the Commonwealth, and the Kingdom of Great Britain during this period. Ireland was
+        fully integrated into the United Kingdom in the Acts of Union 1800 which dissolved the Irish
+        Parliament and consolidated political and administrative functions in London.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html</source>
+        <source>https://history.state.gov/countries/ireland</source>
+    </sources>
+</territory>

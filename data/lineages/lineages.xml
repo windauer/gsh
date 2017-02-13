@@ -5292,9 +5292,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BarnumFSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Ireland (1921–present)</display-name>
@@ -5302,9 +5302,14 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/113</url>
         </current-territory>
         <predecessor>
-            <display-name>Irish Free State (?–1921)</display-name>
-            <territory-id>385</territory-id>
+            <display-name>United Kingdom (pre-1776–present)</display-name>
+            <territory-id>249</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/385</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Ireland (pre-1776–1801)</display-name>
+            <territory-id>592</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/592</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -12549,24 +12554,19 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>United Kingdom (1927–present)</display-name>
+            <display-name>United Kingdom (pre-1776–present)</display-name>
             <territory-id>249</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/249</url>
         </current-territory>
         <predecessor>
-            <display-name>United Kingdom of Great Britain and Ireland (1801–1927)</display-name>
-            <territory-id>544</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/544</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Great Britain (1707–1801)</display-name>
-            <territory-id>372</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/372</url>
+            <display-name>Kingdom of Ireland (pre-1776–1801)</display-name>
+            <territory-id>592</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/592</url>
         </predecessor>
     </lineage>
     <lineage>

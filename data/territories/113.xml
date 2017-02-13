@@ -2,18 +2,39 @@
 <territory>
     <id>113</id>
     <old-id>ireland</old-id>
+    <old-id>irish-free-state-TBD</old-id>
     <short-form-name>Ireland</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Republic of Ireland</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Irish Free State</variant-name>
+            <valid-since>1922</valid-since>
+            <valid-until>1937</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1921</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1922</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>385</predecessor>
+        <predecessor rel="independence">249</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>An Irish Republic was declared by revolutionaries in 1919. Although it came to control
+        much of the island of Ireland by 1922 it was never formally recognized by the United
+        Kingdom. The Anglo-Irish Treaty created the Irish Free State in December 1922, an
+        independent nation with commonwealth status. The United States recognized the Irish Free
+        State in 1924. A new constitution which changed the name of the nation from ‘Irish Free
+        State’ to ‘Ireland’ (‘Éire’ in Gaelic) took effect on December 29, 1937. In 1949, through
+        the Republic of Ireland Act, Ireland severed its ties to the commonwealth and the British
+        monarchy and declared that the state ‘shall be described as the Republic of Ireland.’ This
+        distinction may have been adopted in part because the government of the United Kingdom
+        objected to referring to the nation in question as ‘Ireland’ given the distinction between
+        the island and the polities situated upon it.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html</source>
+        <source>https://history.state.gov/countries/ireland</source>
     </sources>
 </territory>

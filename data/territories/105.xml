@@ -3,18 +3,21 @@
     <id>105</id>
     <old-id>hong-kong</old-id>
     <short-form-name>Hong Kong</short-form-name>
-    <long-form-name>Hong Kong Special Administrative Region</long-form-name>
+    <long-form-name>Hong Kong Special Administrative Region of the People’s Republic of China</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1997</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>380</predecessor>
+        <predecessor rel="incorporation">380</predecessor>
     </predecessors>
-    <successors/>
-    <notes>Hong Kong was returned to China in 1997</notes>
+    <successors>
+        <successor rel="incorporation">48</successor>
+    </successors>
+    <notes>Britain returned Hong Kong to China in July 1997.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/hk.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/270971/Hong-Kong</source>
+        <source>https://www.britannica.com/place/Hong-Kong</source>
     </sources>
 </territory>

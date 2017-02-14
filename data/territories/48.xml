@@ -4,15 +4,42 @@
     <old-id>china</old-id>
     <short-form-name>China</short-form-name>
     <long-form-name>People’s Republic of China</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Qing Empire</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1911</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>v2</variant-id>
+            <variant-name>Republic of China</variant-name>
+            <valid-since>1911</valid-since>
+            <valid-until>1949</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>v3</variant-id>
+            <variant-name>People’s Republic of China</variant-name>
+            <valid-since>1949</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1949</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>473</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized in 1979</notes>
+    <notes>The Republic of China was established on January 1, 1912, unseating the Qing Empire. The
+        People’s Republic was established on October 1, 1949, following a civil war; at this time
+        the Republic of China government retreated to Taiwan. The United States maintained
+        diplomatic relations exclusively with the Republic of China government on Taiwan until
+        January 1, 1979.</notes>
     <sources>
         <source>http://history.state.gov/countries/china</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html</source>

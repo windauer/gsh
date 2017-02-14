@@ -2619,25 +2619,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
-            <display-name>China (1949–present)</display-name>
+            <display-name>China (pre-1776–present)</display-name>
             <territory-id>48</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/48</url>
         </current-territory>
-        <predecessor>
-            <display-name>Republic of China (1912–1949)</display-name>
-            <territory-id>473</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/473</url>
-        </predecessor>
-        <predecessor>
-            <display-name>China (1644–1912)</display-name>
-            <territory-id>311</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/311</url>
-        </predecessor>
         <other-mention>
             <display-name>Hong Kong (1842–1997)</display-name>
             <territory-id>380</territory-id>
@@ -4956,9 +4946,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
             <display-name>Hong Kong (1997–present)</display-name>
@@ -4971,30 +4961,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/380</url>
         </predecessor>
         <predecessor>
-            <display-name>China (1644–1912)</display-name>
-            <territory-id>311</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/311</url>
+            <display-name>China (pre-1776–present)</display-name>
+            <territory-id>48</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/48</url>
         </predecessor>
-        <other-mention>
-            <display-name>Macau (1553–present)</display-name>
-            <territory-id>142</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/142</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Formosa (1590–1683)</display-name>
-            <territory-id>347</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/347</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Taiwan (1895–1945)</display-name>
-            <territory-id>523</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/523</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Republic of China (1912–1949)</display-name>
-            <territory-id>473</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/473</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>

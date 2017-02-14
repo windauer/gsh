@@ -4,16 +4,19 @@
     <old-id>mongolia</old-id>
     <short-form-name>Mongolia</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1921</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>449</predecessor>
+        <predecessor rel="independence">449</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Mongolia declared independence from China in 1921. Mongolia fell under the influence, but not
+        direct rule, of the Soviet Union, but this relationship ended in the early 1990s.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html</source>
+        <source>https://www.britannica.com/topic/Mongol</source>
     </sources>
 </territory>

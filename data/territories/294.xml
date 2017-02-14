@@ -2,21 +2,25 @@
 <territory>
     <id>294</id>
     <old-id>british-solomon-islands-1975</old-id>
-    <short-form-name>British Solomon Islands</short-form-name>
+    <short-form-name>Solomon Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1893</valid-since>
-    <valid-until>1975</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1978</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>386</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>217</successor>
+        <successor rel="independence">217</successor>
     </successors>
-    <notes/>
+    <notes>In 1886 Germany and Great Britain, whose settlers and missionaries had established roots,
+        divided the Solomon Islands. In 1899, Germany transferred all but Buka and Bougainville to
+        Great Britain. In 1893, Great Britain declared the Solomon Islands a protectorate. The
+        Solomon Islands gained self-rule in 1976 and independence in 1978.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bp.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/553556/Solomon-Islands/53970/History</source>
+        <source>https://www.britannica.com/place/Solomon-Islands</source>
+        <source>https://www.state.gov/s/inr/rls/4250.htm</source>
+        <source>https://www.state.gov/r/pa/ei/bgn/2799.htm</source>
     </sources>
 </territory>

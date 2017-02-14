@@ -343,11 +343,6 @@
             <territory-id>569</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/569</url>
         </predecessor>
-        <other-mention>
-            <display-name>Western Samoa (1899–1962)</display-name>
-            <territory-id>568</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/568</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -8242,9 +8237,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Mongolia (1921–present)</display-name>
@@ -8394,9 +8389,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Nauru (1968–present)</display-name>
@@ -8484,9 +8479,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>New Zealand (1907–present)</display-name>
@@ -8494,7 +8489,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/171</url>
         </current-territory>
         <predecessor>
-            <display-name>New Zealand (1774–1907)</display-name>
+            <display-name>New Zealand (pre-1776–1907)</display-name>
             <territory-id>438</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/438</url>
         </predecessor>
@@ -8866,9 +8861,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Palau (1994–present)</display-name>
@@ -8880,26 +8875,6 @@
             <territory-id>535</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/535</url>
         </predecessor>
-        <other-mention>
-            <display-name>Palau District (1947–1981)</display-name>
-            <territory-id>450</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/450</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Northern Mariana Islands (1986–present)</display-name>
-            <territory-id>177</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/177</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Micronesia, Federated States of (1986–present)</display-name>
-            <territory-id>156</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/156</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Marshall Islands (1986–present)</display-name>
-            <territory-id>150</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/150</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -8972,9 +8947,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Papua New Guinea (1975–present)</display-name>
@@ -8982,7 +8957,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/184</url>
         </current-territory>
         <predecessor>
-            <display-name>Territory of Papua and New Guinea (1949–1975)</display-name>
+            <display-name>Territory of Papua and New Guinea (1945–1975)</display-name>
             <territory-id>525</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/525</url>
         </predecessor>
@@ -9070,9 +9045,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Philippines (1946–present)</display-name>
@@ -9080,7 +9055,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/188</url>
         </current-territory>
         <predecessor>
-            <display-name>Philippines (1565–1946)</display-name>
+            <display-name>Philippines (pre-1776–1946)</display-name>
             <territory-id>459</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/459</url>
         </predecessor>
@@ -9900,9 +9875,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Samoa (1997–present)</display-name>
@@ -9918,11 +9893,6 @@
             <display-name>American Samoa (1900–present)</display-name>
             <territory-id>5</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/5</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Western Samoa (1899–1962)</display-name>
-            <territory-id>568</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/568</url>
         </other-mention>
     </lineage>
     <lineage>
@@ -10288,7 +10258,7 @@
         <review>
             <status>unreviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Singapore (1965–present)</display-name>
@@ -10459,24 +10429,19 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Solomon Islands (1975–present)</display-name>
+            <display-name>Solomon Islands (1978–present)</display-name>
             <territory-id>217</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/217</url>
         </current-territory>
         <predecessor>
-            <display-name>British Solomon Islands (1893–1975)</display-name>
+            <display-name>Solomon Islands (pre-1776–1978)</display-name>
             <territory-id>294</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/294</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Islas de Solomón (1568–1893)</display-name>
-            <territory-id>386</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/386</url>
         </predecessor>
     </lineage>
     <lineage>

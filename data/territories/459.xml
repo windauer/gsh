@@ -4,17 +4,32 @@
     <old-id>philippines-1946</old-id>
     <short-form-name>Philippines</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Commonwealth of the Philippines</variant-name>
+            <valid-since>1936</valid-since>
+            <valid-until>1946</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1565</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1946</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>188</successor>
+        <successor rel="independence">188</successor>
     </successors>
-    <notes>From U.S. in 1946; From Spain in 1898</notes>
+    <notes>The Philippines was a colony of Spain from 1565 until 1898 and of the United States from
+        1898 until 1946. The 1934 Tydings-McDuffie Act established the Philippines as the
+        Commonwealth of the Philippines and called for a 10 year transition period from 1936 until
+        independence in 1946.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/456399/Philippines</source>
+        <source>https://www.britannica.com/place/Philippines</source>
+        <source>https://www.state.gov/s/inr/rls/4250.htm</source>
+        <source>http://www.loc.gov/rr/frd/cs/profiles/Philippines.pdf</source>
+        <source>https://www.loc.gov/item/92039812/</source>
     </sources>
 </territory>

@@ -3,16 +3,20 @@
     <id>569</id>
     <old-id>western-samoa-1997</old-id>
     <short-form-name>Western Samoa</short-form-name>
-    <long-form-name>State of Western Samoa</long-form-name>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
-    <valid-until>1997</valid-until>
+    <valid-since>1899</valid-since>
+    <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>205</successor>
+        <successor rel="independence">205</successor>
     </successors>
-    <notes>U.S. recognized independence in 1962</notes>
+    <notes>In the 1850s, U.S., German, and British settlers on Samoa began lobbying their respective
+        countries to annex Samoa. In 1899, the United States annexed Eastern Samoa, referred to as
+        American Samoa. In the same year, Germany annexed Western Samoa, which it controlled until
+        1914, at which time it fell under New Zealand’s control.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html</source>
         <source>http://history.state.gov/countries/samoa</source>

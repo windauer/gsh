@@ -4,21 +4,22 @@
     <old-id>trust-territory-of-pacific-islands-1986</old-id>
     <short-form-name>Trust Territory of the Pacific Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1947</valid-since>
     <valid-until>1986</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"></predecessors>
     <successors>
         <successor>150</successor>
         <successor>156</successor>
-        <successor>181</successor>
+        <successor rel="independence">181</successor>
         <successor>177</successor>
     </successors>
-    <notes/>
+    <notes>The Trust Territory of the Pacific was established after World War II.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/437672/Trust-Territory-of-the-Pacific-Islands</source>
+        <source>https://www.britannica.com/place/Trust-Territory-of-the-Pacific-Islands</source>
     </sources>
 </territory>

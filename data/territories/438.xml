@@ -4,17 +4,21 @@
     <old-id>new-zealand-1907</old-id>
     <short-form-name>New Zealand</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1774</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1907</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"></predecessors>
     <successors>
-        <successor>171</successor>
+        <successor rel="independence">171</successor>
     </successors>
-    <notes>Known as Aotearoa to native Maori.  Has been known to settlers as New Zealand throughout the English settlement period.</notes>
+    <notes>Known as ‘Aotearoa’ in Maori. According to the Encyclopedia Britannica, a Dutch explorer
+        identified New Zealand as early as 1642. The Dutch East India Company coined the name “New
+        Zealand” in 1643. Captain Cook identified New Zealand in 1769-70 and claimed it in the name
+        of Great Britain.</notes>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/412636/New-Zealand</source>
+        <source>http://www.teara.govt.nz/en/european-discovery-of-new-zealand</source>
+        <source>https://www.britannica.com/place/New-Zealand</source>
     </sources>
 </territory>

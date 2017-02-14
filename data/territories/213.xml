@@ -4,16 +4,24 @@
     <old-id>singapore</old-id>
     <short-form-name>Singapore</short-form-name>
     <long-form-name>Republic of Singapore</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1965</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>419</predecessor>
+        <predecessor rel="independence">419</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Singapore was established in 1299. In 1511, the Johor Sultanate took control of Singapore
+        until 1818. In 1819, Singapore was claimed by the British East India Company. In 1824, Great
+        Britain recognized Singapore as a Crown Colony. In 1958, Great Britain elevated the status
+        of Singapore to that of state. Singapore joined the Federation of Malaysia in 1963. In 1965,
+        Singapore declared itself and independent state. The United States recognized Singapore’s
+        independence that same year.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sn.html</source>
+        <source>https://www.britannica.com/place/Singapore</source>
+        <source>https://www.state.gov/s/inr/rls/4250.htm</source>
     </sources>
 </territory>

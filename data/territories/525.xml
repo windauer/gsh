@@ -3,17 +3,25 @@
     <id>525</id>
     <old-id>territory-of-papua-and-new-guinea-TBD</old-id>
     <short-form-name>Territory of Papua and New Guinea</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1949</valid-since>
+    <valid-since>1945</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>184</successor>
+        <successor rel="independence">184</successor>
     </successors>
-    <notes/>
+    <notes>Germany controlled German New Guinea from 1884 until 1921, at which point Australia took
+        control over the territory. Great Britain controlled British New Guinea from 1884 until
+        1905; from 1906 until 1945, Australia controlled the territory, renaming it Territory of
+        Papua. The two territories were combined under Australian control as the Territory of Papua
+        New Guinea from 1945 until 1949. Note: The sources cited here disagree on some of these
+        dates.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pp.html</source>
+        <source>https://www.britannica.com/place/Papua-New-Guinea</source>
+        <source>http://www.pngembassy.org/history.html</source>
     </sources>
 </territory>

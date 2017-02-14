@@ -3,17 +3,33 @@
     <id>205</id>
     <old-id>samoa</old-id>
     <short-form-name>Samoa</short-form-name>
-    <long-form-name>independent-state of Samoa</long-form-name>
+    <long-form-name>Independent State of Samoa</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Western Samoa</variant-name>
+            <valid-since>1962</valid-since>
+            <valid-until>1997</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1997</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1962</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>569</predecessor>
+        <predecessor rel="independence">569</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In the 1850s, U.S., German, and British settlers on Samoa began lobbying their respective
+        countries to annex Samoa. In 1899, the United States annexed Eastern Samoa, referred to as
+        American Samoa. In the same year, Germany annexed Western Samoa, which it controlled until
+        1914, at which time it fell under New Zealand’s control. In 1962, Western Samoa gained its
+        independence and in 1997, dropped the ‘Western’ appellation, officially changing its name to
+        Independent State of Samoa.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html</source>
+        <source>https://www.britannica.com/place/Samoa-island-nation-Pacific-Ocean</source>
+        <source>https://www.state.gov/s/inr/rls/4250.htm</source>
     </sources>
 </territory>

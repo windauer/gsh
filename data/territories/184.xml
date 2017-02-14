@@ -3,17 +3,21 @@
     <id>184</id>
     <old-id>papua-new-guinea</old-id>
     <short-form-name>Papua New Guinea</short-form-name>
-    <long-form-name>independent-state of Papua New Guinea</long-form-name>
+    <long-form-name>Independent State of Papua New Guinea</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1975</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>525</predecessor>
+        <predecessor rel="independence">525</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In 1975, Papua New Guinea gained its independence from Australia, which had administered
+        Papua New Guinea following World War II.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pp.html</source>
+        <source>https://www.britannica.com/place/Papua-New-Guinea</source>
+        <source>https://www.state.gov/s/inr/rls/4250.htm</source>
     </sources>
 </territory>

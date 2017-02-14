@@ -3869,12 +3869,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ChalouMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2016-11-28</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Faroe Islands (1225–present)</display-name>
+            <display-name>Faroe Islands (pre-1776–present)</display-name>
             <territory-id>78</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/78</url>
         </current-territory>
@@ -4620,12 +4620,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ChalouMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-10</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Greenland (985–present)</display-name>
+            <display-name>Greenland (pre-1776–present)</display-name>
             <territory-id>92</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/92</url>
         </current-territory>
@@ -5209,9 +5209,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ChalouMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Isle of Man (1765–present)</display-name>

@@ -4,14 +4,26 @@
     <old-id>faroe-islands</old-id>
     <short-form-name>Faroe Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Faeroe Islands</variant-name>
+            <valid-since/>
+            <valid-until/>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1225</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Part of the Kingdom of Denmark.</notes>
+    <notes>The Faroe Islands were initally Norwegian territory, and became part of Denmark-Norway
+        when the two kingdoms united in 1380. In 1814, the Treaty of Kiel separated the Denmark and
+        Norway, after which the Faroe Islands remained territory of the Kingdom of Denmark.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html</source>
+        <source>https://www.britannica.com/place/Faroe-Islands-Atlantic-Ocean</source>
     </sources>
 </territory>

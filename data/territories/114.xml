@@ -4,14 +4,16 @@
     <old-id>isle-of-man</old-id>
     <short-form-name>Isle of Man</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1765</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Dependent of the British Crown</notes>
+    <notes>Dependency of the British Crown. Gained Home Rule in 1866.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/im.html</source>
+        <source>https://www.britannica.com/place/Isle-of-Man</source>
     </sources>
 </territory>

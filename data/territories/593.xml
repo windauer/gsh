@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>266</id>
-    <old-id>alaungpaya-dynasty-1885</old-id>
-    <short-form-name>Burma</short-form-name>
-    <long-form-name>Konbaung Dynasty of Burma</long-form-name>
+    <id>593</id>
+    <old-id/>
+    <short-form-name>Cambodia</short-form-name>
+    <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
-    <valid-until>1885</valid-until>
+    <valid-until>1887</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
-        <successor rel="incorporation">288</successor>
+        <successor rel="incorporation">383</successor>
     </successors>
     <notes/>
     <sources>
-        <source>https://www.britannica.com/place/Myanmar</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
     </sources>
 </territory>

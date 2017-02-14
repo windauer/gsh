@@ -4,17 +4,19 @@
     <old-id>british-burma-1948</old-id>
     <short-form-name>British Burma</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1885</valid-since>
+    <valid-since>1886</valid-since>
     <valid-until>1948</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>266</predecessor>
+        <predecessor rel="incorporation">266</predecessor>
     </predecessors>
     <successors>
-        <successor>301</successor>
+        <successor rel="independence">38</successor>
     </successors>
-    <notes/>
+    <notes>Established January 1, 1886. The Union of Burma became indpendent on January 4,
+        1948.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/349870/Lower-Burma</source>
     </sources>

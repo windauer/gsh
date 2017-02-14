@@ -4,17 +4,20 @@
     <old-id>indonesia</old-id>
     <short-form-name>Indonesia</short-form-name>
     <long-form-name>Republic of Indonesia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1945</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>431</predecessor>
+        <predecessor rel="independence">327</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1949</notes>
+    <notes>In August 1945 Sukarno declared independence and was appointed president of Indonesia.
+        The Dutch government did not recognize independence until 1949, and the United Staets
+        followed suit.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/id.html</source>
-        <source>http://history.state.gov/countries/indonesia</source>
+        <source>https://history.state.gov/countries/indonesia</source>
     </sources>
 </territory>

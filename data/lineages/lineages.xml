@@ -1968,12 +1968,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Brunei (1450–present)</display-name>
+            <display-name>Brunei (pre-1776–present)</display-name>
             <territory-id>35</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/35</url>
         </current-territory>
@@ -2159,32 +2159,22 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Burma (1988–present)</display-name>
+            <display-name>Burma (1948–present)</display-name>
             <territory-id>38</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/38</url>
         </current-territory>
-        <predecessor>
-            <display-name>Socialist Republic of the Union of Burma (1962–1988)</display-name>
-            <territory-id>502</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/502</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Burma (1948–1962)</display-name>
-            <territory-id>301</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/301</url>
-        </predecessor>
         <predecessor>
             <display-name>British Burma (1885–1948)</display-name>
             <territory-id>288</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/288</url>
         </predecessor>
         <predecessor>
-            <display-name>Alaungpaya Dynasty (1752–1885)</display-name>
+            <display-name>Burma (pre-1776–1885)</display-name>
             <territory-id>266</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/266</url>
         </predecessor>
@@ -2233,12 +2223,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Cambodia (1949–present)</display-name>
+            <display-name>Cambodia (1993–present)</display-name>
             <territory-id>40</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/40</url>
         </current-territory>
@@ -2248,70 +2238,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/455</url>
         </predecessor>
         <predecessor>
-            <display-name>Democratic Kampuchea (1976–1979)</display-name>
-            <territory-id>322</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/322</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Khmer Republic (1970–1976)</display-name>
-            <territory-id>393</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/393</url>
-        </predecessor>
-        <predecessor>
-            <display-name>State of Cambodia (1958–1959)</display-name>
+            <display-name>Cambodia (1953–1979)</display-name>
             <territory-id>518</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/518</url>
         </predecessor>
         <predecessor>
-            <display-name>French Indochina (1887–1950)</display-name>
+            <display-name>French Indochina (1887–1953)</display-name>
             <territory-id>383</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/383</url>
         </predecessor>
         <predecessor>
-            <display-name>French Cochinchina (1862–1887)</display-name>
-            <territory-id>312</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/312</url>
+            <display-name>Cambodia (pre-1776–1887)</display-name>
+            <territory-id>593</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/593</url>
         </predecessor>
-        <predecessor>
-            <display-name>Vietnam (1802–1862)</display-name>
-            <territory-id>562</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/562</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Dai Viet (1009–1802)</display-name>
-            <territory-id>320</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/320</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Luang (1707–1752)</display-name>
-            <territory-id>413</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/413</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Lan Xang (?–1707)</display-name>
-            <territory-id>407</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/407</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Laos (1950–present)</display-name>
-            <territory-id>133</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/133</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Champasak (1707–1778)</display-name>
-            <territory-id>310</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/310</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Vietenne (1707–1782)</display-name>
-            <territory-id>561</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/561</url>
-        </other-mention>
-        <other-mention>
-            <display-name>State of Vietnam (1949–1955)</display-name>
-            <territory-id>519</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/519</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -2877,18 +2817,13 @@
         <review>
             <status>unreviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Cook Islands (1777–present)</display-name>
+            <display-name>Cook Islands (pre-1776–present)</display-name>
             <territory-id>56</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/56</url>
         </current-territory>
-        <predecessor>
-            <display-name>Harvey Islands (1773–1888)</display-name>
-            <territory-id>377</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/377</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5056,9 +4991,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
             <display-name>Indonesia (1945–present)</display-name>
@@ -5066,15 +5001,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/110</url>
         </current-territory>
         <predecessor>
-            <display-name>Netherlands East Indies (1684–1945)</display-name>
-            <territory-id>431</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/431</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Dutch East Indies (1684–1945)</display-name>
+            <display-name>Dutch East Indies (pre-1776–1949)</display-name>
             <territory-id>327</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/327</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>

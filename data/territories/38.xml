@@ -2,17 +2,43 @@
 <territory>
     <id>38</id>
     <old-id>burma</old-id>
+    <old-id>socialist-republic-of-union-of-burma-1988</old-id>
+    <old-id>burma-1962</old-id>
     <short-form-name>Burma</short-form-name>
     <long-form-name>Union of Burma</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Union of Burma</variant-name>
+            <valid-since>1948</valid-since>
+            <valid-until>1962</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>v2</variant-id>
+            <variant-name>Socialist Republic of the Union of Burma</variant-name>
+            <valid-since>1962</valid-since>
+            <valid-until>1988</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>v3</variant-id>
+            <variant-name>Myanmar</variant-name>
+            <valid-since>1989</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1988</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1948</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor>502</predecessor>
     </predecessors>
     <successors/>
-    <notes>The U.S. does not recognize the name Myanmar</notes>
+    <notes>Achieved independence on January 4, 1948. Since 1989 Burmese authorities have promoted
+        use of the name Myanmar. The United States, however, has not adopted the name.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html</source>
         <source>http://www.britannica.com/EBchecked/topic/400119/Myanmar</source>

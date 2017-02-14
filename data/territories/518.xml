@@ -2,22 +2,46 @@
 <territory>
     <id>518</id>
     <old-id>state-of-cambodia-1993</old-id>
-    <short-form-name>State of Cambodia</short-form-name>
+    <short-form-name>Cambodia</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>v1</variant-id>
+            <variant-name>Kingdom of Cambodia</variant-name>
+            <valid-since>1953</valid-since>
+            <valid-until>1970</valid-until>
+            <note>November 9, 1953 – 1970</note>
+        </variant>
+        <variant>
+            <variant-id>v2</variant-id>
+            <variant-name>Khmer Republic</variant-name>
+            <valid-since>1970</valid-since>
+            <valid-until>1975</valid-until>
+            <note>1970 – April 1975</note>
+        </variant>
+        <variant>
+            <variant-id>v3</variant-id>
+            <variant-name>Democratic Kampuchea</variant-name>
+            <valid-since>1975</valid-since>
+            <valid-until>1979</valid-until>
+            <note>April 1975 – January 1979</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1958</valid-since>
-    <valid-until>1959</valid-until>
+    <valid-since>1953</valid-since>
+    <valid-until>1979</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>383</predecessor>
-        <predecessor>393</predecessor>
-        <predecessor>322</predecessor>
-        <predecessor>455</predecessor>
+        <predecessor rel="independence">383</predecessor>
     </predecessors>
     <successors>
-        <successor>40</successor>
+        <successor rel="incorporation">455</successor>
     </successors>
-    <notes/>
+    <notes>The United States recognized Cambodia as an independent state on February 7, 1950. On
+        November 9, 1953 Cambodia and France reached final agreement on independence, and King Norodom
+        Sihanouk returned to power in Phnom Penh. The United States ended diplomatic relations with
+        Cambodia in April 1975 with the emergence of Democratic Kampuchea under the control of Pol
+        Pot.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html</source>
     </sources>

@@ -3,10 +3,10 @@
     <id>383</id>
     <old-id>indochina-1950</old-id>
     <short-form-name>French Indochina</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Indochinese Union</long-form-name>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1887</valid-since>
-    <valid-until>1950</valid-until>
+    <valid-until>1953</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>320</predecessor>
@@ -16,9 +16,9 @@
     <successors>
         <successor>519</successor>
         <successor>133</successor>
-        <successor>518</successor>
+        <successor rel="independence">518</successor>
     </successors>
-    <notes/>
+    <notes></notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
         <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/123532/Cochinchina</source>

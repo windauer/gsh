@@ -13,6 +13,20 @@
             <valid-until>1937</valid-until>
             <note/>
         </variant>
+        <variant>
+            <variant-id>v2</variant-id>
+            <variant-name>Ireland</variant-name>
+            <valid-since>1937</valid-since>
+            <valid-until>1949</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>v3</variant-id>
+            <variant-name>Republic of Ireland</variant-name>
+            <valid-since>1949</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note/>
+        </variant>
     </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1922</valid-since>

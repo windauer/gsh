@@ -4,15 +4,25 @@
     <old-id>cayman-islands</old-id>
     <short-form-name>Cayman Islands</short-form-name>
     <long-form-name>Cayman Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1530</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors/>
     <successors/>
-    <notes>Overseas territory of the UK; since 1962</notes>
+    <notes>From the 18th century, the Cayman Islands was regarded as a dependency of the British
+        colony of Jamaica, a relationship that was formalized with their merger in 1863. In 1958,
+        Jamaica joined the Federation of the West Indies, a group of British Caribbean colonies
+        granted domestic self-government as a step along the path to independence. In 1962, the
+        Cayman Islands became a discrete British colony when Jamaica became independent and the
+        Federation of the West Indies was dissolved. As a result of the adoption of its constitution
+        in 1972, and subsequent revisions in 1994 and 2009, the Cayman Islands gained sovereignty
+        over its domestic affairs.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cj.html</source>
         <source>http://www.britannica.com/EBchecked/topic/100807/Cayman-Islands</source>
+        <source>http://www.gov.ky/portal/page/portal/cighome/cayman/islands/history</source>
+        <source>https://www.loc.gov/item/88600483</source>
     </sources>
 </territory>

@@ -4,17 +4,20 @@
     <old-id>dominica</old-id>
     <short-form-name>Dominica</short-form-name>
     <long-form-name>Commonwealth of Dominica</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1962</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1978</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>566</predecessor>
+        <predecessor rel="independence">324</predecessor>
     </predecessors>
     <successors/>
-    <notes>Gained independence in 1978</notes>
+    <notes>On November 3, 1978, Dominica achieved independence as a republic.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/do.html</source>
         <source>http://www.britannica.com/EBchecked/topic/168667/Dominica</source>
+        <source>https://www.loc.gov/item/88600483</source>
+        <source>http://thecommonwealth.org/our-member- countries/dominica/history</source>
     </sources>
 </territory>

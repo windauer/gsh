@@ -4,17 +4,30 @@
     <old-id>dominica-1958</old-id>
     <short-form-name>Dominica</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1493</valid-since>
-    <valid-until>1958</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1978</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
-        <successor>566</successor>
-        <successor>68</successor>
+        <successor rel="independence">68</successor>
     </successors>
-    <notes/>
+    <notes>In 1763, Great Britain gained sovereignty over Dominica, formerly a French colony, as a
+        result of the Treaty of Paris. The following year, Dominica was merged with several other
+        British colonies into a single colonial unit, the Southern Caribbee Islands. In 1771,
+        Dominica was designated a discrete British colony. In 1778, during the American
+        Revolutionary War, France regained control over Dominica, but returned the island to Great
+        Britain at the end of the war in 1783. In 1871, Dominica was incorporated into the Federal
+        Colony of the Leeward Islands, of which it remained a part until 1940, when it was
+        incorporated into the Federal Colony of the Windward Islands. ● In 1958, Dominica joined the
+        Federation of the West Indies, a group of British Caribbean colonies granted domestic
+        self-government as a step along the path to independence. When the Federation dissolved in
+        1962, Dominica did not become independent, instead becoming a discrete British colony. In
+        1967, Dominica gained sovereignty over its domestic affairs as an Associated State.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/168667/Dominica</source>
+        <source>https://www.loc.gov/item/88600483</source>
+        <source>http://thecommonwealth.org/our-member- countries/dominica/history</source>
     </sources>
 </territory>

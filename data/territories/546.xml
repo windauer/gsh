@@ -10,7 +10,7 @@
             <variant-name>Central American Federation</variant-name>
             <valid-since>1823</valid-since>
             <valid-until precision="2">1841</valid-until>
-            <note></note>
+            <note/>
         </variant>
     </variants>
     <type-of-territory>independent-state</type-of-territory>
@@ -27,7 +27,8 @@
         <successor rel="split">104</successor>
         <successor rel="split">172</successor>
     </successors>
-    <notes>U.S. recognized independence in 1824</notes>
+    <notes>In 1823, Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua left the Empire of
+        Mexico, forming the United Provinces of Central America.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html</source>
         <source>http://history.state.gov/countries/costa-rica</source>

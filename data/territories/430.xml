@@ -4,19 +4,22 @@
     <old-id>netherlands-antilles-2010</old-id>
     <short-form-name>Netherlands Antilles</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1954</valid-since>
     <valid-until>2010</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>316</predecessor>
+        <predecessor rel="merger">316</predecessor>
     </predecessors>
     <successors>
-        <successor>214</successor>
-        <successor>13</successor>
-        <successor>62</successor>
+        <successor rel="split">214</successor>
+        <successor rel="split">13</successor>
+        <successor rel="split">62</successor>
     </successors>
-    <notes/>
+    <notes>In 1954, the colonies of the Netherlands Antilles and Aruba were merged into a single
+        entity called the Netherlands Antilles, a constituent country within the Kingdom of the
+        Netherlands.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
         <source>http://www.britannica.com/EBchecked/topic/1473830/Sint-Maarten</source>

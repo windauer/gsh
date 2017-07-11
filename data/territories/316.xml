@@ -4,21 +4,28 @@
     <old-id>curacao-and-dependencies-1954</old-id>
     <short-form-name>Curacao and Dependencies</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1807</valid-since>
+    <valid-since>1815</valid-since>
     <valid-until>1954</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>315</predecessor>
+        <predecessor rel="merger">315</predecessor>
     </predecessors>
     <successors>
-        <successor>430</successor>
-        <successor>214</successor>
-        <successor>62</successor>
+        <successor rel="split">430</successor>
     </successors>
-    <notes>A combination of several dependent territories the Dutch retook from other colonizing powers in 1807.</notes>
+    <notes>In 1815, the colonies of Aruba, Bonaire, and Curaçao were merged into a single colony,
+        Curaçao and Dependencies. In 1828, seven Dutch colonies—Aruba, Bonaire, Curaçao, Saba, Sint
+        Eustatius, Sint Maarten, and Suriname—were combined into a single colony, Dutch West Indies,
+        governed out of Paramaribo, Suriname. In 1845, the Dutch West Indies was divided into two
+        separate colonies, Suriname and Curaçao and Dependencies; the latter included Aruba,
+        Bonaire, Curaçao, Saba, Sint Eustatius, and Sint Maarten. In 1948, the colony’s name was
+        changed to the Netherlands Antilles.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cw.hi</source>
+        <source requires-subscription="true">http://www.europaworld.com.proxy.lib.umich.edu/entry/cw.hi</source>
+        <source>https://www.britannica.com/place/Curacao</source>
+        <source>https://www.britannica.com/place/Netherlands-Antilles</source>
     </sources>
 </territory>

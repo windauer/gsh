@@ -6,14 +6,19 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1739</valid-since>
-    <valid-until certainty="4">1821</valid-until><!-- Really, it's 1819 or 1823... -->
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until certainty="4">1819</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
         <successor rel="independence">370</successor>
+        <successor rel="independence">595</successor>
     </successors>
-    <notes/>
+    <notes>From 1538 to 1717, the colony was known as the New Kingdom of Granada, a subunit of the
+        Viceroyalty of Peru after the latter’s creation in 1544. In 1717, the Viceroyalty of the New
+        Kingdom of Granada was established, comprised of Colombia, Ecuador, Panama, and Venezuela.
+        It was succeeded in 1723 by the Presidency of the New Kingdom of Granada. Finally, in 1739,
+        the Viceroyalty of the New Kingdom of Granada was reestablished.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/411531/Viceroyalty-of-New-Granada</source>
     </sources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>595</id>
+    <old-id/>
+    <short-form-name>Cundinamarca</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1811</valid-since>
+    <valid-until>1816</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="independence">557</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">370</successor>
+        <successor rel="incorporation">557</successor>
+    </successors>
+    <notes>In 1810, local juntas wrested control from Spanish authorities throughout the
+        viceroyalty, including in Bogota on July 20, the day celebrated in Colombia as its
+        independence day. While some areas within the viceroyalty remained loyal to Spain, others
+        broke away. In 1811, Cundinamarca and the United Provinces of New Granada were established,
+        formally declaring independence from Spain between 1811 and 1813; in 1814, Cundinamarca was
+        integrated into the United Provinces of New Granada.</notes>
+    <sources>
+        <source>https://www.loc.gov/item/2010009203/</source>
+    </sources>
+</territory>

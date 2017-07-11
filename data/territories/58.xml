@@ -6,14 +6,14 @@
     <long-form-name>Republic of Costa Rica</long-form-name>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1839</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1838</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">546</predecessor>
     </predecessors>
     <successors/>
-    <notes> Formally declared independence in 1848; U.S. recognized independence in 1849</notes>
+    <notes> Formally declared independence in 1838. The United States recognized independence in 1849</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html</source>
         <source>http://history.state.gov/countries/costa-rica</source>

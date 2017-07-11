@@ -4,19 +4,23 @@
     <old-id>curacao</old-id>
     <short-form-name>Curaçao</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>2010</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>430</predecessor>
-        <predecessor>316</predecessor>
-        <predecessor>315</predecessor>
+        <predecessor rel="split">430</predecessor>
     </predecessors>
     <successors/>
-    <notes>Constituent country within the Kingdom of the Netherlands</notes>
+    <notes>On October 10, 2010, the Netherlands Antilles was dissolved. Curaçao became a separate
+        constituent country within the Kingdom of the Netherlands, gaining sovereignty over its
+        domestic affairs while the Netherlands retained control over its defense and foreign
+        affairs.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cc.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cw.hi</source>
+        <source requires-subscription="true">http://www.europaworld.com.proxy.lib.umich.edu/entry/cw.hi</source>
+        <source>https://www.britannica.com/place/Curacao</source>
+        <source>https://www.britannica.com/place/Netherlands-Antilles</source>
     </sources>
 </territory>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>594</id>
+    <old-id/>
+    <short-form-name>Spanish Haiti</short-form-name>
+    <long-form-name>Republic of Spanish Haiti</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1821</valid-since>
+    <valid-until>1822</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="independence">491</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="incorporation">101</successor>
+    </successors>
+    <notes>In late 1821, Santo Domingo declared its independence from Spain under the name of
+        Spanish Haiti. By early 1822, however, Haitian forces had established control of the
+        fledgling nation.</notes>
+    <sources>
+        <source>https://www.loc.gov/item/2001023524/</source>
+    </sources>
+</territory>

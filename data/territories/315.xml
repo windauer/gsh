@@ -4,19 +4,19 @@
     <old-id>curacao-1807</old-id>
     <short-form-name>Curaçao</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
-    <valid-until>1807</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>316</successor>
-        <successor>430</successor>
-        <successor>214</successor>
-        <successor>62</successor>
+        <successor rel="merger">316</successor>
     </successors>
-    <notes>Changed owners several times but never name until the Dutch retook the island in 1807.</notes>
+    <notes>The Dutch West India Company established control over Curaçao in 1634.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cc.html</source>
+        <source>https://www.britannica.com/place/Curacao</source>
+        <source>https://www.britannica.com/place/Netherlands-Antilles</source>
     </sources>
 </territory>

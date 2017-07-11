@@ -7,7 +7,7 @@
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1819</valid-since>
-    <valid-until certainty="1">1830</valid-until><!-- Really, it's 1830 or 1831 -->
+    <valid-until precision="1">1830</valid-until><!-- Really, it's 1830 or 1831 -->
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="independence">557</predecessor>
@@ -15,10 +15,11 @@
     <successors>
         <successor rel="split">254</successor>
         <successor rel="split">70</successor>
-        <successor rel="split">434</successor>
-    </successors>
-    <notes/>
+        <successor rel="split">52</successor>
+     </successors>
+    <notes>In 1830, Venezuela and Ecuador seceded from the republic.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/241012/Gran-Colombia</source>
+        <source>https://www.loc.gov/item/2010009203/</source>
     </sources>
 </territory>

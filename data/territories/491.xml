@@ -4,16 +4,19 @@
     <old-id>santo-domingo-1844</old-id>
     <short-form-name>Santo Domingo</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1496</valid-since>
-    <valid-until>1844</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1821</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>69</successor>
+     <successor rel="independence">594</successor>
     </successors>
-    <notes/>
+    <notes>Christopher Columbus landed on the island of Hispaniola in 1492, establishing the first
+        permanent Spanish settlement at Santo Domingo.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/523322/Santo-Domingo</source>
+        <source>https://www.loc.gov/item/2001023524/</source>
     </sources>
 </territory>

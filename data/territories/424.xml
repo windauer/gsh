@@ -3,7 +3,7 @@
     <id>424</id>
     <old-id>mexican-empire-1823</old-id>
     <short-form-name>The Mexican Empire</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>The Empire of Mexico</long-form-name>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1821</valid-since>
@@ -16,7 +16,10 @@
         <successor rel="split">155</successor>
         <successor rel="split">546</successor>
     </successors>
-    <notes/>
+    <notes>On September 15, 1821, the Kingdom of Guatemala—comprised of Costa Rica, El Salvador,
+        Guatemala (including Belize), Honduras, Nicaragua, and the Mexican province of
+        Chiapas—declared independence from Spain; the following year, it was incorporated into the
+        Empire of Mexico.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/379167/Mexico/27357/The-Mexican-Empire-1821-23?anchor=ref1103120</source>
     </sources>

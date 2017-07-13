@@ -4,17 +4,19 @@
     <old-id>brazil-1815</old-id>
     <short-form-name>Brazil</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since precision="25">1625</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>545</successor>
-        <successor>337</successor>
-        <successor>33</successor>
+        <successor rel="incorporation">545</successor>
     </successors>
-    <notes>Portuguese colony</notes>
+    <notes>Portuguese colony until 1815. In 1807, the Portuguese prince regent (later King John or
+        Dom Joao) moved his court to Brazil to escape the dangers of the Napoleonic period. His 1815
+        decree created the United Kingdom of Portugal, Brazil, and the Algarves, making Brazil
+        coequal with Portugal.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/78101/Brazil</source>
     </sources>

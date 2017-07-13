@@ -3,21 +3,53 @@
     <id>11</id>
     <old-id>argentina</old-id>
     <short-form-name>Argentina</short-form-name>
-    <long-form-name>Argentine Republic</long-form-name>
+    <long-form-name>Republic of Argentina</long-form-name>
+    <variants><variant>
+        <variant-id>11_1</variant-id>
+        <variant-name>United Provinces of the Rio de la Plata</variant-name>
+        <valid-since>1853</valid-since>
+        <valid-until></valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>11_1</variant-id>
+        <variant-name>Argentine Republic</variant-name>
+        <valid-since>1853</valid-since>
+        <valid-until></valid-until>
+        <note></note>
+    </variant>
+        <variant>
+            <variant-id>11_1</variant-id>
+            <variant-name>Argentine Confederation</variant-name>
+            <valid-since>1853</valid-since>
+            <valid-until></valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>11_1</variant-id>
+            <variant-name>Argentine Nation</variant-name>
+            <valid-since>1853</valid-since>
+            <valid-until></valid-until>
+            <note></note>
+        </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1861</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1853</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>271</predecessor>
-        <predecessor>297</predecessor>
-        <predecessor>547</predecessor>
-        <predecessor>560</predecessor>
+        <predecessor rel="merger">547</predecessor>
+        <predecessor rel="merger">271</predecessor>
+        <predecessor rel="merger">297</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In 1853, a constituent assembly drafted the Argentine Constitution, which is still in
+        force and provided for a federal republican form of government under the name Republic of
+        Argentina. In response, the province of Buenos Aires seceded (becoming the semi-independent
+        State of Buenos Aires) and the capital moved to Paraná. In 1861, Buenos Aires
+        rejoined.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html</source>
         <source>http://history.state.gov/countries/argentina</source>
+        <source>https://www.britannica.com/place/Argentina/Colonial-centres</source>
     </sources>
 </territory>

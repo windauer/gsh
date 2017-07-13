@@ -4,21 +4,24 @@
     <old-id>argentine-confederation-1861</old-id>
     <short-form-name>Argentine Confederation</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1854</valid-since>
+    <valid-since>1831</valid-since>
     <valid-until>1861</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>297</predecessor>
-        <predecessor>547</predecessor>
-        <predecessor>560</predecessor>
+        <predecessor rel="merger">297</predecessor>
     </predecessors>
     <successors>
-        <successor>11</successor>
+        <successor rel="merger">11</successor>
+        <successor rel="merger">297</successor>
     </successors>
-    <notes/>
+    <notes>In 1831, the Argentine Confederation was formed when three provinces (Entre Rios, Buenos
+        Aires, and Corrientes) signed the Federal Pact. Other provinces slowly joined under the
+        influence of the caudillo Juan Manuel de Rosas.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html</source>
         <source>http://history.state.gov/countries/argentina</source>
+        <source>https://www.britannica.com/place/Argentina/Colonial-centres</source>
     </sources>
 </territory>

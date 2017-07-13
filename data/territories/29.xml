@@ -4,16 +4,19 @@
     <old-id>bolivia</old-id>
     <short-form-name>Bolivia</short-form-name>
     <long-form-name>Plurinational State of Bolivia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1825</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>547</predecessor>
-        <predecessor>560</predecessor>
+        <predecessor rel="independence">547</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In 1825 an army led by Antonio José de Sucre and Simón Bolívar liberated Upper Peru. A
+        congress declared Upper Peru to be an independent republic, naming it Bolivia in honor of
+        Bolívar. The 2009 constitution changed the official name to the Plurinational State of
+        Bolivia.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html</source>
         <source>http://www.britannica.com/EBchecked/topic/504222/Viceroyalty-of-the-Rio-de-la-Plata</source>

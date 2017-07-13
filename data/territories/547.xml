@@ -4,24 +4,31 @@
     <old-id>united-provinces-of-rio-de-la-plata-1828</old-id>
     <short-form-name>United Provinces of the Rio de la Plata</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1816</valid-since>
-    <valid-until>1828</valid-until>
+    <valid-until>1853</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>560</predecessor>
+        <predecessor rel="independence">560</predecessor>
     </predecessors>
     <successors>
-        <successor>251</successor>
-        <successor>29</successor>
-        <successor>297</successor>
-        <successor>271</successor>
-        <successor>11</successor>
+        <successor rel="independence">297</successor>
+        <successor rel="independence">11</successor>
+        <successor rel="independence">29</successor>
     </successors>
-    <notes>Autonomous government from 1810-1816; U.S. recognized independence in 1823</notes>
+    <notes>From 1810 to 1816, the Viceroyalty of the Rio de la Plata, renamed the United Provinces
+        of the Rio de la Plata, was governed from Buenos Aires by a local, autonomous government
+        ostensibly loyal to the deposed Spanish king Ferdinand VII. In 1810, the cabildo (town
+        council) of Buenos Aires exiled the viceroy and set up an autonomous government. In 1816, an
+        assembly declared the United Provinces of the Rio de la Plata independent from Spain.
+        Between 1816 and 1861, the United Provinces suffered from a series of civil wars between
+        centralists (called Unitarians) and federalists, over how much power should be centralized
+        in Buenos Aires.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/33657/Argentina</source>
         <source>http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ac09</source>
         <source>http://www.argentina.gob.ar/pais/99-nombre-del-pais.php</source>
+        <source>https://www.britannica.com/place/Argentina/Colonial-centres</source>
     </sources>
 </territory>

@@ -4,15 +4,24 @@
     <old-id>bermuda</old-id>
     <short-form-name>Bermuda</short-form-name>
     <long-form-name>Bermuda</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>18_1</variant-id>
+            <variant-name>Somers Islands</variant-name>
+            <valid-since>1609</valid-since>
+            <valid-until>1901</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>505</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes/>
+    <notes>Crown colony of Britain from 1684. Official talks and referenda on independence,
+        beginning in the 1970s, have so far not gained enough popular support. In 2002 Bermudians
+        were granted full British citizenship.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html</source>
     </sources>

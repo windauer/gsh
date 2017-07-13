@@ -2,23 +2,23 @@
 <territory>
     <id>297</id>
     <old-id>buenos-ayres-1861</old-id>
-    <short-form-name>Buenos Ayres</short-form-name>
+    <short-form-name>Buenos Aires</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1828</valid-since>
+    <valid-since>1853</valid-since>
     <valid-until>1861</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>547</predecessor>
-        <predecessor>560</predecessor>
+        <predecessor rel="split">547</predecessor>
     </predecessors>
     <successors>
-        <successor>271</successor>
-        <successor>11</successor>
+        <successor rel="merger">11</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://history.state.gov/countries/argentina</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html</source>
+        <source>https://www.britannica.com/place/Argentina/Colonial-centres</source>
     </sources>
 </territory>

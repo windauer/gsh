@@ -6,17 +6,20 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1962</valid-since>
+    <valid-since>1981</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>566</predecessor>
-        <predecessor>410</predecessor>
-        <predecessor>269</predecessor>
-        <predecessor>279</predecessor>
+        <predecessor rel="incorporation">269</predecessor>
+        <predecessor rel="incorporation">279</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Part of the Leeward Islands colony of Great Britain from the 17th century to 1956. The
+        Leeward Islands colony was defederated in 1956. Members of the West Indies Federation from
+        1958 to 1962. Antigua (and Barbuda, its dependency) was an associated state of the United
+        Kingdom from 1967 to 1981; it was internally self-governing, but the United Kingdom was
+        responsible for defense and external affairs. In 1981, Antigua and Barbuda became
+        independent, joining the Commonwealth.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html</source>
         <source>http://www.britannica.com/EBchecked/topic/28088/Antigua-and-Barbuda</source>

@@ -4,15 +4,20 @@
     <old-id>belize</old-id>
     <short-form-name>Belize</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1973</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>293</predecessor>
+        <predecessor rel="independence">293</predecessor>
     </predecessors>
     <successors/>
-    <notes>Gained independence in 1981; U.S. recognized independence in 1981</notes>
+    <notes>A long process of negotiating Belizean independence from the United Kingdom while also
+        ensuring its independence from the claims of neighboring Guatemala began in the 1960s. In
+        1973, the colony’s name was changed to Belize and it became self-governing. In 1981, the
+        United Kingdom recognized Belizean independence and it became a member of the
+        Commonwealth.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html</source>
         <source>http://history.state.gov/countries/belize</source>

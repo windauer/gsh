@@ -4,21 +4,23 @@
     <old-id>viceroyalty-of-rio-de-la-plata-1810</old-id>
     <short-form-name>Viceroyalty of the Rio de la Plata</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1776</valid-since>
-    <valid-until>1810</valid-until>
+    <valid-until>1816</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">559</predecessor>
+    </predecessors>
     <successors>
-        <successor>547</successor>
-        <successor>11</successor>
-        <successor>251</successor>
-        <successor>186</successor>
-        <successor>29</successor>
+        <successor rel="independence">547</successor>
     </successors>
-    <notes>Autonomous government from 1810-1816</notes>
+    <notes>In 1776, Spain created the Viceroyalty of the Rio de la Plata, with its capital at Buenos
+        Aires, out of territory formerly governed by the Viceroyalty of Peru. The territory included
+        Argentina, Uruguay, Paraguay, and Bolivia.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/504222/Viceroyalty-of-the-Rio-de-la-Plata</source>
         <source>http://www.britannica.com/EBchecked/topic/33657/Argentina</source>
+        <source>https://www.britannica.com/place/Argentina/Colonial-centres</source>
     </sources>
 </territory>

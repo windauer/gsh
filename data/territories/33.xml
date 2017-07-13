@@ -4,17 +4,29 @@
     <old-id>brazil</old-id>
     <short-form-name>Brazil</short-form-name>
     <long-form-name>Federative Republic of Brazil</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>33_1</variant-id>
+            <variant-name>Empire of Brazil</variant-name>
+            <valid-since>1822</valid-since>
+            <valid-until>1889</valid-until>
+            <note>Dom Joao returned to Portugal in 1821, leaving his son Dom Pedro in Brazil as
+                regent. In 1822, Dom Pedro defied the Portuguese parliament (Cortes) by remaining in
+                Brazil. He declared Brazil’s independence in September and was crowned Emperor
+                Pedro II on December 1, 1822. The United States recognized the independent Empire
+                of Brazil in 1824.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1889</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1822</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>337</predecessor>
-        <predecessor>545</predecessor>
-        <predecessor>287</predecessor>
+        <predecessor rel="independence">545</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In 1889, a military coup overthrew Pedro II, and the Federative Republic of Brazil was
+        established.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/br.html</source>
         <source>http://www.britannica.com/EBchecked/topic/78101/Brazil</source>

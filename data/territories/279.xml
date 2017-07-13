@@ -4,17 +4,16 @@
     <old-id>barbuda-1872</old-id>
     <short-form-name>Barbuda</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1685</valid-since>
-    <valid-until>1872</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1981</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>410</successor>
-        <successor>566</successor>
-        <successor>10</successor>
+        <successor rel="independence">10</successor>
     </successors>
-    <notes>Joined Antigua as a dependency in the late 19th century</notes>
+    <notes>Barbuda joined Antigua as a dependency in the late 19th century</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/28088/Antigua-and-Barbuda</source>
     </sources>

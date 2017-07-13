@@ -6,13 +6,14 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since precision="1">1542</valid-since>
+    <valid-since  type="pre-1776">1775</valid-since>
     <valid-until>1824</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
         <successor rel="independence">187</successor>
         <successor rel="independence">47</successor>
+        <successor rel="independence">560</successor>
     </successors>
     <notes>Sources disagree about whether the Viceroyalty was established in 1542 or 1543. The
         Viceroyalty of Peru included much of South America for two centuries, before two new

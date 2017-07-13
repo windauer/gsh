@@ -3,14 +3,18 @@
     <id>18</id>
     <old-id>bahamas</old-id>
     <short-form-name>The Bahamas</short-form-name>
-    <long-form-name>Commonwealth of The Bahamas</long-form-name>
+    <long-form-name>The Commonwealth of The Bahamas</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1492</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1973</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">599</predecessor>
+    </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1973; Discovered in 1492</notes>
+    <notes>The Bahamas gained its independence and became part of the British Commonwealth in
+        1973.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html</source>
         <source>http://history.state.gov/countries/bahamas</source>

@@ -4,15 +4,22 @@
     <old-id>cuba</old-id>
     <short-form-name>Cuba</short-form-name>
     <long-form-name>Republic of Cuba</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1492</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1902</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">596</predecessor>
+    </predecessors>
     <successors/>
-    <notes>The name Cuba is pre-Hispanic and its exact derivation is unknown; Discovered in
-            1492; U.S. recognized independence from Spain in 1898; Cuba formally installed in
-            1902</notes>
+    <notes>A 1901 constitution created the Republic of Cuba, although the Platt Amendment, which was
+        incorporated into the 1901 constitution, placed significant restrictions on Cuban
+        sovereignty. According to its terms, Cuba did not have control over its foreign policy; the
+        United States was given rights to a naval base on Cuban territory, and U.S. intervention in Cuban
+        politics was permitted. Although the U.S. occupation army left Cuba in May 1902, the United States
+        occupied Cuba again from 1906 to 1909 and in 1912. The Platt Amendment was abrogated by U.S.
+        President Franklin D. Roosevelt in 1934.</notes>
     <sources>
         <source>http://history.state.gov/countries/cuba</source>
         <source>http://www.britannica.com/EBchecked/topic/145542/Cuba/233435/Cultural-institutions#toc129488</source>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>596</id>
+    <old-id/>
+    <short-form-name>Captaincy General of Cuba</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1902</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">558</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">61</successor>
+    </successors>
+    <notes>Cuba was a colony of Spain from the 16th century, technically part of the Viceroyalty of
+        New Spain, but governed after the 1760s by the Captaincy General of Cuba based in Havana.
+        Cuban revolutionaries declared independence in 1868 and again in 1895, fighting long wars
+        against Spain both times. In 1898, Spain ceded control of Cuba to the United States after a
+        brief war. The United States occupied Cuba until 1902.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/cuba</source>
+        <source>http://www.britannica.com/EBchecked/topic/145542/Cuba/233435/Cultural-institutions#toc129488</source>
+    </sources>
+</territory>

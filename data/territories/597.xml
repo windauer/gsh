@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>273</id>
-    <old-id>aruba-1954</old-id>
-    <short-form-name>Aruba</short-form-name>
+    <id>597</id>
+    <old-id/>
+    <short-form-name>Bonaire</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
@@ -11,10 +11,11 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
-     <successor rel="incorporation">316</successor>
+        <successor rel="merger">316</successor>
     </successors>
-    <notes>Colony of the Netherlands since 1636.</notes>
+    <notes>Settled by the Spanish in 1501, Bonaire became a Dutch colony in 1634. From 1807 until
+        1814, it was under British control.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/410223/Netherlands-Antilles</source>
+        <source>https://www.britannica.com/place/Bonaire</source>
     </sources>
 </territory>

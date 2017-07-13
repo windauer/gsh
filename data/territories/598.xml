@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>13</id>
-    <old-id>aruba</old-id>
-    <short-form-name>Aruba</short-form-name>
+    <id>598</id>
+    <old-id/>
+    <short-form-name>Bonaire</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1986</valid-since>
+    <valid-since>2010</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">430</predecessor>
     </predecessors>
     <successors/>
-    <notes>In 1986, Aruba became a self-governing part of the Kingdom of the Netherlands. In 1994,
-        the Aruban Government decided to postpone the transition to full independence.</notes>
+    <notes>On October 10, 2010, the Netherlands dissolved the Netherlands Antilles. Bonaire became a
+        special municipality of the Netherlands.</notes>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/aa.html</source>
+        <source>https://www.britannica.com/place/Bonaire</source>
         <source>http://www.britannica.com/EBchecked/topic/410223/Netherlands-Antilles</source>
     </sources>
 </territory>

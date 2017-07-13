@@ -830,9 +830,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BerndtSE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Aruba (1986–present)</display-name>
@@ -850,25 +850,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/316</url>
         </predecessor>
         <predecessor>
-            <display-name>Curaçao (1634–1815)</display-name>
-            <territory-id>315</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/315</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Aruba (1499–1954)</display-name>
+            <display-name>Aruba (1499–1815)</display-name>
             <territory-id>273</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/273</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Sint Maarten (2010–present)</display-name>
-            <territory-id>214</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/214</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Curaçao (2010–present)</display-name>
-            <territory-id>62</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/62</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -1772,6 +1757,45 @@
     </lineage>
     <lineage>
         <review>
+            <status>reviewed</status>
+            <reviewer>EckrothSL</reviewer>
+            <reviewed-date>2017-07-13</reviewed-date>
+        </review>
+        <current-territory>
+            <display-name>Bonaire (1634–1815)</display-name>
+            <territory-id>597</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
+        </current-territory>
+    </lineage>
+    <lineage>
+        <review>
+            <status>reviewed</status>
+            <reviewer>EckrothSL</reviewer>
+            <reviewed-date>2017-07-13</reviewed-date>
+        </review>
+        <current-territory>
+            <display-name>Bonaire (2010–present)</display-name>
+            <territory-id>597</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
+        </current-territory>
+        <predecessor>
+            <display-name>Netherlands Antilles (1954–2010)</display-name>
+            <territory-id>430</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/430</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Curaçao and Dependencies (1815–1954)</display-name>
+            <territory-id>316</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/316</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Bonaire (1634–1815)</display-name>
+            <territory-id>597</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
+        </predecessor>
+    </lineage>
+    <lineage>
+        <review>
             <status>unreviewed</status>
             <reviewer>WilsonJG</reviewer>
             <reviewed-date/>
@@ -2362,8 +2386,25 @@
     <lineage>
         <review>
             <status>reviewed</status>
+            <reviewer>BerndtS</reviewer>
+            <reviewed-date>2017-07-13</reviewed-date>
+        </review>
+        <current-territory>
+            <display-name>Captaincy General of Cuba</display-name>
+            <territory-id>596</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/596</url>
+        </current-territory>
+        <predecessor>
+            <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
+            <territory-id>558</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
+        </predecessor>
+    </lineage>
+    <lineage>
+        <review>
+            <status>reviewed</status>
             <reviewer>RasmussenKB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Cayman Islands (1670–present)</display-name>
@@ -2843,15 +2884,25 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
-            <reviewer>RasmussenKB</reviewer>
+            <status>reviewed</status>
+            <reviewer>BerndtS</reviewer>
             <reviewed-date/>
         </review>
         <current-territory>
-            <display-name>Cuba (1492–present)</display-name>
+            <display-name>Cuba (1902–present)</display-name>
             <territory-id>61</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/61</url>
         </current-territory>
+        <predecessor>
+            <display-name>Captaincy General of Cuba</display-name>
+            <territory-id>596</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/596</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
+            <territory-id>558</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -2878,6 +2929,28 @@
             <display-name>Curaçao (1634–1815)</display-name>
             <territory-id>315</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/315</url>
+        </predecessor>
+    </lineage>
+    <lineage>
+        <current-territory>
+            <display-name>Curaçao and Dependencies (1815–1954)</display-name>
+            <territory-id>316</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/316</url>
+        </current-territory>
+        <predecessor>
+            <display-name>Curaçao (1634–1815)</display-name>
+            <territory-id>315</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/315</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Aruba (1499–1815)</display-name>
+            <territory-id>273</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/273</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Bonaire (1634–1815)</display-name>
+            <territory-id>597</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -10136,7 +10209,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/315</url>
         </predecessor>
         <other-mention>
-            <display-name>Aruba (1499–1954)</display-name>
+            <display-name>Aruba (1499–1815)</display-name>
             <territory-id>273</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/273</url>
         </other-mention>
@@ -11277,7 +11350,7 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BerndtSE</reviewer>
             <reviewed-date/>
         </review>

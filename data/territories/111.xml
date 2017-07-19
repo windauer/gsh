@@ -4,17 +4,64 @@
     <old-id>iran</old-id>
     <short-form-name>Iran</short-form-name>
     <long-form-name>Islamic Republic of Iran</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>111_1</variant-id>
+            <variant-name>Persia</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1935</valid-until>
+            <note>Iran has often been referred to as Persia since ancient Greek times, the name
+                deriving from Greek records and histories. In 1935, the Shah requested that foreign
+                nations refer to the nation and its citizens as Iran and Iranians, the Persian
+                (Farsi) language terms. Since that time, Iran/Iranians have generally been accepted
+                as the correct nomenclature for the modern nation while Persia/Persian are used to
+                refer to the empires and cultures of antiquity.</note>
+        </variant>
+        <variant>
+            <variant-id>111_1</variant-id>
+            <variant-name>Sublime State of Iran</variant-name>
+            <valid-since>1789</valid-since>
+            <valid-until>1925</valid-until>
+            <note>Official name of the state ruled by the Qajar Dynasty.</note>
+        </variant>
+        <variant>
+            <variant-id>111_2</variant-id>
+            <variant-name>Imperial State of Persia</variant-name>
+            <valid-since>1925</valid-since>
+            <valid-until>1935</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>111_3</variant-id>
+            <variant-name>Imperial State of Iran</variant-name>
+            <valid-since>1925</valid-since>
+            <valid-until>1979</valid-until>
+            <note>Official name of nation adopted by Pahlavi Dynasty.</note>
+        </variant>
+        <variant>
+            <variant-id>111_4</variant-id>
+            <variant-name>Interim Government of Iran</variant-name>
+            <valid-since>1979</valid-since>
+            <valid-until>1979</valid-until>
+            <note>Government formed following abdication and exile of the Shah. The government
+                resigned on November 6 prior to the effective date of a new constitution in protest
+                of the Iranian hostage crisis.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1935</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>458</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes/>
+    <notes>In December 1925, the Iranian Constituent Assembly deposed the last member of the Qajar
+        Dynasty and installed the first member of the Pahlavi Dynasty as monarch. Some sources give
+        October 24, 1979, as the founding date of the Islamic Republic of Iran–the date a referendum
+        adopting the new constitution was held. However since the interim government held office
+        following this date and the constitution did not take effect until December 3, the later
+        date appears more correct.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/452741/Persia</source>
+      <source>https://history.state.gov/countries/iran</source>
     </sources>
 </territory>

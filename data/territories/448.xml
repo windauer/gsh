@@ -4,24 +4,37 @@
     <old-id>ottoman-empire-1922</old-id>
     <short-form-name>Ottoman Empire</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>448_1</variant-id>
+            <variant-name>Turkish Empire</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1922</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>448_2</variant-id>
+            <variant-name>Ottoman Turkey</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1922</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1300</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1922</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>267</successor>
-        <successor>4</successor>
-        <successor>272</successor>
-        <successor>36</successor>
+        <successor rel="split">267</successor>
+        <successor rel="independence">272</successor>
+        <successor rel="independence">36</successor>
         <successor>394</successor>
-        <successor>112</successor>
-        <successor>242</successor>
-        <successor>261</successor>
-        <successor>451</successor>
-        <successor>115</successor>
+        <successor rel="independence">242</successor>
+        <successor rel="split">451</successor>
+        <successor rel="split">602</successor>
     </successors>
-    <notes>Removed from direct successors: azerbaijan</notes>
+    <notes>The Ottomans resumed direct control of Iraq from the Malmuks in 1831.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html</source>
         <source>http://www.britannica.com/EBchecked/topic/434996/Ottoman-Empire</source>

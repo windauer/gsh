@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>601</id>
+    <old-id/>
+    <short-form-name>Iraq</short-form-name>
+    <long-form-name>Malmuk Dynasty of Iraq</long-form-name>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1831</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">448</successor>
+    </successors>
+    <notes>The Malmuks (freed slaves who converted to Islam and who were given administrative
+        positions in the Ottoman Empire) ruled Iraq as an autonomous province of the Ottoman
+        Empire.</notes>
+    <sources>
+        <source requires-subscription="true">http://www.jstor.org/stable/4283349</source>
+    </sources>
+</territory>

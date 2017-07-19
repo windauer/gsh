@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>602</id>
+    <old-id/>
+    <short-form-name>Kingdom of Iraq</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1920</valid-since>
+    <valid-until>1932</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">448</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">384</successor>
+    </successors>
+    <notes>Although the British had occupied and controlled Iraq since 1918, a formal mandate to
+        govern the area was granted at the San Remo Conference in 1920. Faisal I was crowned King of
+        Iraq in 1921.</notes>
+    <sources>
+        <source requires-subscription="true">http://www.jstor.org/stable/4283349</source>
+    </sources>
+</territory>

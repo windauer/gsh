@@ -3,18 +3,19 @@
     <id>384</id>
     <old-id>iraq-1958</old-id>
     <short-form-name>Iraq</short-form-name>
-    <long-form-name>Republic of Iraq</long-form-name>
+    <long-form-name>Kingdom of Iraq</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1932</valid-since>
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="independence">602</predecessor>
     </predecessors>
     <successors>
-        <successor>270</successor>
+        <successor rel="merger">270</successor>
     </successors>
-    <notes>U.S. recognized independence in 1930</notes>
+    <notes>U.S. recognized independence in 1930.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html</source>
         <source>http://history.state.gov/countries/iraq</source>

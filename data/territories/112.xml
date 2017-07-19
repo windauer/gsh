@@ -4,15 +4,27 @@
     <old-id>iraq</old-id>
     <short-form-name>Iraq</short-form-name>
     <long-form-name>Republic of Iraq</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>112_1</variant-id>
+            <variant-name>Coalitional Provisional Authority</variant-name>
+            <valid-since>2003</valid-since>
+            <valid-until>2004</valid-until>
+            <note>Following the deposition of the Baathist government by Coalition forces, a
+                provisional government administered by the United States was created. Control of
+                government was fully returned to the Iraqis on June 28, 2004.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1958</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>270</predecessor>
+        <predecessor rel="split">270</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>On July 14, 1958, King Faisal II was executed following a coup. The Federation with
+        Jordan was officially dissolved shortly thereafter.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html</source>
         <source>http://history.state.gov/countries/iraq</source>

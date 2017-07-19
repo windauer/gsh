@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>600</id>
+    <old-id/>
+    <short-form-name>Denmark-Norway</short-form-name>
+    <long-form-name>Kingdom of Denmark-Norway</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1814</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="split">65</successor>
+    </successors>
+    <notes>The Treaty of Kiel, part of the post-Napoleonic settlement, split the Kingdom of
+        Denmark-Norway and its dependencies among the newly separate Norwegian and Danish states and
+        other Scandinavian powers.</notes>
+    <sources>
+        <source requires-subscription="true"
+            >http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/157748/Denmark</source>
+    </sources>
+</territory>

@@ -2,21 +2,23 @@
 <territory>
     <id>270</id>
     <old-id>arab-union-1958</old-id>
-    <short-form-name>Arab Union</short-form-name>
+    <short-form-name>Federation of Iraq and Jordan</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1958</valid-since>
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>390</predecessor>
-        <predecessor>384</predecessor>
+        <predecessor rel="merger">390</predecessor>
+        <predecessor rel="merger">384</predecessor>
     </predecessors>
     <successors>
-        <successor>123</successor>
-        <successor>112</successor>
+        <successor rel="split">123</successor>
+        <successor rel="split">112</successor>
     </successors>
-    <notes>U.S. recognized in 1958</notes>
+    <notes>The Hashemite monarchs of Iraq and Jordan merged their nations into a single polity in
+        response to the creation of the United Arab Republic in 1958.</notes>
     <sources>
         <source>http://history.state.gov/countries/iraq</source>
     </sources>

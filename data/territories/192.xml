@@ -4,13 +4,23 @@
     <old-id>puerto-rico</old-id>
     <short-form-name>Puerto Rico</short-form-name>
     <long-form-name>Commonwealth of Puerto Rico</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>192_1</variant-id>
+            <variant-name>Porto Rico</variant-name>
+            <valid-since>1898</valid-since>
+            <valid-until>1952</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1521</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Unincorporated, organized territory of the United States</notes>
+    <notes>Unincorporated, organized territory of the United States. Ceded to the United States from
+        Spain in 1898. The Puerto Rican Constitution was adopted in 1952.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rq.html</source>
         <source>http://www.britannica.com/EBchecked/topic/482879/Puerto-Rico</source>

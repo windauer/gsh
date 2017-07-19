@@ -4,15 +4,16 @@
     <old-id>republic-of-texas-1845</old-id>
     <short-form-name>Republic of Texas</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1836</valid-since>
     <valid-until>1845</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>155</predecessor>
+        <predecessor rel="independence">155</predecessor>
     </predecessors>
     <successors>
-        <successor>250</successor>
+        <successor rel="incorporation">250</successor>
     </successors>
     <notes>U.S. recognized independence in 1837</notes>
     <sources>

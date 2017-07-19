@@ -4,15 +4,16 @@
     <old-id>johnston-atoll</old-id>
     <short-form-name>Johnston Atoll</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1807</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1796</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Unincorporated territory of the United States; First discovered in 1796 by the United
-            States but was unclaimed until 1858; Claimed by the United States and the Kingdom of
-            Hawaii</notes>
+    <notes>Unincorporated territory of the United States. First discovered in 1796 by the United
+            States, but was unclaimed until 1858. Claimed by the United States and the Kingdom of
+            Hawaii.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
         <source>http://www.britannica.com/EBchecked/topic/305545/Johnston-Atoll</source>

@@ -4,11 +4,12 @@
     <old-id>antarctica</old-id>
     <short-form-name>Antarctica</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1840</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
     <notes>According to the Bureau of Intelligence and Research fact sheet on Dependencies and Areas
         of Special Sovereignty, "Antarctica consists of the territory south of 60 degrees south

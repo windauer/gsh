@@ -4,15 +4,20 @@
     <old-id>kingdom-of-hawaii-1898</old-id>
     <short-form-name>Kingdom of Hawaii</short-form-name>
     <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>396_2</variant-id>
+        <variant-name>Republic of Hawaii</variant-name>
+        <valid-since>1894</valid-since>
+        <valid-until>1898</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1826</valid-since>
+    <valid-since>1795</valid-since>
     <valid-until>1898</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>379</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>378</successor>
+        <successor rel="incorporation">378</successor>
     </successors>
     <notes/>
     <sources>

@@ -417,9 +417,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Antarctica (1840–present)</display-name>
@@ -5211,21 +5211,21 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Jersey (1106–present)</display-name>
+            <display-name>Jersey (1066–present)</display-name>
             <territory-id>121</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/121</url>
         </current-territory>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Johnston Atoll (1807–present)</display-name>
@@ -7679,9 +7679,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Midway Islands (1867–present)</display-name>
@@ -7693,12 +7693,7 @@
             <territory-id>426</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/426</url>
         </predecessor>
-        <predecessor>
-            <display-name>Brooks Islands (1859–1867)</display-name>
-            <territory-id>296</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/296</url>
-        </predecessor>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -8886,9 +8881,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Puerto Rico (1521–present)</display-name>
@@ -11376,9 +11371,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Trinidad and Tobago (1962–present)</display-name>
@@ -11391,12 +11386,12 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/532</url>
         </predecessor>
         <predecessor>
-            <display-name>Tobago (1628–1889)</display-name>
+            <display-name>Tobago (1775–1889)</display-name>
             <territory-id>526</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/526</url>
         </predecessor>
         <predecessor>
-            <display-name>Trinidad (?–1889)</display-name>
+            <display-name>Trinidad (1775–1889)</display-name>
             <territory-id>531</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/531</url>
         </predecessor>
@@ -12196,15 +12191,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>United States (1776–present)</display-name>
             <territory-id>250</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/250</url>
         </current-territory>
+        <predecessor>
+            <display-name>Russian America</display-name>
+            <territory-id>603</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/603</url>
+        </predecessor>
         <predecessor>
             <display-name>Hawai’i (1898–1948)</display-name>
             <territory-id>378</territory-id>
@@ -12230,27 +12230,12 @@
             <territory-id>424</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/424</url>
         </predecessor>
-        <predecessor>
-            <display-name>Hawaiian Islands (1778–1826)</display-name>
-            <territory-id>379</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/379</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Provinces of Central America (1823–1839)</display-name>
-            <territory-id>546</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/546</url>
-        </other-mention>
-    </lineage>
+      </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -12794,12 +12779,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>FaithTI</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-19</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Wallis and Futuna (1888–present)</display-name>
+            <display-name>Wallis and Futuna (1775–present)</display-name>
             <territory-id>259</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/259</url>
         </current-territory>

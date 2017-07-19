@@ -4,14 +4,20 @@
     <old-id>middlebrooks-islands-1867</old-id>
     <short-form-name>Middlebrooks Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>426_1</variant-id>
+        <variant-name>Brooks Islands</variant-name>
+        <valid-since>1859</valid-since>
+        <valid-until>1867</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1859</valid-since>
     <valid-until>1867</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>296</successor>
-        <successor>157</successor>
+        <successor rel="incorporation">157</successor>
     </successors>
     <notes>First discovered and claimed by the United States in 1859</notes>
     <sources>

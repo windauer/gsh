@@ -1672,21 +1672,9 @@
             <reviewed-date>2017-07-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Bonaire (1634–1815)</display-name>
-            <territory-id>597</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
-        </current-territory>
-    </lineage>
-    <lineage>
-        <review>
-            <status>reviewed</status>
-            <reviewer>EckrothSL</reviewer>
-            <reviewed-date>2017-07-13</reviewed-date>
-        </review>
-        <current-territory>
             <display-name>Bonaire (2010–present)</display-name>
-            <territory-id>597</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
+            <territory-id>598</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/598</url>
         </current-territory>
         <predecessor>
             <display-name>Netherlands Antilles (1954–2010)</display-name>
@@ -2291,23 +2279,6 @@
     <lineage>
         <review>
             <status>reviewed</status>
-            <reviewer>BerndtS</reviewer>
-            <reviewed-date>2017-07-13</reviewed-date>
-        </review>
-        <current-territory>
-            <display-name>Captaincy General of Cuba</display-name>
-            <territory-id>596</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/596</url>
-        </current-territory>
-        <predecessor>
-            <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
-            <territory-id>558</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
-        </predecessor>
-    </lineage>
-    <lineage>
-        <review>
-            <status>reviewed</status>
             <reviewer>RasmussenKB</reviewer>
             <reviewed-date>2017-07-13</reviewed-date>
         </review>
@@ -2550,7 +2521,7 @@
         <predecessor>
             <display-name>Cundinamarca</display-name>
             <territory-id>595</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/557</url>
+            <url>http://localhost:8080/exist/apps/gsh/territories/595</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -2837,28 +2808,6 @@
         </predecessor>
     </lineage>
     <lineage>
-        <current-territory>
-            <display-name>Curaçao and Dependencies (1815–1954)</display-name>
-            <territory-id>316</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/316</url>
-        </current-territory>
-        <predecessor>
-            <display-name>Curaçao (1634–1815)</display-name>
-            <territory-id>315</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/315</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Aruba (1499–1815)</display-name>
-            <territory-id>273</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/273</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Bonaire (1634–1815)</display-name>
-            <territory-id>597</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/597</url>
-        </predecessor>
-    </lineage>
-    <lineage>
         <review>
             <status>unreviewed</status>
             <reviewer>GeyerDC</reviewer>
@@ -2978,19 +2927,6 @@
     </lineage>
     <lineage>
         <review>
-            <status>reviewed</status>
-            <reviewer>BarnumFSL</reviewer>
-            <reviewed-date>2017-07-19</reviewed-date>
-        </review>
-        <current-territory>
-            <display-name>Kingdom of Denmark-Norway</display-name>
-            <territory-id>600</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/600</url>
-        </current-territory>
-    </lineage>
-
-    <lineage>
-        <review>
             <status>unreviewed</status>
             <reviewer>HiteKE</reviewer>
             <reviewed-date/>
@@ -3092,13 +3028,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/594</url>
         </predecessor>
         <predecessor>
-            <current-territory>
-                <display-name>Haiti (1804–present)</display-name>
-                <territory-id>101</territory-id>
-                <url>http://localhost:8080/exist/apps/gsh/territories/101</url>
-            </current-territory>
+            <display-name>Haiti (1804–present)</display-name>
+            <territory-id>101</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/101</url>
         </predecessor>
-        <predecessor> </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4908,40 +4841,6 @@
         <review>
             <status>reviewed</status>
             <reviewer>BarnumFSL</reviewer>
-            <reviewed-date>2017-07-19</reviewed-date>
-        </review>
-        <current-territory>
-            <display-name>Kingdom of Iraq (1920–1932)</display-name>
-            <territory-id>602</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/602</url>
-        </current-territory>
-        <predecessor>
-            <display-name>Ottoman Empire (1300–1922)</display-name>
-            <territory-id>448</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Iraq (1775–1831)</display-name>
-            <territory-id>601</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/601</url>
-        </predecessor>
-    </lineage>
-    <lineage>
-        <review>
-            <status>reviewed</status>
-            <reviewer>BarnumFSL</reviewer>
-            <reviewed-date>2017-07-19</reviewed-date>
-        </review>
-        <current-territory>
-            <display-name>Iraq (1775–1831)</display-name>
-            <territory-id>601</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/601</url>
-        </current-territory>
-    </lineage>
-    <lineage>
-        <review>
-            <status>reviewed</status>
-            <reviewer>BarnumFSL</reviewer>
             <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
@@ -4952,7 +4851,7 @@
         <predecessor>
             <display-name>United Kingdom (pre-1776–present)</display-name>
             <territory-id>249</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/385</url>
+            <url>http://localhost:8080/exist/apps/gsh/territories/249</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Ireland (pre-1776–1801)</display-name>
@@ -7693,7 +7592,7 @@
             <territory-id>426</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/426</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -11187,18 +11086,6 @@
             <reviewed-date>2017-07-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>The Bahamas</display-name>
-            <territory-id>599</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/599</url>
-        </current-territory>
-    </lineage>
-    <lineage>
-        <review>
-            <status>reviewed</status>
-            <reviewer>BerndtSE</reviewer>
-            <reviewed-date>2017-07-13</reviewed-date>
-        </review>
-        <current-territory>
             <display-name>The Bahamas (1973–present)</display-name>
             <territory-id>18</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/18</url>
@@ -12230,12 +12117,12 @@
             <territory-id>424</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/424</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Viceroyalty of New Spain (1535–1821)</display-name>
             <territory-id>558</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
-      </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -13031,29 +12918,5 @@
             <territory-id>442</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/442</url>
         </other-mention>
-    </lineage>
-    <lineage>
-        <current-territory>
-            <display-name>Spanish Haiti</display-name>
-            <territory-id>594</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/594</url>
-        </current-territory>
-        <predecessor>
-            <display-name>Santo Domingo (1492–1821)</display-name>
-            <territory-id>491</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/491</url>
-        </predecessor>
-    </lineage>
-    <lineage>
-        <current-territory>
-            <display-name>Cundinamarca</display-name>
-            <territory-id>595</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/595</url>
-        </current-territory>
-        <predecessor>
-            <display-name>Viceroyalty of New Granada (1739–1819)</display-name>
-            <territory-id>557</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/557</url>
-        </predecessor>
     </lineage>
 </lineages>

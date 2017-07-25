@@ -1,0 +1,16 @@
+start =
+    element lineages {
+        element lineage {
+            element review {
+                element status { xsd:NCName },
+                element reviewer { xsd:NCName },
+                element reviewed-date { text }
+            },
+            element current-territory { display-name, territory-id, url },
+            element predecessor { display-name, territory-id, url }*,
+            element other-mention { display-name, territory-id, url }*
+        }+
+    }
+display-name = element display-name { text }
+territory-id = element territory-id { xsd:integer }
+url = element url { xsd:anyURI }

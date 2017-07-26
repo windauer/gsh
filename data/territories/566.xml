@@ -9,9 +9,7 @@
     <valid-since>1958</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor rel="">588</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
         <successor rel="split">22</successor>
         <successor rel="split">68</successor>

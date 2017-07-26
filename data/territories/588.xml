@@ -9,9 +9,7 @@
     <valid-since>1833</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor rel="incorporation">587</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
         <successor rel="split">587</successor>
     </successors>

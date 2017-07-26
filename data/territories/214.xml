@@ -4,16 +4,17 @@
     <old-id>sint-maarten</old-id>
     <short-form-name>Sint Maarten</short-form-name>
     <long-form-name>Country of Sint Maarten</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>2010</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>430</predecessor>
-        <predecessor>316</predecessor>
+        <predecessor rel="split">430</predecessor>
     </predecessors>
     <successors/>
-    <notes>Dependent of Netherlands</notes>
+    <notes>On October 10, 2010, the Netherlands dissolved the Netherlands Antilles. Sint Maarten
+        became a separate constituent country within the Kingdom of the Netherlands.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sk.html</source>
     </sources>

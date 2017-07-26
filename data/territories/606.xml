@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>606</id>
+    <old-id/>
+    <short-form-name>Saba</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>2010</valid-since>
+    <valid-until type="present">9999</valid-until>
+    <exists-on-todays-map>true</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">430</predecessor>
+    </predecessors>
+    <successors/>
+    <notes>On October 10, 2010, the Netherlands dissolved the Netherlands Antilles. Saba became a
+        special municipality of the Netherlands.</notes>
+    <sources>
+        <source>https://www.britannica.com/place/Saba-island-West-Indies</source>
+    </sources>
+</territory>

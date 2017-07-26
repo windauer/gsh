@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>604</id>
+    <old-id/>
+    <short-form-name>Louisiana Territory</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1803</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">250</successor>
+    </successors>
+    <notes>Throughout the 17th and 18th centuries, control of the Louisiana territory frequently
+        changed between France and Spain. In December 1803, after brief negotiations and U.S. Senate
+        ratification, the United States purchased the Louisiana territory from France. In 1818, the
+        United States ceded the portion of the Louisiana Territory north of the 49th parallel to Great
+        Britain.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/us.html</source>
+    </sources>
+</territory>

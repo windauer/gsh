@@ -48,7 +48,7 @@
     <pattern id="lineages-check">
         <rule context="exists-on-todays-map[. = 'true']">
             <assert
-                test="id = collection('lineages/?select=*.xml;recurse=no')/current-territory/territory-id"
+                test="preceding-sibling::id = collection('lineages/?select=*.xml;recurse=no')//current-territory/territory-id"
                 >If territory exists on today's map, it must have a lineage entry.</assert>
         </rule>
     </pattern>

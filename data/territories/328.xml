@@ -3,18 +3,25 @@
     <id>328</id>
     <old-id>dutch-guiana-1975</old-id>
     <short-form-name>Dutch Guiana</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>328_1</variant-id>
+        <variant-name>Netherlands Guiana</variant-name>
+        <valid-since>1775</valid-since>
+        <valid-until>1975</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1667</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>226</successor>
+        <successor rel="independence">226</successor>
     </successors>
-    <notes>Synonymous with Netherlands Guiana</notes>
+    <notes></notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sr.hi?ssid=1374746476</source>
+        <source requires-subscription="true">http://www.europaworld.com.proxy.lib.umich.edu/entry/sr.hi?ssid=1374746476</source>
     </sources>
 </territory>

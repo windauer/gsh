@@ -8053,9 +8053,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-26</reviewed-date>
         </review>
         <current-territory>
             <display-name>Navassa Island (1504–present)</display-name>
@@ -8114,9 +8114,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-26</reviewed-date>
         </review>
         <current-territory>
             <display-name>New Caledonia (1774–present)</display-name>
@@ -10330,21 +10330,16 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-26</reviewed-date>
         </review>
         <current-territory>
             <display-name>Suriname (1975–present)</display-name>
             <territory-id>226</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/226</url>
         </current-territory>
-        <predecessor>
-            <display-name>Netherlands Guiana (1667–1975)</display-name>
-            <territory-id>432</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/432</url>
-        </predecessor>
-        <predecessor>
+      <predecessor>
             <display-name>Dutch Guiana (1667–1975)</display-name>
             <territory-id>328</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/328</url>

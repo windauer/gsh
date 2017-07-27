@@ -9,15 +9,35 @@
     <valid-since>1958</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="incorporation">278</predecessor>
+        <predecessor rel="incorporation">324</predecessor>
+        <predecessor rel="incorporation">587</predecessor>
+        <predecessor rel="incorporation">589</predecessor>
+        <predecessor rel="incorporation">609</predecessor>
+        <predecessor rel="incorporation">605</predecessor>
+        <predecessor rel="incorporation">269</predecessor>
+        <predecessor rel="incorporation">279</predecessor>
+        <predecessor rel="incorporation">44</predecessor>
+        <predecessor rel="incorporation">244</predecessor>
+        <predecessor rel="incorporation">486</predecessor>
+        <predecessor rel="incorporation">162</predecessor>
+        <predecessor rel="incorporation">240</predecessor>
+    </predecessors>
     <successors>
-        <successor rel="split">22</successor>
-        <successor rel="split">68</successor>
-        <successor rel="split">93</successor>
-        <successor rel="split">10</successor>
-        <successor rel="split">117</successor>
-        <successor rel="split">201</successor>
-        <successor rel="split">204</successor>
+        <successor rel="split">278</successor>
+        <successor rel="split">324</successor>
+        <successor rel="split">587</successor>
+        <successor rel="split">589</successor>
+        <successor rel="split">609</successor>
+        <successor rel="split">605</successor>
+        <successor rel="split">269</successor>
+        <successor rel="split">279</successor>
+        <successor rel="split">44</successor>
+        <successor rel="split">244</successor>
+        <successor rel="split">486</successor>
+        <successor rel="split">162</successor>
+        <successor rel="split">240</successor>
     </successors>
     <notes/>
     <sources>

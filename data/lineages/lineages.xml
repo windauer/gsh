@@ -400,6 +400,16 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/488</url>
         </predecessor>
         <other-mention>
+            <display-name>Leeward Islands (1672–1960)</display-name>
+            <territory-id>410</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
+        </other-mention>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
+        <other-mention>
             <display-name>Saint Kitts and Nevis (1988–present)</display-name>
             <territory-id>200</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/200</url>
@@ -2287,6 +2297,11 @@
             <territory-id>44</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/44</url>
         </current-territory>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4419,20 +4434,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/93</url>
         </current-territory>
         <predecessor>
-            <display-name>Grenada (pre-1776–1974)</display-name>
+            <display-name>Grenada (1775–1974)</display-name>
             <territory-id>587</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/587</url>
         </predecessor>
-        <predecessor>
+        <other-mention>
             <display-name>West Indies Federation (1958–1962)</display-name>
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
-        </predecessor>
-        <predecessor>
+        </other-mention>
+        <other-mention>
             <display-name>British Windward Islands (1833–1962)</display-name>
             <territory-id>588</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
-        </predecessor>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -5042,20 +5057,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/117</url>
         </current-territory>
         <predecessor>
-            <display-name>West Indies Federation (1958–1962)</display-name>
-            <territory-id>566</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
-        </predecessor>
-        <predecessor>
             <display-name>Jamaica (pre-1776–1962)</display-name>
             <territory-id>589</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/589</url>
         </predecessor>
-        <predecessor>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
+        <other-mention>
             <display-name>British Windward Islands (1833–1962)</display-name>
             <territory-id>588</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
-        </predecessor>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -7982,6 +7997,16 @@
             <territory-id>162</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/162</url>
         </current-territory>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
+        <other-mention>
+            <display-name>Leeward Islands (1672–1960)</display-name>
+            <territory-id>410</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -8279,20 +8304,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>Niue (1774–present)</display-name>
             <territory-id>175</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/175</url>
         </current-territory>
-        <predecessor>
-            <display-name>Savage Island (1774–1963)</display-name>
-            <territory-id>493</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/493</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -9322,6 +9342,16 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/433</url>
         </predecessor>
         <other-mention>
+            <display-name>Leeward Islands (1672–1960)</display-name>
+            <territory-id>410</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
+        </other-mention>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
+        <other-mention>
             <display-name>Anguilla (1980–present)</display-name>
             <territory-id>8</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/8</url>
@@ -9329,79 +9359,29 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-27</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Saint Lucia (1962–present)</display-name>
+            <display-name>Saint Lucia (1979–present)</display-name>
             <territory-id>201</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/201</url>
         </current-territory>
         <predecessor>
+            <display-name>Saint Lucia (1775–1979)</display-name>
+            <territory-id>609</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/609</url>
+        </predecessor>
+        <other-mention>
             <display-name>West Indies Federation (1958–1962)</display-name>
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Leeward Islands (1672–1960)</display-name>
-            <territory-id>410</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Dominica (1771–1978)</display-name>
-            <territory-id>324</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/324</url>
         </other-mention>
         <other-mention>
-            <display-name>Barbuda (1685–1872)</display-name>
-            <territory-id>279</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/279</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1625–1966)</display-name>
-            <territory-id>278</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/278</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua (1493–1872)</display-name>
-            <territory-id>269</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/269</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Virgin Islands, British (1956–present)</display-name>
-            <territory-id>256</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/256</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbados (1966–present)</display-name>
-            <territory-id>22</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/22</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Vincent and the Grenadines (1979–present)</display-name>
-            <territory-id>204</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/204</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Jamaica (1962–present)</display-name>
-            <territory-id>117</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/117</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua and Barbuda (1962–present)</display-name>
-            <territory-id>10</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/10</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Grenada (1962–present)</display-name>
-            <territory-id>93</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/93</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Dominica (1978–present)</display-name>
-            <territory-id>68</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/68</url>
+            <display-name>British Windward Islands (1833–1962)</display-name>
+            <territory-id>588</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/588</url>
         </other-mention>
     </lineage>
     <lineage>
@@ -9928,7 +9908,7 @@
             <territory-id>316</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/316</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -10339,7 +10319,7 @@
             <territory-id>226</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/226</url>
         </current-territory>
-      <predecessor>
+        <predecessor>
             <display-name>Dutch Guiana (1667–1975)</display-name>
             <territory-id>328</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/328</url>
@@ -11251,18 +11231,33 @@
             <territory-id>531</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/531</url>
         </predecessor>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-26</reviewed-date>
         </review>
         <current-territory>
             <display-name>Tunisia (1956–present)</display-name>
             <territory-id>241</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/241</url>
         </current-territory>
+        <predecessor>
+            <display-name>Tunisia (1881–1956)</display-name>
+            <territory-id>608</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/608</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Ottoman Empire (1300–1922)</display-name>
+            <territory-id>448</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -11679,6 +11674,11 @@
             <territory-id>244</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/244</url>
         </current-territory>
+        <other-mention>
+            <display-name>West Indies Federation (1958–1962)</display-name>
+            <territory-id>566</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -12583,11 +12583,11 @@
             <territory-id>256</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/256</url>
         </current-territory>
-        <predecessor>
+        <other-mention>
             <display-name>Leeward Islands (1672–1960)</display-name>
             <territory-id>410</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/410</url>
-        </predecessor>
+        </other-mention>
         <other-mention>
             <display-name>West Indies Federation (1958–1962)</display-name>
             <territory-id>566</territory-id>

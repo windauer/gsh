@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>609</id>
+    <old-id/>
+    <short-form-name>Saint Lucia</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1979</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="independence">201</successor>
+    </successors>
+    <notes>Throughout the 17th and 18th centuries, Saint Lucia was a contested territory between
+        France and Great Britain, changing possession fourteen times. In 1814, the territory was ceded to Great Britain.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/st.html</source>
+        <source>https://www.britannica.com/place/Saint-Lucia</source>
+    </sources>
+</territory>

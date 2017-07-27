@@ -6,13 +6,24 @@
     <long-form-name>British Leeward Islands</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1672</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="incorporation">269</predecessor>
+        <predecessor rel="incorporation">279</predecessor>
+        <predecessor rel="incorporation">162</predecessor>
+        <predecessor rel="incorporation">324</predecessor>
+        <predecessor rel="incorporation">256</predecessor>
+        <predecessor rel="incorporation">486</predecessor>
+    </predecessors>
     <successors>
-        <successor>256</successor>
-        <successor>10</successor>
+      <successor rel="split">269</successor>
+        <successor rel="split">279</successor>
+        <successor rel="split">162</successor>
+        <successor rel="split">324</successor>
+        <successor rel="split">256</successor>
+        <successor rel="split">486</successor>
     </successors>
     <notes/>
     <sources>

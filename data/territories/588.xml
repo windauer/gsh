@@ -9,12 +9,26 @@
     <valid-since>1833</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="incorporation">587</predecessor>
+        <predecessor rel="incorporation">609</predecessor>
+        <predecessor rel="incorporation">605</predecessor>
+        <predecessor rel="incorporation">278</predecessor>
+        <predecessor rel="incorporation">324</predecessor>
+        <predecessor rel="incorporation">589</predecessor>
+    </predecessors>
     <successors>
         <successor rel="split">587</successor>
+        <successor rel="split">609</successor>
+        <successor rel="split">605</successor>
+        <successor rel="split">278</successor>
+        <successor rel="split">324</successor>
+        <successor rel="split">589</successor>
     </successors>
     <notes>Grenada was incorporated into the British Windward Islands in 1833 and became a British
-        colony in 1962. Jamaica became independent in 1962.</notes>
+        colony in 1962. In 1871, Dominica was incorporated into the Federal Colony of the Leeward
+        Islands, of which it remained a part until 1940, when it was incorporated into the Federal
+        Colony of the Windward Islands. Jamaica became independent in 1962.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html</source>
         <source>http://www.britannica.com/EBchecked/topic/245745/Grenada</source>

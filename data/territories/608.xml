@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>608</id>
+    <old-id/>
+    <short-form-name>Tunisia</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1881</valid-since>
+    <valid-until>1956</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">448</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">241</successor>
+    </successors>
+    <notes>France invaded Tunisia in 1881 and established a protectorate.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ts.html</source>
+    </sources>
+</territory>

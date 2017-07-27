@@ -17,12 +17,9 @@
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1974</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor rel="split">588</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor rel="incorporation">588</successor>
-        <successor rel="incorporation">566</successor>
+        <successor rel="independence">93</successor>
     </successors>
     <notes>Grenada was ceded to Britain in 1763 by the Treaty of Paris, which ended the Seven Years
         War. In 1779, the French recaptured the island and held it, until losing it back to the

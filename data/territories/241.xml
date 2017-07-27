@@ -3,12 +3,13 @@
     <id>241</id>
     <old-id>tunisia</old-id>
     <short-form-name>Tunisia</short-form-name>
-    <long-form-name>Tunisian Republic</long-form-name>
+    <long-form-name>Republic of Tunisia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1956</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors><predecessor rel="independence">608</predecessor></predecessors>
     <successors/>
     <notes/>
     <sources>

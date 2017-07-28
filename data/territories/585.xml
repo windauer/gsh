@@ -7,10 +7,10 @@
     <variants>
         <variant>
             <variant-id>585_1</variant-id>
-            <variant-name>St. John's Island</variant-name>
+            <variant-name>St. John’s Island</variant-name>
             <valid-since>1769</valid-since>
             <valid-until>1799</valid-until>
-            <note>St. John's Island was renamed Prince Edward Island in 1799</note>
+            <note>St. John’s Island was renamed Prince Edward Island in 1799</note>
         </variant>
     </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
@@ -23,7 +23,7 @@
     <successors>
         <successor rel="incorporation">42</successor>
     </successors>
-    <notes>St. John's Island was a part of Nova Scotia from 1763 to 1769 until it became a
+    <notes>St. John’s Island was a part of Nova Scotia from 1763 to 1769 until it became a
         separate colony in 1769. It was renamed Prince Edward Island in 1799. 
         In 1873, Prince Edward Island joined Canada.</notes>
     <sources>

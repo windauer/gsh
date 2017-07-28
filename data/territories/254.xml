@@ -4,16 +4,19 @@
     <old-id>venezuela</old-id>
     <short-form-name>Venezuela</short-form-name>
     <long-form-name>Bolivarian Republic of Venezuela</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1830</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>370</predecessor>
-        <predecessor>557</predecessor>
+        <predecessor rel="split">370</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1835</notes>
+    <notes>After the death of Bolívar in 1830, General José Antonio Páez led Venezuela’s separation
+        from Gran Columbia and convoked a constitutional convention. The United States recognized
+        independence in 1835. Venezuela’s 1999 constitution changed its name from the Republic of
+        Venezuela to the Bolivarian Republic of Venezuela.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ve.html</source>
         <source>http://history.state.gov/countries/venezuela</source>

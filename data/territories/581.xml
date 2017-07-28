@@ -2,7 +2,7 @@
 <territory>
     <id>581</id>
     <old-id/>
-    <short-form-name>Rupert's Land</short-form-name>
+    <short-form-name>Rupert’s Land</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
@@ -13,7 +13,7 @@
     <successors>
         <successor rel="incorporation">42</successor>
     </successors>
-    <notes>Property of the Hudson's Bay Company.</notes>
+    <notes>Property of the Hudson’s Bay Company.</notes>
     <sources>
         <source>Robert Bothwell, The Penguin History of Canada (Penguin, 2007)</source>
     </sources>

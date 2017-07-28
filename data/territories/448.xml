@@ -22,18 +22,21 @@
     </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
-    <valid-until>1922</valid-until>
+    <valid-until certainty="2">1922</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
         <successor rel="split">267</successor>
-        <successor rel="independence">272</successor>
-        <successor rel="independence">36</successor>
-        <successor>394</successor>
-        <successor rel="independence">242</successor>
+        <successor rel="split">272</successor>
+        <successor rel="split">36</successor>
+        <successor rel="split">394</successor>
+        <successor rel="split">242</successor>
         <successor rel="split">451</successor>
         <successor rel="split">602</successor>
-        <successor rel="incorporation">608</successor>
+        <successor rel="split">373</successor>
+        <successor rel="split">355</successor>
+        <successor rel="split">443</successor>
+        <successor rel="split">608</successor>
     </successors>
     <notes>The Ottomans resumed direct control of Iraq from the Malmuks in 1831.</notes>
     <sources>

@@ -4,12 +4,13 @@
     <old-id>kingdom-of-greece-1923</old-id>
     <short-form-name>Kingdom of Greece</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1832</valid-since>
     <valid-until>1923</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
         <successor>374</successor>

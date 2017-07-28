@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>611</id>
+    <old-id/>
+    <short-form-name>Kuwait</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1914</valid-since>
+    <valid-until>1961</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">612</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">131</successor>
+    </successors>
+    <notes>At the start of World War I, Kuwait became a British protectorate. In 1961, the United
+        Kingdom recognized Kuwait’s independence.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/325644/Kuwait</source>
+    </sources>
+</territory>

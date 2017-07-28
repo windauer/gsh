@@ -9,7 +9,7 @@
     <valid-until>1944</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
         <successor>522</successor>

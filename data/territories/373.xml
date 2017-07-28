@@ -3,21 +3,22 @@
     <id>373</id>
     <old-id>greater-lebanon-1943</old-id>
     <short-form-name>Greater Lebanon</short-form-name>
-    <long-form-name/>
+    <long-form-name>State of Greater Lebanon</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1920</valid-since>
     <valid-until>1943</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>135</successor>
+        <successor rel="independence">135</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/le.html</source>
         <source>https://history.state.gov/countries/lebanon</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/334152/Lebanon</source>
+        <source>https://www.britannica.com/place/Lebanon</source>
     </sources>
 </territory>

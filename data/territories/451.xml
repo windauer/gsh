@@ -4,17 +4,18 @@
     <old-id>palestine-1948</old-id>
     <short-form-name>Palestine</short-form-name>
     <long-form-name>Mandate for Palestine</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1922</valid-since>
     <valid-until>1948</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>115</successor>
+        <successor rel="independence">115</successor>
     </successors>
-    <notes>Currently a self-governing dependent territory of Israel, with greatly diminished territorial sovereignty.</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/is.html</source>
         <source>http://academic.eb.com/EBchecked/topic/296740/Israel</source>

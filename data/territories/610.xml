@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>433</id>
-    <old-id>nevis-1882</old-id>
-    <short-form-name>Nevis</short-form-name>
+    <id>610</id>
+    <old-id/>
+    <short-form-name>Anguilla</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
-    <valid-until>1882</valid-until>
+    <valid-until>1951</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
         <successor rel="merger">486</successor>
-     </successors>
-    <notes/>
+    </successors>
+    <notes>Anguilla was administered by the British through Antigua. In 1825, Anguilla was placed
+        under the administrative control of St. Kitts.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/517489/Saint-Kitts-and-Nevis</source>
     </sources>

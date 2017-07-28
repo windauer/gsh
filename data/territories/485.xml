@@ -3,18 +3,20 @@
     <id>485</id>
     <old-id>saint-christopher-and-nevis-1988</old-id>
     <short-form-name>Saint Christopher and Nevis</short-form-name>
-    <long-form-name>Federation of Saint Christopher and Nevis</long-form-name>
-    <type-of-territory>independent-state</type-of-territory>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1980</valid-since>
-    <valid-until>1988</valid-until>
+    <valid-until>1983</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>486</predecessor>
+        <predecessor rel="split">486</predecessor>
     </predecessors>
     <successors>
-        <successor>200</successor>
+        <successor rel="independence">200</successor>
     </successors>
-    <notes>Gained independence in 1983</notes>
+    <notes>St. Kitts-Nevis gained independence in 1983 as
+        the Federation of St. Kitts and Nevis.</notes>
     <sources>
         <source>http://history.state.gov/countries/saint-kitts-nevis</source>
         <source>http://www.britannica.com/EBchecked/topic/517489/Saint-Kitts-and-Nevis</source>

@@ -4,7 +4,15 @@
     <old-id>leeward-islands-1960</old-id>
     <short-form-name>Leeward Islands</short-form-name>
     <long-form-name>British Leeward Islands</long-form-name>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>410_1</variant-id>
+            <variant-name>Federal Colony of the Leeward Islands</variant-name>
+            <valid-since>1871</valid-since>
+            <valid-until>1956</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1960</valid-until>
@@ -18,14 +26,16 @@
         <predecessor rel="incorporation">486</predecessor>
     </predecessors>
     <successors>
-      <successor rel="split">269</successor>
+        <successor rel="split">269</successor>
         <successor rel="split">279</successor>
         <successor rel="split">162</successor>
         <successor rel="split">324</successor>
         <successor rel="split">256</successor>
         <successor rel="split">486</successor>
     </successors>
-    <notes/>
+    <notes>From 1816 until 1833, the Leeward Islands were administered as two separate groups: 1)
+        Antigua and Barbuda and Montserrat and 2) St. Kitts-Nevis-Anguilla and the British Virgin
+        Islands.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html</source>
         <source>http://www.britannica.com/EBchecked/topic/80384/British-Virgin-Islands</source>

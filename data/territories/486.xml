@@ -2,21 +2,26 @@
 <territory>
     <id>486</id>
     <old-id>saint-christopher-nevis-anguilla-1980</old-id>
-    <short-form-name>Saint Christopher - Nevis - Anguilla</short-form-name>
+    <short-form-name>Saint Christopher-Nevis-Anguilla</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1882</valid-since>
     <valid-until>1980</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>488</predecessor>
+        <predecessor rel="merger">610</predecessor>
+        <predecessor rel="merger">488</predecessor>
+        <predecessor rel="merger">433</predecessor>
     </predecessors>
     <successors>
-        <successor>8</successor>
-        <successor>485</successor>
-        <successor>200</successor>
+        <successor rel="split">8</successor>
+        <successor rel="split">485</successor>
     </successors>
-    <notes>Gained independence in 1967</notes>
+    <notes>By 1871 St. Kitts and Nevis were presidencies within the Federal Colony of the Leeward
+        Islands. St. Kitts and Nevis were merged in 1882 to create a combined presidency.In 1951,
+        the St. Kitts-Nevis colony description was amended to include Anguilla. In 1967, the United
+        Kingdom granted internal autonomy to St. Kitts-Nevis and included Anguilla.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/517489/Saint-Kitts-and-Nevis</source>
     </sources>

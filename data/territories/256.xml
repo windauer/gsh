@@ -6,14 +6,14 @@
     <long-form-name>Virgin Islands, British</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1956</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>410</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes/>
+    <notes>Originally administered as part of the Leeward Islands and the later Federal Colony of
+        the Leeward Islands, the British Virgin Islands were granted colony status in 1960 and
+        autonomy in 1967. </notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html</source>
         <source>http://www.britannica.com/EBchecked/topic/80384/British-Virgin-Islands</source>

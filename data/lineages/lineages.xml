@@ -380,9 +380,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AhlbergKL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>Anguilla (1980–present)</display-name>
@@ -390,14 +390,14 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/8</url>
         </current-territory>
         <predecessor>
-            <display-name>Saint Christopher - Nevis - Anguilla (1882–1980)</display-name>
+            <display-name>Saint Christopher-Nevis-Anguilla (1882–1980)</display-name>
             <territory-id>486</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/486</url>
         </predecessor>
         <predecessor>
-            <display-name>Saint Kitts (1623–1882)</display-name>
-            <territory-id>488</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/488</url>
+            <display-name>Anguilla (1775–1951)</display-name>
+            <territory-id>610</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/610</url>
         </predecessor>
         <other-mention>
             <display-name>Leeward Islands (1672–1960)</display-name>
@@ -409,22 +409,7 @@
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
         </other-mention>
-        <other-mention>
-            <display-name>Saint Kitts and Nevis (1988–present)</display-name>
-            <territory-id>200</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/200</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saint Christopher and Nevis (1980–1988)</display-name>
-            <territory-id>485</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/485</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Nevis (1493–1882)</display-name>
-            <territory-id>433</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/433</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -7988,9 +7973,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WeatherheadDG</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-01-19</reviewed-date>
         </review>
         <current-territory>
             <display-name>Montserrat (1493–present)</display-name>
@@ -9351,12 +9336,7 @@
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
         </other-mention>
-        <other-mention>
-            <display-name>Anguilla (1980–present)</display-name>
-            <territory-id>8</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/8</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -12445,9 +12425,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McDanielHN</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>Venezuela (1830–present)</display-name>
@@ -12464,16 +12444,6 @@
             <territory-id>557</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/557</url>
         </predecessor>
-        <other-mention>
-            <display-name>Colombia</display-name>
-            <territory-id>52</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/52</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ecuador (1830–present)</display-name>
-            <territory-id>70</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/70</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -12574,12 +12544,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AhlbergKL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-27</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Virgin Islands, British (1956–present)</display-name>
+            <display-name>Virgin Islands, British (1775–present)</display-name>
             <territory-id>256</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/256</url>
         </current-territory>
@@ -12592,21 +12562,6 @@
             <display-name>West Indies Federation (1958–1962)</display-name>
             <territory-id>566</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/566</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Barbuda (1685–1872)</display-name>
-            <territory-id>279</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/279</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua (1493–1872)</display-name>
-            <territory-id>269</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/269</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Antigua and Barbuda (1962–present)</display-name>
-            <territory-id>10</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/10</url>
         </other-mention>
     </lineage>
     <lineage>

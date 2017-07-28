@@ -4,15 +4,22 @@
     <old-id>saint-kitts-1882</old-id>
     <short-form-name>Saint Kitts</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>488_1</variant-id>
+            <variant-name>Saint Christopher Island</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>9999</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1623</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1882</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>486</successor>
-        <successor>485</successor>
-        <successor>200</successor>
+        <successor rel="merger">486</successor>
     </successors>
     <notes/>
     <sources>

@@ -4,12 +4,13 @@
     <old-id>algeria</old-id>
     <short-form-name>Algeria</short-form-name>
     <long-form-name>People’s Democratic Republic of Algeria</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1912</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1962</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="independence">613</predecessor>
     </predecessors>
     <successors/>
     <notes>U.S. recognized independence in 1962</notes>

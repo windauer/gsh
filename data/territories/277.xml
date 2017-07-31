@@ -4,16 +4,16 @@
     <old-id>bahrain-1971</old-id>
     <short-form-name>Bahrain</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1783</valid-since>
     <valid-until>1971</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>458</predecessor>
+        <predecessor rel="split">111</predecessor>
     </predecessors>
     <successors>
-        <successor>517</successor>
-        <successor>19</successor>
+        <successor rel="independence">19</successor>
     </successors>
     <notes/>
     <sources>

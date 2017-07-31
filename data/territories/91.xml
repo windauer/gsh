@@ -4,16 +4,33 @@
     <old-id>greece</old-id>
     <short-form-name>Greece</short-form-name>
     <long-form-name>Hellenic Republic</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>91_1</variant-id>
+            <variant-name>Kingdom of Greece</variant-name>
+            <valid-since>1935</valid-since>
+            <valid-until>1973</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>91_2</variant-id>
+            <variant-name>Kingdom of Greece</variant-name>
+            <valid-since>1832</valid-since>
+            <valid-until>1923</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1973</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1830</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>395</predecessor>
+        <predecessor rel="independence">448</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>The United States recognized independence in 1837.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/244154/Greece/26417/Factionalism-in-the-emerging-state</source>
     </sources>
 </territory>

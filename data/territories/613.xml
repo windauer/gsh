@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>613</id>
+    <old-id/>
+    <short-form-name>French Algeria</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1830</valid-since>
+    <valid-until>1962</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors><predecessor rel="split">448</predecessor></predecessors>
+    <successors>
+        <successor rel="independence">4</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html</source>
+        <source>http://history.state.gov/countries/algeria</source>
+    </sources>
+</territory>

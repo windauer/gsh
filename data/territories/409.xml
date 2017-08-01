@@ -4,17 +4,30 @@
     <old-id>latvia-1940</old-id>
     <short-form-name>Latvia</short-form-name>
     <long-form-name>Republic of Latvia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1922</valid-since>
+    <valid-since>1918</valid-since>
     <valid-until>1940</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>483</predecessor>
+        <predecessor rel="split">483</predecessor>
     </predecessors>
     <successors>
-        <successor>513</successor>
+        <successor rel="incorporation">513</successor>
     </successors>
-    <notes>U.S. recognizes independence in 1922.</notes>
+    <notes>Following the abdication of the Czar, Latvia remained within the provisional Russian
+        Republic until it was deposed in the October Revolution. During this gap period, Latvia was
+        contested between warring parties in the Russian Civil War and was partly controlled in the
+        form of client states by the German Empire (Duchy of Courland and Semigallia and United
+        Baltic Duchy) after the Treaty of Brest-Litovsk, in which the Bolshevik government ceded
+        control of the Baltic region to Germany. Neither of these clients were recognized by any
+        government other than the German Empire. Latvia declared independence on November 18, 1918,
+        and was mired in a war of independence with the Soviets until the signing of the
+        Latvian-Soviet Peace Treaty on 11 August 1920. Latvia was admitted into the League of
+        Nations in 1921 and was recognized by the U.S. Government on July 28, 1922. The Red Army
+        occupied Latvia in June 1940. A pliable government was installed which petitioned for
+        admission to the Soviet Union; ascension was granted on August 5. Latvia was occupied by
+        Nazi Germany from 1941 to 1944.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lg.html</source>
         <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/332121/Latvia</source>

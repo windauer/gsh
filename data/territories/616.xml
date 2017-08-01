@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>616</id>
+    <old-id/>
+    <short-form-name>Liechtenstein</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1806</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+      <successor rel="independence">139</successor>
+    </successors>
+    <notes>Liechtenstein was originally created for and named after an Austrian noble for services
+        to the Holy Roman Empire. Lichtenstein was thus until 1806 and the end of the Holy Roman
+        Empire most properly thought of as a province or fief within the larger polity. The
+        decentralized and localized nature of power and sovereignty within the Holy Roman Empire
+        compared to a modern state suggests however that Liechtenstein’s status during this period
+        can be thought of as more properly national than might be the case for a subsidiary
+        jurisdiction in a modern state.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ls.html</source>
+        <source>http://www.britannica.com/EBchecked/topic/339873/Liechtenstein/250866/History</source>
+        <source>http://www.liechtensteinusa.org/index.php?page=history</source>
+        <source requires-subscription="true">http://www.jstor.org/stable/2197053</source>
+    </sources>
+</territory>

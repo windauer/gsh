@@ -4,7 +4,13 @@
     <old-id>russian-empire-1917</old-id>
     <short-form-name>Russian Empire</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants><variant>
+        <variant-id>483_1</variant-id>
+        <variant-name>Russia</variant-name>
+        <valid-since>1775</valid-since>
+        <valid-until>1917</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1917</valid-until>
@@ -14,6 +20,7 @@
     </predecessors>
     <successors>
         <successor rel="split">513</successor>
+        <successor rel="split">409</successor>
     </successors>
     <notes/>
     <sources>

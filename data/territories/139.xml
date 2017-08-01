@@ -4,17 +4,28 @@
     <old-id>liechtenstein</old-id>
     <short-form-name>Liechtenstein</short-form-name>
     <long-form-name>Principality of Liechtenstein</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1719</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1806</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">615</predecessor>
+    </predecessors>
     <successors/>
-    <notes>1719 Liechtenstein established within Holy Roman Empire; Part of the Confederation of
-            the Rhine from 1806 to 1815; Part of the Germanic Confederation from 1815 to 1866; Fully
-            independent in 1866</notes>
+    <notes>From 1806 to 1815 Liechtenstein was unquestionably sovereign. The Embassy of the
+        Lichtenstein in the United States gives 1806 as the official date of independence. In 1815,
+        it became part of the German Confederation, a loose association of German speaking nations
+        brought together following the conclusion of the Congress of Vienna. Akin to the Holy Roman
+        Empire the German Confederation was a fissiparous and imprecise assemblage within which
+        individual members retained significant sovereignty. The Confederation collapsed in 1866 at
+        which point Lichtenstein became once more indisputably fully sovereign. Following World War
+        I, Liechtenstein entered a customs and monetary union with Switzerland as traditional ties
+        with Austria were of less use due to the unfavorable outcome of the conflict.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ls.html</source>
         <source>http://www.britannica.com/EBchecked/topic/339873/Liechtenstein/250866/History</source>
+        <source>http://www.liechtensteinusa.org/index.php?page=history</source>
+        <source requires-subscription="true">http://www.jstor.org/stable/2197053</source>
     </sources>
 </territory>

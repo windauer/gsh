@@ -11,7 +11,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
-        <successor rel="incorporation"  >483</successor>
+        <successor rel="incorporation">483</successor>
     </successors>
     <notes/>
     <sources>

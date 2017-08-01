@@ -6,7 +6,7 @@
     <long-form-name>Union of Soviet Socialist Republics</long-form-name>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1917</valid-since>
+    <valid-since precision="4">1917</valid-since>
     <valid-until>1991</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
@@ -14,6 +14,7 @@
         <predecessor rel="incorporation">272</predecessor>
         <predecessor rel="incorporation">538</predecessor>
         <predecessor rel="incorporation">409</predecessor>
+        <predecessor rel="incorporation">617</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">12</successor>

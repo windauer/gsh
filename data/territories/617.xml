@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>617</id>
+    <old-id/>
+    <short-form-name>Azerbaijan Democratic Republic</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1920</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors><predecessor rel="split">483</predecessor></predecessors>
+    <successors>
+      <successor rel="incorporation">513</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html</source>
+        <source>http://history.state.gov/countries/azerbaijan</source>
+        <source>http://www.britannica.com/EBchecked/topic/46781/Azerbaijan</source>
+    </sources>
+</territory>

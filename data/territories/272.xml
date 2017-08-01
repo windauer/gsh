@@ -10,13 +10,13 @@
     <valid-until>1920</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>483</predecessor>
+        <predecessor rel="split">483</predecessor>
         <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>513</successor>
+        <successor rel="incorporation">513</successor>
     </successors>
-    <notes>U.S. recognized independence in 1920</notes>
+    <notes>The United States recognized independence in 1920.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/am.html</source>
         <source>http://history.state.gov/countries/armenia</source>

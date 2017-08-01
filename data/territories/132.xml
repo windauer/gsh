@@ -4,16 +4,18 @@
     <old-id>kyrgyzstan</old-id>
     <short-form-name>Kyrgyzstan</short-form-name>
     <long-form-name>Kyrgyz Republic</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1991</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>403</predecessor>
+        <predecessor rel="split">513</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html</source>
+        <source>https://history.state.gov/countries/kyrgyzstan</source>
     </sources>
 </territory>

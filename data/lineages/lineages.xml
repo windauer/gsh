@@ -432,12 +432,7 @@
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
-        <predecessor>
-            <display-name>Cossack Hetmanate (1648–1709)</display-name>
-            <territory-id>540</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/540</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Polish-Lithuanian Commonwealth (1569–1795)</display-name>
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
@@ -7691,55 +7686,55 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>CharlesEC</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-01</reviewed-date>
         </review>
         <current-territory>
             <display-name>Poland (1918–present)</display-name>
             <territory-id>190</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/190</url>
         </current-territory>
-        <predecessor>
-            <display-name>Land of the Vistula (1863–1918)</display-name>
-            <territory-id>408</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/408</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Congress Poland (1815–1863)</display-name>
-            <territory-id>314</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/314</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Duchy of Warsaw (1807–1815)</display-name>
             <territory-id>325</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/325</url>
         </predecessor>
         <predecessor>
-            <display-name>Cossack Hetmanate (1648–1709)</display-name>
-            <territory-id>540</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/540</url>
+            <display-name>Austria-Hungary (1867–1918)</display-name>
+            <territory-id>275</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/275</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Austrian Empire (1804–1867)</display-name>
+            <territory-id>276</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/276</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Habsburg Empire (1526–1804)</display-name>
+            <territory-id>376</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Prussia (1871–1918)</display-name>
+            <territory-id>469</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/469</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Prussia (1701–1871)</display-name>
+            <territory-id>468</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/468</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Russian Empire (1721–1917)</display-name>
+            <territory-id>483</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
         <predecessor>
             <display-name>Polish-Lithuanian Commonwealth (1569–1795)</display-name>
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
         </predecessor>
-        <other-mention>
-            <display-name>Republic of Cracow (1815–1846)</display-name>
-            <territory-id>474</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/474</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Grand Duchy of Poznan (1815–1919)</display-name>
-            <territory-id>371</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/371</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Russian Empire (1721–1917)</display-name>
-            <territory-id>483</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>

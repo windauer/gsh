@@ -21,6 +21,7 @@
     <successors>
         <successor rel="split">513</successor>
         <successor rel="split">409</successor>
+        <successor rel="split">190</successor>
     </successors>
     <notes>Peter the Great declared Muscovy the Russian Empire after the Great Northern War with Sweden.</notes>
     <sources>

@@ -4,20 +4,29 @@
     <old-id>duchy-of-warsaw-1815</old-id>
     <short-form-name>Duchy of Warsaw</short-form-name>
     <long-form-name>Grand Duchy of Warsaw</long-form-name>
-    <type-of-territory>independent-state</type-of-territory>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1807</valid-since>
     <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>461</predecessor>
+        <predecessor rel="merger">483</predecessor>
+        <predecessor rel="merger">276</predecessor>
+        <predecessor rel="merger">468</predecessor>
     </predecessors>
     <successors>
-        <successor>371</successor>
-        <successor>474</successor>
-        <successor>314</successor>
+        <successor rel="split">483</successor>
+        <successor rel="split">276</successor>
+        <successor rel="split">468</successor>
     </successors>
-    <notes/>
+    <notes>Napoleon briefly established the Duchy of Warsaw to restore a semi-independent Polish
+        state after partition in the 18th century. The area was reoccupied and repartitioned after
+        Napoleon's defeat.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/636120/Duchy-of-Warsaw</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html</source>
+        <source>https://www.britannica.com/place/Poland</source>
+        <source>https://history.state.gov/countries/Poland</source>
+        <source>https://www.loc.gov/item/93046235</source>
     </sources>
 </territory>

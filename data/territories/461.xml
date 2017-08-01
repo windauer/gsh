@@ -12,10 +12,17 @@
     <predecessors type="none"/>
     <successors>
         <successor rel="incorporation">483</successor>
+        <successor rel="incorporation">376</successor>
+        <successor rel="incorporation">468</successor>
     </successors>
-    <notes/>
+    <notes>By 1795, the Polish-Lithuanian Commonwealth was divided between the Russian, Austrian,
+        and Prussian Empires. The First Partition took place in 1772, the Second in 1793, and the
+        Third and final in 1795.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html</source>
+        <source>https://www.britannica.com/place/Poland</source>
+        <source>https://history.state.gov/countries/Poland</source>
+        <source>https://www.loc.gov/item/93046235</source>
     </sources>
 </territory>

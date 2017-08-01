@@ -4,16 +4,22 @@
     <old-id>poland</old-id>
     <short-form-name>Poland</short-form-name>
     <long-form-name>Republic of Poland</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1918</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>408</predecessor>
+        <predecessor rel="merger">483</predecessor>
+        <predecessor rel="merger">275</predecessor>
+        <predecessor rel="merger">469</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1919</notes>
+    <notes>The United States recognized independence in 1919. During World War II, Germany and the Soviet Union divided and occupied Poland.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html</source>
+        <source>https://www.britannica.com/place/Poland</source>
+        <source>https://history.state.gov/countries/Poland</source>
+        <source>https://www.loc.gov/item/93046235</source>
     </sources>
 </territory>

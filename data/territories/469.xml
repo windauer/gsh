@@ -12,7 +12,8 @@
         <predecessor>468</predecessor>
     </predecessors>
     <successors>
-        <successor>364</successor>
+        <successor rel="split">364</successor>
+        <successor rel="split">190</successor>
     </successors>
     <notes/>
     <sources>

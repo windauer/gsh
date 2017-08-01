@@ -4,7 +4,13 @@
     <old-id>bulgaria</old-id>
     <short-form-name>Bulgaria</short-form-name>
     <long-form-name>Republic of Bulgaria</long-form-name>
-    <variants/>
+    <variants><variant>
+        <variant-id>36_1</variant-id>
+        <variant-name>People's Republic of Bulgaria</variant-name>
+        <valid-since>1945</valid-since>
+        <valid-until>1989</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1908</valid-since>
     <valid-until type="present">9999</valid-until>
@@ -13,8 +19,7 @@
         <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1909; First Bulgarian state established in 681;
-            Conquered by Ottoman Empire in 1396</notes>
+    <notes>The United States recognized independence in 1909.</notes>
     <sources>
         <source>http://history.state.gov/countries/bulgaria</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bu.html</source>

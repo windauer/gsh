@@ -4,15 +4,16 @@
     <old-id>kingdom-of-serbia-1918</old-id>
     <short-form-name>Kingdom of Serbia</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
     <valid-since>1882</valid-since>
     <valid-until>1918</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>466</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>401</successor>
+        <successor rel="merger">501</successor>
     </successors>
     <notes>U.S. recognized in 1881</notes>
     <sources>

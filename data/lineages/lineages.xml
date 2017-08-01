@@ -1564,16 +1564,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
         </predecessor>
         <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
-        </predecessor>
-        <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
@@ -2571,16 +2561,6 @@
             <display-name>Socialist Federal Republic of Yugoslavia (1946–1992)</display-name>
             <territory-id>501</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
@@ -5154,9 +5134,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BarnumFSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-01</reviewed-date>
         </review>
         <current-territory>
             <display-name>Kosovo (2008–present)</display-name>
@@ -5168,30 +5148,15 @@
             <territory-id>210</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/210</url>
         </predecessor>
-        <predecessor>
-            <display-name>Serbia and Montenegro (2003–2006)</display-name>
-            <territory-id>496</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/496</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Federal Republic of Yugoslavia (1992–2003)</display-name>
             <territory-id>342</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/342</url>
         </predecessor>
         <predecessor>
-            <display-name>Socialist Federal Republic of Yugoslavia (1946–1992)</display-name>
+            <display-name>Socialist Federal Republic of Yugoslavia (1918–1992)</display-name>
             <territory-id>501</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
@@ -5199,35 +5164,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
         <predecessor>
-            <display-name>Principality of Serbia (?–1882)</display-name>
-            <territory-id>466</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/466</url>
+            <display-name>Ottoman Empire</display-name>
+            <territory-id>448</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Slovenia (1991–present)</display-name>
-            <territory-id>216</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/216</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Montenegro (2006–present)</display-name>
-            <territory-id>161</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/161</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Macedonia (1991–present)</display-name>
-            <territory-id>143</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/143</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bosnia and Herzegovina (1991–present)</display-name>
-            <territory-id>30</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/30</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Croatia (1991–present)</display-name>
-            <territory-id>60</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/60</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -6430,16 +6370,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
         </predecessor>
         <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
-        </predecessor>
-        <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
@@ -7225,12 +7155,7 @@
             <territory-id>161</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/161</url>
         </current-territory>
-        <predecessor>
-            <display-name>Serbia and Montenegro (2003–2006)</display-name>
-            <territory-id>496</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/496</url>
-        </predecessor>
-        <predecessor>
+               <predecessor>
             <display-name>Federal Republic of Yugoslavia (1992–2003)</display-name>
             <territory-id>342</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/342</url>
@@ -7239,16 +7164,6 @@
             <display-name>Socialist Federal Republic of Yugoslavia (1946–1992)</display-name>
             <territory-id>501</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
@@ -8997,11 +8912,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/210</url>
         </current-territory>
         <predecessor>
-            <display-name>Serbia and Montenegro (2003–2006)</display-name>
-            <territory-id>496</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/496</url>
-        </predecessor>
-        <predecessor>
             <display-name>Federal Republic of Yugoslavia (1992–2003)</display-name>
             <territory-id>342</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/342</url>
@@ -9010,16 +8920,6 @@
             <display-name>Socialist Federal Republic of Yugoslavia (1946–1992)</display-name>
             <territory-id>501</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
@@ -9256,16 +9156,6 @@
             <display-name>Socialist Federal Republic of Yugoslavia (1946–1992)</display-name>
             <territory-id>501</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/501</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Yugoslavia (1929–1946)</display-name>
-            <territory-id>571</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/571</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Serbs, Croats, and Slovenes (1918–1929)</display-name>
-            <territory-id>401</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of Serbia (1882–1918)</display-name>
@@ -11030,7 +10920,7 @@
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
-      <predecessor>
+        <predecessor>
             <display-name>Polish-Lithuanian Commonwealth (1569–1795)</display-name>
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
@@ -11040,7 +10930,7 @@
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
-   </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>

@@ -4,15 +4,21 @@
     <old-id>kosovo</old-id>
     <short-form-name>Kosovo</short-form-name>
     <long-form-name>Republic of Kosovo</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>2008</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>210</predecessor>
+        <predecessor rel="split">210</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Kosovo’s parliament declared independence in 2008. The U.S. Government recognized Kosovo
+        and extended diplomatic relations on February 18, 2008. Under the auspices of UN Security
+        Council Resolution 1244, the United Nations assumed responsibility for civil and military
+        matters in Kosovo in 1999. The role of UNIAMK was reduced as conditions warranted and the
+        government of Kosovo assumed essentially all government functions from September 2012
+        onward.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html</source>
     </sources>

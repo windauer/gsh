@@ -4,18 +4,33 @@
     <old-id>federal-republic-of-yugoslavia-2003</old-id>
     <short-form-name>Federal Republic of Yugoslavia</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>342_1</variant-id>
+            <variant-name>State Union of Serbia and Montenegro</variant-name>
+            <valid-since>2003</valid-since>
+            <valid-until>2006</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1992</valid-since>
-    <valid-until>2003</valid-until>
+    <valid-until>2006</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>501</predecessor>
+        <predecessor rel="split">501</predecessor>
     </predecessors>
     <successors>
-        <successor>496</successor>
+        <successor rel="split">210</successor>
     </successors>
-    <notes>U.S. does not recognize any state as the sole continuation of the Socialist Federal
-            Republic of Yugoslavia; Mulitple predecessors and successors</notes>
+    <notes>From 1989 to 1992, Yugoslavia broke up into several newly separate states. Kosovo
+        remained within the Federal Republic upon the final dissolution of the SFRY on April 28,
+        1992. From September 22, 1992, to February 1, 1999, Kosovo was a self-declared independent
+        republic which attempted to operate parallel national institutions from those in the Federal
+        Republic of Yugoslavia. The Republic was never recognized as an independent state by the
+        U.S. Government and eventually acceded to control by the Federal Republic. On February 4,
+        2003, following constitutional reform, the Federal Republic of Yugoslavia changed its name
+        to the State Union of Serbia and Montenegro.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html</source>
         <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>

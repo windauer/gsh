@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>614</id>
+    <old-id/>
+    <short-form-name>Kingdom of Montenegro</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1905</valid-since>
+    <valid-until>1918</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">448</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">401</successor>
+    </successors>
+    <notes>The United States recognized Montenegro in 1905. The Treaty of London, concluding the
+        First Balkan War, divided present day Kosovo between the Kingdoms of Montenegro and
+        Serbia.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html</source>
+        <source>https://history.state.gov/countries/montenegro</source>
+    </sources>
+</territory>

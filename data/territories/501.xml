@@ -4,22 +4,45 @@
     <old-id>socialist-federal-republic-of-yugoslavia-1992</old-id>
     <short-form-name>Socialist Federal Republic of Yugoslavia</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>501_1</variant-id>
+            <variant-name>Kingdom of Serbs, Croats, and Slovenes</variant-name>
+            <valid-since>1918</valid-since>
+            <valid-until>1929</valid-until>
+            <note>Following a surge of pan-Slavism after the conclusion of the First World War,
+                the Kingdoms of Montenegro and Serbia merged with the short lived State of Slovenes,
+                Croats, and Serbs to form a greater Balkan state.</note>
+        </variant>
+        <variant>
+            <variant-id>501_2</variant-id>
+            <variant-name>Kingdom of Yugoslavia</variant-name>
+            <valid-since>1929</valid-since>
+            <valid-until>1945</valid-until>
+            <note>King Alexander I formally changed the name of the nation on October 3,
+                1929.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1946</valid-since>
+    <valid-since>1918</valid-since>
     <valid-until>1992</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>571</predecessor>
+        <predecessor rel="merger">400</predecessor>
+        <predecessor rel="merger">614</predecessor>
+        <predecessor rel="incorporation">615</predecessor>
     </predecessors>
     <successors>
-        <successor>342</successor>
-        <successor>60</successor>
-        <successor>216</successor>
-        <successor>30</successor>
-        <successor>143</successor>
+        <successor rel="split">342</successor>
+        <successor rel="split">60</successor>
+        <successor rel="split">216</successor>
+        <successor rel="split">30</successor>
+        <successor rel="split">143</successor>
     </successors>
-    <notes>U.S. does not recognize any state as the sole continuation of the Socialist Federal
-            Republic of Yugoslavia</notes>
+    <notes>Following the dissolution of the monarchy in 1945, the Kingdom of Yugoslavia became the
+        Socialist Federal Republic of Yugoslavia, a communist state. The United States does not
+        recognize any state as the sole continuation of the Socialist Federal Republic of
+        Yugoslavia</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html</source>
         <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>

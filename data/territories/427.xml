@@ -4,13 +4,14 @@
     <old-id>moldavia-1862</old-id>
     <short-form-name>Moldavia</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1349</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1862</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>195</successor>
+        <successor rel="merger">195</successor>
     </successors>
     <notes>Gained independence in 1349</notes>
     <sources>

@@ -432,7 +432,7 @@
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Polish-Lithuanian Commonwealth (1569–1795)</display-name>
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
@@ -1563,7 +1563,7 @@
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
-       <other-mention>
+        <other-mention>
             <display-name>Slovenia (1991–present)</display-name>
             <territory-id>216</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/216</url>
@@ -2557,7 +2557,7 @@
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
-     <other-mention>
+        <other-mention>
             <display-name>Slovenia (1991–present)</display-name>
             <territory-id>216</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/216</url>
@@ -5133,7 +5133,7 @@
             <territory-id>210</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/210</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Federal Republic of Yugoslavia (1992–2003)</display-name>
             <territory-id>342</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/342</url>
@@ -5571,22 +5571,22 @@
             <territory-id>409</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/409</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Soviet Union (1917–1991)</display-name>
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Russian Empire (1721–1917)</display-name>
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Polish-Lithuanian Commonwealth (1569–1795)</display-name>
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -6124,7 +6124,7 @@
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
-       <other-mention>
+        <other-mention>
             <display-name>Slovenia (1991–present)</display-name>
             <territory-id>216</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/216</url>
@@ -6900,7 +6900,7 @@
             <territory-id>161</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/161</url>
         </current-territory>
-               <predecessor>
+        <predecessor>
             <display-name>Federal Republic of Yugoslavia (1992–2003)</display-name>
             <territory-id>342</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/342</url>
@@ -6915,7 +6915,7 @@
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
-       <other-mention>
+        <other-mention>
             <display-name>Slovenia (1991–present)</display-name>
             <territory-id>216</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/216</url>
@@ -7695,7 +7695,7 @@
             <territory-id>190</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/190</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Duchy of Warsaw (1807–1815)</display-name>
             <territory-id>325</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/325</url>
@@ -7747,7 +7747,7 @@
             <territory-id>191</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/191</url>
         </current-territory>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -7906,9 +7906,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>CharlesEC</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-01</reviewed-date>
         </review>
         <current-territory>
             <display-name>Romania (1862–present)</display-name>
@@ -7925,6 +7925,16 @@
             <territory-id>564</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/564</url>
         </predecessor>
+        <predecessor>
+            <display-name>Russian Empire (1721–1917)</display-name>
+            <territory-id>483</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Austria-Hungary (1867–1918)</display-name>
+            <territory-id>275</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/275</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -7937,7 +7947,7 @@
             <territory-id>196</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/196</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Soviet Union (1917–1991)</display-name>
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
@@ -8411,7 +8421,7 @@
             <territory-id>400</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/400</url>
         </predecessor>
-      <predecessor>
+        <predecessor>
             <display-name>Ottoman Empire</display-name>
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
@@ -8602,7 +8612,7 @@
             <territory-id>276</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/276</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Habsburg Empire (1526–1804)</display-name>
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>

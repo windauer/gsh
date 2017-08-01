@@ -4,16 +4,24 @@
     <old-id>romania</old-id>
     <short-form-name>Romania</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1862</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>427</predecessor>
-        <predecessor>564</predecessor>
+        <predecessor rel="merger">427</predecessor>
+        <predecessor rel="merger">564</predecessor>
+        <predecessor rel="incorporation">483</predecessor>
+        <predecessor rel="incorporation">275</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1881</notes>
+    <notes>The Principalities of Moldavia and Wallachia united to form Romania, under Ottoman rule,
+        in 1862. After the Ottomans were defeated in the Russo-Turkish War, Prince Charles declared
+        Romanian independence. The United States recognized independence in 1881. At the end of
+        World War I, Greater Romania came into being through the acquisition of Transylvania and the
+        Banat from Hungary, Bukovina from Austria, and Bessarabia from Russia. As a result, the
+        country's territory doubled.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html</source>
         <source>http://history.state.gov/countries/romania</source>

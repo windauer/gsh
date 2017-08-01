@@ -4,17 +4,22 @@
     <old-id>austria-hungary-1918</old-id>
     <short-form-name>Austria-Hungary</short-form-name>
     <long-form-name>Austro-Hungarian Empire</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1867</valid-since>
     <valid-until>1918</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>276</predecessor>
+        <predecessor rel="split">276</predecessor>
     </predecessors>
     <successors>
-        <successor>318</successor>
-        <successor>16</successor>
-        <successor>107</successor>
+        <successor rel="split">318</successor>
+        <successor rel="split">16</successor>
+        <successor rel="split">107</successor>
+        <successor rel="split">190</successor>
+        <successor rel="split">195</successor>
+        <successor rel="split">401</successor>
+        <successor rel="split">539</successor>
     </successors>
     <notes/>
     <sources>

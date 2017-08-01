@@ -4,15 +4,16 @@
     <old-id>austrian-empire-1867</old-id>
     <short-form-name>Austrian Empire</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1804</valid-since>
     <valid-until>1867</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>376</predecessor>
+        <predecessor rel="split">376</predecessor>
     </predecessors>
     <successors>
-        <successor>275</successor>
+        <successor rel="split">275</successor>
     </successors>
     <notes/>
     <sources>

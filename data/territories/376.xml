@@ -4,13 +4,14 @@
     <old-id>habsburg-empire-1804</old-id>
     <short-form-name>Habsburg Empire</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1526</valid-since>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1804</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>276</successor>
+        <successor rel="split">276</successor>
     </successors>
     <notes/>
     <sources>

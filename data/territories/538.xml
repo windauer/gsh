@@ -4,21 +4,20 @@
     <old-id>ukraine-1922</old-id>
     <short-form-name>Ukrainian National Republic</short-form-name>
     <long-form-name>Ukrainian Soviet Socialist Republic</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1920</valid-since>
     <valid-until>1922</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>539</predecessor>
+        <predecessor rel="incorporation">539</predecessor>
     </predecessors>
     <successors>
-        <successor>513</successor>
+        <successor rel="incorporation">513</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/up.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/612921/Ukraine</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.chron?authstatuscode=202</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/ua.hist?authstatuscode=202</source>
-    </sources>
+        <source>https://www.britannica.com/place/Ukraine</source>
+     </sources>
 </territory>

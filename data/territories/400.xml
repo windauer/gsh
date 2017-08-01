@@ -4,9 +4,18 @@
     <old-id>kingdom-of-serbia-1918</old-id>
     <short-form-name>Kingdom of Serbia</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>400_1</variant-id>
+            <variant-name>Principality of Serbia</variant-name>
+            <valid-since>1830</valid-since>
+            <valid-until>1882</valid-until>
+            <note>The Ottoman Empire granted the Principality of Serbia full autonomy in
+                1830.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1882</valid-since>
+    <valid-since>1830</valid-since>
     <valid-until>1918</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
@@ -15,7 +24,8 @@
     <successors>
         <successor rel="merger">501</successor>
     </successors>
-    <notes>U.S. recognized in 1881</notes>
+    <notes>Formal independence was granted at the end of the Russo-Turkish War in 1878. The United
+        States recognized Serbia in 1881.</notes>
     <sources>
         <source>http://history.state.gov/countries/kingdom-of-yugoslavia</source>
         <source>http://www.britannica.com/EBchecked/topic/382133/Milan-IV-or-II</source>

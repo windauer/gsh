@@ -4,13 +4,14 @@
     <old-id>spain</old-id>
     <short-form-name>Spain</short-form-name>
     <long-form-name>Kingdom of Spain</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1492</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>U.S. recognized independence in 1783</notes>
+    <notes>The United States recognized independence in 1783.</notes>
     <sources>
         <source>http://history.state.gov/countries/spain</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sp.html</source>

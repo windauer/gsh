@@ -22,9 +22,11 @@
         <successor rel="split">513</successor>
         <successor rel="split">409</successor>
     </successors>
-    <notes/>
+    <notes>Peter the Great declared Muscovy the Russian Empire after the Great Northern War with Sweden.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/513251/Russia/38519/Cultural-life</source>
+        <source>https://www.britannica.com/place/Soviet-Union</source>
+        <source>https://www.loc.gov/item/97007563</source>
+        <source>https://history.state.gov/countries/russia</source>
     </sources>
 </territory>

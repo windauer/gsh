@@ -4,12 +4,13 @@
     <old-id>slovakia</old-id>
     <short-form-name>Slovakia</short-form-name>
     <long-form-name>Slovak Republic</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1993</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>318</predecessor>
+        <predecessor rel="split">318</predecessor>
     </predecessors>
     <successors/>
     <notes/>

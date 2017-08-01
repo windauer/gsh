@@ -14,7 +14,6 @@
     </predecessors>
     <successors>
         <successor rel="split">130</successor>
-        <successor rel="split">161</successor>
     </successors>
     <notes/>
     <sources>

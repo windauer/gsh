@@ -4,12 +4,13 @@
     <old-id>slovenia</old-id>
     <short-form-name>Slovenia</short-form-name>
     <long-form-name>Republic of Slovenia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1991</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>501</predecessor>
+        <predecessor rel="split">501</predecessor>
     </predecessors>
     <successors/>
     <notes/>

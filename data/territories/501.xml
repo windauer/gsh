@@ -31,6 +31,7 @@
         <predecessor rel="merger">400</predecessor>
         <predecessor rel="merger">614</predecessor>
         <predecessor rel="incorporation">615</predecessor>
+        <predecessor rel="split">275</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">342</successor>

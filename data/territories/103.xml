@@ -4,16 +4,29 @@
     <old-id>holy-see</old-id>
     <short-form-name>Holy See</short-form-name>
     <long-form-name>Holy See</long-form-name>
+    <variants><variant>
+        <variant-id>103_1</variant-id>
+        <variant-name>Papal States</variant-name>
+        <valid-since>1775</valid-since>
+        <valid-until>1929</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>103_2</variant-id>
+        <variant-name>Pontifical States</variant-name>
+        <valid-since>1775</valid-since>
+        <valid-until>1929</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1929</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>452</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html</source>
+        <source>https://www.britannica.com/place/Papal-States</source>
     </sources>
 </territory>

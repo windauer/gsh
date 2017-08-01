@@ -4,7 +4,13 @@
     <old-id>arab-union-1958</old-id>
     <short-form-name>Federation of Iraq and Jordan</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants><variant>
+        <variant-id>270_1</variant-id>
+        <variant-name>Arab Federation</variant-name>
+        <valid-since>1958</valid-since>
+        <valid-until>1958</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1958</valid-since>
     <valid-until>1958</valid-until>

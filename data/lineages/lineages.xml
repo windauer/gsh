@@ -150,11 +150,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -197,9 +192,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
             <display-name>Algeria (1912–present)</display-name>
@@ -207,120 +202,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/4</url>
         </current-territory>
         <predecessor>
+            <display-name>French Algeria</display-name>
+            <territory-id>613</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/613</url>
+        </predecessor>
+        <predecessor>
             <display-name>Ottoman Empire (1300–1922)</display-name>
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Northern Yemen (1918–1990)</display-name>
-            <territory-id>443</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Armenian Republic (1918–1920)</display-name>
-            <territory-id>272</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/272</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Albania (1912–1946)</display-name>
-            <territory-id>267</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/267</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Turkey (1923–present)</display-name>
-            <territory-id>242</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/242</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1961–present)</display-name>
-            <territory-id>231</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/231</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1932–present)</display-name>
-            <territory-id>208</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/208</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1971–present)</display-name>
-            <territory-id>193</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/193</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1951–present)</display-name>
-            <territory-id>138</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/138</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Israel (1948–present)</display-name>
-            <territory-id>115</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/115</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bulgaria (1908–present)</display-name>
-            <territory-id>36</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/36</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Syria (1918–1944)</display-name>
-            <territory-id>355</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/355</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Southern Yemen (1967–1990)</display-name>
-            <territory-id>512</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1931–1951)</display-name>
-            <territory-id>411</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/411</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Greater Lebanon (1920–1943)</display-name>
-            <territory-id>373</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1944–1958)</display-name>
-            <territory-id>522</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/522</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1916–1971)</display-name>
-            <territory-id>470</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/470</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palestine (1922–1948)</display-name>
-            <territory-id>451</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/451</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Iraq (1932–1958)</display-name>
-            <territory-id>384</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/384</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Egypt (1882–1922)</display-name>
-            <territory-id>334</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/334</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -703,11 +593,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -1078,11 +963,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -1145,41 +1025,26 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Bahrain (2002–present)</display-name>
+            <display-name>Bahrain (1971–present)</display-name>
             <territory-id>19</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/19</url>
         </current-territory>
-        <predecessor>
-            <display-name>State of Bahrain (1971–2002)</display-name>
-            <territory-id>517</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/517</url>
-        </predecessor>
-        <predecessor>
+      <predecessor>
             <display-name>Bahrain (1783–1971)</display-name>
             <territory-id>277</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/277</url>
         </predecessor>
         <predecessor>
-            <display-name>Persia (1501–1935)</display-name>
-            <territory-id>458</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/458</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Iran (1935–present)</display-name>
+            <display-name>Iran (1501–1935)</display-name>
             <territory-id>111</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/111</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-    </lineage>
+        </predecessor>
+     </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -1461,11 +1326,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -1915,11 +1775,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
@@ -3162,11 +3017,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -3513,11 +3363,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
@@ -4097,11 +3942,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -4255,145 +4095,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Greece (1973–present)</display-name>
+            <display-name>Greece (1830–present)</display-name>
             <territory-id>91</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/91</url>
         </current-territory>
-        <predecessor>
-            <display-name>Kingdom of Greece (1935–1973)</display-name>
-            <territory-id>395</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/395</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Greece (1923–1935)</display-name>
-            <territory-id>374</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/374</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </predecessor>
         <predecessor>
             <display-name>Ottoman Empire (1300–1922)</display-name>
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Northern Yemen (1918–1990)</display-name>
-            <territory-id>443</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Armenian Republic (1918–1920)</display-name>
-            <territory-id>272</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/272</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Albania (1912–1946)</display-name>
-            <territory-id>267</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/267</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Turkey (1923–present)</display-name>
-            <territory-id>242</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/242</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1961–present)</display-name>
-            <territory-id>231</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/231</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1932–present)</display-name>
-            <territory-id>208</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/208</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1971–present)</display-name>
-            <territory-id>193</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/193</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1951–present)</display-name>
-            <territory-id>138</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/138</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Israel (1948–present)</display-name>
-            <territory-id>115</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/115</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bulgaria (1908–present)</display-name>
-            <territory-id>36</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/36</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Syria (1918–1944)</display-name>
-            <territory-id>355</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/355</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Southern Yemen (1967–1990)</display-name>
-            <territory-id>512</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1931–1951)</display-name>
-            <territory-id>411</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/411</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Greater Lebanon (1920–1943)</display-name>
-            <territory-id>373</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1944–1958)</display-name>
-            <territory-id>522</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/522</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1916–1971)</display-name>
-            <territory-id>470</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/470</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palestine (1922–1948)</display-name>
-            <territory-id>451</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/451</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Algeria (1912–present)</display-name>
-            <territory-id>4</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/4</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Iraq (1932–1958)</display-name>
-            <territory-id>384</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/384</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Egypt (1882–1922)</display-name>
-            <territory-id>334</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/334</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4492,9 +4207,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
             <display-name>Guernsey (1066–present)</display-name>
@@ -4594,25 +4309,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Holy See (1929–present)</display-name>
+            <display-name>Holy See (756–present)</display-name>
             <territory-id>103</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/103</url>
         </current-territory>
-        <predecessor>
-            <display-name>Papal States (756–1929)</display-name>
-            <territory-id>452</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/452</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Pontifical States (756–1929)</display-name>
-            <territory-id>462</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/462</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -5139,11 +4844,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -5389,11 +5089,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -5888,11 +5583,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -6262,11 +5952,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -6458,11 +6143,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
@@ -6727,11 +6407,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -7558,11 +7233,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -8637,11 +8307,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -8933,11 +8598,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -9052,9 +8712,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-07-31</reviewed-date>
         </review>
         <current-territory>
             <display-name>Saint Kitts and Nevis (1988–present)</display-name>
@@ -9311,11 +8971,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Ukrainian National Republic (1918–1920)</display-name>
@@ -10285,11 +9940,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -10577,11 +10227,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -11076,11 +10721,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
@@ -11333,11 +10973,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -11400,9 +11035,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Turks and Caicos Islands (?–present)</display-name>
@@ -11674,11 +11309,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Estonia (1991–present)</display-name>
@@ -12096,11 +11726,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
         </other-mention>
         <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
-        </other-mention>
-        <other-mention>
             <display-name>Estonia (1991–present)</display-name>
             <territory-id>75</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/75</url>
@@ -12472,11 +12097,6 @@
             <display-name>Greater Lebanon (1920–1943)</display-name>
             <territory-id>373</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kingdom of Greece (1832–1923)</display-name>
-            <territory-id>394</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
         </other-mention>
         <other-mention>
             <display-name>Saudi Arabia (1765–1818)</display-name>

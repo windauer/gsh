@@ -4,15 +4,24 @@
     <old-id>transjordan-1950</old-id>
     <short-form-name>Transjordan</short-form-name>
     <long-form-name>Kingdom of Transjordan</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>529_1</variant-id>
+            <variant-name>Emirate of Transjordan</variant-name>
+            <valid-since>1921</valid-since>
+            <valid-until>1949</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1923</valid-since>
-    <valid-until>1950</valid-until>
+    <valid-since>1921</valid-since>
+    <valid-until>1949</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>270</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>123</successor>
+        <successor rel="independence">390</successor>
     </successors>
     <notes>Gained independence in 1946; U.S. recognized independence in 1949</notes>
     <sources>

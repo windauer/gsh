@@ -2,15 +2,16 @@
 <territory>
     <id>329</id>
     <old-id>dutch-united-provinces-1795</old-id>
-    <short-form-name>Dutch United Provinces</short-form-name>
-    <long-form-name>Republic of the United Netherlands</long-form-name>
-    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1579</valid-since>
+    <short-form-name>Dutch Republic</short-form-name>
+    <long-form-name>Republic of the Seven United Provinces</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1795</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>282</successor>
+        <successor rel="incorporation">397</successor>
     </successors>
     <notes/>
     <sources>

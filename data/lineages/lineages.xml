@@ -385,7 +385,7 @@
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -765,9 +765,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WilsonJG</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-20</reviewed-date>
         </review>
         <current-territory>
             <display-name>Belgium (1830–present)</display-name>
@@ -775,24 +775,19 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/24</url>
         </current-territory>
         <predecessor>
-            <display-name>Netherlands (1815–present)</display-name>
+            <display-name>Netherlands (1813–present)</display-name>
             <territory-id>169</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/169</url>
         </predecessor>
         <predecessor>
-            <display-name>Kingdom of Holland (1806–1815)</display-name>
+            <display-name>France (1775–present)</display-name>
+            <territory-id>81</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/81</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Holland (1795–1813)</display-name>
             <territory-id>397</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/397</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Batavian Commonwealth (1805–1806)</display-name>
-            <territory-id>281</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/281</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Batavian Republic (1795–1805)</display-name>
-            <territory-id>282</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/282</url>
         </predecessor>
         <predecessor>
             <display-name>Dutch United Provinces (1579–1795)</display-name>
@@ -5747,29 +5742,24 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RotramelSA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Netherlands (1815–present)</display-name>
+            <display-name>Netherlands (1813–present)</display-name>
             <territory-id>169</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/169</url>
         </current-territory>
         <predecessor>
-            <display-name>Kingdom of Holland (1806–1815)</display-name>
+            <display-name>France (1775–present)</display-name>
+            <territory-id>81</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/81</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Holland (1795–1810)</display-name>
             <territory-id>397</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/397</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Batavian Commonwealth (1805–1806)</display-name>
-            <territory-id>281</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/281</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Batavian Republic (1795–1805)</display-name>
-            <territory-id>282</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/282</url>
         </predecessor>
         <predecessor>
             <display-name>Dutch United Provinces (1579–1795)</display-name>
@@ -6765,7 +6755,7 @@
             <territory-id>202</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/202</url>
         </current-territory>
-   </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -8622,12 +8612,12 @@
             <territory-id>243</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/243</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Soviet Union (1917–1991)</display-name>
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Russian Empire (1721–1917)</display-name>
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>

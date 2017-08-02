@@ -4,13 +4,19 @@
     <old-id>netherlands</old-id>
     <short-form-name>Netherlands</short-form-name>
     <long-form-name>Kingdom of the Netherlands</long-form-name>
-    <variants/>
+    <variants><variant>
+        <variant-id>169_1</variant-id>
+        <variant-name>Sovereign Principality of the United Netherlands</variant-name>
+        <valid-since>1813</valid-since>
+        <valid-until>1815</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1815</valid-since>
+    <valid-since>1813</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="split">81</predecessor>
+        <predecessor rel="independence">81</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">24</successor>

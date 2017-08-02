@@ -4,15 +4,15 @@
     <old-id>saint-martin</old-id>
     <short-form-name>Saint Martin</short-form-name>
     <long-form-name>Overseas Collectivity of Saint Martin</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>2007</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>94</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Overseas collectivity of France. The French territory on the island has been known by this name since the partition of the island in 1648.</notes>
+    <notes>Overseas collectivity of France. The French territory on the island has been known by
+        this name since the partition of the island in 1648.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rn.html</source>
         <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/1394216/Saint-Martin</source>

@@ -4,13 +4,14 @@
     <old-id>saint-helena-ascension-and-tristan-da-cunha</old-id>
     <short-form-name>Saint Helena, Ascension, and Tristan da Cunha</short-form-name>
     <long-form-name>Saint Helena, Ascension, and Tristan da Cunha</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1506</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Overseas territory of the UK; Saint Helena (1502); Ascension Island (1503); Tristan
+    <notes>Overseas territory of the United Kingdom; Saint Helena (1502); Ascension Island (1503); Tristan
             da Cunha (1506)</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html</source>

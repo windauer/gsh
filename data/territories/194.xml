@@ -2,21 +2,31 @@
 <territory>
     <id>194</id>
     <old-id>reunion</old-id>
-    <short-form-name>Reunion</short-form-name>
+    <short-form-name>Réunion</short-form-name>
     <long-form-name>Département d’Outre-Mer de la Réunion</long-form-name>
+    <variants><variant>
+        <variant-id>194_1</variant-id>
+        <variant-name>Ile Bourbon</variant-name>
+        <valid-since>1815</valid-since>
+        <valid-until>1848</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>194_2</variant-id>
+        <variant-name>Ile Bonaparte</variant-name>
+        <valid-since>1801</valid-since>
+        <valid-until>1810</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1848</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>477</predecessor>
-        <predecessor>286</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
     <notes>Overseas department of France</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/re.hi</source>
         <source>http://books.google.com/books?id=-NmhAAAAMAAJ</source>
     </sources>
 </territory>

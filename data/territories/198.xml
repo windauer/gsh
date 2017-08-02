@@ -4,11 +4,12 @@
     <old-id>saint-barlemy</old-id>
     <short-form-name>Saint Barthelemy</short-form-name>
     <long-form-name>Overseas Collectivity of Saint Barthelemy</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1493</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
     <notes>Overseas collectivity of France</notes>
     <sources>

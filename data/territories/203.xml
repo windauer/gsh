@@ -4,15 +4,18 @@
     <old-id>saint-pierre-and-miquelon</old-id>
     <short-form-name>Saint Pierre and Miquelon</short-form-name>
     <long-form-name>Territorial Collectivity of Saint Pierre and Miquelon</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1604</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Self-governing territorial overseas collectivity of France; Under French control since 1763.  The Collectivity was established in 1985 - prior to that it had several shifting connections to France, all of which kept the names Saint Pierre and the Miquelons.</notes>
+    <notes>Self-governing territorial overseas collectivity of France under French control since
+        1763. The Collectivity was established in 1985. Prior to that it had several shifting
+        connections to France, all of which kept the names Saint Pierre and the Miquelons.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/518157/Saint-Pierre-and-Miquelon</source>
+        <source>https://www.britannica.com/place/Saint-Pierre-and-Miquelon</source>
     </sources>
 </territory>

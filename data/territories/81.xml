@@ -4,12 +4,16 @@
     <old-id>france</old-id>
     <short-form-name>France</short-form-name>
     <long-form-name>French Republic</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
-    <successors/>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="split">6</successor>
+        <successor rel="split">169</successor>
+    </successors>
     <notes/>
     <sources>
         <source/>

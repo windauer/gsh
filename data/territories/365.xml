@@ -4,15 +4,18 @@
     <old-id>germany-1945</old-id>
     <short-form-name>Germany</short-form-name>
     <long-form-name>Third German Reich</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1933</valid-since>
     <valid-until>1945</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor>364</predecessor>
+        <predecessor rel="incorporation">619</predecessor>
     </predecessors>
     <successors>
         <successor>366</successor>
+        <successor rel="split">16</successor>
     </successors>
     <notes/>
     <sources>

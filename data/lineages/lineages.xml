@@ -106,15 +106,25 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WilsonJG</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Andorra (1278–present)</display-name>
+            <display-name>Andorra (1814–present)</display-name>
             <territory-id>6</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/6</url>
         </current-territory>
+        <predecessor>
+            <display-name>France (?–present)</display-name>
+            <territory-id>81</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/81</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Andorra (1775–1812)</display-name>
+            <territory-id>620</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/620</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -341,15 +351,25 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WilsonJG</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-20</reviewed-date>
         </review>
         <current-territory>
             <display-name>Austria (1918–present)</display-name>
             <territory-id>16</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/16</url>
         </current-territory>
+        <predecessor>
+            <display-name>Germany (1933–1945)</display-name>
+            <territory-id>365</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/365</url>
+        </predecessor>
+        <predecessor>
+            <display-name>First Austrian Republic</display-name>
+            <territory-id>619</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/619</url>
+        </predecessor>
         <predecessor>
             <display-name>Austria-Hungary (1867–1918)</display-name>
             <territory-id>275</territory-id>
@@ -365,22 +385,7 @@
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
-        <other-mention>
-            <display-name>Hungary (1918–present)</display-name>
-            <territory-id>107</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/107</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Czechoslovakia (1918–1993)</display-name>
-            <territory-id>318</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/318</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>619</id>
+    <old-id/>
+    <short-form-name>First Austrian Republic</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>619_1</variant-id>
+            <variant-name>Federal State of Austria</variant-name>
+            <valid-since>1934</valid-since>
+            <valid-until>1938</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1919</valid-since>
+    <valid-until>1938</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">275</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="incorporation">365</successor>
+    </successors>
+    <notes>The United States recognized independence in 1921.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/au.html</source>
+        <source>http://history.state.gov/countries/austria</source>
+    </sources>
+</territory>

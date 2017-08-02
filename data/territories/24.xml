@@ -4,6 +4,7 @@
     <old-id>belgium</old-id>
     <short-form-name>Belgium</short-form-name>
     <long-form-name>Kingdom of Belgium</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1830</valid-since>
     <valid-until>9999</valid-until>
@@ -12,7 +13,7 @@
         <predecessor>169</predecessor>
     </predecessors>
     <successors/>
-    <notes>Part of Netherlands from 1815-1830</notes>
+    <notes>Part of Netherlands from 1815 to 1830</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/be.html</source>
     </sources>

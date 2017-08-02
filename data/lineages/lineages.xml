@@ -459,9 +459,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Bangladesh (1971–present)</display-name>
@@ -469,21 +469,16 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/21</url>
         </current-territory>
         <predecessor>
-            <display-name>India (1947–present)</display-name>
-            <territory-id>109</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/109</url>
-        </predecessor>
-        <predecessor>
-            <display-name>East Bengal (?–1955)</display-name>
-            <territory-id>330</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/330</url>
-        </predecessor>
-        <other-mention>
-            <display-name>East Pakistan (1955–1971)</display-name>
+            <display-name>East Pakistan (?–1971)</display-name>
             <territory-id>332</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/332</url>
-        </other-mention>
-    </lineage>
+        </predecessor>
+        <predecessor>
+            <display-name>British Raj of India</display-name>
+            <territory-id>618</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/618</url>
+        </predecessor>
+</lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -3661,25 +3656,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>India (1947–present)</display-name>
             <territory-id>109</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/109</url>
         </current-territory>
-        <other-mention>
-            <display-name>East Pakistan (1955–1971)</display-name>
-            <territory-id>332</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/332</url>
-        </other-mention>
-        <other-mention>
-            <display-name>East Bengal (?–1955)</display-name>
-            <territory-id>330</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/330</url>
-        </other-mention>
+       <predecessor>
+            <display-name>British Raj of India</display-name>
+            <territory-id>618</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/618</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -3990,7 +3980,7 @@
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Russian Empire (1721–1917)</display-name>
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
@@ -4177,17 +4167,17 @@
             <territory-id>132</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/132</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Soviet Union (1917–1991)</display-name>
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Russian Empire (1721–1917)</display-name>
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -6176,9 +6166,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Pakistan (1947–present)</display-name>
@@ -6186,9 +6176,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/180</url>
         </current-territory>
         <predecessor>
-            <display-name>West Pakistan (1947–1971)</display-name>
-            <territory-id>567</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/567</url>
+            <display-name>British Raj of India</display-name>
+            <territory-id>618</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/618</url>
         </predecessor>
     </lineage>
     <lineage>

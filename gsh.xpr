@@ -115,11 +115,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/lineages/</String>
+                                    <String>data/territories/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>lineages</String>
+                                        <String>territories</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -130,11 +130,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/territories/</String>
+                                    <String>data/lineages/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>territories</String>
+                                        <String>lineages</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -163,6 +163,106 @@
                     <entry>
                         <String>validation.scenarios</String>
                         <validationScenario-array>
+                            <validationScenario>
+                                <field name="pairs">
+                                    <list>
+                                        <validationUnit>
+                                            <field name="validationType">
+                                                <validationUnitType>
+                                                    <field name="validationInputType">
+                                                        <String>text/xml</String>
+                                                    </field>
+                                                </validationUnitType>
+                                            </field>
+                                            <field name="url">
+                                                <String>${currentFileURL}</String>
+                                            </field>
+                                            <field name="validationEngine">
+                                                <validationEngine>
+                                                    <field name="engineType">
+                                                        <String>&lt;Default engine></String>
+                                                    </field>
+                                                    <field name="allowsAutomaticValidation">
+                                                        <Boolean>true</Boolean>
+                                                    </field>
+                                                </validationEngine>
+                                            </field>
+                                            <field name="allowAutomaticValidation">
+                                                <Boolean>true</Boolean>
+                                            </field>
+                                            <field name="extensions">
+                                                <null/>
+                                            </field>
+                                            <field name="validationSchema">
+                                                <validationUnitSchema>
+                                                    <field name="dtdSchemaPublicID">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="schematronPhase">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="type">
+                                                        <Integer>3</Integer>
+                                                    </field>
+                                                    <field name="uri">
+                                                        <String>${pdu}/data/lineages.rnc</String>
+                                                    </field>
+                                                </validationUnitSchema>
+                                            </field>
+                                        </validationUnit>
+                                        <validationUnit>
+                                            <field name="validationType">
+                                                <validationUnitType>
+                                                    <field name="validationInputType">
+                                                        <String>text/xml</String>
+                                                    </field>
+                                                </validationUnitType>
+                                            </field>
+                                            <field name="url">
+                                                <String>${currentFileURL}</String>
+                                            </field>
+                                            <field name="validationEngine">
+                                                <validationEngine>
+                                                    <field name="engineType">
+                                                        <String>&lt;Default engine></String>
+                                                    </field>
+                                                    <field name="allowsAutomaticValidation">
+                                                        <Boolean>true</Boolean>
+                                                    </field>
+                                                </validationEngine>
+                                            </field>
+                                            <field name="allowAutomaticValidation">
+                                                <Boolean>true</Boolean>
+                                            </field>
+                                            <field name="extensions">
+                                                <null/>
+                                            </field>
+                                            <field name="validationSchema">
+                                                <validationUnitSchema>
+                                                    <field name="dtdSchemaPublicID">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="schematronPhase">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="type">
+                                                        <Integer>7</Integer>
+                                                    </field>
+                                                    <field name="uri">
+                                                        <String>${pdu}/data/lineages.sch</String>
+                                                    </field>
+                                                </validationUnitSchema>
+                                            </field>
+                                        </validationUnit>
+                                    </list>
+                                </field>
+                                <field name="type">
+                                    <String>Validation_scenario</String>
+                                </field>
+                                <field name="name">
+                                    <String>lineages</String>
+                                </field>
+                            </validationScenario>
                             <validationScenario>
                                 <field name="pairs">
                                     <list>
@@ -361,106 +461,6 @@
                                 </field>
                                 <field name="name">
                                     <String>territories</String>
-                                </field>
-                            </validationScenario>
-                            <validationScenario>
-                                <field name="pairs">
-                                    <list>
-                                        <validationUnit>
-                                            <field name="validationType">
-                                                <validationUnitType>
-                                                    <field name="validationInputType">
-                                                        <String>text/xml</String>
-                                                    </field>
-                                                </validationUnitType>
-                                            </field>
-                                            <field name="url">
-                                                <String>${currentFileURL}</String>
-                                            </field>
-                                            <field name="validationEngine">
-                                                <validationEngine>
-                                                    <field name="engineType">
-                                                        <String>&lt;Default engine></String>
-                                                    </field>
-                                                    <field name="allowsAutomaticValidation">
-                                                        <Boolean>true</Boolean>
-                                                    </field>
-                                                </validationEngine>
-                                            </field>
-                                            <field name="allowAutomaticValidation">
-                                                <Boolean>true</Boolean>
-                                            </field>
-                                            <field name="extensions">
-                                                <null/>
-                                            </field>
-                                            <field name="validationSchema">
-                                                <validationUnitSchema>
-                                                    <field name="dtdSchemaPublicID">
-                                                        <null/>
-                                                    </field>
-                                                    <field name="schematronPhase">
-                                                        <null/>
-                                                    </field>
-                                                    <field name="type">
-                                                        <Integer>3</Integer>
-                                                    </field>
-                                                    <field name="uri">
-                                                        <String>${pdu}/data/lineages.rnc</String>
-                                                    </field>
-                                                </validationUnitSchema>
-                                            </field>
-                                        </validationUnit>
-                                        <validationUnit>
-                                            <field name="validationType">
-                                                <validationUnitType>
-                                                    <field name="validationInputType">
-                                                        <String>text/xml</String>
-                                                    </field>
-                                                </validationUnitType>
-                                            </field>
-                                            <field name="url">
-                                                <String>${currentFileURL}</String>
-                                            </field>
-                                            <field name="validationEngine">
-                                                <validationEngine>
-                                                    <field name="engineType">
-                                                        <String>&lt;Default engine></String>
-                                                    </field>
-                                                    <field name="allowsAutomaticValidation">
-                                                        <Boolean>true</Boolean>
-                                                    </field>
-                                                </validationEngine>
-                                            </field>
-                                            <field name="allowAutomaticValidation">
-                                                <Boolean>true</Boolean>
-                                            </field>
-                                            <field name="extensions">
-                                                <null/>
-                                            </field>
-                                            <field name="validationSchema">
-                                                <validationUnitSchema>
-                                                    <field name="dtdSchemaPublicID">
-                                                        <null/>
-                                                    </field>
-                                                    <field name="schematronPhase">
-                                                        <null/>
-                                                    </field>
-                                                    <field name="type">
-                                                        <Integer>7</Integer>
-                                                    </field>
-                                                    <field name="uri">
-                                                        <String>${pdu}/data/lineages.sch</String>
-                                                    </field>
-                                                </validationUnitSchema>
-                                            </field>
-                                        </validationUnit>
-                                    </list>
-                                </field>
-                                <field name="type">
-                                    <String>Validation_scenario</String>
-                                </field>
-                                <field name="name">
-                                    <String>lineages</String>
                                 </field>
                             </validationScenario>
                         </validationScenario-array>

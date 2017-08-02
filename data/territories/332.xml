@@ -4,20 +4,26 @@
     <old-id>east-pakistan-1971</old-id>
     <short-form-name>East Pakistan</short-form-name>
     <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>332_1</variant-id>
+        <variant-name>East Bengal</variant-name>
+        <valid-since></valid-since>
+        <valid-until>1955</valid-until>
+        <note>Under Governor-General Iskander Mirza, East Bengal's name was changed to East Pakistan.</note>
+    </variant></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1955</valid-since>
+    <valid-since>1947</valid-since>
     <valid-until>1971</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>109</predecessor>
-        <predecessor>330</predecessor>
+        <predecessor rel="split">618</predecessor>
     </predecessors>
     <successors>
-        <successor>21</successor>
+        <successor rel="independence">21</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/51736/Bangladesh</source>
+        <source>https://www.britannica.com/place/Bangladesh</source>
     </sources>
 </territory>

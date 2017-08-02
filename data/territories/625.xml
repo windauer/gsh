@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>625</id>
+    <old-id/>
+    <short-form-name>Lithuania</short-form-name>
+    <long-form-name>Republic of Lithuania</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1941</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">513</successor>
+    </successors>
+    <notes>The United States recognized the Government of Lithuania in 1922. The U.S. Legation
+        closed in 1940 after Lithuania was annexed by the Soviet Union.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html</source>
+    </sources>
+</territory>

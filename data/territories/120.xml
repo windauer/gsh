@@ -4,18 +4,26 @@
     <old-id>jarvis-island</old-id>
     <short-form-name>Jarvis Island</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>120_1</variant-id>
+            <variant-name>Bunker Island</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1821</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1821</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>299</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Unincorporated territory of the United States; Reclaimed in 1935</notes>
+    <notes>Unincorporated territory of the United States. First sighted by the British, the island
+        was claimed by the United States in 1856, annexed by the United Kingdom in 1889, and
+        reclaimed by the United States in 1935.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
         <source>http://www.britannica.com/EBchecked/topic/301486/Jarvis-Island</source>
-        <source>http://www.oxfordreference.com/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8706</source>
     </sources>
 </territory>

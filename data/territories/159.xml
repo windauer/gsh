@@ -4,11 +4,14 @@
     <old-id>monaco</old-id>
     <short-form-name>Monaco</short-form-name>
     <long-form-name>Principality of Monaco</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1419</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1861</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">159</predecessor>
+    </predecessors>
     <successors/>
     <notes/>
     <sources>

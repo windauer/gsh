@@ -4,13 +4,17 @@
     <old-id>luxembourg</old-id>
     <short-form-name>Luxembourg</short-form-name>
     <long-form-name>Grand Duchy of Luxembourg</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>963</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1867</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="split">169</predecessor>
+    </predecessors>
     <successors/>
-    <notes>Adopted the long form name of Grand Duchy of Luxembourg in 1815; Dependent of the Netherlands 1815-1867; Full independence in 1867</notes>
+    <notes>Adopted the long form name of Grand Duchy of Luxembourg in 1815; Dependent of the
+        Netherlands from 1815 to 1867; Full independence in 1867</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/lu.html</source>
     </sources>

@@ -4,7 +4,15 @@
     <old-id>romania</old-id>
     <short-form-name>Romania</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>195_1</variant-id>
+            <variant-name>Kingdom of Romania</variant-name>
+            <valid-since>1881</valid-since>
+            <valid-until>1947</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1862</valid-since>
     <valid-until type="present">9999</valid-until>
@@ -15,13 +23,16 @@
         <predecessor rel="incorporation">483</predecessor>
         <predecessor rel="incorporation">275</predecessor>
     </predecessors>
-    <successors/>
+    <successors>
+        <successor rel="incorporation">513</successor>
+    </successors>
     <notes>The Principalities of Moldavia and Wallachia united to form Romania, under Ottoman rule,
         in 1862. After the Ottomans were defeated in the Russo-Turkish War, Prince Charles declared
         Romanian independence. The United States recognized independence in 1881. At the end of
         World War I, Greater Romania came into being through the acquisition of Transylvania and the
         Banat from Hungary, Bukovina from Austria, and Bessarabia from Russia. As a result, the
-        country's territory doubled.</notes>
+        country's territory doubled. In 1940, Moldova was incorporated into the Soviet
+        Union.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html</source>
         <source>http://history.state.gov/countries/romania</source>

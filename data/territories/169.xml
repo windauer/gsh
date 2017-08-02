@@ -20,6 +20,7 @@
     </predecessors>
     <successors>
         <successor rel="split">24</successor>
+        <successor rel="split">141</successor>
     </successors>
     <notes/>
     <sources>

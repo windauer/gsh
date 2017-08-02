@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>622</id>
+    <old-id/>
+    <short-form-name>Monaco</short-form-name>
+    <long-form-name>Principality of Monaco</long-form-name>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1861</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="independence">159</successor>
+    </successors>
+    <notes>The Principality of Monaco was annexed to the French Republic in 1793. After Napoleon's
+        defeat in 1814, the Principality of Monaco became the designated protectorate of the Kingdom
+        of Sardinia until 1860. From 1860 until 1861, it was the designated protectorate of the
+        Second French Empire before declaring independence in 1861. </notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mn.html</source>
+    </sources>
+</territory>

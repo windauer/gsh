@@ -4,16 +4,31 @@
     <old-id/>
     <short-form-name>Kingdom of Montenegro</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>614_1</variant-id>
+            <variant-name>Prince-Bishopric of Montenegro</variant-name>
+            <valid-since>1782</valid-since>
+            <valid-until>1852</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>614_2</variant-id>
+            <variant-name>Principality of Montenegro</variant-name>
+            <valid-since>1852</valid-since>
+            <valid-until>1910</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1905</valid-since>
+    <valid-since>1789</valid-since>
     <valid-until>1918</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor rel="merger">401</successor>
+        <successor rel="merger">501</successor>
     </successors>
     <notes>The United States recognized Montenegro in 1905. The Treaty of London, concluding the
         First Balkan War, divided present day Kosovo between the Kingdoms of Montenegro and

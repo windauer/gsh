@@ -4,12 +4,13 @@
     <old-id>montenegro</old-id>
     <short-form-name>Montenegro</short-form-name>
     <long-form-name>Montenegro</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>2006</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>496</predecessor>
+        <predecessor rel="split">342</predecessor>
     </predecessors>
     <successors/>
     <notes/>

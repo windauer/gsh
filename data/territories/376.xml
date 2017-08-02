@@ -9,7 +9,9 @@
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1804</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="incorporation">621</predecessor>
+    </predecessors>
     <successors>
         <successor rel="split">276</successor>
         <successor rel="incorporation">81</successor>

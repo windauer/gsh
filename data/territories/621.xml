@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>621</id>
+    <old-id/>
+    <short-form-name>Venice</short-form-name>
+    <long-form-name>Republic of Venice</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1797</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">376</successor>
+    </successors>
+    <notes>The Republic of Venice was a major economic and military power in the High Middle Ages;
+        by the late 1700s it had declined considerably and was among the many states on the Apennine
+        Peninsula captured by Napoleon’s forces. On May 12, 1797, the last Doge abdicated and the
+        republic was ended. Venice was granted to Austria as the Venetian province under the terms
+        of the 1797 Treaty of Campo Formio. In 1805, after defeat at Austerlitz, Austria ceded the
+        territory to France in the Treaty of Pressburg where it was integrated into the French
+        client Kingdom of Italy. The Congress of Vienna awarded the territory of the former republic
+        to Austria in 1815, see Lombardy Venetia for subsequent lineage.</notes>
+    <sources>
+        <source>https://lccn.loc.gov/2008046711</source>
+    </sources>
+</territory>

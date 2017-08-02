@@ -1,27 +1,17 @@
 <lineages>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Afghanistan (1992–present)</display-name>
+            <display-name>Afghanistan (1919–present)</display-name>
             <territory-id>1</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/1</url>
         </current-territory>
         <predecessor>
-            <display-name>Republic of Afghanistan (1987–1992)</display-name>
-            <territory-id>472</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/472</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Democratic Republic of Afghanistan (1978–1987)</display-name>
-            <territory-id>323</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/323</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Durrānī Empire (1747–1978)</display-name>
+            <display-name>Durrānī Empire (1747–1919)</display-name>
             <territory-id>326</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/326</url>
         </predecessor>
@@ -482,8 +472,8 @@
     <lineage>
         <review>
             <status>reviewed</status>
-            <reviewer>RasmussenK</reviewer>
-            <reviewed-date/>
+            <reviewer>RasmussenKB</reviewer>
+            <reviewed-date>2017-03-17</reviewed-date>
         </review>
         <current-territory>
             <display-name>Barbados (1966–present)</display-name>
@@ -858,9 +848,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Bhutan (1616–present)</display-name>
@@ -1375,7 +1365,7 @@
         <review>
             <status>reviewed</status>
             <reviewer>RasmussenKB</reviewer>
-            <reviewed-date>2017-07-13</reviewed-date>
+            <reviewed-date>2017-03-17</reviewed-date>
         </review>
         <current-territory>
             <display-name>Cayman Islands (1670–present)</display-name>
@@ -4948,9 +4938,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
             <display-name>Maldives (1965–present)</display-name>
@@ -5745,9 +5735,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>ZierlerDB</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-14</reviewed-date>
         </review>
         <current-territory>
             <display-name>Nepal (1768–present)</display-name>

@@ -4,14 +4,16 @@
     <old-id>nepal</old-id>
     <short-form-name>Nepal</short-form-name>
     <long-form-name>Federal Democratic Republic of Nepal</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1768</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/np.html</source>
+        <source>https://history.state.gov/countries/nepal</source>
     </sources>
 </territory>

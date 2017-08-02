@@ -4,19 +4,19 @@
     <old-id>maldives-1965</old-id>
     <short-form-name>Maldives</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1518</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1965</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>147</successor>
+        <successor rel="independence">147</successor>
     </successors>
-    <notes>Changed hands several times, but never name, over Portuguese, Dutch and British Colonial rule.</notes>
+    <notes>The Maldives were variously under Portuguese, Dutch, and British colonial rule prior to the 19th century.
+        In 1887, the United Kingdom formalized its status as a protectorate.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/359932/Maldives</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/mv.hi</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780199546091.001.0001/acref-9780199546091-e-7139</source>
+        <source>https://www.britannica.com/place/Maldives</source>
     </sources>
 </territory>

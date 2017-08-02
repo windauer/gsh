@@ -4,17 +4,44 @@
     <old-id>afghanistan</old-id>
     <short-form-name>Afghanistan</short-form-name>
     <long-form-name>Islamic Republic of Afghanistan</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>1_1</variant-id>
+            <variant-name>Republic of Afghanistan</variant-name>
+            <valid-since>1987</valid-since>
+            <valid-until>1992</valid-until>
+            <note>The promulgation of a new constitution changed the name back to Republic of
+                Afghanistan.</note>
+        </variant>
+        <variant>
+            <variant-id>1_2</variant-id>
+            <variant-name>Democratic Republic of Afghanistan</variant-name>
+            <valid-since>1978</valid-since>
+            <valid-until>1987</valid-until>
+            <note>The 1977 consitution was abrogated in 1978 when a coup established the Democratic
+                Republic of Afghanistan.</note>
+        </variant>
+        <variant>
+            <variant-id>1_3</variant-id>
+            <variant-name>Republic of Afhganistan</variant-name>
+            <valid-since>1973</valid-since>
+            <valid-until>1978</valid-until>
+            <note>After a 1973 military coup overthrew the monarchy, the nation was established as
+                the Republic of Afghanistan.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1992</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1919</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>472</predecessor>
+        <predecessor rel="independence">326</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>The United States recognized independence in 1921.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/af.html</source>
         <source>http://history.state.gov/countries/afghanistan</source>
+        <source>https://www.britannica.com/place/Afghanistan</source>
     </sources>
 </territory>

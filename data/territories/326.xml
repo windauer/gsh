@@ -4,17 +4,19 @@
     <old-id>durrani-empire-1978</old-id>
     <short-form-name>Durrānī Empire</short-form-name>
     <long-form-name type="none"/>
-    <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1747</valid-since>
-    <valid-until>1978</valid-until>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1919</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>323</successor>
+        <successor rel="independence">1</successor>
     </successors>
-    <notes>U.S. recognized independence in 1921</notes>
+    <notes>Administered under British national rule.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/7798/Afghanistan/21395/Nadir-Shah</source>
-        <source>http://memory.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+af0027)</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/af.html</source>
+        <source>http://history.state.gov/countries/afghanistan</source>
+        <source>https://www.britannica.com/place/Afghanistan</source>
     </sources>
 </territory>

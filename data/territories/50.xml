@@ -4,17 +4,25 @@
     <old-id>clipperton-island</old-id>
     <short-form-name>Clipperton Island</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>50_1</variant-id>
+            <variant-name>Ile de la Passion</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>9999</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1704</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>381</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
     <notes>Possession of France</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/121880/Clipperton-Island</source>
-        <source>http://babel.hathitrust.org/cgi/pt?id=mdp.39015024808456</source>
+        <source>http://www.britannica.com/place/Clipperton-Island</source>
+        <source>https://www.state.gov/s/inr/rls/10543.htm</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ip.html</source>
     </sources>
 </territory>

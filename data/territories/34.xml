@@ -4,21 +4,20 @@
     <old-id>british-indian-ocean-territory</old-id>
     <short-form-name>British Indian Ocean Territory</short-form-name>
     <long-form-name>British Indian Ocean Territory</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1965</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>211</predecessor>
-        <predecessor>153</predecessor>
-    </predecessors>
-    <successors/>
-    <notes>The Bureau of Intelligence and Research fact sheet on Dependencies and Areas of Special
-        Sovereignty has the following footnote on the short form name of this territory: “Chagos
-        Archipelago (including Diego Garcia).” It states that sovereignty belongs to the United
-        Kingdom.</notes>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="split">211</successor>
+    </successors>
+    <notes>Currently made up of the islands of Chagos Archipelago. Part was transferred back to
+        Seychelles and the rest is Chagos Archipelago, which was formerly a dependency of
+        Mauritius.</notes>
     <sources>
-        <source>http://www.state.gov/s/inr/rls/10543.htm</source>
-        <source>http://www.britannica.com/EBchecked/topic/80241/British-Indian-Ocean-Territory</source>
+        <source>https://www.state.gov/s/inr/rls/10543.htm</source>
+        <source>https://www.britannica.com/place/British-Indian-Ocean-Territory</source>
     </sources>
 </territory>

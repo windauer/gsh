@@ -4,14 +4,15 @@
     <old-id>cyprus-1960</old-id>
     <short-form-name>Cyprus</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>599</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>2</successor>
-        <successor>66</successor>
+        <successor rel="split">2</successor>
+        <successor rel="split">66</successor>
         <successor>63</successor>
     </successors>
     <notes>British colony</notes>

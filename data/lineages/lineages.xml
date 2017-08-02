@@ -18,9 +18,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Akrotiri (1960–present)</display-name>
@@ -32,17 +32,7 @@
             <territory-id>317</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/317</url>
         </predecessor>
-        <other-mention>
-            <display-name>Dhekelia (1960–present)</display-name>
-            <territory-id>66</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/66</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cyprus (1960–present)</display-name>
-            <territory-id>63</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/63</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -968,9 +958,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Bouvet Island (1739–present)</display-name>
@@ -1003,26 +993,16 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>British Indian Ocean Territory (1965–present)</display-name>
             <territory-id>34</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/34</url>
         </current-territory>
-        <predecessor>
-            <display-name>Seychelles (1976–present)</display-name>
-            <territory-id>211</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/211</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Mauritius (1968–present)</display-name>
-            <territory-id>153</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/153</url>
-        </predecessor>
-    </lineage>
+       </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -1560,26 +1540,21 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Clipperton Island (1704–present)</display-name>
             <territory-id>50</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/50</url>
         </current-territory>
-        <predecessor>
-            <display-name>Ile de la Passion (?–1704)</display-name>
-            <territory-id>381</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/381</url>
-        </predecessor>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Cocos (Keeling) Islands (1609–present)</display-name>
@@ -1754,9 +1729,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Coral Sea Islands (1969–present)</display-name>
@@ -2002,12 +1977,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Dhekelia (1960–present)</display-name>
+            <display-name>Dhékelia (1960–present)</display-name>
             <territory-id>66</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/66</url>
         </current-territory>
@@ -2016,16 +1991,6 @@
             <territory-id>317</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/317</url>
         </predecessor>
-        <other-mention>
-            <display-name>Akrotiri (1960–present)</display-name>
-            <territory-id>2</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/2</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cyprus (1960–present)</display-name>
-            <territory-id>63</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/63</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4045,12 +4010,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HiteKE</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Kingman Reef (1853–present)</display-name>
+            <display-name>Kingman Reef (1798–present)</display-name>
             <territory-id>126</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/126</url>
         </current-territory>

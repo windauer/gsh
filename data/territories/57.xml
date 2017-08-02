@@ -4,15 +4,16 @@
     <old-id>coral-sea-islands</old-id>
     <short-form-name>Coral Sea Islands</short-form-name>
     <long-form-name>Coral Sea Islands Territory</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1969</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Territory of Australia; First explored by Capt. James Cook in 1770</notes>
+    <notes>Territory of Australia. First explored by Capt. James Cook in 1770.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/137124/Coral-Sea-Islands</source>
+        <source>http://www.britannica.com/place/Coral-Sea-Islands</source>
     </sources>
 </territory>

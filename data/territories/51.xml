@@ -4,16 +4,18 @@
     <old-id>cocos-keeling-islands</old-id>
     <short-form-name>Cocos (Keeling) Islands</short-form-name>
     <long-form-name>Territory of Cocos (Keeling) Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1609</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1609</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Non-self governing territory of Australia; First sighted in 1609 by William Keeling;
-            First declared as a British possession in 1857; Passed to Australia in 1955</notes>
+    <notes>Non-self governing territory of Australia. It was first sighted in 1609 by William
+        Keeling, but was uninhabited until 1826. It was annexed by the United Kingdom in 1857 and
+        transferred to Australia in 1955.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/123820/Cocos-Islands</source>
+        <source>http://www.britannica.com/place/Cocos-Islands</source>
     </sources>
 </territory>

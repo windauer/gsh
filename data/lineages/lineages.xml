@@ -6482,9 +6482,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Sierra Leone (1961–present)</display-name>
@@ -6492,7 +6492,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/212</url>
         </current-territory>
         <predecessor>
-            <display-name>Sierra Leone (1808–1961)</display-name>
+            <display-name>Sierra Leone (1787–1961)</display-name>
             <territory-id>500</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/500</url>
         </predecessor>
@@ -6970,9 +6970,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Swaziland (1968–present)</display-name>
@@ -6980,59 +6980,19 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/228</url>
         </current-territory>
         <predecessor>
-            <display-name>South Africa (1961–present)</display-name>
-            <territory-id>219</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/219</url>
+            <display-name>Swazi Kingdom (1894–1968)</display-name>
+            <territory-id>628</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/628</url>
         </predecessor>
         <predecessor>
-            <display-name>Union of South Africa (1910–1961)</display-name>
-            <territory-id>542</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/542</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Zululand (1879–1910)</display-name>
-            <territory-id>577</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/577</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Transvaal (1854–1910)</display-name>
-            <territory-id>530</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/530</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Orange Free State (1854–1910)</display-name>
-            <territory-id>446</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/446</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Orange River Sovereignty (1848–1854)</display-name>
-            <territory-id>447</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/447</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Natal (1843–1910)</display-name>
-            <territory-id>429</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/429</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Zululand (1815–1879)</display-name>
-            <territory-id>576</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/576</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Swazi Kingdom (1750–1894)</display-name>
+            <display-name>Swazi Kingdom (1775–1894)</display-name>
             <territory-id>521</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/521</url>
         </predecessor>
-        <predecessor>
-            <display-name>Cape Colony (1652–1910)</display-name>
-            <territory-id>305</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/305</url>
-        </predecessor>
         <other-mention>
-            <display-name>German South-West Africa (1884–1919)</display-name>
-            <territory-id>363</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/363</url>
+            <display-name>Union of South Africa (1910–1961)</display-name>
+            <territory-id>542</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/542</url>
         </other-mention>
     </lineage>
     <lineage>

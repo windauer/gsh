@@ -4,20 +4,17 @@
     <old-id>swaziland</old-id>
     <short-form-name>Swaziland</short-form-name>
     <long-form-name>Kingdom of Swaziland</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1968</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>530</predecessor>
-        <predecessor>305</predecessor>
-        <predecessor>542</predecessor>
-        <predecessor>219</predecessor>
+        <predecessor rel="independence">628</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wz.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3748</source>
     </sources>
 </territory>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>628</id>
+    <old-id/>
+    <short-form-name>Swazi Kingdom</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1894</valid-since>
+    <valid-until>1968</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">521</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">228</successor>
+    </successors>
+    <notes>From 1894 to 1903, the Swazi Kingdom was a protectorate of Transvaal. After the Boer War
+        in 1903, the Swazi Kingdom became a British protectorate.</notes>
+    <sources>
+        <source/>
+    </sources>
+</territory>

@@ -3,18 +3,19 @@
     <id>495</id>
     <old-id>senegambia-1989</old-id>
     <short-form-name>Senegambia</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Senegambia Confederation</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1982</valid-since>
     <valid-until>1989</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>343</predecessor>
-        <predecessor>494</predecessor>
+       <predecessor rel="incorporation">209</predecessor>
+        <predecessor rel="incorporation">86</predecessor>
     </predecessors>
     <successors>
-        <successor>209</successor>
-        <successor>86</successor>
+        <successor rel="split">209</successor>
+        <successor rel="split">86</successor>
     </successors>
     <notes/>
     <sources>

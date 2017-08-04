@@ -32,7 +32,7 @@
             <territory-id>317</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/317</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -1002,7 +1002,7 @@
             <territory-id>34</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/34</url>
         </current-territory>
-       </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -1549,7 +1549,7 @@
             <territory-id>50</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/50</url>
         </current-territory>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -4478,7 +4478,7 @@
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -4690,15 +4690,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/148</url>
         </current-territory>
         <predecessor>
-            <display-name>Federation of Mali (1960–1960)</display-name>
-            <territory-id>343</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
-        </predecessor>
-        <predecessor>
             <display-name>Upper Senegal-Niger (1904–1920)</display-name>
             <territory-id>552</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/552</url>
         </predecessor>
+        <other-mention>
+            <display-name>Federation of Mali (1960–1960)</display-name>
+            <territory-id>343</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
+        </other-mention>
         <other-mention>
             <display-name>Senegal (1989–present)</display-name>
             <territory-id>209</territory-id>
@@ -4832,11 +4832,7 @@
             <territory-id>209</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/209</url>
         </predecessor>
-        <predecessor>
-            <display-name>Senegambia (1982–1989)</display-name>
-            <territory-id>495</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
-        </predecessor>
+
         <predecessor>
             <display-name>Senegal (1960–1982)</display-name>
             <territory-id>494</territory-id>
@@ -4857,6 +4853,11 @@
             <territory-id>552</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/552</url>
         </predecessor>
+        <other-mention>
+            <display-name>Senegambia (1982–1989)</display-name>
+            <territory-id>495</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
+        </other-mention>
         <other-mention>
             <display-name>Mali (1960–present)</display-name>
             <territory-id>148</territory-id>
@@ -6390,89 +6391,39 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Senegal (1989–present)</display-name>
+            <display-name>Senegal (1960–present)</display-name>
             <territory-id>209</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/209</url>
         </current-territory>
         <predecessor>
-            <display-name>Senegambia (1982–1989)</display-name>
-            <territory-id>495</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
+            <display-name>Senegal (1775–1960)</display-name>
+            <territory-id>627</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/627</url>
         </predecessor>
-        <predecessor>
-            <display-name>Senegal (1960–1982)</display-name>
-            <territory-id>494</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/494</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Federation of Mali (1960–1960)</display-name>
-            <territory-id>343</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
-        </predecessor>
-        <predecessor>
+        <other-mention>
+            <display-name>French West Africa</display-name>
+            <territory-id>626</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/626</url>
+        </other-mention>
+        <other-mention>
             <display-name>Upper Senegal-Niger (1904–1920)</display-name>
             <territory-id>552</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/552</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Mauritania (1946–1960)</display-name>
-            <territory-id>423</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/423</url>
         </other-mention>
         <other-mention>
-            <display-name>Mauritania (1960–present)</display-name>
-            <territory-id>152</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/152</url>
+            <display-name>Federation of Mali (1960–1960)</display-name>
+            <territory-id>343</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
         </other-mention>
         <other-mention>
-            <display-name>Mali (1960–present)</display-name>
-            <territory-id>148</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/148</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1947–1958)</display-name>
-            <territory-id>554</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/554</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Burkina Faso (1984–present)</display-name>
-            <territory-id>37</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/37</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Sudanese Republic (1958–1959)</display-name>
-            <territory-id>520</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/520</url>
-        </other-mention>
-        <other-mention>
-            <display-name>The Gambia (1965–present)</display-name>
-            <territory-id>86</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/86</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1960–1984)</display-name>
-            <territory-id>555</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/555</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1919–1932)</display-name>
-            <territory-id>553</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/553</url>
-        </other-mention>
-        <other-mention>
-            <display-name>The Gambia (1821–1965)</display-name>
-            <territory-id>361</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/361</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Sudan (1891–1960)</display-name>
-            <territory-id>354</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/354</url>
+            <display-name>Senegambia (1982–1989)</display-name>
+            <territory-id>495</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
         </other-mention>
     </lineage>
     <lineage>
@@ -6548,7 +6499,7 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>HawleyCV</reviewer>
             <reviewed-date>2017-02-13</reviewed-date>
         </review>
@@ -7707,11 +7658,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/86</url>
         </current-territory>
         <predecessor>
-            <display-name>Senegambia (1982–1989)</display-name>
-            <territory-id>495</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
-        </predecessor>
-        <predecessor>
             <display-name>Senegal (1960–1982)</display-name>
             <territory-id>494</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/494</url>
@@ -7731,6 +7677,11 @@
             <territory-id>361</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/361</url>
         </predecessor>
+        <other-mention>
+            <display-name>Senegambia (1982–1989)</display-name>
+            <territory-id>495</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
+        </other-mention>
         <other-mention>
             <display-name>Senegal (1989–present)</display-name>
             <territory-id>209</territory-id>
@@ -8283,7 +8234,7 @@
             <territory-id>559</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/559</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>

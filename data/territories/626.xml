@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>626</id>
+    <old-id/>
+    <short-form-name>French West Africa</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1895</valid-since>
+    <valid-until>1960</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">627</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">209</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source/>
+    </sources>
+</territory>

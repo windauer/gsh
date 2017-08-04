@@ -3,21 +3,31 @@
     <id>218</id>
     <old-id>somalia</old-id>
     <short-form-name>Somalia</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Federal Republic of Somalia</long-form-name>
+    <variants><variant>
+        <variant-id>218_1</variant-id>
+        <variant-name>Somali Demcratic Republic</variant-name>
+        <valid-since>1969</valid-since>
+        <valid-until>2008</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>218_2</variant-id>
+        <variant-name>Somali Republic</variant-name>
+        <valid-since>1960</valid-since>
+        <valid-until>1969</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>2008</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1960</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>503</predecessor>
+        <predecessor rel="independence">295</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/so.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/553877/Somalia</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3644</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/so.hi</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-6972</source>
     </sources>
 </territory>

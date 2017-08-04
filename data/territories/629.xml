@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>629</id>
+    <old-id/>
+    <short-form-name>Seychelles</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1976</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="independence">211</successor>
+    </successors>
+    <notes>Until 1903, Seychelles was administered as a dependency of Mauritius. After 1903,
+        Seychelles became a separate British crown colony.</notes>
+    <sources>
+        <source>https://www.britannica.com/place/Seychelles</source>
+    </sources>
+</territory>

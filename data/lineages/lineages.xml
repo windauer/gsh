@@ -6460,9 +6460,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Seychelles (1976–present)</display-name>
@@ -6470,11 +6470,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/211</url>
         </current-territory>
         <predecessor>
-            <display-name>Mauritius (1968–present)</display-name>
-            <territory-id>153</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/153</url>
+            <display-name>Seychelles (1775–1976)</display-name>
+            <territory-id>629</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/629</url>
         </predecessor>
-        <other-mention>
+       <other-mention>
             <display-name>British Indian Ocean Territory (1965–present)</display-name>
             <territory-id>34</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/34</url>
@@ -6668,26 +6668,16 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Somalia (2008–present)</display-name>
+            <display-name>Somalia (1960–present)</display-name>
             <territory-id>218</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/218</url>
         </current-territory>
-        <predecessor>
-            <display-name>Somalia (1969–2008)</display-name>
-            <territory-id>503</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/503</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Somalia (1960–1969)</display-name>
-            <territory-id>504</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/504</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Somaliland (1884–1960)</display-name>
             <territory-id>295</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/295</url>

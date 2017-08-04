@@ -4,14 +4,19 @@
     <old-id>paracel-islands</old-id>
     <short-form-name>Paracel Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes/>
+    <notes>In 1932, French Indochina annexed the islands and set up a weather station on Pattle
+        Island; maintenance was continued by its successor, Vietnam. China has occupied all the
+        Paracel Islands since 1974, when its troops seized a South Vietnamese garrison occupying the
+        western islands. China built a military installation on Woody Island with an airfield and
+        artificial harbor. The islands also are claimed by Taiwan and Vietnam.</notes>
     <sources>
-        <source/>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pf.html</source>
     </sources>
 </territory>

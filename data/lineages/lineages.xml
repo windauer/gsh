@@ -5298,9 +5298,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Nicaragua (1838–present)</display-name>
@@ -5323,34 +5323,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/558</url>
         </predecessor>
         <other-mention>
-            <display-name>Mexico (1823–present)</display-name>
-            <territory-id>155</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/155</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Honduras (1838–present)</display-name>
-            <territory-id>104</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/104</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Honduras (1862–1973)</display-name>
-            <territory-id>293</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/293</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Guatemala (1839–present)</display-name>
-            <territory-id>96</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/96</url>
-        </other-mention>
-        <other-mention>
-            <display-name>El Salvador (1839–present)</display-name>
-            <territory-id>72</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/72</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Costa Rica (1838–present)</display-name>
-            <territory-id>58</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/58</url>
+            <display-name>Greater Republic of Central America</display-name>
+            <territory-id>590</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/590</url>
         </other-mention>
     </lineage>
     <lineage>
@@ -5446,9 +5421,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Norfolk Island (1774–present)</display-name>
@@ -5692,9 +5667,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Panama (1903–present)</display-name>
@@ -5716,16 +5691,6 @@
             <territory-id>557</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/557</url>
         </predecessor>
-        <other-mention>
-            <display-name>Venezuela (1830–present)</display-name>
-            <territory-id>254</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/254</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ecuador (1830–present)</display-name>
-            <territory-id>70</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/70</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -5746,9 +5711,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Paracel Islands (?–present)</display-name>
@@ -5758,9 +5723,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Paraguay (1811–present)</display-name>
@@ -5777,42 +5742,12 @@
             <territory-id>559</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/559</url>
         </predecessor>
-        <other-mention>
-            <display-name>Argentine Confederation (1854–1861)</display-name>
-            <territory-id>271</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/271</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Uruguay (1828–present)</display-name>
-            <territory-id>251</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/251</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Argentina (1853–present)</display-name>
-            <territory-id>11</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/11</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Buenos Ayres (1828–1861)</display-name>
-            <territory-id>297</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/297</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bolivia (1825–present)</display-name>
-            <territory-id>29</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/29</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Provinces of the Rio de la Plata (1816–1828)</display-name>
-            <territory-id>547</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/547</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Peru (1821–present)</display-name>
@@ -5824,11 +5759,6 @@
             <territory-id>559</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/559</url>
         </predecessor>
-        <other-mention>
-            <display-name>Chile (1810–present)</display-name>
-            <territory-id>47</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/47</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -5849,9 +5779,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Pitcairn Islands (1767–present)</display-name>
@@ -8329,9 +8259,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>SmithNL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Uruguay (1828–present)</display-name>
@@ -8353,32 +8283,7 @@
             <territory-id>559</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/559</url>
         </predecessor>
-        <other-mention>
-            <display-name>Argentine Confederation (1854–1861)</display-name>
-            <territory-id>271</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/271</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Paraguay (1811–present)</display-name>
-            <territory-id>186</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/186</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Argentina (1853–present)</display-name>
-            <territory-id>11</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/11</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Buenos Ayres (1828–1861)</display-name>
-            <territory-id>297</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/297</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bolivia (1825–present)</display-name>
-            <territory-id>29</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/29</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>

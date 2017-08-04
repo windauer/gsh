@@ -10,10 +10,11 @@
     <valid-until>1816</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="independence">559</predecessor>
+        <predecessor rel="split">559</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">547</successor>
+        <successor rel="independence">186</successor>
     </successors>
     <notes>In 1776, Spain created the Viceroyalty of the Rio de la Plata, with its capital at Buenos
         Aires, out of territory formerly governed by the Viceroyalty of Peru. The territory included

@@ -4,15 +4,19 @@
     <old-id>pitcairn-islands</old-id>
     <short-form-name>Pitcairn Islands</short-form-name>
     <long-form-name>Pitcairn, Henderson, Ducie, and Oeno Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1767</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Overseas territory of the UK</notes>
+    <notes>Pitcairn Island was discovered in 1767 by the British and settled in 1790 by the Bounty
+        mutineers and their Tahitian companions. Pitcairn was the first Pacific island to become a
+        British colony (in 1838) and today remains the last vestige of that empire in the South
+        Pacific.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/461945/Pitcairn-Island</source>
+        <source>http://www.britannica.com/place/Pitcairn-Island</source>
     </sources>
 </territory>

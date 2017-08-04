@@ -4,15 +4,19 @@
     <old-id>norfolk-island</old-id>
     <short-form-name>Norfolk Island</short-form-name>
     <long-form-name>Territory of Norfolk Island</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1774</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Self-governing territory of Australia</notes>
+    <notes>A British penal colony throughout the 19th century, Norfolk Island became an Australian
+        territory in 1914. In 1979, it became a self-governing dependency. The island lost
+        self-governance in 2015, becoming a dependency with an advisory council.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/418155/Norfolk-Island</source>
+        <source>http://www.britannica.com/place/Norfolk-Island</source>
+        <source>https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/norfolk-island-guide</source>
     </sources>
 </territory>

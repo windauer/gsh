@@ -4,15 +4,16 @@
     <old-id>paraguay</old-id>
     <short-form-name>Paraguay</short-form-name>
     <long-form-name>Republic of Paraguay</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1811</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>560</predecessor>
+        <predecessor rel="split">560</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1852</notes>
+    <notes>The United States recognized independence in 1852.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html</source>
         <source>http://history.state.gov/countries/paraguay</source>

@@ -13,9 +13,10 @@
         <predecessor rel="independence">560</predecessor>
     </predecessors>
     <successors>
-        <successor rel="independence">297</successor>
-        <successor rel="independence">11</successor>
-        <successor rel="independence">29</successor>
+        <successor rel="split">297</successor>
+        <successor rel="split">11</successor>
+        <successor rel="split">29</successor>
+        <successor rel="split">251</successor>
     </successors>
     <notes>From 1810 to 1816, the Viceroyalty of the Rio de la Plata, renamed the United Provinces
         of the Rio de la Plata, was governed from Buenos Aires by a local, autonomous government

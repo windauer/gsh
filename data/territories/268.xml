@@ -4,17 +4,20 @@
     <old-id>anglo-egyptian-sudan-1955</old-id>
     <short-form-name>Anglo-Egyptian Sudan</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1899</valid-since>
-    <valid-until>1955</valid-until>
+    <valid-since>1882</valid-since>
+    <valid-until>1956</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>417</predecessor>
+        <predecessor rel="incorporation">448</predecessor>
     </predecessors>
     <successors>
-        <successor>225</successor>
+        <successor rel="independence">225</successor>
     </successors>
-    <notes/>
+    <notes>British forces invaded Egypt in 1882 and attempted to govern the Sudan. In 1899, the
+        British and French signed an agreement limiting French expansion in northern Africa to east
+        of the Nile.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/su.html</source>
         <source>http://www.britannica.com/EBchecked/topic/571417/Sudan/24319/</source>

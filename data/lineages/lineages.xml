@@ -6826,9 +6826,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>South Sudan (2011–present)</display-name>
@@ -6846,15 +6846,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/268</url>
         </predecessor>
         <predecessor>
-            <display-name>Mahdist State (1885–1899)</display-name>
-            <territory-id>417</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/417</url>
+            <display-name>Ottoman Empire</display-name>
+            <territory-id>448</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
         <predecessor>
             <display-name>Funj Dynasty (1504–1821)</display-name>
             <territory-id>359</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/359</url>
         </predecessor>
+        <other-mention>
+            <display-name>Mahdist State (1885–1899)</display-name>
+            <territory-id>417</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/417</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -6904,7 +6909,7 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
             <reviewed-date/>
         </review>
@@ -6919,9 +6924,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/268</url>
         </predecessor>
         <predecessor>
-            <display-name>Mahdist State (1885–1899)</display-name>
-            <territory-id>417</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/417</url>
+            <display-name>Ottoman Empire</display-name>
+            <territory-id>448</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
         <predecessor>
             <display-name>Funj Dynasty (1504–1821)</display-name>
@@ -6929,9 +6934,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/359</url>
         </predecessor>
         <other-mention>
-            <display-name>South Sudan (2011–present)</display-name>
-            <territory-id>221</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/221</url>
+            <display-name>Mahdist State (1885–1899)</display-name>
+            <territory-id>417</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/417</url>
         </other-mention>
     </lineage>
     <lineage>

@@ -4,15 +4,16 @@
     <old-id>mahdist-state-1889</old-id>
     <short-form-name>Mahdist State</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1885</valid-since>
     <valid-until>1899</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>359</predecessor>
+        <predecessor rel="independence">268</predecessor>
     </predecessors>
     <successors>
-        <successor>268</successor>
+        <successor rel="incorporation">268</successor>
     </successors>
     <notes/>
     <sources>

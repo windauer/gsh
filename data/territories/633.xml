@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>633</id>
+    <old-id/>
+    <short-form-name>Mashonaland</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1890</valid-since>
+    <valid-until>1923</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">575</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/place/Zimbabwe</source>
+    </sources>
+</territory>

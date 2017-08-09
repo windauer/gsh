@@ -2,20 +2,37 @@
 <territory>
     <id>575</id>
     <old-id>zimbabwe-rhodesia-1980</old-id>
-    <short-form-name>Zimbabwe Rhodesia</short-form-name>
+    <short-form-name>Rhodesia</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>575_1</variant-id>
+            <variant-name>Zimbabwe Rhodesia</variant-name>
+            <valid-since>1979</valid-since>
+            <valid-until>1980</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>575_2</variant-id>
+            <variant-name>Southern Rhodesia</variant-name>
+            <valid-since>1898</valid-since>
+            <valid-until>1964</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1979</valid-since>
+    <valid-since>1895</valid-since>
     <valid-until>1980</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>479</predecessor>
+        <predecessor rel="incorporation">632</predecessor>
+        <predecessor rel="incorporation">633</predecessor>
     </predecessors>
     <successors>
-        <successor>263</successor>
+        <successor rel="independence">263</successor>
     </successors>
     <notes/>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/657149/Zimbabwe</source>
+        <source>http://www.britannica.com/place/Zimbabwe</source>
     </sources>
 </territory>

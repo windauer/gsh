@@ -3357,9 +3357,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Hungary (1918–present)</display-name>
@@ -3381,21 +3381,6 @@
             <territory-id>376</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
-        <other-mention>
-            <display-name>Austria (1918–present)</display-name>
-            <territory-id>16</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/16</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Czechoslovakia (1918–1993)</display-name>
-            <territory-id>318</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/318</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -7509,25 +7494,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Tokelau (1976–present)</display-name>
+            <display-name>Tokelau (1775–present)</display-name>
             <territory-id>238</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/238</url>
         </current-territory>
-        <predecessor>
-            <display-name>Tokelau Islands (1946–1976)</display-name>
-            <territory-id>528</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/528</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Union Group (1916–1946)</display-name>
-            <territory-id>541</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/541</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -8611,17 +8586,12 @@
             <territory-id>439</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/439</url>
         </predecessor>
-        <other-mention>
-            <display-name>Rhodesia (1895–1911)</display-name>
-            <territory-id>478</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/478</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>AshleyCE2</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
             <display-name>Zimbabwe (1980–present)</display-name>
@@ -8629,44 +8599,19 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/263</url>
         </current-territory>
         <predecessor>
-            <display-name>Zimbabwe Rhodesia (1979–1980)</display-name>
+            <display-name>Rhodesia (1895–1980)</display-name>
             <territory-id>575</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/575</url>
         </predecessor>
         <predecessor>
-            <display-name>Rhodesia (1964–1979)</display-name>
-            <territory-id>479</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/479</url>
+            <display-name>Mashonaland</display-name>
+            <territory-id>633</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/633</url>
         </predecessor>
         <predecessor>
-            <display-name>Southern Rhodesia (1911–1964)</display-name>
-            <territory-id>511</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/511</url>
+            <display-name>Matabaleland</display-name>
+            <territory-id>632</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/632</url>
         </predecessor>
-        <predecessor>
-            <display-name>Rhodesia (1895–1911)</display-name>
-            <territory-id>478</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/478</url>
-        </predecessor>
-        <predecessor>
-            <display-name>North-Western Rhodesia (1889–1911)</display-name>
-            <territory-id>441</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/441</url>
-        </predecessor>
-        <predecessor>
-            <display-name>North-Eastern Rhodesia (1889–1911)</display-name>
-            <territory-id>439</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/439</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Zambia (1964–present)</display-name>
-            <territory-id>262</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/262</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Northern Rhodesia (1986–1964)</display-name>
-            <territory-id>442</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/442</url>
-        </other-mention>
-    </lineage>
+     </lineage>
 </lineages>

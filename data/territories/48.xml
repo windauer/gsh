@@ -31,9 +31,7 @@
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>473</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
     <notes>The Republic of China was established on January 1, 1912, unseating the Qing Empire. The
         People’s Republic was established on October 1, 1949, following a civil war; at this time

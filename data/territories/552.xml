@@ -4,18 +4,18 @@
     <old-id>upper-senegal-niger-1920</old-id>
     <short-form-name>Upper Senegal-Niger</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1904</valid-since>
     <valid-until>1920</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors><predecessor rel="incorporation">631</predecessor></predecessors>
     <successors>
-        <successor>553</successor>
+        <successor rel="incorporation">554</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso</source>
-        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso/282547/Local-government#toc129474</source>
+        <source>http://www.britannica.com/place/Burkina-Faso</source>
     </sources>
 </territory>

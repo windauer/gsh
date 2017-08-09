@@ -4,23 +4,22 @@
     <old-id>upper-volta-1958</old-id>
     <short-form-name>Upper Volta</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1947</valid-since>
+    <valid-since>1919</valid-since>
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>553</predecessor>
-        <predecessor>552</predecessor>
+        <predecessor rel="incorporation">552</predecessor>
+        <predecessor rel="incorporation">388</predecessor>
     </predecessors>
     <successors>
-        <successor>476</successor>
-        <successor>555</successor>
-        <successor>37</successor>
+        <successor rel="independence">37</successor>
     </successors>
-    <notes>Reestablished in 1947</notes>
+    <notes>In 1932, Upper Volta was partitioned between Côte d’Ivoire, Niger, and French Sudan. It
+        was reestablished in 1947.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
         <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso</source>
-        <source>http://www.britannica.com/EBchecked/topic/85420/Burkina-Faso/282547/Local-government#toc129474</source>
     </sources>
 </territory>

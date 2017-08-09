@@ -118,25 +118,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Angola (1914–present)</display-name>
+            <display-name>Angola (1974–present)</display-name>
             <territory-id>7</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/7</url>
         </current-territory>
         <predecessor>
-            <display-name>Kongo (1390–1914)</display-name>
-            <territory-id>404</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/404</url>
+            <display-name>Angola (1775–1974)</display-name>
+            <territory-id>630</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/630</url>
         </predecessor>
-        <other-mention>
-            <display-name>Congo Free State (1885–1908)</display-name>
-            <territory-id>313</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/313</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -804,22 +799,17 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Benin (1990–present)</display-name>
+            <display-name>Benin (1960–present)</display-name>
             <territory-id>26</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/26</url>
         </current-territory>
         <predecessor>
-            <display-name>People’s Republic of Benin (1975–1990)</display-name>
-            <territory-id>454</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/454</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Dahomey (1727–1975)</display-name>
+            <display-name>Dahomey (1727–1960)</display-name>
             <territory-id>319</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/319</url>
         </predecessor>
@@ -936,9 +926,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Botswana (1966–present)</display-name>
@@ -949,11 +939,6 @@
             <display-name>Bechuanaland (1885–1966)</display-name>
             <territory-id>283</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/283</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Tswana States (?–1885)</display-name>
-            <territory-id>536</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/536</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -1034,55 +1019,30 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Burkina Faso (1984–present)</display-name>
+            <display-name>Burkina Faso (1958–present)</display-name>
             <territory-id>37</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/37</url>
         </current-territory>
         <predecessor>
-            <display-name>Upper Volta (1960–1984)</display-name>
-            <territory-id>555</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/555</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Republic of Upper Volta (1958–1960)</display-name>
-            <territory-id>476</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/476</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Upper Volta (1947–1958)</display-name>
+            <display-name>Upper Volta (1919–1958)</display-name>
             <territory-id>554</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/554</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Upper Volta (1919–1932)</display-name>
-            <territory-id>553</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/553</url>
         </predecessor>
         <predecessor>
             <display-name>Upper Senegal-Niger (1904–1920)</display-name>
             <territory-id>552</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/552</url>
         </predecessor>
-        <other-mention>
-            <display-name>Sudanese Republic (1958–1959)</display-name>
-            <territory-id>520</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/520</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Sudan (1891–1960)</display-name>
-            <territory-id>354</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/354</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Federation of Mali (1960–1960)</display-name>
-            <territory-id>343</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
-        </other-mention>
+        <predecessor>
+            <display-name>Mossi Kingdoms</display-name>
+            <territory-id>631</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/631</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -1123,9 +1083,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Burundi (1962–present)</display-name>
@@ -1133,20 +1093,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/39</url>
         </current-territory>
         <predecessor>
-            <display-name>Urundi (?–1962)</display-name>
+            <display-name>Kingdom of Burundi (1775–1890)</display-name>
             <territory-id>556</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/556</url>
         </predecessor>
-        <other-mention>
+        <predecessor>
             <display-name>German East Africa (1884–1920)</display-name>
             <territory-id>362</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/362</url>
-        </other-mention>
-        <other-mention>
+        </predecessor>
+        <predecessor>
             <display-name>Ruanda-Urundi (1922–1962)</display-name>
             <territory-id>482</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/482</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -1182,31 +1142,16 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Cameroon (1984–present)</display-name>
+            <display-name>Cameroon (1960–present)</display-name>
             <territory-id>41</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
         </current-territory>
-        <predecessor>
-            <display-name>United Republic of Cameroon (1972–1984)</display-name>
-            <territory-id>548</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/548</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Federal Republic of Cameroon (1961–1972)</display-name>
-            <territory-id>341</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/341</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Cameroon (1960–1961)</display-name>
-            <territory-id>302</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>French Cameroun (1916–1960)</display-name>
             <territory-id>348</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/348</url>
@@ -1226,21 +1171,6 @@
             <territory-id>285</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
         </predecessor>
-        <other-mention>
-            <display-name>Chad (1960–present)</display-name>
-            <territory-id>46</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/46</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Equatorial Africa (1910–1959)</display-name>
-            <territory-id>351</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Nigeria (1960–present)</display-name>
-            <territory-id>174</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/174</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -1321,9 +1251,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Cape Verde (1975–present)</display-name>
@@ -1335,12 +1265,7 @@
             <territory-id>306</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/306</url>
         </predecessor>
-        <other-mention>
-            <display-name>Portuguese Guinea (1879–1974)</display-name>
-            <territory-id>464</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/464</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -1360,36 +1285,31 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Central African Republic (1980–present)</display-name>
             <territory-id>45</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/45</url>
         </current-territory>
-        <predecessor>
-            <display-name>Central African Empire (1977–1980)</display-name>
-            <territory-id>307</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/307</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Central African Republic (1960–1977)</display-name>
-            <territory-id>308</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/308</url>
-        </predecessor>
-        <other-mention>
+       <predecessor>
             <display-name>French Equatorial Africa (1910–1959)</display-name>
             <territory-id>351</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
-        </other-mention>
+        </predecessor>
+        <predecessor>
+            <display-name>Ubangi Shari Chad (1903–1910)</display-name>
+            <territory-id>537</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/537</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BurtonMF</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-09</reviewed-date>
         </review>
         <current-territory>
             <display-name>Chad (1960–present)</display-name>
@@ -1397,75 +1317,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/46</url>
         </current-territory>
         <predecessor>
-            <display-name>French Equatorial Africa (1910–1959)</display-name>
+            <display-name>French Equatorial Africa (1880–1959)</display-name>
             <territory-id>351</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
         </predecessor>
-        <predecessor>
-            <display-name>French Congo (1897–1910)</display-name>
-            <territory-id>350</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/350</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Middle Congo (1880–1960)</display-name>
-            <territory-id>425</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/425</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Gabon (1840–1897)</display-name>
-            <territory-id>360</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/360</url>
-        </predecessor>
-        <predecessor>
+      <predecessor>
             <display-name>Bornu Empire (1380–1904)</display-name>
             <territory-id>285</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
         </predecessor>
         <predecessor>
-            <display-name>Ubangi Shari Chad (?–1910)</display-name>
+            <display-name>Ubangi Shari Chad (1903–1910)</display-name>
             <territory-id>537</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/537</url>
         </predecessor>
-        <other-mention>
-            <display-name>Congo (Brazzaville) (1960–present)</display-name>
-            <territory-id>54</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/54</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kamerun (1884–1916)</display-name>
-            <territory-id>392</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/392</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Cameroons (1916–1961)</display-name>
-            <territory-id>289</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/289</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1984–present)</display-name>
-            <territory-id>41</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Gabon (1960–present)</display-name>
-            <territory-id>85</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/85</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Federal Republic of Cameroon (1961–1972)</display-name>
-            <territory-id>341</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/341</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–1961)</display-name>
-            <territory-id>302</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Cameroon (1972–1984)</display-name>
-            <territory-id>548</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/548</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -1613,21 +1478,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/54</url>
         </current-territory>
         <predecessor>
-            <display-name>French Equatorial Africa (1910–1959)</display-name>
+            <display-name>French Equatorial Africa (1880–1959)</display-name>
             <territory-id>351</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
         </predecessor>
-        <predecessor>
-            <display-name>French Congo (1897–1910)</display-name>
-            <territory-id>350</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/350</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Middle Congo (1880–1960)</display-name>
-            <territory-id>425</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/425</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Gabon (1840–1897)</display-name>
             <territory-id>360</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/360</url>
@@ -1667,22 +1522,7 @@
             <territory-id>85</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/85</url>
         </other-mention>
-        <other-mention>
-            <display-name>Federal Republic of Cameroon (1961–1972)</display-name>
-            <territory-id>341</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/341</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–1961)</display-name>
-            <territory-id>302</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Cameroon (1972–1984)</display-name>
-            <territory-id>548</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/548</url>
-        </other-mention>
-    </lineage>
+  </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>
@@ -2820,21 +2660,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/85</url>
         </current-territory>
         <predecessor>
-            <display-name>French Equatorial Africa (1910–1959)</display-name>
+            <display-name>French Equatorial Africa (1880–1959)</display-name>
             <territory-id>351</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
         </predecessor>
-        <predecessor>
-            <display-name>French Congo (1897–1910)</display-name>
-            <territory-id>350</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/350</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Middle Congo (1880–1960)</display-name>
-            <territory-id>425</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/425</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Gabon (1840–1897)</display-name>
             <territory-id>360</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/360</url>
@@ -2875,24 +2705,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/289</url>
         </other-mention>
         <other-mention>
-            <display-name>Cameroon (1984–present)</display-name>
+            <display-name>Cameroon (1960–present)</display-name>
             <territory-id>41</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Federal Republic of Cameroon (1961–1972)</display-name>
-            <territory-id>341</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/341</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–1961)</display-name>
-            <territory-id>302</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Cameroon (1972–1984)</display-name>
-            <territory-id>548</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/548</url>
         </other-mention>
     </lineage>
     <lineage>
@@ -4725,11 +4540,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/494</url>
         </other-mention>
         <other-mention>
-            <display-name>Upper Volta (1960–1984)</display-name>
-            <territory-id>555</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/555</url>
-        </other-mention>
-        <other-mention>
             <display-name>Upper Volta (1919–1932)</display-name>
             <territory-id>553</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/553</url>
@@ -4882,11 +4692,6 @@
             <display-name>The Gambia (1965–present)</display-name>
             <territory-id>86</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/86</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1960–1984)</display-name>
-            <territory-id>555</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/555</url>
         </other-mention>
         <other-mention>
             <display-name>Upper Volta (1919–1932)</display-name>
@@ -5383,26 +5188,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
         </other-mention>
         <other-mention>
-            <display-name>Cameroon (1984–present)</display-name>
+            <display-name>Cameroon (1960–present)</display-name>
             <territory-id>41</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
         </other-mention>
-        <other-mention>
-            <display-name>Federal Republic of Cameroon (1961–1972)</display-name>
-            <territory-id>341</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/341</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–1961)</display-name>
-            <territory-id>302</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Cameroon (1972–1984)</display-name>
-            <territory-id>548</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/548</url>
-        </other-mention>
-        <other-mention>
+       <other-mention>
             <display-name>French Cameroun (1916–1960)</display-name>
             <territory-id>348</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/348</url>
@@ -6474,7 +6264,7 @@
             <territory-id>629</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/629</url>
         </predecessor>
-       <other-mention>
+        <other-mention>
             <display-name>British Indian Ocean Territory (1965–present)</display-name>
             <territory-id>34</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/34</url>
@@ -6677,7 +6467,7 @@
             <territory-id>218</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/218</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Somaliland (1884–1960)</display-name>
             <territory-id>295</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/295</url>
@@ -7661,11 +7451,6 @@
             <display-name>Sudanese Republic (1958–1959)</display-name>
             <territory-id>520</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/520</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1960–1984)</display-name>
-            <territory-id>555</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/555</url>
         </other-mention>
         <other-mention>
             <display-name>Upper Volta (1919–1932)</display-name>

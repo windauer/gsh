@@ -4,18 +4,25 @@
     <old-id>angola</old-id>
     <short-form-name>Angola</short-form-name>
     <long-form-name>Republic of Angola</long-form-name>
+    <variants><variant>
+        <variant-id>7_1</variant-id>
+        <variant-name>People's Republic of Angola</variant-name>
+        <valid-since>1974</valid-since>
+        <valid-until>1992</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1914</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1974</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>404</predecessor>
+        <predecessor rel="independence">630</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ao.html</source>
         <source>http://history.state.gov/countries/angola</source>
-        <source>http://www.britannica.com/EBchecked/topic/25137/Angola</source>
+        <source>http://www.britannica.com/place/Angola</source>
     </sources>
 </territory>

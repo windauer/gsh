@@ -4,18 +4,33 @@
     <old-id>dahomey-1975</old-id>
     <short-form-name>Dahomey</short-form-name>
     <long-form-name>Republic of Dahamoey</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>319_1</variant-id>
+            <variant-name>Kingdom of Dahomey</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1892</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>319_2</variant-id>
+            <variant-name>French Dahomey</variant-name>
+            <valid-since>1899</valid-since>
+            <valid-until>1957</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1727</valid-since>
-    <valid-until>1975</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>454</successor>
-        <successor>26</successor>
+        <successor rel="independence">26</successor>
     </successors>
     <notes>Gained independence in 1960</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/149772/Dahomey</source>
+        <source>http://www.britannica.com/place/Dahomey</source>
     </sources>
 </territory>

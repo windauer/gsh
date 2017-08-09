@@ -4,12 +4,21 @@
     <old-id>central-african-republic</old-id>
     <short-form-name>Central African Republic</short-form-name>
     <long-form-name>Central African Republic</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>45_1</variant-id>
+            <variant-name>Central African Empire</variant-name>
+            <valid-since>1976</valid-since>
+            <valid-until>1979</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1980</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1960</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>307</predecessor>
+        <predecessor rel="independence">351</predecessor>
     </predecessors>
     <successors/>
     <notes/>

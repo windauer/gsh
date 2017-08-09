@@ -4,23 +4,21 @@
     <old-id>french-cameroun-1960</old-id>
     <short-form-name>French Cameroun</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1916</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>392</predecessor>
+        <predecessor rel="split">392</predecessor>
     </predecessors>
     <successors>
-        <successor>302</successor>
-        <successor>341</successor>
-        <successor>548</successor>
-        <successor>41</successor>
+       <successor rel="independence">41</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
         <source>http://history.state.gov/countries/cameroon</source>
-        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon</source>
+        <source>http://www.britannica.com/place/Cameroon</source>
     </sources>
 </territory>

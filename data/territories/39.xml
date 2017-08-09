@@ -4,12 +4,13 @@
     <old-id>burundi</old-id>
     <short-form-name>Burundi</short-form-name>
     <long-form-name>Republic of Burundi</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1962</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>556</predecessor>
+        <predecessor rel="independence">482</predecessor>
     </predecessors>
     <successors/>
     <notes/>

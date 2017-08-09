@@ -10,9 +10,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors/>
     <successors>
-        <successor>350</successor>
         <successor>351</successor>
-        <successor>85</successor>
     </successors>
     <notes/>
     <sources>

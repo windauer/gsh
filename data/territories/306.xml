@@ -3,19 +3,19 @@
     <id>306</id>
     <old-id>cape-verde-1975</old-id>
     <short-form-name>Cape Verde</short-form-name>
-    <long-form-name>Republic of Cape Verde</long-form-name>
-    <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1462</valid-since>
+    <long-form-name>Cape Verde</long-form-name>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>43</successor>
+        <successor rel="independence">43</successor>
     </successors>
     <notes/>
     <sources>
-        <source>http://www.britannica.com.proxy.lib.umich.edu/EBchecked/topic/93703/Cabo-Verde</source>
+        <source>http://www.britannica.com/place/Cabo-Verde</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/248853/Guinea-Bissau</source>
     </sources>
 </territory>

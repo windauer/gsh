@@ -4,6 +4,7 @@
     <old-id>ivory-coast-1960</old-id>
     <short-form-name>Ivory Coast</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since/>
     <valid-until>1960</valid-until>
@@ -12,6 +13,7 @@
     <successors>
         <successor>389</successor>
         <successor>59</successor>
+        <successor rel="incorporation">552</successor>
     </successors>
     <notes/>
     <sources>

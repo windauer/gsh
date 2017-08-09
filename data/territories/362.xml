@@ -3,19 +3,19 @@
     <id>362</id>
     <old-id>german-east-africa-1920</old-id>
     <short-form-name>German East Africa</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1884</valid-since>
     <valid-until>1920</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors><predecessor rel="incorporation">556</predecessor></predecessors>
     <successors>
-        <successor>197</successor>
-        <successor>39</successor>
+       <successor rel="split">482</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/230748/German-East-Africa</source>
+        <source>http://britannica.com/place/German-East-Africa</source>
     </sources>
 </territory>

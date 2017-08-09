@@ -4,20 +4,36 @@
     <old-id>cameroon</old-id>
     <short-form-name>Cameroon</short-form-name>
     <long-form-name>Republic of Cameroon</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>41_1</variant-id>
+            <variant-name>United Republic of Cameroon</variant-name>
+            <valid-since>1972</valid-since>
+            <valid-until>1984</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>41_2</variant-id>
+            <variant-name>Federal Republic of Cameroon</variant-name>
+            <valid-since>1961</valid-since>
+            <valid-until>1972</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1984</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1960</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>285</predecessor>
-        <predecessor>548</predecessor>
+        <predecessor rel="independence">348</predecessor>
+        <predecessor rel="merger">289</predecessor>
     </predecessors>
     <successors/>
-    <notes>U.S. recognized independence in 1960</notes>
+    <notes>The United States recognized independence in 1960</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html</source>
         <source>http://history.state.gov/countries/cameroon</source>
         <source>https://www.prc.cm/fr/le-president/pensee-politique?highlight=WzE5ODRd</source>
-        <source>http://www.britannica.com/EBchecked/topic/90925/Cameroon</source>
+        <source>http://www.britannica.com/place/Cameroon</source>
     </sources>
 </territory>

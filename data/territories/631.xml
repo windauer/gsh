@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>556</id>
-    <old-id>urundi-TBD</old-id>
-    <short-form-name>Kingdom of Burundi</short-form-name>
+    <id>631</id>
+    <old-id/>
+    <short-form-name>Mossi Kingdoms</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
-    <valid-until>1890</valid-until>
+    <valid-until>1896</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
-        <successor rel="incorporation">362</successor>
+        <successor rel="incorporation">552</successor>
     </successors>
     <notes/>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/by.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html</source>
+        <source>http://www.britannica.com/place/Burkina-Faso</source>
     </sources>
 </territory>

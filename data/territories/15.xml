@@ -4,15 +4,18 @@
     <old-id>australia</old-id>
     <short-form-name>Australia</short-form-name>
     <long-form-name>Commonwealth of Australia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1817</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1939</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>436</predecessor>
+        <predecessor rel="independence">436</predecessor>
     </predecessors>
     <successors/>
-    <notes>The long form name was added in 1901; U.S. recognized independence in 1940</notes>
+    <notes>The Statute of Westminster, adopted by Australia in 1942, ended nearly all constitutional
+        authority of the United Kingdom over Australia. The Australia Act of 1986 eliminated all
+        remaining authority. The United States recognized independence in 1940.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/as.html</source>
         <source>http://history.state.gov/countries/australia</source>

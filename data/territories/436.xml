@@ -2,18 +2,89 @@
 <territory>
     <id>436</id>
     <old-id>new-holland-1817</old-id>
-    <short-form-name>New Holland</short-form-name>
+    <short-form-name>New South Wales</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>436_1</variant-id>
+            <variant-name>New Holland</variant-name>
+            <valid-since>1775</valid-since>
+            <valid-until>1832</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>436_2</variant-id>
+            <variant-name>Van Diemen's Land</variant-name>
+            <valid-since>1825</valid-since>
+            <valid-until>1856</valid-until>
+            <note>Until 1853, Van Diemen's Land was the primary British penal colony in
+                Australia.</note>
+        </variant>
+        <variant>
+            <variant-id>436_3</variant-id>
+            <variant-name>Tasmania</variant-name>
+            <valid-since>1856</valid-since>
+            <valid-until>9999</valid-until>
+            <note>Van Diemen's Land changed its name to Tasmania in 1856.</note>
+        </variant>
+        <variant>
+            <variant-id>463_4</variant-id>
+            <variant-name>Swan River</variant-name>
+            <valid-since>1829</valid-since>
+            <valid-until>1832</valid-until>
+            <note>Colony established on the Swan River. Renamed Western Australia in 1832.</note>
+        </variant>
+        <variant>
+            <variant-id>463_5</variant-id>
+            <variant-name>Western Australia</variant-name>
+            <valid-since>1832</valid-since>
+            <valid-until>1901</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>463_6</variant-id>
+            <variant-name>South Australia</variant-name>
+            <valid-since>1834</valid-since>
+            <valid-until>1901</valid-until>
+            <note>Colony proclaimed on December 28, 1836.</note>
+        </variant>
+        <variant>
+            <variant-id>463_7</variant-id>
+            <variant-name>North Australia</variant-name>
+            <valid-since>1846</valid-since>
+            <valid-until>1847</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>463_8</variant-id>
+            <variant-name>Victoria</variant-name>
+            <valid-since>1851</valid-since>
+            <valid-until>1901</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>463_9</variant-id>
+            <variant-name>Queensland</variant-name>
+            <valid-since>1859</valid-since>
+            <valid-until>1901</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1644</valid-since>
-    <valid-until>1817</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1939</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>15</successor>
+        <successor rel="independence">15</successor>
     </successors>
-    <notes/>
+    <notes>New Holland originally referred to the entirety of the Australian landmass. After
+        establishment of New South Wales in 1788, New Holland was most commonly used to refer to the
+        western half of the landmass. In the early nineteenth century, the British began
+        establishing colonies throughout New Holland, described above as name variants with the date
+        the colony was established noted. Most colonies kept their names when they became
+        Commonwealth states in 1901.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/43654/Australia/228717/History?anchor=ref761371</source>
+        <source>http://www.britannica.com/place/Australia/228717/History?anchor=ref761371</source>
     </sources>
 </territory>

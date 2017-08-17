@@ -2,19 +2,23 @@
 <territory>
     <id>345</id>
     <old-id>fiji-1874</old-id>
-    <short-form-name>Fiji</short-form-name>
-    <long-form-name/>
+    <short-form-name>Kingdom of Viti</short-form-name>
+    <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since>1871</valid-since>
     <valid-until>1874</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="merger">634</predecessor>
+        <predecessor rel="merger">635</predecessor>
+    </predecessors>
     <successors>
-        <successor>346</successor>
+        <successor rel="incorporation">346</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/206686/Fiji</source>
+        <source>http://britannica.com/place/Fiji</source>
     </sources>
 </territory>

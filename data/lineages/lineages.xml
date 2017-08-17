@@ -319,17 +319,17 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-17</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Australia (1817–present)</display-name>
+            <display-name>Australia (1901–present)</display-name>
             <territory-id>15</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/15</url>
         </current-territory>
         <predecessor>
-            <display-name>New Holland (1644–1817)</display-name>
+            <display-name>New South Wales (1775–1901)</display-name>
             <territory-id>436</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/436</url>
         </predecessor>
@@ -1557,7 +1557,7 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
             <reviewed-date>2017-02-14</reviewed-date>
         </review>
@@ -2513,9 +2513,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>RubinDA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-08-17</reviewed-date>
         </review>
         <current-territory>
             <display-name>Fiji (1970–present)</display-name>
@@ -2528,9 +2528,24 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/346</url>
         </predecessor>
         <predecessor>
-            <display-name>Fiji (?–1874)</display-name>
+            <display-name>Kingdom of Viti (1871–1874)</display-name>
             <territory-id>345</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/345</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Lau (1867–1871)</display-name>
+            <territory-id>635</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/635</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Bau (1867–1871)</display-name>
+            <territory-id>634</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/634</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Confederacy of Independent Kingdoms of Viti (1865–1867)</display-name>
+            <territory-id>636</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/636</url>
         </predecessor>
     </lineage>
     <lineage>

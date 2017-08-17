@@ -4,17 +4,38 @@
     <old-id>fiji</old-id>
     <short-form-name>Fiji</short-form-name>
     <long-form-name>Republic of Fiji</long-form-name>
+    <variants><variant>
+        <variant-id>79_1</variant-id>
+        <variant-name>Dominion of Fiji</variant-name>
+        <valid-since>1970</valid-since>
+        <valid-until>1987</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>79_2</variant-id>
+        <variant-name>Sovereign Democratic Republic of Fiji</variant-name>
+        <valid-since>1990</valid-since>
+        <valid-until>1998</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>79_3</variant-id>
+        <variant-name>Republic of the Fiji Islands</variant-name>
+        <valid-since>1998</valid-since>
+        <valid-until>9999</valid-until>
+        <note></note>
+    </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1970</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>346</predecessor>
+        <predecessor rel="independence">346</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/206686/Fiji</source>
+        <source>http://britannica.com/place/Fiji</source>
     </sources>
 </territory>

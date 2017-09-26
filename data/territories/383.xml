@@ -4,25 +4,38 @@
     <old-id>indochina-1950</old-id>
     <short-form-name>French Indochina</short-form-name>
     <long-form-name>Indochinese Union</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>383_1</variant-id>
+            <variant-name>Union Indochinoises</variant-name>
+            <valid-since>1887</valid-since>
+            <valid-until>1947</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>383_2</variant-id>
+            <variant-name>Fédération Indochinoise</variant-name>
+            <valid-since>1947</valid-since>
+            <valid-until>1949</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1887</valid-since>
-    <valid-until>1953</valid-until>
+    <valid-until>1954</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>320</predecessor>
-        <predecessor>562</predecessor>
-        <predecessor>312</predecessor>
+        <predecessor rel="incorporation">593</predecessor>
+       <predecessor rel="incorporation">312</predecessor>
     </predecessors>
     <successors>
-        <successor>519</successor>
-        <successor>133</successor>
+        <successor rel="independence">519</successor>
+        <successor rel="independence">133</successor>
         <successor rel="independence">518</successor>
+        <successor rel="independence">440</successor>
     </successors>
     <notes></notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
-        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/123532/Cochinchina</source>
-        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/628349/Vietnam</source>
-        <source>http://www.britannica.com.proxy-um.researchport.umd.edu/EBchecked/topic/286431/Indochina</source>
-    </sources>
+   </sources>
 </territory>

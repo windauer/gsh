@@ -2,21 +2,31 @@
 <territory>
     <id>358</id>
     <old-id>friendly-islands-1970</old-id>
-    <short-form-name>Friendly Islands</short-form-name>
-    <long-form-name/>
+    <short-form-name>Tonga</short-form-name>
+    <long-form-name>Kingdom of Tonga</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>358_1</variant-id>
+            <variant-name>The Friendly Islands</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1776</valid-since>
+    <valid-since>1900</valid-since>
     <valid-until>1970</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="incorporation">637</predecessor>
+    </predecessors>
     <successors>
-        <successor>239</successor>
+        <successor rel="independence">239</successor>
     </successors>
-    <notes>Remains a nickname for the islands to present day.</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tn.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7455?rskey=BzXu4H</source>
         <source>https://history.state.gov/countries/tonga</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/599148/Tonga</source>
+        <source>http://britannica.com/place/Tonga</source>
     </sources>
 </territory>

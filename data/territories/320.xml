@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
     <id>320</id>
-    <old-id>dai-viet-1802</old-id>
-    <short-form-name>Dai Viet</short-form-name>
-    <long-form-name type="none"/>
-    <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1009</valid-since>
-    <valid-until>1802</valid-until>
+    <old-id/>
+    <short-form-name>Bukhara</short-form-name>
+    <long-form-name>Emirate of Bukhara</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>320_1</variant-id>
+            <variant-name>Bukharan People's Soviet Republic</variant-name>
+            <valid-since>1920</valid-since>
+            <valid-until>1924</valid-until>
+            <note>Following the Russian Revolution, a Bukharan People’s Soviet Republic was
+                proclaimed in 1920.</note>
+        </variant>
+        <variant>
+            <variant-id>320_2</variant-id>
+            <variant-name>Tajik Autonomous Soviet Socialist Republic</variant-name>
+            <valid-since>1924</valid-since>
+            <valid-until>1929</valid-until>
+            <note>Tajik ASSR joined Soviet Union in 1925.</note>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1925</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>562</successor>
-        <successor>312</successor>
-        <successor>383</successor>
+        <successor rel="incorporation">513</successor>
     </successors>
-    <notes/>
+    <notes>Late-sixteenth-century Bukhara emerged as the effective capital of a more centralized
+        state, retaining its status through the political and economic decline of eighteenth-century
+        Central Asia. The late nineteenth century saw commercial and diplomatic ties with Russia
+        give way to armed conflict soon after the Russian conquest of Tashkent in 1865.</notes>
     <sources>
-        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
+        <source>https://www.britannica.com/place/Soviet-Union</source>
+        <source>https://www.loc.gov/item/97007563</source>
+        <source>https://history.state.gov/countries/russia</source>
     </sources>
 </territory>

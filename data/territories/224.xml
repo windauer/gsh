@@ -4,17 +4,33 @@
     <old-id>sri-lanka</old-id>
     <short-form-name>Sri Lanka</short-form-name>
     <long-form-name>Democratic Socialist Republic of Sri Lanka</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>224_1</variant-id>
+            <variant-name>Republic of Sri Lanka</variant-name>
+            <valid-since>1972</valid-since>
+            <valid-until>1978</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>224_2</variant-id>
+            <variant-name>Ceylon</variant-name>
+            <valid-since>1948</valid-since>
+            <valid-until>1972</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1972</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1948</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>497</predecessor>
-        <predecessor>309</predecessor>
+       <predecessor rel="independence">309</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ce.html</source>
+        <source>http://history.state.gov/countries/sri-lanka</source>
     </sources>
 </territory>

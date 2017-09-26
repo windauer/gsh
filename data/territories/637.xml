@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>637</id>
+    <old-id/>
+    <short-form-name>The Friendly Islands</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>637_1</variant-id>
+            <variant-name>Kingdom of Tonga</variant-name>
+            <valid-since>1875</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1900</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">358</successor>
+    </successors>
+    <notes>Tonga was independent until the turn of the twentieth century, when it became a
+        British protectorate. Different sources date the start of protectorate status to 1900, 1901,
+        or 1905. </notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tn.html</source>
+        <source>https://history.state.gov/countries/tonga</source>
+        <source>http://britannica.com/place/Tonga</source>
+    </sources>
+</territory>

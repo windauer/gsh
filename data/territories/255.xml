@@ -4,18 +4,18 @@
     <old-id>vietnam</old-id>
     <short-form-name>Vietnam</short-form-name>
     <long-form-name>Socialist Republic of Vietnam</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1976</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>440</predecessor>
-        <predecessor>509</predecessor>
+        <predecessor rel="merger">440</predecessor>
+        <predecessor rel="merger">509</predecessor>
     </predecessors>
     <successors/>
-    <notes>Mulitple predecessors</notes>
+    <notes></notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/628349/Vietnam</source>
     </sources>
 </territory>

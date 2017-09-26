@@ -4,12 +4,13 @@
     <old-id>tuvalu</old-id>
     <short-form-name>Tuvalu</short-form-name>
     <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1978</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1975</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>336</predecessor>
+        <predecessor rel="independence">367</predecessor>
     </predecessors>
     <successors/>
     <notes/>

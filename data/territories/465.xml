@@ -4,19 +4,18 @@
     <old-id>portuguese-timor-1975</old-id>
     <short-form-name>Portuguese Timor</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1520</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>333</successor>
+        <successor rel="incorporation">333</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7407</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/tp.hi</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/596313/East-Timor</source>
+        <source>http://britannica.com/place/East-Timor</source>
     </sources>
 </territory>

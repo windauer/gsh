@@ -3,19 +3,23 @@
     <id>336</id>
     <old-id>ellice-islands-1978</old-id>
     <short-form-name>Ellice Islands</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1892</valid-since>
-    <valid-until>1978</valid-until>
+    <valid-since>1819</valid-since>
+    <valid-until>1916</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>245</successor>
+        <successor rel="incorporation">367</successor>
     </successors>
-    <notes>Part of Gilbert and Ellice Islands Colony, a British territory.</notes>
+    <notes>Though sighted by the Portuguese as early as the sixteenth century, the Ellice Islands
+        were named for the owner of the ship whose captain visited the Funafuti Atoll in 1819. From
+        1892 to 1916, the Ellice Islands were part of the Gilbert Islands Protectorate; from 1916 to
+        1975, Tuvalu was the ‘Ellice’ in the Gilbert and Ellice Islands, a crown colony.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tv.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/610728/Tuvalu</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/751890/Gilbert-and-Ellice-Islands</source>
+        <source>http://britannica.com/place/Tuvalu</source>
+        <source>http://britannica.com/place/Gilbert-and-Ellice-Islands</source>
     </sources>
 </territory>

@@ -2,23 +2,24 @@
 <territory>
     <id>367</id>
     <old-id>gilbert-and-ellice-islands-1975</old-id>
-    <short-form-name>Gilbert Islands</short-form-name>
-    <long-form-name/>
+    <short-form-name>Gilbert and Ellice Islands</short-form-name>
+    <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1894</valid-since>
+    <valid-since>1916</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>368</predecessor>
+        <predecessor rel="incorporation">368</predecessor>
+        <predecessor rel="incorporation">336</predecessor>
     </predecessors>
     <successors>
-        <successor>127</successor>
-        <successor>245</successor>
+        <successor rel="independence">127</successor>
+        <successor rel="independence">245</successor>
     </successors>
     <notes>British Crown Colony and Protectorate</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-3673?rskey=gwZUeS</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/751890/Gilbert-and-Ellice-Islands</source>
+        <source>http://britannica.com/place/Gilbert-and-Ellice-Islands</source>
     </sources>
 </territory>

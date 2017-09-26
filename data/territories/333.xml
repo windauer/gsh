@@ -3,20 +3,32 @@
     <id>333</id>
     <old-id>east-timor-2002</old-id>
     <short-form-name>East Timor</short-form-name>
-    <long-form-name>Timor Timur</long-form-name>
+    <long-form-name>Timur Timur</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1975</valid-since>
     <valid-until>2002</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>465</predecessor>
+        <predecessor rel="incorporation">465</predecessor>
     </predecessors>
     <successors>
-        <successor>236</successor>
+        <successor rel="independence">236</successor>
     </successors>
-    <notes>Independent from 1975-1976; from 1976-2002 incorporated into Indonesia</notes>
+    <notes>According to The Oxford Companion to Politics of the World: “After
+        the 1974 armed forces coup in Portugal, the small mestizo elite split over the options of
+        independence or continued association with Portugal. In a brief civil war in August 1975,
+        the left-wing pro-independence Frente Revolucionaria do Timor Leste Independente (Fretilin)
+        defeated the conservative associationist forces. Fearing Fretilin's left-wing connections,
+        Indonesia invaded the territory in September. Fretilin declared independence on 28 November,
+        but was forced from the capital, Dili, after an Indonesian airborne attack in December 1975.
+        The UN General Assembly called on Indonesia to withdraw and the Security Council condemned
+        the invasion, but many observers believe that the invasion initially had the tacit approval
+        of the United States and Australia. Indonesia formally annexed the territory on 15 July
+        1976.”</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/596313/East-Timor</source>
+        <source>http://britannica.com/place/East-Timor</source>
+        <source>https://www.loc.gov/item/00051023/</source>
     </sources>
 </territory>

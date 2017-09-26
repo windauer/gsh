@@ -4,18 +4,19 @@
     <old-id>north-vietnam-1975</old-id>
     <short-form-name>North Vietnam</short-form-name>
     <long-form-name>Democratic Republic of Vietnam</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1954</valid-since>
+    <valid-since>1945</valid-since>
     <valid-until>1976</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>519</predecessor>
+        <predecessor rel="split">383</predecessor>
     </predecessors>
     <successors>
-        <successor>255</successor>
+        <successor rel="merger">255</successor>
     </successors>
-    <notes/>
+    <notes>The State of Vietnam also claimed the territory of North Vietnam.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/628349/Vietnam</source>
+        <source>https://britannica.com/place/Vietnam</source>
     </sources>
 </territory>

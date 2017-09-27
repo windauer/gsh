@@ -4,18 +4,23 @@
     <old-id>togoland-1922</old-id>
     <short-form-name>Togoland</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1885</valid-since>
     <valid-until>1922</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>357</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>357</successor>
-        <successor>237</successor>
+        <successor rel="split">357</successor>
+        <successor rel="split">639</successor>
     </successors>
-    <notes>At first a buffer zone between Asante and Dahomey and occupied on the coast by the Danes, it became a German colony after German missionaries and traders were able to gain support from local leaders and formally submit a claim to Togoland.</notes>
+    <notes>At first a buffer zone between Asante and Dahomey and occupied on the coast by the Danes,
+        it became a German colony after German missionaries and traders were able to gain support
+        from local leaders and formally submit a claim to Togoland. During World War I, Togoland was
+        invaded by Allied forces, and the German colony was split into two administrative districts.
+        The western regeion of the colony was administered by the United Kingdom, the eastern by
+        France. Although the partition was agreed upon in 1916, it was not formalized until 1922 by
+        the League of Nations.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
     </sources>

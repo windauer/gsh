@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>641</id>
+    <old-id/>
+    <short-form-name>Morocco</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1912</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">640</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html</source>
+        <source>https://britannica.com/place/Morocco</source>
+    </sources>
+</territory>

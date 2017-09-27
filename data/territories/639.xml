@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>357</id>
-    <old-id>french-togoland-1960</old-id>
-    <short-form-name>French Togoland</short-form-name>
+    <id>639</id>
+    <old-id/>
+    <short-form-name>British Togoland</short-form-name>
     <long-form-name type="none"/>
     <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1922</valid-since>
-    <valid-until>1960</valid-until>
+    <valid-until>1956</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">527</predecessor>
     </predecessors>
     <successors>
-        <successor rel="independence">237</successor>
+        <successor rel="incorporation">369</successor>
     </successors>
     <notes/>
     <sources>

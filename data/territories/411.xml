@@ -4,21 +4,35 @@
     <old-id>libya-1951</old-id>
     <short-form-name>Libya</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>411_1</variant-id>
+            <variant-name>Italian North Africa</variant-name>
+            <valid-since>1912</valid-since>
+            <valid-until>1934</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1931</valid-since>
+    <valid-since>1912</valid-since>
     <valid-until>1951</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>138</successor>
+        <successor rel="independence">138</successor>
     </successors>
-    <notes>Italian Dependency that was ruled by Britain during and after World war II, later given independence.  The three districts of Tripolitania, Cyrenaca, and Fezzan that were combined by the Italians to administer Libya were at times somewhat autonomous from the Ottoman rule, going so far as to sign peace treaties and claim official recognition (as Tripolitania did for the US) but all were still somewhat dependent on Ottoman Rule for stability of some sort.</notes>
+    <notes>Libya officially became an Italian colony when the Ottoman Empire ceded it to Italy in
+        1912 under the Treaty of Ouchy. However, Italy was in a constant struggle for control over
+        the region until 1934. The territories of Cyrenaica, Tripolitania, and Fezzan were unified
+        by Italy as Libya in 1934. Although Italian control over Libya officially lasted until 1947,
+        from 1943 until 1947 Britain and France jointly managed the region. From 1947 until 1951,
+        Tripolitania and Cyrenaica were under British administration, while Fezzan was under French
+        control.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/339574/Libya</source>
+        <source>http://britannica.com/place/Libya</source>
         <source>https://history.state.gov/countries/libya</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2358</source>
     </sources>
 </territory>

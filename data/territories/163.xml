@@ -4,11 +4,12 @@
     <old-id>morocco</old-id>
     <short-form-name>Morocco</short-form-name>
     <long-form-name>Kingdom of Morocco</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1956</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors><predecessor rel="independence">640</predecessor></predecessors>
     <successors/>
     <notes/>
     <sources>

@@ -4,19 +4,21 @@
     <old-id>united-arab-republic-1971</old-id>
     <short-form-name>United Arab Republic</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1958</valid-since>
     <valid-until>1971</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>335</predecessor>
-        <predecessor>522</predecessor>
+        <predecessor rel="merger">335</predecessor>
+        <predecessor rel="merger">522</predecessor>
     </predecessors>
     <successors>
-        <successor>71</successor>
-        <successor>231</successor>
+        <successor rel="split">71</successor>
+        <successor rel="split">231</successor>
     </successors>
-    <notes>Syria seceded in 1961</notes>
+    <notes>In 1961, Syria withdrew from the United Arab Republic. The United Arab Republic continued
+        to be the name of the Egyptian state until 1971.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</source>

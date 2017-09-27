@@ -3,21 +3,31 @@
     <id>335</id>
     <old-id>egypt-1958</old-id>
     <short-form-name>Egypt</short-form-name>
-    <long-form-name>Arab Republic of Egypt</long-form-name>
+    <long-form-name>Kingdom of Egypt</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>335_1</variant-id>
+            <variant-name>Republic of Egypt</variant-name>
+            <valid-since>1952</valid-since>
+            <valid-until>1958</valid-until>
+            <note>The Republic of Egypt was established when Egyptian Free Officers overthrew the
+                monarchy in 1952.</note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1922</valid-since>
     <valid-until>1958</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>334</predecessor>
+        <predecessor rel="independence">334</predecessor>
     </predecessors>
     <successors>
-        <successor>543</successor>
+        <successor rel="merger">543</successor>
     </successors>
-    <notes>Joined with Syria to form united Arab Republic from 1958-1971</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html</source>
         <source>http://history.state.gov/countries/egypt</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/180382/Egypt</source>
+        <source>http://britannica.com/place/Egypt</source>
     </sources>
 </territory>

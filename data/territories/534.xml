@@ -3,16 +3,50 @@
     <id>534</id>
     <old-id>trucial-states-1971</old-id>
     <short-form-name>Trucial States</short-form-name>
-    <long-form-name/>
-    <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>534_1</variant-id>
+            <variant-name>Trucial Oman</variant-name>
+            <valid-since>1820</valid-since>
+            <valid-until>1971</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>534_2</variant-id>
+            <variant-name>Trucial Coast</variant-name>
+            <valid-since>1820</valid-since>
+            <valid-until>1971</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>534_3</variant-id>
+            <variant-name>Trucial Sheikhdoms</variant-name>
+            <valid-since>1820</valid-since>
+            <valid-until>1971</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1820</valid-since>
     <valid-until>1971</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="incorporation">643</predecessor>
+        <predecessor rel="incorporation">644</predecessor>
+        <predecessor rel="incorporation">645</predecessor>
+        <predecessor rel="incorporation">646</predecessor>
+        <predecessor rel="incorporation">647</predecessor>
+        <predecessor rel="incorporation">648</predecessor>
+        <predecessor rel="incorporation">649</predecessor>
+    </predecessors>
     <successors>
-        <successor>248</successor>
+        <successor rel="independence">248</successor>
     </successors>
-    <notes/>
+    <notes>In 1820, the United Kingdom and Abu Dhabi, Sharjah, Ajman, Ras al- Khaimah, and Umm
+        al-Quwain sheikhdoms signed the General Maritime Treaty establishing the latter as British
+        protectorates; thereafter known as Trucial States. In 1835, Dubai acceded to the Treaty.
+        Fujairah was added in 1952.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ae.html</source>
     </sources>

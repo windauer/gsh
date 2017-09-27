@@ -4,16 +4,17 @@
     <old-id>united-arab-emirates</old-id>
     <short-form-name>United Arab Emirates</short-form-name>
     <long-form-name>United Arab Emirates</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1971</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>534</predecessor>
-        <predecessor>533</predecessor>
+        <predecessor rel="independence">534</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>In 1971, the British Protectorate treaty ended and all sheikhdoms, except Ras al-Khaimah, join to form
+        independent state of United Arab Emirates. Ras al-Khaimah joined the UAE in 1972.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ae.html</source>
     </sources>

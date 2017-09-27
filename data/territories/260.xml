@@ -4,20 +4,25 @@
     <old-id>western-sahara</old-id>
     <short-form-name>Western Sahara</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>260_1</variant-id>
+            <variant-name>Spanish Sahara</variant-name>
+            <valid-since>1884</valid-since>
+            <valid-until>1975</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1976</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1884</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>515</predecessor>
-        <predecessor>480</predecessor>
-        <predecessor>484</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Legal status of territory and issue of sovereignty unresolved, territory contested by
-            Morocco and Polisario Front</notes>
+    <notes>Legal status of territory and issue of sovereignty unresolved; territory contested by
+            Morocco and Polisario Front.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/640800/Western-Sahara</source>
+        <source>http://www.britannica.com/place/Western-Sahara</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html</source>
     </sources>
 </territory>

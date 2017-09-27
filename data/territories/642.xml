@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>642</id>
+    <old-id/>
+    <short-form-name>Comoros</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1975</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="independence">53</successor>
+    </successors>
+    <notes>The islands of the Comoros were under French protection/rule from approximately 1886 to
+        1975. The Portuguese also used it as a trading post/port. Still, the name Comoros goes back
+        prior to U.S. independence.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cn.html</source>
+    </sources>
+</territory>

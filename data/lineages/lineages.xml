@@ -1456,15 +1456,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>Comoros (1975–present)</display-name>
             <territory-id>53</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/53</url>
         </current-territory>
+        <predecessor>
+            <display-name>Comoros (1775–1975)</display-name>
+            <territory-id>642</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/642</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -1778,24 +1783,19 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-27</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Côte d’Ivoire (1986–present)</display-name>
+            <display-name>Côte d’Ivoire (1960–present)</display-name>
             <territory-id>59</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/59</url>
         </current-territory>
         <predecessor>
-            <display-name>Ivory Coast (1960–1986)</display-name>
-            <territory-id>389</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/389</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Ivory Coast (?–1960)</display-name>
-            <territory-id>388</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/388</url>
+            <display-name>French West Africa</display-name>
+            <territory-id>626</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/626</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -2111,9 +2111,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>Equatorial Guinea (1968–present)</display-name>
@@ -3994,7 +3994,7 @@
             <territory-id>498</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/498</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Lan Xang (?–1707)</display-name>
             <territory-id>407</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/407</url>
@@ -6988,7 +6988,7 @@
             <territory-id>235</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/235</url>
         </current-territory>
-   </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -7470,9 +7470,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-27</reviewed-date>
         </review>
         <current-territory>
             <display-name>United Arab Emirates (1971–present)</display-name>
@@ -7480,14 +7480,44 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/248</url>
         </current-territory>
         <predecessor>
-            <display-name>Trucial States (?–1971)</display-name>
+            <display-name>Trucial States (1820–1971)</display-name>
             <territory-id>534</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/534</url>
         </predecessor>
         <predecessor>
-            <display-name>Trucial Oman (?–1971)</display-name>
-            <territory-id>533</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/533</url>
+            <display-name>Abu Dhabi</display-name>
+            <territory-id>643</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/643</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Sharjah</display-name>
+            <territory-id>644</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/644</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Ajman</display-name>
+            <territory-id>645</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/645</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Umm al-Quwain</display-name>
+            <territory-id>646</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/646</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Ras al Khaimah</display-name>
+            <territory-id>647</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/647</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Dubai</display-name>
+            <territory-id>648</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/648</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Fujairah</display-name>
+            <territory-id>649</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/649</url>
         </predecessor>
     </lineage>
     <lineage>
@@ -7994,30 +8024,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-27</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Western Sahara (1976–present)</display-name>
+            <display-name>Western Sahara (1884–present)</display-name>
             <territory-id>260</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/260</url>
         </current-territory>
-        <predecessor>
-            <display-name>Spanish Sahara (1958–1976)</display-name>
-            <territory-id>515</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/515</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Saguia el Hamra (1884–1958)</display-name>
-            <territory-id>484</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/484</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Rio de Oro (1884–1958)</display-name>
-            <territory-id>480</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/480</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>

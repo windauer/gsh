@@ -5,33 +5,21 @@
     <short-form-name>French Equatorial Africa</short-form-name>
     <long-form-name type="none"/>
     <variants>
-        <variant>
-            <variant-id>351_1</variant-id>
-            <variant-name>French Congo</variant-name>
-            <valid-since>1897</valid-since>
-            <valid-until>1910</valid-until>
-            <note/>
-        </variant>
-        <variant>
-            <variant-id>351_2</variant-id>
-            <variant-name>Middle Congo</variant-name>
-            <valid-since>1880</valid-since>
-            <valid-until>1960</valid-until>
-            <note></note>
-        </variant>
     </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1880</valid-since>
+    <valid-since>1910</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">285</predecessor>
         <predecessor rel="incorporation">360</predecessor>
         <predecessor rel="incorporation">537</predecessor>
+        <predecessor rel="incorporation">350</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">46</successor>
         <successor rel="independence">45</successor>
+        <successor rel="independence">54</successor>
     </successors>
     <notes/>
     <sources>

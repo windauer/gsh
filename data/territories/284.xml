@@ -4,15 +4,24 @@
     <old-id>belgian-congo-1960</old-id>
     <short-form-name>Belgian Congo</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>284_1</variant-id>
+            <variant-name>Congo Free State</variant-name>
+            <valid-since>1885</valid-since>
+            <valid-until>1908</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1908</valid-since>
+    <valid-since>1885</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>313</predecessor>
+        <predecessor rel="incorporation">404</predecessor>
     </predecessors>
     <successors>
-        <successor>55</successor>
+        <successor rel="independence">55</successor>
     </successors>
     <notes/>
     <sources>

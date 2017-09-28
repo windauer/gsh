@@ -1473,9 +1473,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-28</reviewed-date>
         </review>
         <current-territory>
             <display-name>Congo (Brazzaville) (1960–present)</display-name>
@@ -1488,51 +1488,16 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
         </predecessor>
         <predecessor>
-            <display-name>Gabon (1840–1897)</display-name>
-            <territory-id>360</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/360</url>
+            <display-name>French Congo</display-name>
+            <territory-id>350</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/350</url>
         </predecessor>
-        <predecessor>
-            <display-name>Bornu Empire (1380–1904)</display-name>
-            <territory-id>285</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Ubangi Shari Chad (?–1910)</display-name>
-            <territory-id>537</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/537</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Chad (1960–present)</display-name>
-            <territory-id>46</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/46</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kamerun (1884–1916)</display-name>
-            <territory-id>392</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/392</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Cameroons (1916–1961)</display-name>
-            <territory-id>289</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/289</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1984–present)</display-name>
-            <territory-id>41</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Gabon (1960–present)</display-name>
-            <territory-id>85</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/85</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-28</reviewed-date>
         </review>
         <current-territory>
             <display-name>Congo (Kinshasa) (1960–present)</display-name>
@@ -1540,25 +1505,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/55</url>
         </current-territory>
         <predecessor>
-            <display-name>Belgian Congo (1908–1960)</display-name>
+            <display-name>Belgian Congo (1885–1960)</display-name>
             <territory-id>284</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/284</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Congo Free State (1885–1908)</display-name>
-            <territory-id>313</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/313</url>
         </predecessor>
         <predecessor>
             <display-name>Kongo (1390–1914)</display-name>
             <territory-id>404</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/404</url>
         </predecessor>
-        <other-mention>
-            <display-name>Angola (1914–present)</display-name>
-            <territory-id>7</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/7</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -7960,7 +7915,7 @@
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>unreviewed</status>

@@ -4,18 +4,18 @@
     <old-id>kongo-1914</old-id>
     <short-form-name>Kongo</short-form-name>
     <long-form-name>The Kingdom of Kongo</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1390</valid-since>
-    <valid-until>1914</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1885</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-       <successor>85</successor>
-        <successor>55</successor>
+        <successor rel="incorporation">284</successor>
     </successors>
     <notes/>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/321743/Kongo</source>
-        <source>http://www.britannica.com/EBchecked/topic/371331/Mbanza-Congo</source>
+        <source>http://www.britannica.com/place/Kongo</source>
+        <source>http://www.britannica.com/place/Mbanza-Congo</source>
     </sources>
 </territory>

@@ -6138,20 +6138,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BarnumFSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Svalbard (1925–present)</display-name>
+            <display-name>Svalbard (1775–present)</display-name>
             <territory-id>227</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/227</url>
         </current-territory>
-        <predecessor>
-            <display-name>Spitsbergen (1596–1925)</display-name>
-            <territory-id>516</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/516</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>

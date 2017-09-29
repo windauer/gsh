@@ -4,17 +4,52 @@
     <old-id>svalbard</old-id>
     <short-form-name>Svalbard</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>227_1</variant-id>
+            <variant-name>Spitsbergen</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1925</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>516</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Dependent of Norway; rediscovered in 1596</notes>
+    <notes>Although it may have been encountered by Icelandic sailors in the late 1190s (and claims
+        of first contact were made by Russian and United Kingdom authorities), the first official
+        record was put down by Dutch explorer William Barents in 1596. Svalbard was first settled by
+        whalers in the early 1600s. Over the subsequent centuries, various nations and corporate
+        interests established claims upon the archipelago–which was rich in whales, walrus, and
+        coal. Colonies associated with various nations and corporations were established at this
+        time–the Dutch, Danish, and United Kingdom made exclusive claims upon the islands at
+        various times but were never able to enforce them thanks to the geographic isolation and
+        extreme climate of the area. An informal arrangement persisted where particular bays and
+        villages were operated exclusively by different national and corporate bodies. Over time,
+        additional nations and corporations supported by national governments (particularly Norway,
+        Russia, and the United States) established outposts in Svalbard. In 1872, Sweden-Norway and
+        Russia exchanged notes declaring the territory a terra nullius-a ‘no man’s land’ which had
+        never been and was not presently subject to the sovereignty of any state. A draft convention
+        was prepared in 1912 formalized the territory’s status and proclaimed that it could not be
+        annexed by any state. This anarchic state of affairs proved untenable in due course–most
+        particularly when various companies began to claim mining rights in the early 1900s–and a
+        conference was assembled in Christiana (present day Oslo) in June 1914 to determine control
+        of the islands. While the assembled nations could not agree (either here or in a series of
+        subsequent conferences) which nation should possess it, all previous claims were held to be
+        void and the terra nullius status upheld. This highly unusual state of affairs attracted the
+        interest of no less a luminary than future Secretary of State Robert Lansing who wrote of
+        “This extraordinary political state of the islands, to which a parallel will be hard to find
+        in modern times.” In 1920, as part of the post World War I Versailles process, Svalbard was
+        granted to Norway under the terms of the Svalbard Treaty. This grant was somewhat limited as
+        the treaty contained equal enjoyment and liberty of access provisions for signatories and
+        functionally created a demilitarized zone around the islands. Furthermore, not all Norwegian
+        laws apply to Svalbard.</notes>
     <sources>
         <source>http://www.britannica.com/EBchecked/topic/575921/Svalbard</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/sj.hi</source>
-    </sources>
+        <source>http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1564&amp;context=law_globalstudies</source>
+        
+     </sources>
 </territory>

@@ -1983,9 +1983,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Eritrea (1993–present)</display-name>
@@ -1993,9 +1993,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/74</url>
         </current-territory>
         <predecessor>
-            <display-name>Abyssinia (1941–1974)</display-name>
-            <territory-id>265</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/265</url>
+            <display-name>Ethiopia</display-name>
+            <territory-id>76</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/76</url>
         </predecessor>
         <predecessor>
             <display-name>Italian East Africa (1936–1941)</display-name>
@@ -2003,25 +2003,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/387</url>
         </predecessor>
         <predecessor>
-            <display-name>Eritrea (1889–1936)</display-name>
+            <display-name>Italian Eritrea (1889–1936)</display-name>
             <territory-id>338</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/338</url>
         </predecessor>
-        <predecessor>
-            <display-name>Abyssinia (1137–1936)</display-name>
-            <territory-id>264</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/264</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Eritrea Autonomous Region in Ethiopia (?–1993)</display-name>
-            <territory-id>339</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/339</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Ethiopia (1974–present)</display-name>
-            <territory-id>76</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/76</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -2287,35 +2272,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Ethiopia (1974–present)</display-name>
+            <display-name>Ethiopia (1775–present)</display-name>
             <territory-id>76</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/76</url>
         </current-territory>
-        <predecessor>
-            <display-name>Abyssinia (1941–1974)</display-name>
-            <territory-id>265</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/265</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Italian East Africa (1936–1941)</display-name>
-            <territory-id>387</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/387</url>
-        </predecessor>
-        <predecessor>
+        <other-mention>
             <display-name>Eritrea (1889–1936)</display-name>
             <territory-id>338</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/338</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Abyssinia (1137–1936)</display-name>
-            <territory-id>264</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/264</url>
-        </predecessor>
+        </other-mention>
         <other-mention>
             <display-name>Eritrea (1993–present)</display-name>
             <territory-id>74</territory-id>
@@ -2520,9 +2490,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WoodroofeLP</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Gabon (1960–present)</display-name>
@@ -2539,46 +2509,6 @@
             <territory-id>360</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/360</url>
         </predecessor>
-        <predecessor>
-            <display-name>Bornu Empire (1380–1904)</display-name>
-            <territory-id>285</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Ubangi Shari Chad (?–1910)</display-name>
-            <territory-id>537</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/537</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Congo (Brazzaville) (1960–present)</display-name>
-            <territory-id>54</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/54</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Chad (1960–present)</display-name>
-            <territory-id>46</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/46</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kongo (1390–1914)</display-name>
-            <territory-id>404</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/404</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kamerun (1884–1916)</display-name>
-            <territory-id>392</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/392</url>
-        </other-mention>
-        <other-mention>
-            <display-name>British Cameroons (1916–1961)</display-name>
-            <territory-id>289</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/289</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–present)</display-name>
-            <territory-id>41</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4609,6 +4539,11 @@
             <display-name>Moldavia (1349–1862)</display-name>
             <territory-id>427</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/427</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Moldavan Democratic Republic (1917–1918)</display-name>
+            <territory-id>623</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/623</url>
         </predecessor>
         <other-mention>
             <display-name>Russian Empire (1721–1917)</display-name>

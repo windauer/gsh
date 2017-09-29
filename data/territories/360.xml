@@ -3,18 +3,19 @@
     <id>360</id>
     <old-id>gabon-1897</old-id>
     <short-form-name>Gabon</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1840</valid-since>
-    <valid-until>1897</valid-until>
+    <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>351</successor>
+        <successor rel="incorporation">351</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gb.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/223148/Gabon</source>
+        <source>http://britannica.com/place/Gabon</source>
     </sources>
 </territory>

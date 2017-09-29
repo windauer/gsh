@@ -4,14 +4,32 @@
     <old-id>ethiopia</old-id>
     <short-form-name>Ethiopia</short-form-name>
     <long-form-name>Federal Democratic Republic of Ethiopia</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>76_1</variant-id>
+            <variant-name>Abyssinia</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1974</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>76_2</variant-id>
+            <variant-name>Ethiopian Empire</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1974</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1974</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>265</predecessor>
+        <predecessor rel="incorporation">387</predecessor>
     </predecessors>
-    <successors/>
+    <successors>
+        <successor rel="split">74</successor>
+    </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/et.html</source>

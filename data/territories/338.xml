@@ -2,24 +2,20 @@
 <territory>
     <id>338</id>
     <old-id>eritrea-1936</old-id>
-    <short-form-name>Eritrea</short-form-name>
-    <long-form-name/>
+    <short-form-name>Italian Eritrea</short-form-name>
+    <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1889</valid-since>
     <valid-until>1936</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>265</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>387</successor>
-        <successor>339</successor>
-        <successor>338</successor>
+        <successor rel="incorporation">387</successor>
     </successors>
-    <notes>Italian Possession.</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/er.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/er.hi</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/191577/Eritrea</source>
+        <source>http://britannica.com/place/Eritrea</source>
     </sources>
 </territory>

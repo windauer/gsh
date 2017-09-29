@@ -4,8 +4,7 @@
     <old-id>french-equatorial-africa-1959</old-id>
     <short-form-name>French Equatorial Africa</short-form-name>
     <long-form-name type="none"/>
-    <variants>
-    </variants>
+    <variants> </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1910</valid-since>
     <valid-until>1960</valid-until>
@@ -20,6 +19,7 @@
         <successor rel="independence">46</successor>
         <successor rel="independence">45</successor>
         <successor rel="independence">54</successor>
+        <successor rel="independence">85</successor>
     </successors>
     <notes/>
     <sources>

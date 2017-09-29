@@ -4,19 +4,22 @@
     <old-id>qatar-1971</old-id>
     <short-form-name>Qatar</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1916</valid-since>
     <valid-until>1971</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>193</successor>
+        <successor rel="independence">193</successor>
     </successors>
-    <notes/>
+    <notes>In 1916, Qatar was established as a British protectorate with signature of a General
+        Treaty between Qatar and the United Kingdom entering the formed into Trucial System of
+        Administration; the United Kingdom was responsible for foreign and defense relations and
+        Qatar reserved internal autonomy.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/qa.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/qa.hi</source>
     </sources>
 </territory>

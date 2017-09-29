@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>651</id>
+    <old-id/>
+    <short-form-name>Muscat</short-form-name>
+    <long-form-name>Sultanate of Muscat</long-form-name>
+    <variants></variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1820</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="merger">428</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mu.html</source>
+        <source>http://www.britannica.com/place/Muscat</source>
+    </sources>
+</territory>

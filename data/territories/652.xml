@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>179</id>
-    <old-id>oman</old-id>
+    <id>652</id>
+    <old-id/>
     <short-form-name>Oman</short-form-name>
     <long-form-name>Sultanate of Oman</long-form-name>
-    <variants/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1970</valid-since>
-    <valid-until type="present">9999</valid-until>
-    <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor rel="merger">428</predecessor>
-    </predecessors>
-    <successors/>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1820</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="merger">428</successor>
+    </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mu.html</source>

@@ -2,8 +2,17 @@
 <territory>
     <id>443</id>
     <old-id>northern-yemen-1990</old-id>
-    <short-form-name>Northern Yemen</short-form-name>
+    <short-form-name>North Yemen</short-form-name>
     <long-form-name>Yemen Arab Republic</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>443_1</variant-id>
+            <variant-name>Kingdom of Yemen</variant-name>
+            <valid-since>1918</valid-since>
+            <valid-until>1962</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1918</valid-since>
     <valid-until>1990</valid-until>
@@ -12,11 +21,11 @@
         <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>261</successor>
+        <successor rel="merger">261</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ym.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/652831/Yemen</source>
+        <source>http://britannica.com/place/652831/Yemen</source>
     </sources>
 </territory>

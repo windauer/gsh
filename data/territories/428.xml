@@ -6,17 +6,21 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1650</valid-since>
+    <valid-since>1820</valid-since>
     <valid-until>1970</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="merger">651</predecessor>
+        <predecessor rel="merger">652</predecessor>
+    </predecessors>
     <successors>
         <successor rel="merger">179</successor>
         <successor rel="merger">291</successor>
+        <successor rel="split">572</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mu.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/398530/Muscat</source>
+        <source>http://www.britannica.com/place/Muscat</source>
     </sources>
 </territory>

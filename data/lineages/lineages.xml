@@ -5060,9 +5060,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Oman (1970–present)</display-name>
@@ -5070,45 +5070,20 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/179</url>
         </current-territory>
         <predecessor>
-            <display-name>Muscat and Oman (1650–1970)</display-name>
+            <display-name>Muscat and Oman (1820–1970)</display-name>
             <territory-id>428</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/428</url>
         </predecessor>
-        <other-mention>
-            <display-name>British East Africa (1888–1963)</display-name>
-            <territory-id>291</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/291</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1964–1964)</display-name>
-            <territory-id>574</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/574</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1890–1963)</display-name>
-            <territory-id>573</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/573</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1861–1890)</display-name>
-            <territory-id>572</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/572</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-        <other-mention>
-            <display-name>United Republic of Tanganyika and Zanzibar (1964–1964)</display-name>
-            <territory-id>549</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/549</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1963–1964)</display-name>
-            <territory-id>456</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/456</url>
-        </other-mention>
+        <predecessor>
+            <display-name>Muscat</display-name>
+            <territory-id>651</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/651</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Oman</display-name>
+            <territory-id>652</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/652</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5363,9 +5338,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Qatar (1971–present)</display-name>
@@ -5382,101 +5357,6 @@
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Northern Yemen (1918–1990)</display-name>
-            <territory-id>443</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Armenian Republic (1918–1920)</display-name>
-            <territory-id>272</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/272</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Turkey (1923–present)</display-name>
-            <territory-id>242</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/242</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1961–present)</display-name>
-            <territory-id>231</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/231</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1932–present)</display-name>
-            <territory-id>208</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/208</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1951–present)</display-name>
-            <territory-id>138</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/138</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Israel (1948–present)</display-name>
-            <territory-id>115</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/115</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bulgaria (1908–present)</display-name>
-            <territory-id>36</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/36</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Syria (1918–1944)</display-name>
-            <territory-id>355</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/355</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Southern Yemen (1967–1990)</display-name>
-            <territory-id>512</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1931–1951)</display-name>
-            <territory-id>411</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/411</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Greater Lebanon (1920–1943)</display-name>
-            <territory-id>373</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1944–1958)</display-name>
-            <territory-id>522</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/522</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palestine (1922–1948)</display-name>
-            <territory-id>451</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/451</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Algeria (1912–present)</display-name>
-            <territory-id>4</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/4</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Iraq (1932–1958)</display-name>
-            <territory-id>384</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/384</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Egypt (1882–1922)</display-name>
-            <territory-id>334</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/334</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -5788,101 +5668,6 @@
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Northern Yemen (1918–1990)</display-name>
-            <territory-id>443</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Armenian Republic (1918–1920)</display-name>
-            <territory-id>272</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/272</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Turkey (1923–present)</display-name>
-            <territory-id>242</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/242</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1961–present)</display-name>
-            <territory-id>231</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/231</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1971–present)</display-name>
-            <territory-id>193</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/193</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1951–present)</display-name>
-            <territory-id>138</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/138</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Israel (1948–present)</display-name>
-            <territory-id>115</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/115</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bulgaria (1908–present)</display-name>
-            <territory-id>36</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/36</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Syria (1918–1944)</display-name>
-            <territory-id>355</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/355</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Southern Yemen (1967–1990)</display-name>
-            <territory-id>512</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1931–1951)</display-name>
-            <territory-id>411</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/411</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Greater Lebanon (1920–1943)</display-name>
-            <territory-id>373</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Syria (1944–1958)</display-name>
-            <territory-id>522</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/522</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1916–1971)</display-name>
-            <territory-id>470</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/470</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palestine (1922–1948)</display-name>
-            <territory-id>451</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/451</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Algeria (1912–present)</display-name>
-            <territory-id>4</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/4</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Iraq (1932–1958)</display-name>
-            <territory-id>384</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/384</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Egypt (1882–1922)</display-name>
-            <territory-id>334</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/334</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -6521,9 +6306,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Syria (1961–present)</display-name>
@@ -6541,115 +6326,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/522</url>
         </predecessor>
         <predecessor>
-            <display-name>Egypt (1922–1958)</display-name>
-            <territory-id>335</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/335</url>
-        </predecessor>
-        <predecessor>
             <display-name>French Syria (1918–1944)</display-name>
             <territory-id>355</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/355</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Egypt (1882–1922)</display-name>
-            <territory-id>334</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/334</url>
         </predecessor>
         <predecessor>
             <display-name>Ottoman Empire (1300–1922)</display-name>
             <territory-id>448</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/448</url>
         </predecessor>
-        <other-mention>
-            <display-name>Northern Yemen (1918–1990)</display-name>
-            <territory-id>443</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Armenian Republic (1918–1920)</display-name>
-            <territory-id>272</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/272</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Turkey (1923–present)</display-name>
-            <territory-id>242</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/242</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1932–present)</display-name>
-            <territory-id>208</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/208</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1971–present)</display-name>
-            <territory-id>193</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/193</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1951–present)</display-name>
-            <territory-id>138</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/138</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Israel (1948–present)</display-name>
-            <territory-id>115</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/115</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bulgaria (1908–present)</display-name>
-            <territory-id>36</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/36</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Egypt (1971–present)</display-name>
-            <territory-id>71</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/71</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Southern Yemen (1967–1990)</display-name>
-            <territory-id>512</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Libya (1931–1951)</display-name>
-            <territory-id>411</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/411</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Greater Lebanon (1920–1943)</display-name>
-            <territory-id>373</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/373</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
-            <territory-id>563</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Ukrainian National Republic (1918–1920)</display-name>
-            <territory-id>539</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/539</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Qatar (1916–1971)</display-name>
-            <territory-id>470</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/470</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palestine (1922–1948)</display-name>
-            <territory-id>451</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/451</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Algeria (1912–present)</display-name>
-            <territory-id>4</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/4</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Iraq (1932–1958)</display-name>
-            <territory-id>384</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/384</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -7826,9 +7511,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-09-29</reviewed-date>
         </review>
         <current-territory>
             <display-name>Yemen (1990–present)</display-name>
@@ -7836,12 +7521,17 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/261</url>
         </current-territory>
         <predecessor>
-            <display-name>Southern Yemen (1967–1990)</display-name>
+            <display-name>South Yemen (1967–1990)</display-name>
             <territory-id>512</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/512</url>
         </predecessor>
         <predecessor>
-            <display-name>Northern Yemen (1918–1990)</display-name>
+            <display-name>Aden Protectorate</display-name>
+            <territory-id>650</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/650</url>
+        </predecessor>
+        <predecessor>
+            <display-name>North Yemen (1918–1990)</display-name>
             <territory-id>443</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/443</url>
         </predecessor>

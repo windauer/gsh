@@ -2,17 +2,18 @@
 <territory>
     <id>512</id>
     <old-id>southern-yemen-1990</old-id>
-    <short-form-name>Southern Yemen</short-form-name>
+    <short-form-name>South Yemen</short-form-name>
     <long-form-name>People’s Democratic Republic of Yemen</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1967</valid-since>
     <valid-until>1990</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>448</predecessor>
+        <predecessor rel="independence">650</predecessor>
     </predecessors>
     <successors>
-        <successor>261</successor>
+        <successor rel="merger">261</successor>
     </successors>
     <notes/>
     <sources>

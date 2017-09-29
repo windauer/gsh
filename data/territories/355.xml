@@ -4,6 +4,29 @@
     <old-id>french-syria-1944</old-id>
     <short-form-name>French Syria</short-form-name>
     <long-form-name>Syrian Republic</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>355_1</variant-id>
+            <variant-name>State of Syria</variant-name>
+            <valid-since>1924</valid-since>
+            <valid-until>1930</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>355_2</variant-id>
+            <variant-name>Syrian Federation</variant-name>
+            <valid-since>1922</valid-since>
+            <valid-until>1924</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>355_3</variant-id>
+            <variant-name>French Mandate of Syria and Lebanon</variant-name>
+            <valid-since>1923</valid-since>
+            <valid-until>1944</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1918</valid-since>
     <valid-until>1944</valid-until>
@@ -12,11 +35,11 @@
         <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors>
-        <successor>522</successor>
-        <successor>543</successor>
-        <successor>231</successor>
+        <successor rel="independence">522</successor>
     </successors>
-    <notes>From 1958-1961 united with Egypt to form United Arab Republic</notes>
+    <notes>The short-lived Arab Kingdom of Syria (March–July, 1920) was defeated by French troops
+        and a League of Nations protectorate (administered under France) was established in
+        1922 and formalized in 1923.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html</source>
         <source>http://history.state.gov/countries/syria</source>

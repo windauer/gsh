@@ -4,12 +4,13 @@
     <old-id>virgin-islands-us</old-id>
     <short-form-name>Virgin Islands, U.S.</short-form-name>
     <long-form-name>United States Virgin Islands</long-form-name>
+    <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1917</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>321</predecessor>
+        <predecessor rel="incorporation">321</predecessor>
     </predecessors>
     <successors/>
     <notes>Organized, unincorporated territory of the United States</notes>

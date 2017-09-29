@@ -4,16 +4,22 @@
     <old-id>northern-mariana-islands</old-id>
     <short-form-name>Northern Mariana Islands</short-form-name>
     <long-form-name>Commonwealth of the Northern Mariana Islands</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1986</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>535</predecessor>
-        <predecessor>421</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Commonwealth in political union with the United States</notes>
+    <notes>First sighted by the Portuguese in the sixteenth-century. Following the Spanish-American
+        war, Spain sold the islands to Germany under the terms of the German-Spanish Treaty of 1899.
+        Japan took possession of the islands in 1914; the Treaty of Versailles and subsequently the
+        League of Nations awarded the islands to Japan. Japan administered the islands as part of
+        the South Pacific Mandate. Following World War II, the islands were administered by the
+        United States as part of the UN Trust Territory of the Pacific Islands (agreement signed by
+        Truman in 1947). The Truman administration transferred responsibility of the trusteeship to
+        the Secretary of Interior in 1951. In 1978, the islands obtained a new constitution; a
+        covenant agreement made the constitution fully effective on 4 November 1986.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html</source>
     </sources>

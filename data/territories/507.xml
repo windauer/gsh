@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
     <id>507</id>
-    <old-id>south-sandwich-islands-1820</old-id>
-    <short-form-name>Sandwich Islands</short-form-name>
+    <old-id/>
+    <short-form-name>Falkland Islands Dependencies</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1775</valid-since>
-    <valid-until>1820</valid-until>
+    <valid-since>1843</valid-since>
+    <valid-until>1985</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="incorporation">506</predecessor>
+        <predecessor rel="incorporation">508</predecessor>
+        <predecessor rel="incorporation">77</predecessor>
+    </predecessors>
     <successors>
-        <successor>508</successor>
-        <successor>220</successor>
-        <successor>77</successor>
+        <successor rel="split">220</successor>
+        <successor rel="split">77</successor>
     </successors>
-    <notes/>
+    <notes>In 1843, the United Kingdom established the Falkland Island Dependencies, which included
+        South Georgia Island. The Dependencies was extended with the inclusion of the South Sandwich
+        Islands, South Shetland Islands, South Orkney Islands, and Graham Land in 1908. In 1962, it
+        was reduced to South Georgia and South Sandwich Islands following the establishment of
+        British Anarctic Territory.</notes>
     <sources>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/556226/South-Georgia</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/556380/South-Sandwich-Islands</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7011</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-7014</source>
+        <source>http://britannica.com/place/South-Georgia</source>
+        <source>http://britannica.com/place/South-Sandwich-Islands</source>
     </sources>
 </territory>

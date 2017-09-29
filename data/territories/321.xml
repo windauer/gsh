@@ -4,19 +4,21 @@
     <old-id>danish-west-indies-1917</old-id>
     <short-form-name>Danish West Indies</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1754</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1917</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="incorporation">257</predecessor>
+    </predecessors>
     <successors>
-        <successor>257</successor>
+        <successor rel="split">257</successor>
     </successors>
-    <notes/>
+    <notes>In 1917, the Danish Government sold the Virgin Islands to the United States.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html</source>
         <source>http://www.virgin-islands-history.dk/eng/vi_hist.asp</source>
-        <source>http://www.britannica.com/EBchecked/topic/629915/United-States-Virgin-Islands/7726/History</source>
-        <source>http://books.google.com/books?id=XxT8qxBjwoUC&amp;pg=PA80&amp;dq=isbn:9768125055+1754&amp;hl=en&amp;sa=X&amp;ei=EhNpU6yzNK_8yAHC0YHAAg&amp;ved=0CC0Q6AEwAA</source>
+        <source>http://www.britannica.com/place/United-States-Virgin-Islands/7726/History</source>
     </sources>
 </territory>

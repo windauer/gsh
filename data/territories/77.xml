@@ -4,16 +4,22 @@
     <old-id>falkland-islands-islas-malvinas</old-id>
     <short-form-name>Falkland Islands (Islas Malvinas)</short-form-name>
     <long-form-name>Falkland Islands (Islas Malvinas)</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1690</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors/>
-    <notes>Overseas territory of the UK; Islas Malvinas originated from Malovines as first named
-            in 1764</notes>
+    <notes>In 1764, the French established a naval base at Port Louis (East Falkland I./Isla Soledad);
+        Islands named Ǐles Malouines by French mariner Louis-Antoine de Bougainville. The British
+        claim to the Islands was established in 1765 by Royal Navy captain John Byron, who named the
+        territory Falkland’s Islands. In 1770, Spain acquired the French claims to the islands. When
+        Argentina declared its independence from Spain in 1816, it claimed the Falkland Islands as a
+        successor to the Spanish claim. By 1833, British sovereign claim to the Islands was
+        restablished with a new settlement and administration.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/200765/Falkland-Islands/</source>
+        <source>http://www.britannica.com/place/Falkland-Islands/</source>
     </sources>
 </territory>

@@ -9,12 +9,14 @@
     <valid-since>1947</valid-since>
     <valid-until>1986</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"></predecessors>
+    <predecessors>
+        <predecessor rel="incorporation">177</predecessor>
+    </predecessors>
     <successors>
         <successor>150</successor>
         <successor>156</successor>
         <successor rel="independence">181</successor>
-        <successor>177</successor>
+        <successor rel="split">177</successor>
     </successors>
     <notes>The Trust Territory of the Pacific was established after World War II.</notes>
     <sources>

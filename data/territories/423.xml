@@ -3,22 +3,32 @@
     <id>423</id>
     <old-id>mauritania-1960</old-id>
     <short-form-name>Mauritania</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Civil Territory of Mauritania</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1946</valid-since>
+    <valid-since>1901</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>209</predecessor>
+        <predecessor rel="incorporation">421</predecessor>
+        <predecessor rel="incorporation">425</predecessor>
     </predecessors>
     <successors>
-        <successor>152</successor>
+        <successor rel="independence">152</successor>
     </successors>
-    <notes/>
+    <notes>Established as the Civil Territory of Mauritania in 1904.  Some sources indicate a French
+        protectorate was declared over portions or all of the same area in 1902 or perhaps even
+        1901.  Although established as its own territory and in its own name in 1904 (and included
+        in its own name as a constituent part of French West Africa in 1920), it appears Mauritania
+        remained administratively linked to the French colony of Senegal until 1946.  Mauritania
+        formally became a constituent part of French West Africa (Afrique Occidentale Française) on
+        December 4, 1920.  It became a French Overseas Territory in 1946, which afforded greater
+        forms of self-governance; it was also administratively separated from Senegal in the same
+        year.  Mauritania became independent from France on November 28, 1960.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mr.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/219528/French-West-Africa</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/370109/Mauritania</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2566</source>
+        <source>http://britannica.com/place/French-West-Africa</source>
+        <source>http://britannica.com/place/Mauritania</source>
+        <source>https://www.loc.gov/item/89600361/</source>
     </sources>
 </territory>

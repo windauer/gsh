@@ -4,17 +4,19 @@
     <old-id>mauritania</old-id>
     <short-form-name>Mauritania</short-form-name>
     <long-form-name>Islamic Republic of Mauritania</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1960</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>209</predecessor>
-        <predecessor>423</predecessor>
+        <predecessor rel="independence">423</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Mauritania gained independence on November 28, 1960. It annexed the southern third of
+        Western Sahara in 1976, but relinquished it in 1979.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mr.html</source>
+        <source>https://www.loc.gov/item/89600361/</source>
     </sources>
 </territory>

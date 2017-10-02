@@ -2,25 +2,30 @@
 <territory>
     <id>481</id>
     <old-id>ruanda-1922</old-id>
-    <short-form-name>Ruanda</short-form-name>
-    <long-form-name/>
-    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1920</valid-since>
-    <valid-until>1922</valid-until>
+    <short-form-name>Rwanda</short-form-name>
+    <long-form-name>Kingdom of Rwanda</long-form-name>
+    <variants></variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1898</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>362</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>482</successor>
-        <successor>197</successor>
+        <successor rel="incorporation">362</successor>
     </successors>
-    <notes>Among the territories entrusted to Britain post-Versailles, officially taken over by Belgium in 1922.</notes>
+    <notes>The kingdom of Rwanda/Ruanda emerged in the 16th century as a small nuclear kingdom,
+        ruled by the Tutsi minority, that persisted until the arrival of Europeans in the 19th
+        century. The kingdom grew over time, and for portions of its history after 1776, the kingdom
+        was challenged by the growth of other sovereignties within present-day Rwanda, such as a
+        series of independent Tutsi states that emerged around 1850 (of which the kingdom of Gisaka
+        in the east was the most powerful). A royal succession crisis in 1895 led to civil war and
+        weakened the kingdom in the face of European colonial expansion. German explorers first
+        entered Rwanda in 1894, but did not effectively take control of the territory until 1898,
+        formally annexing it to German East Africa in 1899. The kingdom of Rwanda and its royal
+        lines continued under colonial occupation, but were no longer sovereign.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/514402/Rwanda</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/511771/Ruanda-Urundi</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/230748/German-East-Africa</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3414</source>
-    </sources>
+        <source>http://britannica.com/place/Rwanda</source>
+       <source>http://britannica.com/place/German-East-Africa</source>
+   </sources>
 </territory>

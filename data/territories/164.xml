@@ -4,15 +4,24 @@
     <old-id>mozambique</old-id>
     <short-form-name>Mozambique</short-form-name>
     <long-form-name>Republic of Mozambique</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>164_1</variant-id>
+            <variant-name>People's Republic of Mozambique</variant-name>
+            <valid-since>1975</valid-since>
+            <valid-until>1990</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1975</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>463</predecessor>
+        <predecessor rel="independence">463</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Gained independence on June 25, 1975.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mz.html</source>
     </sources>

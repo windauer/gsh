@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>372</id>
+    <old-id/>
+    <short-form-name>Mauritius</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>372_1</variant-id>
+            <variant-name>Port Louis</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1968</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1968</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">629</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="independence">153</successor>
+        <successor rel="split">629</successor>
+    </successors>
+    <notes>Claimed for France by the French East India Company in 1715. Mauritius had been abandoned
+        by the Dutch in 1710, after they had presided over the extinction of the dodo bird, among
+        other things. In 1764 (some sources say 1767), Mauritius became a French crown colony. In
+        1810, during the Napoleonic wars, a British fleet of 70 ships landed 10,000 soldiers on
+        Mauritius, and French officials surrendered the colony to the British. Britain’s sovereignty
+        over Mauritius was confirmed in the 1814 Treaty of Paris. In 1810, during the Napoleonic
+        wars, a British fleet of 70 ships landed 10,000 soldiers on Mauritius, and French officials
+        surrendered the colony to the British. Britain’s sovereignty over Mauritius was confirmed in
+        the 1814 Treaty of Paris, which also conferred the colony of the Seychelles to Britain.
+        Britain administered the Seychelles as a dependency of Mauritius from 1814 to 1903. In 1903,
+        Seychelles became its own British crown colony and was separated from Mauritius, though a
+        few outlying islands remained with Mauritius for a time. Coetivy Island was transferred from
+        Mauritius to the Seychelles in 1908, and the Farquhar Islands were transferred from
+        Mauritius to the Seychelles in 1922. In 1965 Britain transferred one of Mauritius’s outlying
+        territories, the Chagos Archipelago (including the Diego Garcia atoll), to the newly created
+        British Indian Ocean Territory. Mauritius became an independent state within the (British)
+        Commonwealth of Nations on March 12, 1968.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mp.html</source>
+        <source>http://www.britannica.com/place/Mauritius</source>
+        <source>https://www.loc.gov/item/95016570/</source>
+    </sources>
+</territory>

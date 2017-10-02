@@ -3,7 +3,7 @@
     <id>482</id>
     <old-id>ruanda-urundi-1962</old-id>
     <short-form-name>Ruanda-Urundi</short-form-name>
-    <long-form-name type="none"/>
+    <long-form-name>Territory of Ruanda-Urundi</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1916</valid-since>
@@ -11,14 +11,12 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">362</predecessor>
-        <predecessor rel="incorporation">481</predecessor>
-    </predecessors>
+   </predecessors>
     <successors>
         <successor rel="independence">197</successor>
         <successor rel="independence">39</successor>
     </successors>
-    <notes>Multiple successors. Belgian colony. Name is also concurrent with territorial name during
-        this territory’s integration into German East Africa, 1884-1920.</notes>
+    <notes></notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html</source>
         <source>http://britannica.com/place/Rwanda</source>

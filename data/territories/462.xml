@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>462</id>
+    <old-id/>
+    <short-form-name>Changamire Kingdom</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1835</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">463</successor>
+    </successors>
+    <notes>Gained independence on June 25, 1975.</notes>
+    <sources>
+        <source>http://britannica.com/place/Mozambique</source>
+    </sources>
+</territory>

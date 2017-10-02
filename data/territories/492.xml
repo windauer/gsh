@@ -4,17 +4,23 @@
     <old-id>sao-tome-and-principe-1975</old-id>
     <short-form-name>Sao Tome and Principe</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1493</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1975</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>207</successor>
+        <successor rel="independence">207</successor>
     </successors>
-    <notes>Could have been known as Sao Tome and Principe earlier as a Portuguese discovery, but record is not clear - year used is the establishment of the colony.</notes>
+    <notes>Colony of Portugal.  Possibly known as “Sao Tome and Principe” between its discovery by
+        Portugal (1470) and its establishment as a Portuguese colony, but record is not clear.  The
+        colony was established in 1493.  Uninhabited prior to Portuguese discovery.  In 1778 the
+        islands of Fernando Pó (Bioko) and Annobón (Pagalu) were ceded from the Portuguese colony to
+        Spain (the islands are now part of Equatorial Guinea.)  Became independent on July 12,
+        1975.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tp.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3471</source>
+        <source>http://www.britannica.com/place/Sao-Tome-and-Principe</source>
     </sources>
 </territory>

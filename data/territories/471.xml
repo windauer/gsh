@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>471</id>
+    <old-id/>
+    <short-form-name>Gaza Kingdom</short-form-name>
+    <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>471_1</variant-id>
+        <variant-name>Gaza Ngoni</variant-name>
+        <valid-since>1820</valid-since>
+        <valid-until>1897</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>471_2</variant-id>
+        <variant-name>Shangaan</variant-name>
+        <valid-since>1820</valid-since>
+        <valid-until>1897</valid-until>
+        <note></note>
+    </variant>
+    <variant>
+        <variant-id>471_3</variant-id>
+        <variant-name>Gazaland</variant-name>
+        <valid-since>1820</valid-since>
+        <valid-until>1897</valid-until>
+        <note></note>
+    </variant></variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1820</valid-since>
+    <valid-until>1897</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">463</successor>
+    </successors>
+    <notes></notes>
+    <sources>
+        <source>http://britannica.com/place/Mozambique</source>
+        <source>http://britannica.com/place/Gaza</source>
+    </sources>
+</territory>

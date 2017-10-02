@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>431</id>
+    <old-id/>
+    <short-form-name>Tagant</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1905</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">423</successor>
+    </successors>
+    <notes>Although the Treaty of Paris in 1814 recognized French sovereignty over the area that is
+        now Mauritania, France only briefly exercised actual jurisdiction and control over portions
+        of the region in the mid-19th century, and did not consistently do so until the beginning of
+        the 20th century. Accordingly, various Maure groups and emirates (Trarza, Brakna, Tagant,
+        Adrar), some of which engaged in treaties with the French, effectively continued to maintain
+        sovereignty or suzerainty in the region throughout much of this period. The French colonial
+        administration based in Senegal sporadically came into conflict with the Emirates of Trarza
+        and Brakna throughout the 19th century, particularly in 1825 and 1855, resulting in
+        intermittent periods of French control over portions of what is now Mauritania. By treaty
+        following a French military victory in 1856, the Emirates of Trarza and Brakna conceded a
+        French protectorate over their emirates and acknowledged French sovereignty over the
+        northern bank of the Senegal River. French officials subsequently surveyed portions of
+        western and southern Mauritania, including Adrar. By the 1870’s, however, the French no
+        longer exerted active control or governance over present-day Mauritania. In 1901, French
+        officials began an active effort to “peacefully” assert sovereignty throughout what is now
+        Mauritania. Tagant was captured by the French in April 1905.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mr.html</source>
+        <source>https://www.loc.gov/item/89600361/</source>
+        <source>http://britannica.com/place/Mauritania</source>
+    </sources>
+</territory>

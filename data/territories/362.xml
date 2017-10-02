@@ -9,9 +9,12 @@
     <valid-since>1884</valid-since>
     <valid-until>1920</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors><predecessor rel="incorporation">556</predecessor></predecessors>
+    <predecessors>
+        <predecessor rel="incorporation">556</predecessor>
+        <predecessor rel="incorporation">481</predecessor>
+    </predecessors>
     <successors>
-       <successor rel="split">482</successor>
+        <successor rel="split">482</successor>
     </successors>
     <notes/>
     <sources>

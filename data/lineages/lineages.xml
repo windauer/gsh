@@ -4624,9 +4624,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McCoyerMTM</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Namibia (1990–present)</display-name>
@@ -4634,15 +4634,25 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/165</url>
         </current-territory>
         <predecessor>
-            <display-name>German South-West Africa (1884–1919)</display-name>
-            <territory-id>363</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/363</url>
-        </predecessor>
-        <other-mention>
             <display-name>South-West Africa (1919–1990)</display-name>
             <territory-id>510</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/510</url>
-        </other-mention>
+        </predecessor>
+        <predecessor>
+            <display-name>Red Nation</display-name>
+            <territory-id>511</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/511</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Hereroland</display-name>
+            <territory-id>502</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/502</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Ovamboland</display-name>
+            <territory-id>503</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/503</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4780,20 +4790,25 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McCoyerMTM</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Niger (1960–present)</display-name>
             <territory-id>173</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/173</url>
         </current-territory>
-        <other-mention>
-            <display-name>Bornu Empire (1380–1904)</display-name>
-            <territory-id>285</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
-        </other-mention>
+        <predecessor>
+            <display-name>Niger</display-name>
+            <territory-id>504</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/504</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Damagaram</display-name>
+            <territory-id>505</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/505</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4821,27 +4836,7 @@
             <territory-id>285</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/285</url>
         </predecessor>
-        <other-mention>
-            <display-name>Chad (1960–present)</display-name>
-            <territory-id>46</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/46</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Equatorial Africa (1910–1959)</display-name>
-            <territory-id>351</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/351</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Cameroon (1960–present)</display-name>
-            <territory-id>41</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/41</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Cameroun (1916–1960)</display-name>
-            <territory-id>348</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/348</url>
-        </other-mention>
-    </lineage>
+</lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -5523,9 +5518,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>WielandAR</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Saudi Arabia (1932–present)</display-name>
@@ -5533,7 +5528,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/208</url>
         </current-territory>
         <predecessor>
-            <display-name>Saudi Arabia (1765–1818)</display-name>
+            <display-name>Diriyah (1765–1818)</display-name>
             <territory-id>563</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/563</url>
         </predecessor>
@@ -5902,11 +5897,6 @@
             <display-name>Swaziland (1968–present)</display-name>
             <territory-id>228</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/228</url>
-        </other-mention>
-        <other-mention>
-            <display-name>German South-West Africa (1884–1919)</display-name>
-            <territory-id>363</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/363</url>
         </other-mention>
     </lineage>
     <lineage>

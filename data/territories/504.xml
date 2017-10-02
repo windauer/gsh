@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>504</id>
+    <old-id/>
+    <short-form-name>Niger</short-form-name>
+    <long-form-name>Territory of the Niger</long-form-name>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1900</valid-since>
+    <valid-until>1960</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">505</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="incorporation">510</successor>
+    </successors>
+    <notes>French expeditions in the Niger began in the late 19th century and led to the
+        establishment of a French “Middle Niger Circle” north of Niamey in 1898. A major French
+        military campaign to assert military control over the region began in 1899. Immediately
+        thereafter, several French administrative and military jurisdictions were established, but
+        their precise jurisdictions and relationships to one another are not clear from the sources
+        consulted. These French jurisdictions included: the “Cercle du Djerma,” established in
+        western Niger on October 11, 1900; the French Third Military Territory for the Central
+        Sudan, established on December 20, 1900, and provisionally headquartered north of Niamey in
+        the same town as the Cercle du Djerma; and the Military Territory of Zinder, established on
+        January 1, 1901, with headquarters in Zinder (eastern/southern Niger). These jurisdictions
+        may have been part of a single French military territory by as early as 1903, as sources
+        refer to the headquarters of “the military territory” moving back and forth between Niamey
+        and Zinder on several occasions beginning that year. The “Territoire Militaire du Niger”
+        (Military Territory of the Niger) was established on June 22, 1910, and appears to have
+        consolidated these prior French administrative and military jurisdictions in the region. The
+        Colony of the Niger was established July 1, 1922. On August 22, 1945, it became a French
+        Overseas Territory, which afforded greater forms of self-governance. The colony became the
+        independent Republic of Niger on August 3, 1960.</notes>
+    <sources>
+        <source>https://www.britannica.com/place/Niger</source>
+        <source>https://www.britannica.com/place/French-West-Africa</source>
+    </sources>
+</territory>

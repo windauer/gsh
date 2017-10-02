@@ -2,25 +2,20 @@
 <territory>
     <id>563</id>
     <old-id>wahhabi-empire-1818</old-id>
-    <short-form-name>Saudi Arabia</short-form-name>
-    <long-form-name>Kingdom of Saudi Arabia</long-form-name>
+    <short-form-name>Diriyah</short-form-name>
+    <long-form-name>Emirate of Diriyah</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1765</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1818</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>448</successor>
-        <successor>208</successor>
-        <successor>19</successor>
-        <successor>193</successor>
-        <successor>131</successor>
-        <successor>179</successor>
-        <successor>261</successor>
+        <successor rel="incorporation">448</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sa.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/525348/Saudi-Arabia</source>
+        <source>http://britannica.com/place/Saudi-Arabia</source>
     </sources>
 </territory>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>503</id>
+    <old-id/>
+    <short-form-name>Ovamboland</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1890</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">510</successor>
+    </successors>
+    <notes>The precise names and tenures of these pre-colonial states are sometimes difficult to
+        discern from the sources consulted, but in general, they correspond to the three major
+        ethnic groups of pre-colonial (and present-day) Namibia: The Nama, Herero, and Ovambo (or
+        Ambo). Ovamboland was a term used by Europeans in the 19th century to refer to the northern
+        part of present-day Namibia under the political control of the Ovambo/Ambo (a conglomeration
+        of eight Bantu-speaking societies/chieftanships). Ovamboland remained under the practical
+        control of Ovambo leadership longer than Hereroland or the Red Nation. Germany did not
+        solidify its claims to Ovamboland until 1890, and Ovamboland retained its practical
+        sovereignty throughout much of the existence of German South West Africa and even the early
+        years of South West Africa. Ovamboland’s Kwanyama King/Chief Mandume actively fought to
+        maintain Ovamboland’s independence from 1914 until his death at the hands of South African
+        troops in 1917.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html</source>
+        <source>https://www.britannica.com/place/Namibia</source>
+    </sources>
+</territory>

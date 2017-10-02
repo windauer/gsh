@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>502</id>
+    <old-id/>
+    <short-form-name>Hereroland</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1890</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">510</successor>
+    </successors>
+    <notes>The precise names and tenures of these pre-colonial states are sometimes difficult to
+        discern from the sources consulted, but in general, they correspond to the three major
+        ethnic groups of pre-colonial (and present-day) Namibia: The Nama, Herero, and Ovambo (or
+        Ambo). Hereroland was a term used by Europeans in the 19th century to refer to the central
+        part of present-day Namibia under the political control of the Hereros. Herero leaders
+        signed a protectorate agreement with Germany in 1885 but renounced it in 1888; a treaty was
+        reestablished in 1889 or 1890, at which point Germany felt that it had established all the
+        necessary agreements with Namibian and European powers in order to “annex” all of present-
+        day Namibia, with the backing of German military forces. Hereros, however, continued to
+        fight the German military in the 1890’s, and again from 1903 to 1907, when German forces
+        engaged in a war of extermination with the Herero and killed approximately 80% of the total
+        Herero population.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html</source>
+        <source>https://www.britannica.com/place/Namibia</source>
+    </sources>
+</territory>

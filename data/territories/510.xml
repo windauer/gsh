@@ -4,20 +4,65 @@
     <old-id>south-west-africa-1990</old-id>
     <short-form-name>South-West Africa</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>510_1</variant-id>
+            <variant-name>German South West Africa</variant-name>
+            <valid-since>1884</valid-since>
+            <valid-until>1915</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1919</valid-since>
+    <valid-since>1884</valid-since>
     <valid-until>1990</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>363</predecessor>
+        <predecessor rel="incorporation">511</predecessor>
+        <predecessor rel="incorporation">502</predecessor>
+        <predecessor rel="incorporation">503</predecessor>
     </predecessors>
     <successors>
-        <successor>165</successor>
+        <successor rel="independence">165</successor>
     </successors>
-    <notes>Administered by British South Africa and South Africa in turn</notes>
+    <notes>On April 24, 1884, Germany formally declared “Lüderitzland” to be a protectorate of the
+        German Empire.  Initially, the extent of German control was only a small area around
+        Lüderitz Bay. Through a series of purchases and “protective treaties” with African leaders
+        in 1884-1885, Germany declared an expanded German protectorate over not just Lüderitz Bay
+        and the coastal areas, but also the Red Nation, Great Namaqualand, Hereroland, and other
+        tribes (such as the Damara) and geographic areas extending over the southern and central
+        portions of present-day Namibia.  A German Commissioner was appointed in August 1885, which
+        may have coincided with the first use of the name, German South West Africa. 
+        Representatives of the Namibian tribal nations, however, did not interpret the treaties to
+        mean a relinquishment of their sovereignty, and subsequently renounced some of the
+        agreements (e.g., in 1888 the Hereros renounced their 1885 protectorate agreement with
+        Germany).  Between 1886 and 1890 Germany entered into agreements with Portugal and Britain
+        that established the colonial boundaries of present-day Namibia, and Germany laid claim to
+        and officially annexed the entire area in 1890, after bringing in military troops a year
+        earlier.  Through the early to mid-1890’s, German troops fought various Nama, Herero, and
+        Orlams groups in an effort to solidify German claims to the colony, eventually succeeding by
+        1896, in some instances with the assistance of treaties (such as the German treaty with
+        Hendrik Witbooi on behalf of the Orlam Namas).  Renewed Herero and Nama uprisings occurred
+        between 1903-1907 (especially 1904), which were eventually put down after a brutal German
+        military campaign of extermination in which 80% of the Herero population was killed.  
+        Later, Germany faced continued challenges to its sovereignty in the northern parts of the
+        colony, including from the Portuguese.  In 1908 German officials signed treaties with
+        several Ovambo groups in northern Namibia. In the context of WWI, South African troops
+        invaded and occupied German South West Africa from 1914 to 1915.  The German forces
+        surrendered to the South Africans at the peace of Khorab on July 9, 1915, and South Africa
+        imposed martial law on the same date. On December 7, 1920, in the context of the Treaty of
+        Versailles, South West Africa was officially designated a League of Nations Class C mandate,
+        to be administered by South Africa on behalf of the British crown (given South Africa’s
+        status as a British dominion).  Following WWII and the termination of the League of Nations,
+        the South African Government asserted that the League of Nations mandate had expired,
+        refusing to submit South West Africa to the new United Nations Trusteeship system.  South
+        Africa claimed sole authority over South West Africa following the demise of the League of
+        Nations.  In the 1960’s, the name Namibia was increasingly used outside South Africa to
+        refer to South West Africa, reflecting increasing international criticism of South Africa’s
+        refusal to grant independence to Namibia/South West Africa.  Namibia became independent on
+        March 21, 1990.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-5093</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2827</source>
+        <source>https://www.britannica.com/place/Namibia</source>
     </sources>
 </territory>

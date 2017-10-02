@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>505</id>
+    <old-id/>
+    <short-form-name>Damagaram</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1900</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">504</successor>
+    </successors>
+    <notes>Prior to France’s military colonization of the area that is present-day Niger, portions
+        of the region were occupied and governed by a number of different groups, kingdoms, states,
+        and empires. However, with the exception of Damagaram, jurisdictions, tenures, and
+        relationships to one another are not clear enough from the sources consulted to include as
+        predecessor states or territories. In the period between roughly the late 18th century and
+        late 19th century, Niger’s precolonial entities included: the Bornu Empire (Kanuri peoples),
+        several Hausa states/dynasties (including the Gobir monarchy, the sultanate of Damagaram,
+        and Hausa states at times under the control of the Sokoto Empire/Caliphate), Songhay-Zarma
+        peoples, Fulani groups (centered in what is now Degel, Nigeria; and later in Say, Niger),
+        and the nomadic Tuareg. A number of these groups continued to lay claims and exert control
+        over portions of present-day Niger for some time after French entry.</notes>
+    <sources>
+        <source>https://www.britannica.com/place/Niger</source>
+        <source>https://www.britannica.com/place/French-West-Africa</source>
+    </sources>
+</territory>

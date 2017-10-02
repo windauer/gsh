@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>511</id>
+    <old-id/>
+    <short-form-name>Red Nation</short-form-name>
+    <long-form-name>The Red Nation</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>511_1</variant-id>
+            <variant-name>Great Namaqualand</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1885</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>511_1</variant-id>
+            <variant-name>Namaland</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1885</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1885</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">510</successor>
+    </successors>
+    <notes>The precise names and tenures of these pre-colonial states are sometimes difficult to
+        discern from the sources consulted, but in general, they correspond to the three major
+        ethnic groups of pre-colonial (and present-day) Namibia: The Nama, Herero, and Ovambo (or
+        Ambo). The Red Nation was a federation of six major Nama groups in southern Namibia,
+        established in the 18th century and at its height exercising hegemony over the southern
+        half of present-day Namibia. Groups from outside the Red Nation had to be granted permission
+        to enter their territory. The Red Nation also collected tribute and signed treaties with
+        Herero and other leaders (including the 1838 peace of Hoachanas). Some sources indicate the
+        Red Nation relinquished its hegemony over other Nama tribes in an 1868 treaty, but
+        references to the Red Nation continue thereafter, including sources stating that the Germans
+        declared a protectorate over the Red Nation in 1885. 1885 has therefore been chosen as the
+        rough end date for the Red Nation, though Nama groups continued to militarily resist German
+        colonial claims into the early 1890’s, and Nama groups also participated in uprisings
+        against German colonial rule in the first decade of the 20 th century. “Great Namaqualand”
+        or Namaland referred more specifically to Nama areas in the southern third of present-day
+        Namibia, and were also referenced in German protectorate agreements. Technically, there may
+        have been “Namaqualand” or Nama states separate from or subsequent to the Red Nation (i.e.,
+        extending somewhat past 1885), but they have been grouped together here in a single
+        entry.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html</source>
+        <source>https://www.britannica.com/place/Namibia</source>
+    </sources>
+</territory>

@@ -4,18 +4,35 @@
     <old-id>saudi-arabia</old-id>
     <short-form-name>Saudi Arabia</short-form-name>
     <long-form-name>Kingdom of Saudi Arabia</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>208_1</variant-id>
+            <variant-name>Kingdom of Hejaz and Nejd</variant-name>
+            <valid-since>1926</valid-since>
+            <valid-until>1932</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1932</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1902</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>563</predecessor>
-        <predecessor>448</predecessor>
+        <predecessor rel="split">448</predecessor>
     </predecessors>
     <successors/>
-    <notes/>
+    <notes>Throughout the 19th and early 20th centuries, the portions of the Ottoman empire that
+        would ultimately become Saudi Arabia began to be contested. In 1824, Turki bin Abdullah bin
+        Muhammed defeated Egyptian forces and regained control of Riyadh, establishing the Emirate
+        of Nejd. In 1891, Muhammed ibn Abdallah bin Rashid of Hai’l extended authority over most of
+        Nejd including Riyadh. By 1902, Ibn Saud Abdulaziz regained control of Riyadh and created
+        the Emirate of Nejd and Hasa (Emirate of Riyadh). An independent Kingdom of Hejaz was
+        created on the western side of the Arabian Peninsula from the Turkish Vilayet of Hejaz. In
+        1921, Abdulaziz created the Sultanate of Nejd in unifying the Emirate of Nejd and Hasa and
+        the Emirate of Jabal Shammar and in 1926 created the Kingdom of Hejaz and Nejd that was
+        renamed the Kingdom of Saudi Arabia in 1932.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sa.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/525348/Saudi-Arabia</source>
+        <source>http://britannica.com/place/Saudi-Arabia</source>
     </sources>
 </territory>

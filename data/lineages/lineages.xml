@@ -6893,6 +6893,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/378</url>
         </predecessor>
         <predecessor>
+            <display-name>Alaska Territory</display-name>
+            <territory-id>299</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/299</url>
+        </predecessor>
+        <predecessor>
             <display-name>Republic of Texas (1836–1845)</display-name>
             <territory-id>475</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/475</url>

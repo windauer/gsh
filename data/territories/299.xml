@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>299</id>
+    <old-id/>
+    <short-form-name>Alaska</short-form-name>
+    <long-form-name>Territory of Alaska</long-form-name>
+    <variants></variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1867</valid-since>
+    <valid-until>1959</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors><predecessor rel="split">603</predecessor></predecessors>
+    <successors>
+        <successor rel="incorporation">250</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>http://www.britannica.com/place/Alaska</source>
+    </sources>
+</territory>

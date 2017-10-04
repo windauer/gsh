@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
     <id>398</id>
-    <old-id>kingdom-of-italy-1946</old-id>
-    <short-form-name>Kingdom of Italy</short-form-name>
+    <old-id/>
+    <short-form-name>Kingdom of Lombardy-Venetia</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1861</valid-since>
-    <valid-until>1946</valid-until>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1866</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>402</predecessor>
+        <predecessor rel="incorporation">621</predecessor>
+        <predecessor rel="incorporation">363</predecessor>
     </predecessors>
     <successors>
-        <successor>116</successor>
+        <successor rel="incorporation">116</successor>
     </successors>
-    <notes/>
+    <notes>Granted to Austria at the Congress of Vienna, composed of the former Duchy of Milan and
+        Republic of Venice. An 1848 uprising against Austrian rule in Milan led to the formation of
+        the Provisional Government of Milan which was quickly suppressed by Imperial forces. The
+        First Italian War of Independence resulted in the creation of a Republic of San Marco in
+        Venetian territory which attempted to join Sardinia prior to the victory of Austrian forces
+        and the restoration of the status quo in 1849. The Second Italian War of Independence
+        largely contested over the fate of this Kingdom, resulted in the Treaty of Zurich (10
+        November 1859), which transferred Lombardy briefly to the French Empire, which then passed
+        it to the Kingdom of Sardinia. A similar outcome resulted from the Third Italian War of
+        Independence (1866); the Treaty of Vienna, signed October 12, 1866, transferred Venetia
+        briefly to the French Empire which immediately passed it on to the Kingdom of Italy.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
-        <source>http://history.state.gov/countries/kingdom-of-yugoslavia#treaties-agreements</source>
+        <source>http://britannica.com/place/Italy</source>
     </sources>
 </territory>

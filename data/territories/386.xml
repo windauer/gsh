@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>386</id>
+    <old-id/>
+    <short-form-name>Duchy of Parma</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1859</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="merger">377</successor>
+    </successors>
+    <notes>Parma was occupied by French troops in 1796. Duke Ferdinand died in December 1802 at
+        which point the Duchy passed into French administration. It was formally annexed into the
+        French Empire in 1808. Independence was restored by the Congress of Vienna in 1814. Parma
+        was merged into other states in 1859 as the United Provinces of Central Italy, a client
+        government of Sardinia intended as an intermediate step toward Italian unification.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

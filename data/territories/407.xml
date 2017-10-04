@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>407</id>
+    <old-id/>
+    <short-form-name>Duchy of Massa and Carrera</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1829</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">403</successor>
+    </successors>
+    <notes>The Duchy was invaded by Napoleon’s forces in 1796, after which it was appended to a
+        series of French client states until restoration subsequent to final French defeat.
+        Following the death of Maria Beatrice d’Este, Duchess of Massa, her son Francis IV, Duke of
+        Modena annexed the Duchy of Massa and Carrera, adding it to the larger territory he had come
+        to possess in the aftermath of the Napoleonic Wars.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

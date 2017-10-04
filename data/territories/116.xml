@@ -4,12 +4,26 @@
     <old-id>italy</old-id>
     <short-form-name>Italy</short-form-name>
     <long-form-name>Italian Republic</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>116_1</variant-id>
+            <variant-name>Kingdom of Italy</variant-name>
+            <valid-since>1861</valid-since>
+            <valid-until>1946</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1946</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1861</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>398</predecessor>
+        <predecessor rel="incorporation">615</predecessor>
+        <predecessor rel="merger">402</predecessor>
+        <predecessor rel="merger">401</predecessor>
+        <predecessor rel="incorporation">398</predecessor>
+        <predecessor rel="incorporation">374</predecessor>
+        <predecessor rel="incorporation">375</predecessor>
     </predecessors>
     <successors/>
     <notes/>

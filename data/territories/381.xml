@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>381</id>
+    <old-id/>
+    <short-form-name>Grand Duchy of Tuscany</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1859</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">385</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">377</successor>
+    </successors>
+    <notes>The Grand Duchy of Tuscany was transformed in the Kingdom of Etruria by the Treaty of
+        Aranjuez in 1801. This Kingdom was a client state of Napoleonic France. Etruria was directly
+        annexed into the French Empire in 1807. Napoleon’s defeat resulted in a restoration of the
+        Grand Duchy in 1815. The deposition of the ruling House of Hapsburg-Lorraine and a
+        referendum resulted in Tuscany joining the United Provinces of Central Italy, a client state
+        of the Kingdom of Sardinia intended as a transitional means of creating a unified Italian
+        state.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

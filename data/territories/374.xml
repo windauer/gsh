@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>374</id>
+    <old-id/>
+    <short-form-name>Papal States</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1870</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">116</successor>
+    </successors>
+    <notes>At the height of their temporal power, the Popes controlled a significant amount of
+        territory in northern Italy. On February 15, 1798, a French army captured Rome and installed
+        a short-lived Roman Republic. The Papal States were restored subsequent to Neapolitan
+        recapture of Rome on 30 September 1799. In the 1809 Schönbrunn Palace Declarations Napoleon
+        reproached the Popes and ordered the Papal States (which had been recaptured by France)
+        annexed into the French Empire. The fall of Napoleon resulted in the restoration of the
+        states in 1814. Demonstrations in November 1848 led Pope Pius IX to flee from Rome; in
+        February 1849 a new Roman Republic was established led by Italian nationalist dissidents.
+        The new republic fell in July thanks to a siege conducted by a French army sent by Louis-
+        Napoleon. As momentum towards Italian unification increased in the 1860s, various provinces
+        of the Papal States were annexed by other Italian powers. Napoleon III maintained an army in
+        Rome which protected the Papal States from annexation after the creation of the Kingdom of
+        Italy in 1861. However, with the outbreak of the Franco-Prussian War in 1870 the French army
+        was withdrawn and Rome taken by Italian forces on 20 September 1870. While the Papal States
+        were not legally integrated into Italy until October 1871, they de facto ceased to exist as
+        of this point.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>401</id>
+    <old-id/>
+    <short-form-name>Kingdom of Sardinia</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1861</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">408</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">116</successor>
+    </successors>
+    <notes>Also called Piedmont. While the Kingdom’s mainland possessions were conquered and annexed
+        by France during the Napoleonic Wars, the island of Sardinia remained independent ensuring
+        continuity of government. Probably the most direct and important ancestor of the Kingdom of
+        Italy, under the leadership of Count Camillo Cavour. Was the primary belligerent in alliance
+        with France against Austria in the three Italian Wars of Independence, fought over
+        Lombardy-Venetia. Nice and Savoy were transferred to the French in March 1860 in exchange
+        for support in creating a united Italy. Shortly after this transfer was completed, Sardinia
+        absorbed the United Provinces of Central Italy. This merged entity became the Kingdom of
+        Italy in a merger with the Kingdom of the Two Sicilies in March 1861.</notes>
+    <sources>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia#treaties-agreements</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

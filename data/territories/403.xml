@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>403</id>
+    <old-id/>
+    <short-form-name>Duchy of Modena and Reggio</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1859</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">407</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">377</successor>
+    </successors>
+    <notes>The Duchy was captured by the French in 1796, after which it was disestablished and
+        formed part of a number of French client states until 1814. Some 45 years after the
+        restoration, Duke Francis V fled during the Second Italian War of Independence.
+        Subsequently, the Duchy jointed the United Provinces of Central Italy, a client state of
+        Sardinia and a prelude to a unified Italian Kingdom.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

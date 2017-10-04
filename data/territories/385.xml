@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>385</id>
+    <old-id/>
+    <short-form-name>Duchy of Lucca</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>385_1</variant-id>
+            <variant-name>Most Serene Republic of Lucca</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1805</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1847</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">381</successor>
+    </successors>
+    <notes>Occupied by the French from February 1799 and incorporated into a number of French client
+        states until 1815. Created as a fief for the House of Bourbon-Parma as compensation for the
+        Duchy of Parma being awarded to Napoleon’s wife Marie Louise of Austria as part of the
+        post-Napoleonic settlement on the same boundaries of the Republic of Lucca. After Marie
+        Louise passed in 1847 Duke Charles I reassumed his house’s traditional control of Parma;
+        Lucca was annexed by the Grand Duchy of Tuscany.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

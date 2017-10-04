@@ -4,19 +4,27 @@
     <old-id>kingdom-of-two-sicilies-1861</old-id>
     <short-form-name>Kingdom of the Two Sicilies</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1815</valid-since>
     <valid-until>1861</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>499</predecessor>
-        <predecessor>399</predecessor>
+        <predecessor rel="merger">499</predecessor>
+        <predecessor rel="merger">399</predecessor>
     </predecessors>
     <successors>
-        <successor>398</successor>
+        <successor rel="merger">116</successor>
     </successors>
-    <notes/>
+    <notes>The Kingdoms of Naples and Sicily were led by a shared monarch (or personal union) under
+        the House of Bourbon-Two Sicillies from 1759. Conquest by a French army brought down the
+        Kingdom, it was briefly replaced by the Parthenopean Republic (a French client) in 1799.
+        King Ferdinand recaptured his territories rapidly; however Napoleon’s forces recaptured the
+        mainland portion (Kingdom of Naples) of his dual Kingdoms in 1805. Ferdinand fled to Sicily
+        in 1806, then under British control. With the conclusion of the Napoleonic Wars, Ferdinand
+        merged his two Kingdoms into the Kingdom of the Two Sicilies on 18 December 1815.</notes>
     <sources>
         <source>http://history.state.gov/countries/kingdom-of-yugoslavia#treaties-agreements</source>
+        <source>http://britannica.com/place/Kingdom-of-Naples</source>
     </sources>
 </territory>

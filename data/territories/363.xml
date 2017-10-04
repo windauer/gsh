@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>363</id>
+    <old-id/>
+    <short-form-name>Duchy of Milan</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1796</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">398</successor>
+    </successors>
+    <notes>Territory annexed by Austria in 1706 in the the War of Spanish Succession. 1714 Treaty of
+        Baden concluding the war formalized Austrian control while retaining the Duchy. In 1796,
+        French troops occupied the territory and it was converted into a series of French client
+        states for the duration of the Napoleonic period.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

@@ -4,19 +4,18 @@
     <old-id>kingdom-of-naples-1815</old-id>
     <short-form-name>Kingdom of Naples</short-form-name>
     <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1130</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>402</successor>
-        <successor>398</successor>
-        <successor>116</successor>
+        <successor rel="merger">402</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://history.state.gov/countries/kingdom-of-yugoslavia#treaties-agreements</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/402903/Kingdom-of-Naples</source>
+        <source>http://britannica.com/place/Kingdom-of-Naples</source>
     </sources>
 </territory>

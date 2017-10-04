@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>413</id>
+    <old-id/>
+    <short-form-name>Trieste</short-form-name>
+    <long-form-name>Imperial Free City of Trieste</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1920</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">116</successor>
+    </successors>
+    <notes>The Imperial Free City was a Habsburg possession. A major port city primarily populated
+        by Italians and Slovenes, it enjoyed an unusual degree of freedom and autonomy within the
+        Empire. Occupied by French troops during the Napoleonic wars, the territory was annexed into
+        the Illyrian Provinces, a French client, under the terms of the October 1809 Treaty of
+        Schönbrunn. The Congress of Vienna restored the territory to Austria as the Kingdom of
+        Illyria. The territory of this new creation was more expansive than the Free City’s marches,
+        including significant portions of modern day Austria, Croatia, and Slovenia. The disruptions
+        occasioned by the 1848 Revolutions led the Austrians to spilt the Kingdom into provinces and
+        restore Trieste’s free city status. The Kingdom of Italy officially gained control of
+        Trieste with the November 1920 Treaty of Rapallo, though the area had been occupied by
+        Italian forces for some time prior. Trieste retained a degree of autonomy until the rise of
+        the Fascist movement in 1922 led to the abolition of local autonomy.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/it.html</source>
+        <source>http://britannica.com/place/Italy</source>
+    </sources>
+</territory>

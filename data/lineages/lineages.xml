@@ -492,7 +492,7 @@
             <territory-id>23</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/23</url>
         </current-territory>
-       <predecessor>
+        <predecessor>
             <display-name>Soviet Union (1917–1991)</display-name>
             <territory-id>513</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/513</url>
@@ -512,7 +512,7 @@
             <territory-id>461</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/461</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -1302,6 +1302,18 @@
             <display-name>Coral Sea Islands (1969–present)</display-name>
             <territory-id>57</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/57</url>
+        </current-territory>
+    </lineage>
+    <lineage>
+        <review>
+            <status>reviewed</status>
+            <reviewer>BarnumFSL</reviewer>
+            <reviewed-date>2017-10-04</reviewed-date>
+        </review>
+        <current-territory>
+            <display-name>Corsica</display-name>
+            <territory-id>536</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/536</url>
         </current-territory>
     </lineage>
     <lineage>
@@ -3100,12 +3112,12 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>BarnumFSL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-02</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Italy (1946–present)</display-name>
+            <display-name>Italy (1861–present)</display-name>
             <territory-id>116</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/116</url>
         </current-territory>
@@ -3115,9 +3127,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/615</url>
         </predecessor>
         <predecessor>
-            <display-name>Kingdom of Italy (1861–1946)</display-name>
-            <territory-id>398</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/398</url>
+            <display-name>Imperial Free City of Trieste</display-name>
+            <territory-id>413</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/413</url>
         </predecessor>
         <predecessor>
             <display-name>Kingdom of the Two Sicilies (1815–1861)</display-name>
@@ -3125,14 +3137,79 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/402</url>
         </predecessor>
         <predecessor>
-            <display-name>Kingdom of Naples (1130–1815)</display-name>
+            <display-name>Kingdom of Naples (1775–1815)</display-name>
             <territory-id>399</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/399</url>
         </predecessor>
         <predecessor>
-            <display-name>Sicily (?–1815)</display-name>
+            <display-name>Sicily (1775–1815)</display-name>
             <territory-id>499</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/499</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Sardinia (1775–1861)</display-name>
+            <territory-id>401</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/401</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Lombardy-Venetia</display-name>
+            <territory-id>398</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/398</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Republic of Venice</display-name>
+            <territory-id>621</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/621</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Duchy of Milan</display-name>
+            <territory-id>363</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/363</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Papal States</display-name>
+            <territory-id>374</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/374</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Bishopric of Trent</display-name>
+            <territory-id>375</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/375</url>
+        </predecessor>
+        <predecessor>
+            <display-name>United Provinces of Central Italy</display-name>
+            <territory-id>377</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/377</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Grand Duchy of Tuscany</display-name>
+            <territory-id>381</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/381</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Duchy of Lucca</display-name>
+            <territory-id>385</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/385</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Duchy of Parma</display-name>
+            <territory-id>386</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/386</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Duchy of Modena and Reggio</display-name>
+            <territory-id>403</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/403</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Duchy of Massa and Carrera</display-name>
+            <territory-id>407</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/407</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Republic of Genoa</display-name>
+            <territory-id>408</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/408</url>
         </predecessor>
     </lineage>
     <lineage>

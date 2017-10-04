@@ -2,18 +2,20 @@
 <territory>
     <id>499</id>
     <old-id>sicily-1815</old-id>
-    <short-form-name>Sicily</short-form-name>
+    <short-form-name>Kingdom of Sicily</short-form-name>
     <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since/>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1815</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>402</successor>
+        <successor rel="merger">402</successor>
     </successors>
     <notes/>
     <sources>
-        <source/>
+        <source>http://history.state.gov/countries/kingdom-of-yugoslavia#treaties-agreements</source>
+        <source>http://britannica.com/place/Kingdom-of-Naples</source>
     </sources>
 </territory>

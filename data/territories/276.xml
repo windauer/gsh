@@ -11,6 +11,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="split">376</predecessor>
+        <predecessor rel="incorporation">375</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">275</successor>

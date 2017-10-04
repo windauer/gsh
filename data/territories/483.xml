@@ -13,7 +13,7 @@
     </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
-    <valid-until>1917</valid-until>
+    <valid-until>1918</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">461</predecessor>
@@ -24,6 +24,7 @@
         <successor rel="split">190</successor>
         <successor rel="split">272</successor>
         <successor rel="split">617</successor>
+        <successor rel="split">480</successor>
     </successors>
     <notes>Peter the Great declared Muscovy the Russian Empire after the Great Northern War with Sweden.</notes>
     <sources>

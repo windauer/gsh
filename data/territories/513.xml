@@ -16,6 +16,7 @@
         <predecessor rel="incorporation">409</predecessor>
         <predecessor rel="incorporation">617</predecessor>
         <predecessor rel="incorporation">320</predecessor>
+        <predecessor rel="incorporation">480</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">12</successor>

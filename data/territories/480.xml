@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>480</id>
+    <old-id/>
+    <short-form-name>Belarusian People's Republic</short-form-name>
+    <long-form-name type="none"/>
+    <variants><variant>
+        <variant-id>480_1</variant-id>
+        <variant-name>Byelorussian Soviet Socialist Republic</variant-name>
+        <valid-since>1919</valid-since>
+        <valid-until>1922</valid-until>
+        <note></note>
+    </variant></variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1918</valid-since>
+    <valid-until>1922</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">483</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="incorporation">513</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html</source>
+        <source>https://www.britannica.com/place/Soviet-Union</source>
+        <source>https://www.loc.gov/item/97007563</source>
+        <source>https://history.state.gov/countries/russia</source>
+    </sources>
+</territory>

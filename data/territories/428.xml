@@ -15,7 +15,7 @@
     </predecessors>
     <successors>
         <successor rel="merger">179</successor>
-        <successor rel="merger">291</successor>
+        <successor rel="incorporation">291</successor>
         <successor rel="split">572</successor>
     </successors>
     <notes/>

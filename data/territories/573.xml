@@ -10,15 +10,10 @@
     <valid-until>1963</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>428</predecessor>
-        <predecessor>291</predecessor>
-        <predecessor>572</predecessor>
+     <predecessor rel="incorporation">572</predecessor>
     </predecessors>
     <successors>
-        <successor>456</successor>
-        <successor>574</successor>
-        <successor>549</successor>
-        <successor>234</successor>
+      <successor rel="independence">574</successor>
     </successors>
     <notes/>
     <sources>

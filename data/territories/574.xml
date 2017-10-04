@@ -10,14 +10,9 @@
     <valid-until>1964</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>428</predecessor>
-        <predecessor rel="independence">291</predecessor>
-        <predecessor>572</predecessor>
-        <predecessor>573</predecessor>
-        <predecessor>456</predecessor>
+        <predecessor rel="independence">573</predecessor>
     </predecessors>
     <successors>
-        <successor>549</successor>
         <successor rel="merger">234</successor>
     </successors>
     <notes/>

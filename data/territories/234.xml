@@ -4,13 +4,20 @@
     <old-id>tanzania</old-id>
     <short-form-name>Tanzania</short-form-name>
     <long-form-name>United Republic of Tanzania</long-form-name>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>234_1</variant-id>
+            <variant-name>United Republic of Tanganyika and Zanzibar</variant-name>
+            <valid-since>1964</valid-since>
+            <valid-until>1964</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1964</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="merger">549</predecessor>
         <predecessor rel="merger">524</predecessor>
         <predecessor rel="merger">574</predecessor>
         <predecessor rel="merger">291</predecessor>
@@ -19,7 +26,6 @@
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8189</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/655813/Zanzibar</source>
+        <source>http://britannica.com/place/Zanzibar</source>
     </sources>
 </territory>

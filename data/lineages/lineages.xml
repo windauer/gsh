@@ -3434,17 +3434,7 @@
             <territory-id>572</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/572</url>
         </other-mention>
-        <other-mention>
-            <display-name>United Republic of Tanganyika and Zanzibar (1964–1964)</display-name>
-            <territory-id>549</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/549</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1963–1964)</display-name>
-            <territory-id>456</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/456</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -6148,9 +6138,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Tanzania (1964–present)</display-name>
@@ -6162,23 +6152,13 @@
             <territory-id>574</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/574</url>
         </predecessor>
-        <predecessor>
-            <display-name>United Republic of Tanganyika and Zanzibar (1964–1964)</display-name>
-            <territory-id>549</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/549</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Zanzibar (1963–1964)</display-name>
-            <territory-id>456</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/456</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Tanganyika (1961–1964)</display-name>
             <territory-id>524</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/524</url>
         </predecessor>
         <predecessor>
-            <display-name>Zanzibar (1890–1963)</display-name>
+            <display-name>Zanzibar (1890–1964)</display-name>
             <territory-id>573</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/573</url>
         </predecessor>
@@ -6197,31 +6177,6 @@
             <territory-id>428</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/428</url>
         </predecessor>
-        <other-mention>
-            <display-name>Uganda (1962–present)</display-name>
-            <territory-id>246</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/246</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Oman (1970–present)</display-name>
-            <territory-id>179</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/179</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Kenya (1963–present)</display-name>
-            <territory-id>125</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/125</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Buganda (1400–1894)</display-name>
-            <territory-id>298</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/298</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bunyoro (1200–1896)</display-name>
-            <territory-id>300</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/300</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>

@@ -9,13 +9,15 @@
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1904</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="incorporation">308</predecessor>
+    </predecessors>
     <successors>
         <successor rel="incorporation">392</successor>
         <successor rel="incorporation">351</successor>
+        <successor rel="split">307</successor>
     </successors>
-    <notes>Date given as end date is date of its partition into european-governed areas. Date given
-        as begin date approximately is the date of its independent rise to prosperity.</notes>
+    <notes/>
     <sources>
         <source>http://britannica.com/place/Bornu</source>
     </sources>

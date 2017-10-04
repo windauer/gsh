@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>311</id>
+    <old-id/>
+    <short-form-name>Niger Coast</short-form-name>
+    <long-form-name>Niger Coast Protectorate</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>311_1</variant-id>
+            <variant-name>Oil Rivers Protectorate</variant-name>
+            <valid-since>1887</valid-since>
+            <valid-until>1894</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1887</valid-since>
+    <valid-until>1914</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">313</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">296</successor>
+    </successors>
+    <notes>Established by the British in 1894 (some sources say 1893) as an expansion of the former
+        Oil Rivers Protectorate into a larger coastal protectorate. Incorporated into an even larger
+        “Protectorate of Southern Nigeria” (later named the “Colony and Protectorate of Southern
+        Nigeria”) in 1900. In 1897, the British forcefully incorporated the Kingdom of Benin (not to
+        be confused with the present-day country of Benin) into the Niger Coast
+        Protectorate.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html</source>
+        <source>http://www.britannica.com/place/Nigeria</source>
+        <source>https://www.loc.gov/item/89600361/</source>
+    </sources>
+</territory>

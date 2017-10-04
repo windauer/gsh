@@ -4812,9 +4812,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>McCoyerMTM</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-10-02</reviewed-date>
         </review>
         <current-territory>
             <display-name>Nigeria (1960–present)</display-name>
@@ -4827,9 +4827,54 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/289</url>
         </predecessor>
         <predecessor>
+            <display-name>Nigeria (1914–1960)</display-name>
+            <territory-id>296</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/296</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Southern Nigeria</display-name>
+            <territory-id>301</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/301</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Northern Nigeria</display-name>
+            <territory-id>302</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/302</url>
+        </predecessor>
+        <predecessor>
             <display-name>Kamerun (1884–1916)</display-name>
             <territory-id>392</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/392</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Royal Niger Company</display-name>
+            <territory-id>304</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/304</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Niger Coast</display-name>
+            <territory-id>311</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/311</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Lagos Colony</display-name>
+            <territory-id>314</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/314</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Kingdom of Benin</display-name>
+            <territory-id>313</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/313</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Fulani Empire</display-name>
+            <territory-id>307</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/307</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Hausa States</display-name>
+            <territory-id>308</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/308</url>
         </predecessor>
         <predecessor>
             <display-name>Bornu Empire (1380–1904)</display-name>

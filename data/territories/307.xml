@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>307</id>
+    <old-id/>
+    <short-form-name>Fulani Empire</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>307_1</variant-id>
+            <variant-name>Sokoto Empire</variant-name>
+            <valid-since>1804</valid-since>
+            <valid-until>1904</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1804</valid-since>
+    <valid-until>1904</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="split">308</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">302</successor>
+    </successors>
+    <notes>Fulani Muslim scholar (mallam) Usman dan Fodio initiated a revolutionary jihad in the
+        Hausa state of Gobir in 1804, leading by 1808 to an overthrow of most of the Hausa states in
+        Hausaland (northern Nigeria), some of which had formerly been under the Empire of Bornu to
+        the east. The new Fulani Kingdom (or “Empire”) that arose came to be known also as the
+        Sokoto Caliphate, after its capital at Sokoto founded in 1809. The caliphate/empire was a
+        confederation of emirates in the former Hausa states / kingdoms, and was split into eastern
+        and western divisions, under twin capitals at Sokoto and Gwandu (though Sokoto retained
+        relative primacy). The empire/kingdom grew with time, e.g., incorporating Ilorin by the
+        1830’s and establishing Adamawa by the mid-19th century. According to one account, the
+        Fulani Empire at its peak was the largest empire in Africa since the fall of the Songhai
+        (Songhay) Empire in 1591, extending 1500 kilometers from parts of modern-day Burkina Faso,
+        through Nigeria, into parts of modern-Day Cameroon. The British gradually brought the former
+        Fulani Empire/Sokoto Caliphate under British control between roughly 1900, when the
+        Protectorate of Northern Nigeria was established, and 1903, the year when the British Royal
+        West African Frontier Force mounted assaults on Kano and Sokoto.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html</source>
+        <source>http://www.britannica.com/place/Nigeria</source>
+        <source>https://www.loc.gov/item/89600361/</source>
+    </sources>
+</territory>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>313</id>
+    <old-id/>
+    <short-form-name>Benin</short-form-name>
+    <long-form-name>Kingdom of Benin</long-form-name>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1897</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">311</successor>
+        <successor rel="split">314</successor>
+    </successors>
+    <notes>An Edo Kingdom dating from well before 1500. Associated with present-day Benin City,
+        Nigeria; not to be confused with the neighboring nation of Benin. The Kingdom of Benin was
+        already a well-established agricultural community when it became a dependency of the Yoruba
+        capital of Ife at the beginning of the 14th century. Already by the 15th century, however,
+        Benin was independent, ruled by a king who according to tradition was descended from the Ife
+        dynasty. By the late 15th century, Benin was in contact with Portugal; by the time of its
+        apogee as a trading and political power in the 16th and 17th centuries, Benin encompassed
+        parts of southeastern Yorubaland and the small Igbo area on the western bank of the Niger
+        River. By around 1700, it added coastal Lagos as a colony/dependency, which it held until
+        the British annexed Lagos Colony in 1861. In 1897, following allegations of human sacrifice
+        being practiced in Benin, the British forcefully incorporated the Kingdom of Benin into the
+        Niger Coast Protectorate.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html</source>
+        <source>http://www.britannica.com/place/Nigeria</source>
+        <source>https://www.loc.gov/item/89600361/</source>
+    </sources>
+</territory>

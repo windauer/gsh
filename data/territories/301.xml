@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>301</id>
+    <old-id/>
+    <short-form-name>Southern Nigeria</short-form-name>
+    <long-form-name>Colony and Protectorate of Southern Nigeria</long-form-name>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since>1900</valid-since>
+    <valid-until>1914</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">311</predecessor>
+        <predecessor rel="incorporation">314</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="merger">296</successor>
+    </successors>
+    <notes>Established as the Protectorate of Southern Nigeria in 1900, which was a renaming and
+        expansion of the former Niger Coast Protectorate. In 1906 the Lagos Colony and Protectorate
+        was incorporated into the Protectorate of Southern Nigeria, which was renamed the Colony and
+        Protectorate of Southern Nigeria. In 1914, the Colony and Protectorate of Southern Nigeria
+        merged with the Protectorate of Northern Nigeria, forming the Colony and Protectorate of
+        Nigeria.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html</source>
+        <source>http://www.britannica.com/place/Nigeria</source>
+        <source>https://www.loc.gov/item/89600361/</source>
+    </sources>
+</territory>

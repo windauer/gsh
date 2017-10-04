@@ -5867,9 +5867,34 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/218</url>
         </current-territory>
         <predecessor>
-            <display-name>Somaliland (1884–1960)</display-name>
+            <display-name>Somaliland (1950–1960)</display-name>
             <territory-id>295</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/295</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Italian Somaliland (1888–1950)</display-name>
+            <territory-id>393</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/393</url>
+        </predecessor>
+        <predecessor>
+            <display-name>British Somaliland (1886–1950)</display-name>
+            <territory-id>394</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/394</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Warsangali Sultanate</display-name>
+            <territory-id>395</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/395</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Hobyo Sultanate</display-name>
+            <territory-id>388</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/388</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Majarteen Sultanate</display-name>
+            <territory-id>389</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/389</url>
         </predecessor>
         <other-mention>
             <display-name>Italian East Africa (1936–1941)</display-name>

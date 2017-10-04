@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory>
-    <id>295</id>
-    <old-id>british-somaliland-1960</old-id>
-    <short-form-name>Somaliland</short-form-name>
-    <long-form-name>Trust Territory of the Somaliland</long-form-name>
+    <id>393</id>
+    <old-id/>
+    <short-form-name>Italian Somaliland</short-form-name>
+    <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1950</valid-since>
-    <valid-until>1960</valid-until>
+    <valid-since>1888</valid-since>
+    <valid-until>1950</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="merger">393</predecessor>
-        <predecessor rel="merger">394</predecessor>
+        <predecessor rel="incorporation">388</predecessor>
+        <predecessor rel="incorporation">389</predecessor>
     </predecessors>
     <successors>
-        <successor rel="independence">218</successor>
+        <successor rel="merger">295</successor>
     </successors>
     <notes/>
     <sources>

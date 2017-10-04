@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>541</id>
+    <old-id/>
+    <short-form-name>Kaarta</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1854</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">555</successor>
+    </successors>
+    <notes>A Bambara Kingdom established in the 17th century encompassing the areas of Nioro, Nara,
+        Banamba, Yelinamé, and Kita in present-day Mali. In 1854, El Hadj Omar Tall, the Tukulor
+        Empire conqueror, took Kaarta’s capital city of Nioro and executed the last Bambara King of
+        Kaarta.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://www.britannica.com/place/Mali</source>
+    </sources>
+</territory>

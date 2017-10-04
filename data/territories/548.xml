@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>548</id>
+    <old-id/>
+    <short-form-name>Ségou</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1862</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">555</successor>
+    </successors>
+    <notes>A Bambara Kingdom established early in the 17th century (the capital town of Ségou-Koro
+        was established in 1620), roughly corresponding with the region of present-day Mali bearing
+        the same name. In 1862, El Hadj Omar Tall conquered Ségou and incorporated it into his
+        Tukulor Empire.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://www.britannica.com/place/Mali</source>
+    </sources>
+</territory>

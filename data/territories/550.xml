@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>550</id>
+    <old-id/>
+    <short-form-name>Kénédougou</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1898</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">354</successor>
+    </successors>
+    <notes>The Senufo Kingdom of Kénédougou developed in the southern part of present-day Mali in
+        the 17th century, and lasted until 1898 when its capital, Sikasso, was taken by the French,
+        incorporating Kénédougou into the French Sudan.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://www.britannica.com/place/Mali</source>
+    </sources>
+</territory>

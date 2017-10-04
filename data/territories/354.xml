@@ -3,22 +3,49 @@
     <id>354</id>
     <old-id>french-sudan-1960</old-id>
     <short-form-name>French Sudan</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>354_1</variant-id>
+            <variant-name>Colony of Upper Senegal and Niger</variant-name>
+            <valid-since>1904</valid-since>
+            <valid-until>1920</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>354_2</variant-id>
+            <variant-name>Upper Senegal and Middle Niger</variant-name>
+            <valid-since>1899</valid-since>
+            <valid-until>1902</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>354_3</variant-id>
+            <variant-name>Upper River</variant-name>
+            <valid-since>1880</valid-since>
+            <valid-until>1890</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1891</valid-since>
+    <valid-since>1880</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>552</predecessor>
+        <predecessor rel="incorporation">552</predecessor>
+        <predecessor rel="incorporation">631</predecessor>
+        <predecessor rel="incorporation">550</predecessor>
+        <predecessor rel="incorporation">555</predecessor>
     </predecessors>
     <successors>
-        <successor>343</successor>
-        <successor>148</successor>
-    </successors>
+        <successor rel="merger">343</successor>
+        <successor rel="split">554</successor>
+        <successor rel="split">352</successor>
+        <successor rel="split">319</successor>
+   </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/360071/Mali</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2491?rskey=f0dAyu&amp;result=1</source>
+        <source>http://www.britannica.com/place/Mali</source>
     </sources>
 </territory>

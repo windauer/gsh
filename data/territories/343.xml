@@ -6,19 +6,27 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1960</valid-since>
+    <valid-since>1959</valid-since>
     <valid-until>1960</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="incorporation">627</predecessor>
+        <predecessor rel="merger">627</predecessor>
+        <predecessor rel="merger">225</predecessor>
+        <predecessor rel="merger">354</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">209</successor>
         <successor rel="split">148</successor>
+        <successor rel="split">225</successor>
     </successors>
-    <notes>A short-lived federation between Senegal and the French Sudan that lasted for two months in 1960.</notes>
+    <notes>The Federation of Mali was established on January 10, 1959, with Senegal and the Sudanese
+        Republic as members. Upper Volta and Dahomey also briefly joined, but withdrew by April
+        1959. None of these constituent members were yet fully independent from France, though
+        several were “autonomous states within the French Community.” On June 20, 1960, the
+        Federation of Mali became fully independent;</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html</source>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html</source>
+        <source>https://www.britannica.com/place/Mali</source>
     </sources>
 </territory>

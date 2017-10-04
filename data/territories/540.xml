@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>540</id>
+    <old-id/>
+    <short-form-name>Macina</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1862</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">555</successor>
+    </successors>
+    <notes>An early 15th century Peul kingdom established in the floodplains of the Niger River
+        within the area of Dia in present-day Mali. An overthrow of the ruling dynasty of the “Peul
+        Kingdom of Macina” in 1810 led to the establishment of the “Peul Empire of Macina.” Prior to
+        1810, Macina appears to have been intermittently independent and subject to other kingdoms
+        and empires, including as a vassal state to the Mali Empire in the 15th century, and also as
+        a dependency of Moroccan and Songhay entities and even the Ségou Kingdom (after 1670). After
+        the establishment of the Peul Empire of Macina in 1810, Macina remained independent until
+        its demise. In 1862, shortly after conquering Ségou, El Hadj Omar Tall conquered Macina as
+        well and incorporated it into his Tukulor Empire.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://www.britannica.com/place/Mali</source>
+    </sources>
+</territory>

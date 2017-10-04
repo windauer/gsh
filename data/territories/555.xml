@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>555</id>
+    <old-id/>
+    <short-form-name>Ségou-Tukulor Empire</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>independent-state</type-of-territory>
+    <valid-since>1852</valid-since>
+    <valid-until>1893</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors>
+        <predecessor rel="incorporation">548</predecessor>
+        <predecessor rel="incorporation">541</predecessor>
+        <predecessor rel="incorporation">540</predecessor>
+    </predecessors>
+    <successors>
+        <successor rel="incorporation">354</successor>
+    </successors>
+    <notes>Initially established as the Tukulor Empire around 1852 by El Hadj Omar Tall. Tall
+        gradually defeated and subsumed the Kingdoms of Kaarta, Macina, and Ségou. With the defeat
+        of Ségou in 1862, the Tukulor Empire also became known as the Ségou-Tukulor Empire, which is
+        consistent with the developments following Tall’s death in 1864: his son Amadou Tall
+        succeeded him in Ségou, continuing the Tukulor Empire there. However, Amadou Tall was never
+        able to control Macina or Kaarta, which were ruled by his brothers and other relatives who
+        never fully recognized his supremacy. The Ségou-Tukulor Empire ultimately collapsed after
+        being gradually defeated by the French by 1893.</notes>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/to.html</source>
+        <source>http://www.britannica.com/place/Mali</source>
+    </sources>
+</territory>

@@ -4,21 +4,21 @@
     <old-id>korea-1948</old-id>
     <short-form-name>Korea</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1945</valid-since>
     <valid-until>1948</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>405</predecessor>
+        <predecessor rel="independence">405</predecessor>
     </predecessors>
     <successors>
-        <successor>128</successor>
-        <successor>129</successor>
+        <successor rel="split">128</successor>
+        <successor rel="split">129</successor>
     </successors>
     <notes/>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/322280/South-Korea</source>
-        <source>http://www.britannica.com/EBchecked/topic/322222/North-Korea</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/693609/Korea</source>
+        <source>http://www.britannica.com/place/South-Korea</source>
+        <source>http://www.britannica.com/place/North-Korea</source>
     </sources>
 </territory>

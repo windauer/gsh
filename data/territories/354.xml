@@ -26,6 +26,13 @@
             <valid-until>1890</valid-until>
             <note></note>
         </variant>
+        <variant>
+            <variant-id>354_4</variant-id>
+            <variant-name>Sudanese Republic</variant-name>
+            <valid-since>1958</valid-since>
+            <valid-until>1959</valid-until>
+            <note></note>
+        </variant>
     </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1880</valid-since>

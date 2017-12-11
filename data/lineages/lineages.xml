@@ -4398,6 +4398,11 @@
             <territory-id>463</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/463</url>
         </predecessor>
+        <predecessor>
+            <display-name>Gaza Kingdom</display-name>
+            <territory-id>471</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/471</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4966,6 +4971,11 @@
             <display-name>Duchy of Warsaw (1807–1815)</display-name>
             <territory-id>325</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/325</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Republic of Cracow</display-name>
+            <territory-id>474</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/474</url>
         </predecessor>
         <predecessor>
             <display-name>Austria-Hungary (1867–1918)</display-name>
@@ -6974,6 +6984,11 @@
             <display-name>Matabaleland</display-name>
             <territory-id>632</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/632</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Changamire Kingdom</display-name>
+            <territory-id>462</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/462</url>
         </predecessor>
     </lineage>
 </lineages>

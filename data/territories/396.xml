@@ -10,6 +10,13 @@
         <valid-since>1894</valid-since>
         <valid-until>1898</valid-until>
         <note></note>
+    </variant>
+    <variant>
+        <variant-id>396_2</variant-id>
+        <variant-name>Hawaiian Islands</variant-name>
+        <valid-since>1778</valid-since>
+        <valid-until>1826</valid-until>
+        <note></note>
     </variant></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1795</valid-since>

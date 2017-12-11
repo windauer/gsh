@@ -4,18 +4,18 @@
     <old-id>joseon-dynasty-1910</old-id>
     <short-form-name>Korea</short-form-name>
     <long-form-name>Joseon Dynasty</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1392</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>405</successor>
+        <successor rel="incorporation">405</successor>
     </successors>
     <notes>In 1905 Korea became a protectorate of Japan; in 1910 Japan annexed the peninsula.</notes>
     <sources>
-        <source>http://www.britannica.com/EBchecked/topic/322280/South-Korea</source>
-        <source>http://www.britannica.com/EBchecked/topic/322222/North-Korea</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/693609/Korea</source>
+        <source>http://www.britannica.com/place/South-Korea</source>
+        <source>http://www.britannica.com/place/North-Korea</source>
     </sources>
 </territory>

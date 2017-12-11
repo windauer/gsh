@@ -4,20 +4,22 @@
     <old-id>cape-colony-1910</old-id>
     <short-form-name>Cape Colony</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1652</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>446</successor>
-        <successor>447</successor>
-        <successor>542</successor>
-        <successor>219</successor>
+        <successor rel="split">429</successor>
+        <successor rel="split">530</successor>
+        <successor rel="split">447</successor>
+        <successor rel="merger">542</successor>
     </successors>
-    <notes>Dutch established colony taken over by the British as a result of the Napoleonic Wars.</notes>
+    <notes>Dutch established colony taken over by the British as a result of the Napoleonic
+        Wars.</notes>
     <sources>
         <source>http://history.state.gov/countries/south-africa</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3665</source>
+        <source>https://britannica.com/place/South-Africa</source>
     </sources>
 </territory>

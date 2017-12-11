@@ -4,26 +4,20 @@
     <old-id>south-africa</old-id>
     <short-form-name>South Africa</short-form-name>
     <long-form-name>Republic of South Africa</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1961</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1929</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>521</predecessor>
-        <predecessor>447</predecessor>
-        <predecessor>446</predecessor>
-        <predecessor>305</predecessor>
-        <predecessor>576</predecessor>
-        <predecessor>577</predecessor>
-        <predecessor>429</predecessor>
-        <predecessor>530</predecessor>
-        <predecessor>542</predecessor>
+      <predecessor rel="independence">542</predecessor>
     </predecessors>
     <successors>
-        <successor>228</successor>
+        <successor rel="split">228</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://history.state.gov/countries/south-africa</source>
+        <source>https://britannica.com/place/South-Africa</source>
     </sources>
 </territory>

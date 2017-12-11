@@ -4,20 +4,20 @@
     <old-id>natal-1910</old-id>
     <short-form-name>Natal</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1843</valid-since>
     <valid-until>1910</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>305</predecessor>
-        <predecessor>577</predecessor>
+        <predecessor rel="split">305</predecessor>
     </predecessors>
     <successors>
-        <successor>542</successor>
-        <successor>219</successor>
+        <successor rel="merger">542</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://history.state.gov/countries/south-africa</source>
+        <source>https://britannica.com/place/South-Africa</source>
     </sources>
 </territory>

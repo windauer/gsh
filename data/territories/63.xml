@@ -4,18 +4,18 @@
     <old-id>cyprus</old-id>
     <short-form-name>Cyprus</short-form-name>
     <long-form-name>Republic of Cyprus</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1960</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>317</predecessor>
+        <predecessor rel="independence">317</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/148573/Cyprus</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/cy.hi</source>
+        <source>http://www.britannica.com/place/Cyprus</source>
     </sources>
 </territory>

@@ -4,21 +4,18 @@
     <old-id>zululand-1879</old-id>
     <short-form-name>Zululand</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1815</valid-since>
     <valid-until>1879</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>577</successor>
-        <successor>429</successor>
-        <successor>542</successor>
-        <successor>219</successor>
+        <successor rel="incorporation">429</successor>
     </successors>
     <notes/>
     <sources>
         <source>http://history.state.gov/countries/south-africa</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-8244#</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-4205</source>
+        <source>https://britannica.com/place/South-Africa</source>
     </sources>
 </territory>

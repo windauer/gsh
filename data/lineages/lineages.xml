@@ -5691,24 +5691,19 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>MunteanuMA</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
-            <display-name>South Africa (1961–present)</display-name>
+            <display-name>South Africa (1929–present)</display-name>
             <territory-id>219</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/219</url>
         </current-territory>
         <predecessor>
-            <display-name>Union of South Africa (1910–1961)</display-name>
+            <display-name>Union of South Africa (1910–1929)</display-name>
             <territory-id>542</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/542</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Zululand (1879–1910)</display-name>
-            <territory-id>577</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/577</url>
         </predecessor>
         <predecessor>
             <display-name>Transvaal (1854–1910)</display-name>
@@ -5735,21 +5730,11 @@
             <territory-id>576</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/576</url>
         </predecessor>
-        <predecessor>
-            <display-name>Swazi Kingdom (1750–1894)</display-name>
-            <territory-id>521</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/521</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Cape Colony (1652–1910)</display-name>
             <territory-id>305</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/305</url>
         </predecessor>
-        <other-mention>
-            <display-name>Swaziland (1968–present)</display-name>
-            <territory-id>228</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/228</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>

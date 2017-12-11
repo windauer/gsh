@@ -13,7 +13,7 @@
     <successors>
         <successor rel="split">2</successor>
         <successor rel="split">66</successor>
-        <successor>63</successor>
+        <successor rel="independence">63</successor>
     </successors>
     <notes>British colony</notes>
     <sources>

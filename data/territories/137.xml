@@ -4,17 +4,20 @@
     <old-id>liberia</old-id>
     <short-form-name>Liberia</short-form-name>
     <long-form-name>Republic of Liberia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1824</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1847</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors/>
+    <predecessors>
+        <predecessor rel="independence">466</predecessor>
+    </predecessors>
     <successors/>
-    <notes>Gained independence in 1847; U.S. recognition in 1862</notes>
+    <notes>Liberia gained independence in 1847. The United States recognized independence in
+        1862</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/li.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/339254/Liberia</source>
+        <source>http://www.britannica.com/place/Liberia</source>
         <source>http://history.state.gov/countries/liberia</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2355</source>
     </sources>
 </territory>

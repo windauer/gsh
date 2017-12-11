@@ -2593,9 +2593,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Ghana (1957–present)</display-name>
@@ -2603,7 +2603,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/89</url>
         </current-territory>
         <predecessor>
-            <display-name>Gold Coast (1874–1957)</display-name>
+            <display-name>Gold Coast (1775–1957)</display-name>
             <territory-id>369</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/369</url>
         </predecessor>
@@ -2613,10 +2613,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/639</url>
         </predecessor>
         <predecessor>
-            <display-name>Asante Empire (1670–1874)</display-name>
+            <display-name>Asante Empire (1775–1874)</display-name>
             <territory-id>274</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/274</url>
         </predecessor>
+        <other-mention>
+            <display-name>British West Africa</display-name>
+            <territory-id>493</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/493</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -2751,9 +2756,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Guinea (1958–present)</display-name>
@@ -2761,27 +2766,27 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/98</url>
         </current-territory>
         <predecessor>
-            <display-name>French Guinea (1891–1958)</display-name>
+            <display-name>French Guinea (1775–1958)</display-name>
             <territory-id>352</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/352</url>
         </predecessor>
+        <other-mention>
+            <display-name>French West Africa</display-name>
+            <territory-id>626</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/626</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Guinea-Bissau (1974–present)</display-name>
             <territory-id>99</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/99</url>
         </current-territory>
-        <predecessor>
-            <display-name>Cape Verde (1975–present)</display-name>
-            <territory-id>43</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/43</url>
-        </predecessor>
         <predecessor>
             <display-name>Portuguese Guinea (1879–1974)</display-name>
             <territory-id>464</territory-id>
@@ -3370,9 +3375,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Kenya (1963–present)</display-name>
@@ -3389,52 +3394,7 @@
             <territory-id>428</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/428</url>
         </predecessor>
-        <other-mention>
-            <display-name>Uganda (1962–present)</display-name>
-            <territory-id>246</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/246</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Tanzania (1964–present)</display-name>
-            <territory-id>234</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/234</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Oman (1970–present)</display-name>
-            <territory-id>179</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/179</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Buganda (1400–1894)</display-name>
-            <territory-id>298</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/298</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Bunyoro (1200–1896)</display-name>
-            <territory-id>300</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/300</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Tanganyika (1961–1964)</display-name>
-            <territory-id>524</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/524</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1964–1964)</display-name>
-            <territory-id>574</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/574</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1890–1963)</display-name>
-            <territory-id>573</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/573</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Zanzibar (1861–1890)</display-name>
-            <territory-id>572</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/572</url>
-        </other-mention>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -3703,9 +3663,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Lesotho (1966–present)</display-name>
@@ -3720,15 +3680,20 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Liberia (1824–present)</display-name>
+            <display-name>Liberia (1847–present)</display-name>
             <territory-id>137</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/137</url>
         </current-territory>
+        <predecessor>
+            <display-name>Liberia (1822–1847)</display-name>
+            <territory-id>466</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/466</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -3899,25 +3864,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Madagascar (1992–present)</display-name>
+            <display-name>Madagascar (1958–present)</display-name>
             <territory-id>144</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/144</url>
         </current-territory>
-        <predecessor>
-            <display-name>Madagascar (1976–1992)</display-name>
-            <territory-id>416</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/416</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Malagasy Republic (1958–1976)</display-name>
-            <territory-id>418</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/418</url>
-        </predecessor>
         <predecessor>
             <display-name>Madagascar (1895–1958)</display-name>
             <territory-id>415</territory-id>
@@ -3941,9 +3896,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>Malawi (1964–present)</display-name>
@@ -3951,20 +3906,10 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/145</url>
         </current-territory>
         <predecessor>
-            <display-name>British Central Africa Protectorate (1893–1907)</display-name>
-            <territory-id>290</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/290</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Nyasaland Protectorate (1891–1893)</display-name>
-            <territory-id>445</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/445</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Nyasaland (1907–1964)</display-name>
+            <display-name>Nyasaland (1891–1964)</display-name>
             <territory-id>444</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/444</url>
-        </other-mention>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -5522,6 +5467,11 @@
             <territory-id>500</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/500</url>
         </predecessor>
+        <other-mention>
+            <display-name>British West Africa</display-name>
+            <territory-id>493</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/493</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -6152,7 +6102,7 @@
             <territory-id>574</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/574</url>
         </predecessor>
-       <predecessor>
+        <predecessor>
             <display-name>Tanganyika (1961–1964)</display-name>
             <territory-id>524</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/524</url>
@@ -6209,30 +6159,15 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>KolarL</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2017-12-11</reviewed-date>
         </review>
         <current-territory>
             <display-name>The Gambia (1965–present)</display-name>
             <territory-id>86</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/86</url>
         </current-territory>
-        <predecessor>
-            <display-name>Senegal (1960–1982)</display-name>
-            <territory-id>494</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/494</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Federation of Mali (1960–1960)</display-name>
-            <territory-id>343</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/343</url>
-        </predecessor>
-        <predecessor>
-            <display-name>French Sudan</display-name>
-            <territory-id>354</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/354</url>
-        </predecessor>
         <predecessor>
             <display-name>The Gambia (1821–1965)</display-name>
             <territory-id>361</territory-id>
@@ -6244,39 +6179,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/495</url>
         </other-mention>
         <other-mention>
-            <display-name>Senegal (1989–present)</display-name>
-            <territory-id>209</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/209</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Mali (1960–present)</display-name>
-            <territory-id>148</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/148</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1947–1958)</display-name>
-            <territory-id>554</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/554</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Burkina Faso (1984–present)</display-name>
-            <territory-id>37</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/37</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Sudanese Republic (1958–1959)</display-name>
-            <territory-id>520</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/520</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Upper Volta (1919–1932)</display-name>
-            <territory-id>553</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/553</url>
-        </other-mention>
-        <other-mention>
-            <display-name>French Sudan (1891–1960)</display-name>
-            <territory-id>354</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/354</url>
+            <display-name>British West Africa</display-name>
+            <territory-id>493</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/493</url>
         </other-mention>
     </lineage>
     <lineage>

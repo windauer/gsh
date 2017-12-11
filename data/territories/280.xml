@@ -4,13 +4,14 @@
     <old-id>basutoland-1966</old-id>
     <short-form-name>Basutoland</short-form-name>
     <long-form-name>Kingdom of the Sotho</long-form-name>
+    <variants></variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1824</valid-since>
     <valid-until>1966</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>136</successor>
+        <successor rel="independence">136</successor>
     </successors>
     <notes/>
     <sources>

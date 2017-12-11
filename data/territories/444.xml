@@ -4,20 +4,33 @@
     <old-id>nyasaland-1964</old-id>
     <short-form-name>Nyasaland</short-form-name>
     <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>444_1</variant-id>
+            <variant-name>British Central Africa Protectorate</variant-name>
+            <valid-since>1893</valid-since>
+            <valid-until>1907</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>444_2</variant-id>
+            <variant-name>Nyasaland Protectorate</variant-name>
+            <valid-since>1891</valid-since>
+            <valid-until>1893</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1907</valid-since>
+    <valid-since>1891</valid-since>
     <valid-until>1964</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>445</predecessor>
-        <predecessor>290</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>145</successor>
+        <successor rel="independence">145</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mi.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/359614/Malawi/281535/Colonial-rule?anchor=ref480103</source>
+        <source>http://www.britannica.com/place/Malawi</source>
     </sources>
 </territory>

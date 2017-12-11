@@ -4,13 +4,13 @@
     <old-id>ghana</old-id>
     <short-form-name>Ghana</short-form-name>
     <long-form-name>Republic of Ghana</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1957</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>274</predecessor>
-        <predecessor>369</predecessor>
+       <predecessor rel="independence">369</predecessor>
     </predecessors>
     <successors/>
     <notes/>

@@ -4,16 +4,18 @@
     <old-id>guinea-bissau</old-id>
     <short-form-name>Guinea-Bissau</short-form-name>
     <long-form-name>Republic of Guinea-Bissau</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1974</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>464</predecessor>
+        <predecessor rel="independence">464</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html</source>
+        <source>https://www.britannica.com/place/Guinea-Bissau</source>
     </sources>
 </territory>

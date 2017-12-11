@@ -11,10 +11,12 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">627</predecessor>
+        <predecessor rel="incorporation">352</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">209</successor>
         <successor rel="independence">59</successor>
+        <successor rel="independence">98</successor>
     </successors>
     <notes/>
     <sources>

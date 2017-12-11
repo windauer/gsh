@@ -4,25 +4,35 @@
     <old-id>madagascar</old-id>
     <short-form-name>Madagascar</short-form-name>
     <long-form-name>Republic of Madagascar</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>144_1</variant-id>
+            <variant-name>Democratic Republic of Madagascar</variant-name>
+            <valid-since>1976</valid-since>
+            <valid-until>1992</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>144_2</variant-id>
+            <variant-name>Malagasy Republic</variant-name>
+            <valid-since>1958</valid-since>
+            <valid-until>1976</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1992</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-since>1958</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>489</predecessor>
-        <predecessor>382</predecessor>
-        <predecessor>414</predecessor>
-        <predecessor>415</predecessor>
-        <predecessor>418</predecessor>
-        <predecessor>416</predecessor>
+        <predecessor rel="independence">415</predecessor>
+
     </predecessors>
     <successors/>
-    <notes>Changed long-form name with 1992 constitution rewriting.</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html</source>
         <source>https://history.state.gov/countries/madagascar</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3433#</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2623</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/355562/Madagascar</source>
+        <source>http://www.britannica.com/place/Madagascar</source>
     </sources>
 </territory>

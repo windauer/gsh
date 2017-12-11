@@ -4,24 +4,19 @@
     <old-id>imerina-1817</old-id>
     <short-form-name>Imerina</short-form-name>
     <long-form-name>Merina Kingdom</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1500</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1817</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>414</successor>
-        <successor>415</successor>
-        <successor>418</successor>
-        <successor>416</successor>
-        <successor>144</successor>
+        <successor rel="merger">414</successor>
     </successors>
-    <notes>Fuzzy date of founding - 16th century is the commonly agreed upon time period of founding.</notes>
+    <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html</source>
         <source>https://history.state.gov/countries/madagascar</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3433#</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-2623</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/355562/Madagascar</source>
+        <source>http://www.britannica.com/place/Madagascar</source>
     </sources>
 </territory>

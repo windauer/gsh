@@ -4,20 +4,22 @@
     <old-id>gold-coast-1975</old-id>
     <short-form-name>Gold Coast</short-form-name>
     <long-form-name>Gold Coast Colony</long-form-name>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1874</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1957</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>274</predecessor>
+        <predecessor rel="incorporation">274</predecessor>
     </predecessors>
     <successors>
-        <successor>89</successor>
+        <successor rel="independence">89</successor>
     </successors>
-    <notes/>
+    <notes>A colonial area hotly contested by Portuguese, Danish, German, Dutch, Swedish, and
+        British merchants as early as the 15th century. In 1874, the United Kingdom
+        established control.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gh.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-0262#</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-1634</source>
+        <source>http://www.britannica.com/place/Asante-empire</source>
     </sources>
 </territory>

@@ -3,20 +3,19 @@
     <id>274</id>
     <old-id>asante-empire-1874</old-id>
     <short-form-name>Asante Empire</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1670</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1874</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>369</successor>
-        <successor>89</successor>
+        <successor rel="incorporation">369</successor>
     </successors>
-    <notes>Date of establishment is agreed to be around the year 1670, but actual date is unknown.</notes>
+    <notes>.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gh.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-3023</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/37710/Asante-empire</source>
+       <source>http://www.britannica.com/place/Asante-empire</source>
     </sources>
 </territory>

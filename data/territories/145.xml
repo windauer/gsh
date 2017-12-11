@@ -4,17 +4,18 @@
     <old-id>malawi</old-id>
     <short-form-name>Malawi</short-form-name>
     <long-form-name>Republic of Malawi</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1964</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>290</predecessor>
+        <predecessor rel="independence">444</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/mi.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/359614/Malawi/281535/Colonial-rule?anchor=ref480103</source>
+        <source>http://www.britannica.com/place/Malawi</source>
     </sources>
 </territory>

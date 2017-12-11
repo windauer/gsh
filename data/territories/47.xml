@@ -7,7 +7,7 @@
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1810</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
         <predecessor rel="independence">559</predecessor>
@@ -21,7 +21,5 @@
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ci.html</source>
         <source>https://history.state.gov/countries/chile</source>
         <source>http://www.britannica.com/EBchecked/topic/453253/Viceroyalty-of-Peru</source>
-        <source>Rex Hudson, Chile: A Country Study (LOC, 1994)</source>
-        <source>H. Michael Tarver and Emily Slape, The Spanish Empire: A Historical Encyclopedia (ABC-CLIO, 2016)</source>
-    </sources>
+   </sources>
 </territory>

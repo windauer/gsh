@@ -8,7 +8,7 @@
         <variant>
             <variant-id>436_1</variant-id>
             <variant-name>New Holland</variant-name>
-            <valid-since>1775</valid-since>
+            <valid-since type="pre-1776">1775</valid-since>
             <valid-until>1832</valid-until>
             <note/>
         </variant>
@@ -24,7 +24,7 @@
             <variant-id>436_3</variant-id>
             <variant-name>Tasmania</variant-name>
             <valid-since>1856</valid-since>
-            <valid-until>9999</valid-until>
+            <valid-until type="present">9999</valid-until>
             <note>Van Diemen's Land changed its name to Tasmania in 1856.</note>
         </variant>
         <variant>

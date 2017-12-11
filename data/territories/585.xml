@@ -8,13 +8,13 @@
         <variant>
             <variant-id>585_1</variant-id>
             <variant-name>St. John’s Island</variant-name>
-            <valid-since>1769</valid-since>
+            <valid-since type="pre-1776">1775</valid-since>
             <valid-until>1799</valid-until>
             <note>St. John’s Island was renamed Prince Edward Island in 1799</note>
         </variant>
     </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1769</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1873</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>

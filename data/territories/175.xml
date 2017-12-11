@@ -7,7 +7,7 @@
     <variants><variant>
         <variant-id>175_1</variant-id>
         <variant-name>Savage Island</variant-name>
-        <valid-since>1775</valid-since>
+        <valid-since type="pre-1776">1775</valid-since>
         <valid-until>1963</valid-until>
         <note>Name first recorded by Captain James Cook, who sighted the island in 1774.</note>
     </variant></variants>

@@ -8,8 +8,8 @@
         <variant>
             <variant-id>v1</variant-id>
             <variant-name>Faeroe Islands</variant-name>
-            <valid-since/>
-            <valid-until/>
+            <valid-since type="unknown"/>
+            <valid-until type="unknown"/>
             <note/>
         </variant>
     </variants>

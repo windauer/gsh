@@ -8,7 +8,7 @@
         <variant>
             <variant-id>18_1</variant-id>
             <variant-name>Somers Islands</variant-name>
-            <valid-since>1609</valid-since>
+            <valid-since type="pre-1776">1775</valid-since>
             <valid-until>1901</valid-until>
             <note/>
         </variant>

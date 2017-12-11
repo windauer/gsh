@@ -7,7 +7,7 @@
     <variants><variant>
         <variant-id>332_1</variant-id>
         <variant-name>East Bengal</variant-name>
-        <valid-since></valid-since>
+        <valid-since type="unknown"></valid-since>
         <valid-until>1955</valid-until>
         <note>Under Governor-General Iskander Mirza, East Bengal's name was changed to East Pakistan.</note>
     </variant></variants>

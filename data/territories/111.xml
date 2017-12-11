@@ -8,7 +8,7 @@
         <variant>
             <variant-id>111_1</variant-id>
             <variant-name>Persia</variant-name>
-            <valid-since>1775</valid-since>
+            <valid-since type="pre-1776">1775</valid-since>
             <valid-until>1935</valid-until>
             <note>Iran has often been referred to as Persia since ancient Greek times, the name
                 deriving from Greek records and histories. In 1935, the Shah requested that foreign

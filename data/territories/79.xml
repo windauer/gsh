@@ -22,7 +22,7 @@
         <variant-id>79_3</variant-id>
         <variant-name>Republic of the Fiji Islands</variant-name>
         <valid-since>1998</valid-since>
-        <valid-until>9999</valid-until>
+        <valid-until type="present">9999</valid-until>
         <note></note>
     </variant></variants>
     <type-of-territory>independent-state</type-of-territory>

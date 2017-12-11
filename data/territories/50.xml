@@ -8,8 +8,8 @@
         <variant>
             <variant-id>50_1</variant-id>
             <variant-name>Ile de la Passion</variant-name>
-            <valid-since>1775</valid-since>
-            <valid-until>9999</valid-until>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until type="present">9999</valid-until>
             <note></note>
         </variant>
     </variants>

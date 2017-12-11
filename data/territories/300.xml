@@ -6,7 +6,7 @@
     <long-form-name>Kingdom of Bunyoro-Kitara</long-form-name>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1200</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1896</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>

@@ -7,14 +7,14 @@
     <variants><variant>
         <variant-id>103_1</variant-id>
         <variant-name>Papal States</variant-name>
-        <valid-since>1775</valid-since>
+        <valid-since type="pre-1776">1775</valid-since>
         <valid-until>1929</valid-until>
         <note></note>
     </variant>
     <variant>
         <variant-id>103_2</variant-id>
         <variant-name>Pontifical States</variant-name>
-        <valid-since>1775</valid-since>
+        <valid-since type="pre-1776">1775</valid-since>
         <valid-until>1929</valid-until>
         <note></note>
     </variant></variants>

@@ -9,7 +9,7 @@
     <valid-since>1858</valid-since>
     <valid-until>1947</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
         <successor rel="independence">180</successor>
         <successor rel="independence">109</successor>

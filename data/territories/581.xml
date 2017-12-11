@@ -6,10 +6,10 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1670</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1870</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
         <successor rel="incorporation">42</successor>
     </successors>

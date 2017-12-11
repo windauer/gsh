@@ -6,7 +6,7 @@
     <long-form-name>Kingdom of Buganda</long-form-name>
     <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1400</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1894</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>

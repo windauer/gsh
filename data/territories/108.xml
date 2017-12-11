@@ -15,8 +15,8 @@
         <variant>
             <variant-id>108_2</variant-id>
             <variant-name>Lydveldid Island</variant-name>
-            <valid-since></valid-since>
-            <valid-until></valid-until>
+            <valid-since>1918</valid-since>
+            <valid-until type="present">9999</valid-until>
             <note></note>
         </variant>
     </variants>

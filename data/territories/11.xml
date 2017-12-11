@@ -8,28 +8,28 @@
         <variant-id>11_1</variant-id>
         <variant-name>United Provinces of the Rio de la Plata</variant-name>
         <valid-since>1853</valid-since>
-        <valid-until></valid-until>
+        <valid-until type="unknown"></valid-until>
         <note></note>
     </variant>
     <variant>
         <variant-id>11_1</variant-id>
         <variant-name>Argentine Republic</variant-name>
         <valid-since>1853</valid-since>
-        <valid-until></valid-until>
+        <valid-until type="unknown"></valid-until>
         <note></note>
     </variant>
         <variant>
             <variant-id>11_1</variant-id>
             <variant-name>Argentine Confederation</variant-name>
             <valid-since>1853</valid-since>
-            <valid-until></valid-until>
+            <valid-until type="unknown"></valid-until>
             <note></note>
         </variant>
         <variant>
             <variant-id>11_1</variant-id>
             <variant-name>Argentine Nation</variant-name>
             <valid-since>1853</valid-since>
-            <valid-until></valid-until>
+            <valid-until type="unknown"></valid-until>
             <note></note>
         </variant></variants>
     <type-of-territory>independent-state</type-of-territory>

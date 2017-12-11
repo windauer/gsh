@@ -8,7 +8,7 @@
         <variant>
             <variant-id>319_1</variant-id>
             <variant-name>Kingdom of Dahomey</variant-name>
-            <valid-since>1775</valid-since>
+            <valid-since type="pre-1776">1775</valid-since>
             <valid-until>1892</valid-until>
             <note/>
         </variant>

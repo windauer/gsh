@@ -40,10 +40,51 @@
                             <text/>
                         </element>
                         <element name="valid-since">
-                            <data type="gYear"/>
+                           <choice>
+                                <attribute name="type">
+                                    <value>unknown</value>
+                                </attribute>
+                                <group>
+                                    <attribute name="type">
+                                        <value>pre-1776</value>
+                                    </attribute>
+                                    <value>1775</value>
+                                </group>
+                                <group>
+                                    <optional>
+                                        <attribute name="precision">
+                                            <data type="integer"/>
+                                        </attribute>
+                                    </optional>
+                                    <data type="gYear"/>
+                                </group>
+                            </choice>
                         </element>
                         <element name="valid-until">
-                            <data type="gYear"/>
+                            <choice>
+                                <attribute name="type">
+                                    <value>unknown</value>
+                                </attribute>
+                                <group>
+                                    <attribute name="type">
+                                        <value>present</value>
+                                    </attribute>
+                                    <value>9999</value>
+                                </group>
+                                <group>
+                                    <optional>
+                                        <attribute name="certainty">
+                                            <data type="string"/>
+                                        </attribute>
+                                    </optional>
+                                    <optional>
+                                        <attribute name="precision">
+                                            <data type="integer"/>
+                                        </attribute>
+                                    </optional>
+                                    <data type="gYear"/>
+                                </group>
+                            </choice>
                         </element>
                         <element name="note">
                             <text/>

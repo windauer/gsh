@@ -4,13 +4,22 @@
     <old-id>malaya-1963</old-id>
     <short-form-name>Malaya</short-form-name>
     <long-form-name>Federation of Malaya</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>419_1</variant-id>
+            <variant-name>Malayan Union</variant-name>
+            <valid-since>1946</valid-since>
+            <valid-until>1948</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1948</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1963</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>146</successor>
+        <successor rel="independence">146</successor>
     </successors>
     <notes>U.S. recognized independence in 1957</notes>
     <sources>

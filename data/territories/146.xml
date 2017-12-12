@@ -4,12 +4,13 @@
     <old-id>malaysia</old-id>
     <short-form-name>Malaysia</short-form-name>
     <long-form-name type="none"/>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1963</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>419</predecessor>
+        <predecessor rel="independence">419</predecessor>
     </predecessors>
     <successors/>
     <notes/>

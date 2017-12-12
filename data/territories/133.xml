@@ -4,17 +4,13 @@
     <old-id>laos</old-id>
     <short-form-name>Laos</short-form-name>
     <long-form-name>Lao People’s Democratic Republic</long-form-name>
+    <variants></variants>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1950</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>407</predecessor>
-        <predecessor>413</predecessor>
-        <predecessor>310</predecessor>
-        <predecessor>561</predecessor>
-        <predecessor>266</predecessor>
-        <predecessor>383</predecessor>
+        <predecessor rel="independence">383</predecessor>
     </predecessors>
     <successors/>
     <notes>Gained independence in 1949</notes>

@@ -1146,11 +1146,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/142</url>
         </other-mention>
         <other-mention>
-            <display-name>Formosa (1590–1683)</display-name>
-            <territory-id>347</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/347</url>
-        </other-mention>
-        <other-mention>
             <display-name>Taiwan (1895–1945)</display-name>
             <territory-id>523</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/523</url>
@@ -1575,13 +1570,8 @@
             <territory-id>67</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/67</url>
         </current-territory>
-        <predecessor>
-            <display-name>French Territory of the Afars and Issas (1967–1977)</display-name>
-            <territory-id>356</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/356</url>
-        </predecessor>
-        <predecessor>
-            <display-name>French Somaliland (1888–1967)</display-name>
+       <predecessor>
+            <display-name>French Somaliland (1888–1977)</display-name>
             <territory-id>353</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/353</url>
         </predecessor>
@@ -3547,26 +3537,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/561</url>
         </predecessor>
         <predecessor>
-            <display-name>Luang (1707–1752)</display-name>
-            <territory-id>413</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/413</url>
-        </predecessor>
-        <predecessor>
             <display-name>Champasak (1707–1778)</display-name>
             <territory-id>310</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/310</url>
         </predecessor>
-        <predecessor>
-            <display-name>Siam (1238–1939)</display-name>
-            <territory-id>498</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/498</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Lan Xang (?–1707)</display-name>
-            <territory-id>407</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/407</url>
-        </predecessor>
-        <other-mention>
+       <other-mention>
             <display-name>Thailand (1939–present)</display-name>
             <territory-id>235</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/235</url>
@@ -3824,12 +3799,7 @@
             <territory-id>380</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/380</url>
         </other-mention>
-        <other-mention>
-            <display-name>Formosa (1590–1683)</display-name>
-            <territory-id>347</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/347</url>
-        </other-mention>
-        <other-mention>
+       <other-mention>
             <display-name>Taiwan (1895–1945)</display-name>
             <territory-id>523</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/523</url>
@@ -3923,7 +3893,7 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/146</url>
         </current-territory>
         <predecessor>
-            <display-name>Malaya (1948–1963)</display-name>
+            <display-name>Malaya (1775–1963)</display-name>
             <territory-id>419</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/419</url>
         </predecessor>
@@ -4822,16 +4792,11 @@
             <reviewed-date/>
         </review>
         <current-territory>
-            <display-name>Palmyra Atoll (?–present)</display-name>
+            <display-name>Palmyra Atoll (1782–present)</display-name>
             <territory-id>182</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/182</url>
         </current-territory>
-        <predecessor>
-            <display-name>Samarang (1798–1802)</display-name>
-            <territory-id>490</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/490</url>
-        </predecessor>
-    </lineage>
+   </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -5495,9 +5460,9 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/213</url>
         </current-territory>
         <predecessor>
-            <display-name>Malaya (1948–1963)</display-name>
-            <territory-id>419</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/419</url>
+            <display-name>Singapore (1775–1965)</display-name>
+            <territory-id>264</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/264</url>
         </predecessor>
         <other-mention>
             <display-name>Malaysia (1963–present)</display-name>

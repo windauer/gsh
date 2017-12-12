@@ -34,7 +34,7 @@
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>502</predecessor>
+        <predecessor rel="independence">288</predecessor>
     </predecessors>
     <successors/>
     <notes>Achieved independence on January 4, 1948. Since 1989 Burmese authorities have promoted

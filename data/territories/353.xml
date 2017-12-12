@@ -3,20 +3,27 @@
     <id>353</id>
     <old-id>french-somaliland-1967</old-id>
     <short-form-name>French Somaliland</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>353_1</variant-id>
+            <variant-name>French Territory of the Afars and Issas</variant-name>
+            <valid-since>1967</valid-since>
+            <valid-until>1977</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1888</valid-since>
-    <valid-until>1967</valid-until>
+    <valid-until>1977</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
-        <successor>356</successor>
-        <successor>67</successor>
+        <successor rel="independence">67</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/dj.html</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780195337709.001.0001/acref-9780195337709-e-1247?rskey=RiI7mO&amp;result=2</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/166928/Djibouti</source>
+        <source>http://www.britannica.com/place/Djibouti</source>
     </sources>
 </territory>

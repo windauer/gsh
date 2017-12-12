@@ -4,19 +4,18 @@
     <old-id>palmyra-atoll</old-id>
     <short-form-name>Palmyra Atoll</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since/>
-    <valid-until>9999</valid-until>
+    <valid-since>1782</valid-since>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
-    <predecessors>
-        <predecessor>490</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors/>
     <notes>Incorporated territory of the United States; Annexed by the Kingdom of Hawaii in
             1862; Annexed by the United States in 1898</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/440275/Palmyra-Atoll</source>
+        <source>http://www.britannica.com/place/Palmyra-Atoll</source>
         <source>http://books.google.com/books?id=ChyilRml0hcC</source>
     </sources>
 </territory>

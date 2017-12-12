@@ -10,7 +10,7 @@
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="independence">419</predecessor>
+        <predecessor rel="independence">264</predecessor>
     </predecessors>
     <successors/>
     <notes>Singapore was established in 1299. In 1511, the Johor Sultanate took control of Singapore

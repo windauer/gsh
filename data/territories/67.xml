@@ -4,12 +4,13 @@
     <old-id>djibouti</old-id>
     <short-form-name>Djibouti</short-form-name>
     <long-form-name>Republic of Djibouti</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1977</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>356</predecessor>
+        <predecessor rel="independence">353</predecessor>
     </predecessors>
     <successors/>
     <notes/>

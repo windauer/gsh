@@ -4,18 +4,18 @@
     <old-id>zambia</old-id>
     <short-form-name>Zambia</short-form-name>
     <long-form-name>Republic of Zambia</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1964</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>439</predecessor>
-        <predecessor>441</predecessor>
-        <predecessor>442</predecessor>
+       <predecessor rel="independence">442</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/za.html</source>
+        <source>http://www.britannica.com/place/Zambia</source>
     </sources>
 </territory>

@@ -9,7 +9,7 @@
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1966</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors/>
+    <predecessors type="none"/>
     <successors>
         <successor rel="independence">22</successor>
     </successors>

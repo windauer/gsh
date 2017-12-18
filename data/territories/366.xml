@@ -3,22 +3,22 @@
     <id>366</id>
     <old-id>germany-1949</old-id>
     <short-form-name>Germany</short-form-name>
-    <long-form-name/>
+    <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1945</valid-since>
     <valid-until>1949</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>365</predecessor>
+        <predecessor rel="incorporation">364</predecessor>
     </predecessors>
     <successors>
-        <successor>565</successor>
-        <successor>331</successor>
+        <successor rel="split">565</successor>
+        <successor rel="split">331</successor>
     </successors>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/de.hi</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/231186/Germany</source>
+        <source>http://www.britannica.com/place/Germany</source>
     </sources>
 </territory>

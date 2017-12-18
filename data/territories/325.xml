@@ -12,12 +12,12 @@
     <predecessors>
         <predecessor rel="merger">483</predecessor>
         <predecessor rel="merger">276</predecessor>
-        <predecessor rel="merger">468</predecessor>
+        <predecessor rel="merger">469</predecessor>
     </predecessors>
     <successors>
         <successor rel="split">483</successor>
         <successor rel="split">276</successor>
-        <successor rel="split">468</successor>
+        <successor rel="split">469</successor>
         <successor rel="independence">474</successor>
     </successors>
     <notes>Napoleon briefly established the Duchy of Warsaw to restore a semi-independent Polish

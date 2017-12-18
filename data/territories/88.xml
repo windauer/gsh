@@ -4,19 +4,19 @@
     <old-id>germany</old-id>
     <short-form-name>Germany</short-form-name>
     <long-form-name>Federal Republic of Germany</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1990</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>565</predecessor>
-        <predecessor>331</predecessor>
+        <predecessor rel="merger">565</predecessor>
+        <predecessor rel="merger">331</predecessor>
     </predecessors>
     <successors/>
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html</source>
-        <source>http://www.europaworld.com.proxy.lib.umich.edu/entry/de.hi</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/231186/Germany</source>
+        <source>http://www.britannica.com/place/Germany</source>
     </sources>
 </territory>

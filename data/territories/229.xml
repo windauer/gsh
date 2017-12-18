@@ -20,6 +20,7 @@
     <predecessors type="none"/>
     <successors>
         <successor rel="split">178</successor>
+        <successor rel="split">80</successor>
     </successors>
     <notes>Norway was in a dualistic unitary state with Denmark until 1814 when the Treaty of Kiel
         ceded Norway to Sweden. Norway declared independence from Sweden on June 7, 1905.</notes>

@@ -2,18 +2,16 @@
 <territory>
     <id>422</id>
     <old-id>marshall-islands-district-1986</old-id>
-    <short-form-name>Marshall Islands District</short-form-name>
+    <short-form-name>Marshall Islands</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1947</valid-since>
+    <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1986</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors>
-        <predecessor>364</predecessor>
-        <predecessor>119</predecessor>
-    </predecessors>
+    <predecessors type="none"/>
     <successors>
-        <successor>150</successor>
+        <successor rel="incorporation">535</successor>
     </successors>
     <notes>Part of the Trust Territory of the Pacific Islands</notes>
     <sources>

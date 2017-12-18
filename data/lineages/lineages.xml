@@ -84,11 +84,6 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/5</url>
         </current-territory>
         <predecessor>
-            <display-name>Samoa (1997–present)</display-name>
-            <territory-id>205</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/205</url>
-        </predecessor>
-        <predecessor>
             <display-name>Western Samoa (?–1997)</display-name>
             <territory-id>569</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/569</url>
@@ -347,8 +342,8 @@
         </current-territory>
         <predecessor>
             <display-name>Germany (1933–1945)</display-name>
-            <territory-id>365</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/365</url>
+            <territory-id>364</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/364</url>
         </predecessor>
         <predecessor>
             <display-name>First Austrian Republic</display-name>
@@ -2550,36 +2545,16 @@
             <territory-id>366</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/366</url>
         </predecessor>
-        <predecessor>
-            <display-name>Germany (1933–1945)</display-name>
-            <territory-id>365</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/365</url>
-        </predecessor>
-        <predecessor>
-            <display-name>Germany (1918–1933)</display-name>
+       <predecessor>
+            <display-name>Germany (1918–1945)</display-name>
             <territory-id>364</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/364</url>
         </predecessor>
         <predecessor>
-            <display-name>Prussia (1871–1918)</display-name>
+            <display-name>Prussia (1775–1918)</display-name>
             <territory-id>469</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/469</url>
         </predecessor>
-        <predecessor>
-            <display-name>Prussia (1701–1871)</display-name>
-            <territory-id>468</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/468</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Marshall Islands District (1947–1986)</display-name>
-            <territory-id>422</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/422</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Mariana Islands District (1947–1986)</display-name>
-            <territory-id>421</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/421</url>
-        </other-mention>
     </lineage>
     <lineage>
         <review>
@@ -4010,31 +3985,12 @@
             <territory-id>535</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/535</url>
         </predecessor>
-        <other-mention>
-            <display-name>Palau District (1947–1981)</display-name>
-            <territory-id>450</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/450</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Marshall Islands District (1947–1986)</display-name>
+     <predecessor>
+            <display-name>Marshall Islands (1775–1947)</display-name>
             <territory-id>422</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/422</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palau (1994–present)</display-name>
-            <territory-id>181</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/181</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Northern Mariana Islands (1986–present)</display-name>
-            <territory-id>177</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/177</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Micronesia, Federated States of (1986–present)</display-name>
-            <territory-id>156</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/156</url>
-        </other-mention>
+        </predecessor>
+      
     </lineage>
     <lineage>
         <review>
@@ -4413,15 +4369,10 @@
             <reviewed-date>2017-02-13</reviewed-date>
         </review>
         <current-territory>
-            <display-name>Nauru (1968–present)</display-name>
+            <display-name>Nauru (1798–present)</display-name>
             <territory-id>166</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/166</url>
         </current-territory>
-        <predecessor>
-            <display-name>Pleasant Island (1798–1888)</display-name>
-            <territory-id>460</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/460</url>
-        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -4958,16 +4909,11 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/376</url>
         </predecessor>
         <predecessor>
-            <display-name>Prussia (1871–1918)</display-name>
+            <display-name>Prussia (1775–1918)</display-name>
             <territory-id>469</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/469</url>
         </predecessor>
-        <predecessor>
-            <display-name>Prussia (1701–1871)</display-name>
-            <territory-id>468</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/468</url>
-        </predecessor>
-        <predecessor>
+       <predecessor>
             <display-name>Russian Empire (1721–1917)</display-name>
             <territory-id>483</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/483</url>
@@ -5278,12 +5224,7 @@
             <territory-id>569</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/569</url>
         </predecessor>
-        <other-mention>
-            <display-name>American Samoa (1900–present)</display-name>
-            <territory-id>5</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/5</url>
-        </other-mention>
-    </lineage>
+     </lineage>
     <lineage>
         <review>
             <status>reviewed</status>

@@ -13,8 +13,8 @@
         <predecessor rel="incorporation">177</predecessor>
     </predecessors>
     <successors>
-        <successor>150</successor>
-        <successor>156</successor>
+        <successor rel="independence">150</successor>
+        <successor rel="independence">156</successor>
         <successor rel="independence">181</successor>
         <successor rel="split">177</successor>
     </successors>

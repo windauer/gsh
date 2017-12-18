@@ -4,6 +4,7 @@
     <old-id>taiwan-1945</old-id>
     <short-form-name>Taiwan</short-form-name>
     <long-form-name type="none"/>
+    <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1895</valid-since>
     <valid-until>1945</valid-until>
@@ -17,9 +18,9 @@
     <notes/>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html</source>
-        <source>http://www.britannica.com/EBchecked/topic/580902/Taiwan/30027/Cultural-life#toc214552 </source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/580902/Taiwan</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/111803/China</source>
+        <source>http://www.britannica.com/place/Taiwan/30027/Cultural-life#toc214552 </source>
+        <source>http://britannica.com/place/Taiwan</source>
+        <source>http://britannica.com/place/China</source>
         <source>http://history.state.gov/countries/china</source>
     </sources>
 </territory>

@@ -4,15 +4,16 @@
     <old-id>east-germany-1990</old-id>
     <short-form-name>East Germany</short-form-name>
     <long-form-name>German Democratic Republic</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1949</valid-since>
     <valid-until>1990</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor>366</predecessor>
+        <predecessor rel="split">366</predecessor>
     </predecessors>
     <successors>
-        <successor>88</successor>
+        <successor rel="merger">88</successor>
     </successors>
     <notes/>
     <sources>

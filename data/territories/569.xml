@@ -2,7 +2,7 @@
 <territory>
     <id>569</id>
     <old-id>western-samoa-1997</old-id>
-    <short-form-name>Western Samoa</short-form-name>
+    <short-form-name>Samoa</short-form-name>
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>independent-state</type-of-territory>
@@ -12,6 +12,7 @@
     <predecessors type="none"/>
     <successors>
         <successor rel="independence">205</successor>
+        <successor rel="split">5</successor>
     </successors>
     <notes>In the 1850s, U.S., German, and British settlers on Samoa began lobbying their respective
         countries to annex Samoa. In 1899, the United States annexed Eastern Samoa, referred to as

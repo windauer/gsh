@@ -4,12 +4,13 @@
     <old-id>marshall-islands</old-id>
     <short-form-name>Marshall Islands</short-form-name>
     <long-form-name>Republic of the Marshall Islands</long-form-name>
+    <variants/>
     <type-of-territory>independent-state</type-of-territory>
     <valid-since>1986</valid-since>
-    <valid-until>9999</valid-until>
+    <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor>535</predecessor>
+        <predecessor rel="independence">535</predecessor>
     </predecessors>
     <successors/>
     <notes/>

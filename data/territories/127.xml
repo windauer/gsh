@@ -4,9 +4,17 @@
     <old-id>kiribati</old-id>
     <short-form-name>Kiribati</short-form-name>
     <long-form-name>Republic of Kiribati</long-form-name>
-    <variants></variants>
+    <variants>
+        <variant>
+            <variant-id>127_1</variant-id>
+            <variant-name>Gilbert Island</variant-name>
+            <valid-since>1976</valid-since>
+            <valid-until>1979</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1979</valid-since>
+    <valid-since>1976</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>

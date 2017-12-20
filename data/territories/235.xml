@@ -18,7 +18,9 @@
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors type="none"/>
-    <successors/>
+    <successors>
+        <successor rel="incorporation">383</successor>
+    </successors>
     <notes>In 1768 the Thai monarchy was recreated after Burma’s 1767 invasion destroyed the
         Ayutthaya Kingdom. Other sources trace the Kingdom of Siam much further back, e.g., to the
         Sukhothai Kingdom (1238–1438) or the Ayutthaya Kingdom (1351–1767).</notes>

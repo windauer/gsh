@@ -20,6 +20,7 @@
     <predecessors type="none"/>
     <successors>
         <successor rel="independence">146</successor>
+        <successor rel="split">213</successor>
     </successors>
     <notes>U.S. recognized independence in 1957</notes>
     <sources>

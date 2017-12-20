@@ -3,21 +3,32 @@
     <id>367</id>
     <old-id>gilbert-and-ellice-islands-1975</old-id>
     <short-form-name>Gilbert and Ellice Islands</short-form-name>
-    <long-form-name type="none"/>
-    <variants></variants>
+    <long-form-name>Gilbert and Ellice Island Colony</long-form-name>
+    <variants>
+        <variant>
+            <variant-id>367_1</variant-id>
+            <variant-name>British Western Pacific Territories</variant-name>
+            <valid-since>1892</valid-since>
+            <valid-until>1971</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1916</valid-since>
-    <valid-until>1975</valid-until>
+    <valid-until>1976</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">368</predecessor>
         <predecessor rel="incorporation">336</predecessor>
+        <predecessor rel="incorporation">347</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">127</successor>
         <successor rel="independence">245</successor>
     </successors>
-    <notes>British Crown Colony and Protectorate</notes>
+    <notes>British Crown Colony and Protectorate. Japan gained control of the islands during WWII,
+        at the close of which the British resumed sovereignty. Despite efforts to separate from the
+        Gilbert Islands during the 1970s, Banaba Island remains part of the polity.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html</source>
         <source>http://britannica.com/place/Gilbert-and-Ellice-Islands</source>

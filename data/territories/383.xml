@@ -10,23 +10,25 @@
             <variant-name>Union Indochinoises</variant-name>
             <valid-since>1887</valid-since>
             <valid-until>1947</valid-until>
-            <note></note>
+            <note/>
         </variant>
         <variant>
             <variant-id>383_2</variant-id>
             <variant-name>Fédération Indochinoise</variant-name>
             <valid-since>1947</valid-since>
             <valid-until>1949</valid-until>
-            <note></note>
+            <note/>
         </variant>
     </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1887</valid-since>
-    <valid-until>1954</valid-until>
+    <valid-until>1953</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
+        <predecessor rel="incorporation">235</predecessor>
         <predecessor rel="incorporation">593</predecessor>
-       <predecessor rel="incorporation">312</predecessor>
+        <predecessor rel="incorporation">312</predecessor>
+        <predecessor rel="incorporation">310</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">519</successor>
@@ -34,8 +36,10 @@
         <successor rel="independence">518</successor>
         <successor rel="independence">440</successor>
     </successors>
-    <notes></notes>
+    <notes>France conquered the Laotian parts of Siam. France established a protectorate over Laos
+        under the name the Kingdom of Louangphrabang or the Kingdom of Laos. During WWII, Japan
+        declared Laotian independence in 1945 and made it a part of the Japanese Empire.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html</source>
-   </sources>
+    </sources>
 </territory>

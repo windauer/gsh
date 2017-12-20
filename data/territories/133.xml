@@ -4,9 +4,17 @@
     <old-id>laos</old-id>
     <short-form-name>Laos</short-form-name>
     <long-form-name>Lao People’s Democratic Republic</long-form-name>
-    <variants></variants>
+    <variants>
+        <variant>
+            <variant-id>133_1</variant-id>
+            <variant-name>Kingdom of Laos</variant-name>
+            <valid-since>1953</valid-since>
+            <valid-until>1975</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>independent-state</type-of-territory>
-    <valid-since>1950</valid-since>
+    <valid-since>1953</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>

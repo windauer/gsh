@@ -11,6 +11,7 @@
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="incorporation">177</predecessor>
+        <predecessor rel="incorporation">422</predecessor>
     </predecessors>
     <successors>
         <successor rel="independence">150</successor>

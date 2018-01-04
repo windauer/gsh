@@ -4,18 +4,47 @@
     <old-id>marshall-islands-district-1986</old-id>
     <short-form-name>Marshall Islands</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>422_1</variant-id>
+            <variant-name>Marshall Islands District</variant-name>
+            <valid-since>1947</valid-since>
+            <valid-until>1986</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>422_2</variant-id>
+            <variant-name>German New Guinea</variant-name>
+            <valid-since>1885</valid-since>
+            <valid-until>1920</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>422_3</variant-id>
+            <variant-name>South Pacific Mandate</variant-name>
+            <valid-since>1920</valid-since>
+            <valid-until>1947</valid-until>
+            <note></note>
+        </variant>
+        <variant>
+            <variant-id>422_4</variant-id>
+            <variant-name>Japanese Mandate for the South Seas Islands</variant-name>
+            <valid-since>1947</valid-since>
+            <valid-until>1986</valid-until>
+            <note></note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until>1986</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors type="none"/>
     <successors>
-        <successor rel="incorporation">535</successor>
+        <successor rel="independence">150</successor>
     </successors>
     <notes>Part of the Trust Territory of the Pacific Islands</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/366624/Marshall-Islands</source>
+        <source>http://britannica.com/place/Marshall-Islands</source>
     </sources>
 </territory>

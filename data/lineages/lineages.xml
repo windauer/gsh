@@ -825,7 +825,7 @@
             <territory-id>266</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/266</url>
         </predecessor>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -3679,7 +3679,7 @@
             <territory-id>142</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/142</url>
         </current-territory>
-     </lineage>
+    </lineage>
     <lineage>
         <review>
             <status>reviewed</status>
@@ -3753,9 +3753,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>NicklesD</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2018-01-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Malaysia (1963–present)</display-name>
@@ -3861,9 +3861,9 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>NicklesD</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2018-01-04</reviewed-date>
         </review>
         <current-territory>
             <display-name>Marshall Islands (1986–present)</display-name>
@@ -3871,16 +3871,15 @@
             <url>http://localhost:8080/exist/apps/gsh/territories/150</url>
         </current-territory>
         <predecessor>
-            <display-name>Trust Territory of the Pacific Islands (1947–1986)</display-name>
-            <territory-id>535</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/535</url>
-        </predecessor>
-        <predecessor>
             <display-name>Marshall Islands (1775–1947)</display-name>
             <territory-id>422</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/422</url>
         </predecessor>
-
+        <other-mention>
+            <display-name>Trust Territory of the Pacific Islands (1947–1986)</display-name>
+            <territory-id>535</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/535</url>
+        </other-mention>
     </lineage>
     <lineage>
         <review>

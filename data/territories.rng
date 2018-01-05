@@ -34,7 +34,7 @@
                 <zeroOrMore>
                     <element name="variant">
                         <element name="variant-id">
-                            <data type="NCName"/>
+                            <data type="string"/>
                         </element>
                         <element name="variant-name">
                             <text/>

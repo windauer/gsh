@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>365</id>
+    <old-id/>
+    <short-form-name>Caroline Islands</short-form-name>
+    <long-form-name type="none"/>
+    <variants>
+        <variant>
+            <variant-id>365_1</variant-id>
+            <variant-name>Eastern Caroline Islands</variant-name>
+            <valid-since type="pre-1776">1775</valid-since>
+            <valid-until>1986</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>365_2</variant-id>
+            <variant-name>Spanish East Indies</variant-name>
+            <valid-since>1886</valid-since>
+            <valid-until>1899</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>365_3</variant-id>
+            <variant-name>New Philippines</variant-name>
+            <valid-since>1886</valid-since>
+            <valid-until>1889</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>365_4</variant-id>
+            <variant-name>German New Guinea</variant-name>
+            <valid-since>1899</valid-since>
+            <valid-until>1920</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>365_5</variant-id>
+            <variant-name>South Pacific Mandate</variant-name>
+            <valid-since>1920</valid-since>
+            <valid-until>1947</valid-until>
+            <note/>
+        </variant>
+        <variant>
+            <variant-id>365_6</variant-id>
+            <variant-name>Japanese Mandate for the South Seas Islands</variant-name>
+            <valid-since>1920</valid-since>
+            <valid-until>1947</valid-until>
+            <note/>
+        </variant>
+    </variants>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1986</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="incorporation">535</successor>
+        <successor rel="independence">156</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/fm.html</source>
+        <source>http://www.marines.mil/portals/59/publications/oceania%20study_1.pdf</source>
+        <source>https://www.britannica.com/place/Micronesia-republic-Pacific-Ocean</source>
+    </sources>
+</territory>

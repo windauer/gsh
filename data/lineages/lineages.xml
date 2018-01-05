@@ -3993,39 +3993,24 @@
     </lineage>
     <lineage>
         <review>
-            <status>unreviewed</status>
+            <status>reviewed</status>
             <reviewer>NicklesD</reviewer>
-            <reviewed-date/>
+            <reviewed-date>2018-01-05</reviewed-date>
         </review>
         <current-territory>
             <display-name>Micronesia, Federated States of (1986–present)</display-name>
             <territory-id>156</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/156</url>
         </current-territory>
-        <predecessor>
+         <predecessor>
+             <display-name>Caroline Islands</display-name>
+             <territory-id>365</territory-id>
+             <url>http://localhost:8080/exist/apps/gsh/territories/365</url>
+         </predecessor>
+        <other-mention>
             <display-name>Trust Territory of the Pacific Islands (1947–1986)</display-name>
             <territory-id>535</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/535</url>
-        </predecessor>
-        <other-mention>
-            <display-name>Palau District (1947–1981)</display-name>
-            <territory-id>450</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/450</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Palau (1994–present)</display-name>
-            <territory-id>181</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/181</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Northern Mariana Islands (1986–present)</display-name>
-            <territory-id>177</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/177</url>
-        </other-mention>
-        <other-mention>
-            <display-name>Marshall Islands (1986–present)</display-name>
-            <territory-id>150</territory-id>
-            <url>http://localhost:8080/exist/apps/gsh/territories/150</url>
         </other-mention>
     </lineage>
     <lineage>

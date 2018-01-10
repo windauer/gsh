@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory>
+    <id>356</id>
+    <old-id/>
+    <short-form-name>Samoan Islands</short-form-name>
+    <long-form-name type="none"/>
+    <variants/>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
+    <valid-since type="pre-1776">1775</valid-since>
+    <valid-until>1899</valid-until>
+    <exists-on-todays-map>false</exists-on-todays-map>
+    <predecessors type="none"/>
+    <successors>
+        <successor rel="split">5</successor>
+        <successor rel="split">569</successor>
+    </successors>
+    <notes/>
+    <sources>
+        <source>https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html</source>
+    </sources>
+</territory>

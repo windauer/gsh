@@ -6,15 +6,16 @@
     <long-form-name>Territory of American Samoa</long-form-name>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1900</valid-since>
+    <valid-since>1899</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="split">569</predecessor>
+        <predecessor rel="split">356</predecessor>
     </predecessors>
     <successors/>
     <notes>Unincorporated and unorganized territory of the United States</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html</source>
+        <source>http://history.state.gov/countries/samoa</source>
     </sources>
 </territory>

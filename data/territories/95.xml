@@ -4,14 +4,25 @@
     <old-id>guam</old-id>
     <short-form-name>Guam</short-form-name>
     <long-form-name>Territory of Guam</long-form-name>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>95_1</variant-id>
+            <variant-name>Omiyato</variant-name>
+            <valid-since>1941</valid-since>
+            <valid-until>1944</valid-until>
+            <note>Japanese occupation during World War II.</note>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since type="pre-1776">1775</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors type="none"/>
     <successors/>
-    <notes>Organized, unincorporated territory of the United States</notes>
+    <notes>The Spanish first began colonizing the island in the 17th century and occupied it until
+        the United States gained administrative control in the Treaty of Paris ending the
+        Spanish-American War. In 1950, it officially became an organized, unincorporated territory
+        of the United States.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/gq.html</source>
     </sources>

@@ -10,7 +10,7 @@
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors>
-       <predecessor rel="independence">442</predecessor>
+       <predecessor rel="independence">437</predecessor>
     </predecessors>
     <successors/>
     <notes/>

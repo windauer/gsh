@@ -5,14 +5,15 @@
     <short-form-name>Samoa</short-form-name>
     <long-form-name type="none"/>
     <variants/>
-    <type-of-territory>independent-state</type-of-territory>
+    <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1899</valid-since>
     <valid-until>1962</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
-    <predecessors type="none"/>
+    <predecessors>
+        <predecessor rel="split">356</predecessor>
+    </predecessors>
     <successors>
         <successor rel="independence">205</successor>
-        <successor rel="split">5</successor>
     </successors>
     <notes>In the 1850s, U.S., German, and British settlers on Samoa began lobbying their respective
         countries to annex Samoa. In 1899, the United States annexed Eastern Samoa, referred to as
@@ -21,7 +22,5 @@
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html</source>
         <source>http://history.state.gov/countries/samoa</source>
-        <source>http://www.oxfordreference.com.proxy.lib.umich.edu/view/10.1093/acref/9780191751394.001.0001/acref-9780191751394-e-6551</source>
-        <source>http://academic.eb.com.proxy.lib.umich.edu/EBchecked/topic/520589/Samoa</source>
     </sources>
 </territory>

@@ -6,15 +6,15 @@
     <long-form-name type="none"/>
     <variants/>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
-    <valid-since>1986</valid-since>
-    <valid-until>1964</valid-until>
+    <valid-since>1911</valid-since>
+    <valid-until>1953</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
         <predecessor rel="merger">439</predecessor>
         <predecessor rel="merger">441</predecessor>
     </predecessors>
     <successors>
-        <successor rel="independence">262</successor>
+        <successor rel="incorporation">437</successor>
     </successors>
     <notes/>
     <sources>

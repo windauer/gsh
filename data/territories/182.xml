@@ -4,15 +4,24 @@
     <old-id>palmyra-atoll</old-id>
     <short-form-name>Palmyra Atoll</short-form-name>
     <long-form-name type="none"/>
-    <variants/>
+    <variants>
+        <variant>
+            <variant-id>182_1</variant-id>
+            <variant-name>Samarang Island</variant-name>
+            <valid-since>1802</valid-since>
+            <valid-until type="present">9999</valid-until>
+            <note/>
+        </variant>
+    </variants>
     <type-of-territory>dependency-or-area-of-special-sovereignty</type-of-territory>
     <valid-since>1782</valid-since>
     <valid-until type="present">9999</valid-until>
     <exists-on-todays-map>true</exists-on-todays-map>
     <predecessors type="none"/>
     <successors/>
-    <notes>Incorporated territory of the United States; Annexed by the Kingdom of Hawaii in
-            1862; Annexed by the United States in 1898</notes>
+    <notes>Incorporated territory of the United States. The Kingdom of Hawaii annexed Palmyra Atoll
+        in 1862. It was later annexed by the United States in 1898 and remained a territory when
+        Hawaii became a state in 1959.</notes>
     <sources>
         <source>https://www.cia.gov/library/publications/the-world-factbook/geos/um.html</source>
         <source>http://www.britannica.com/place/Palmyra-Atoll</source>

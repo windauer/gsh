@@ -3368,6 +3368,11 @@
             <territory-id>368</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/368</url>
         </predecessor>
+        <predecessor>
+            <display-name>Banaba Island</display-name>
+            <territory-id>347</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/347</url>
+        </predecessor>
     </lineage>
     <lineage>
         <review>
@@ -3475,6 +3480,11 @@
             <display-name>Champasak (1707–1910)</display-name>
             <territory-id>310</territory-id>
             <url>http://localhost:8080/exist/apps/gsh/territories/310</url>
+        </predecessor>
+        <predecessor>
+            <display-name>Vientiane</display-name>
+            <territory-id>561</territory-id>
+            <url>http://localhost:8080/exist/apps/gsh/territories/561</url>
         </predecessor>
     </lineage>
     <lineage>

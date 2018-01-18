@@ -10,7 +10,7 @@
     <valid-until>1906</valid-until>
     <exists-on-todays-map>false</exists-on-todays-map>
     <predecessors>
-        <predecessor rel="incorporation">322</predecessor>
+        <predecessor rel="incorporation">313</predecessor>
     </predecessors>
     <successors>
         <successor rel="incorporation">311</successor>

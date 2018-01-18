@@ -30,7 +30,7 @@ declare function local:lineages-landing-page() {
         gsh:wrap-html($content, $title)
 };
 
-declare function local:show-lineage($lineage-id) {
+declare function local:show-lineage($lineage-id as xs:integer, $enable-review-checkboxes as xs:boolean) {
     let $lineage :=  collection('/db/apps/gsh/data/lineages')//lineage[current-territory/territory-id = $lineage-id]
     let $current-territory := $lineage/current-territory
     let $predecessors := $lineage/predecessor
@@ -125,9 +125,12 @@ declare function local:show-lineage($lineage-id) {
                                                     attribute href { $gsh:territories-home || "/" || $t },
                                                     gsh:territory-id-to-short-name-with-years-valid($t)
                                                 },
-                                                element ul {
-                                                    element li { gsh:review-checkbox(("Keep", "Move to lineage of _____ ")) }
-                                                }
+                                                if ($enable-review-checkboxes) then 
+                                                    element ul {
+                                                        element li { gsh:review-checkbox(("Keep", "Move to lineage of _____ ")) }
+                                                    }
+                                                else
+                                                    ()
                                             }
                                     }
                                 else 
@@ -170,9 +173,12 @@ declare function local:show-lineage($lineage-id) {
                                                         else
                                                             ()
                                                     ,
-                                                    element ul {
-                                                        element li { gsh:review-checkbox(("Delete", "Promote to ancestor (after #__)")) }
-                                                    }
+                                                    if ($enable-review-checkboxes) then 
+                                                        element ul {
+                                                            element li { gsh:review-checkbox(("Delete", "Promote to ancestor (after #__)")) }
+                                                        }
+                                                    else
+                                                        ()
                                                 }
                                         }
                                     else 
@@ -204,12 +210,17 @@ declare function local:show-lineage($lineage-id) {
                                                             ,
                                                             " and "
                                                         ),
-                                                        element br { () },
-                                                        element ul { 
-                                                            element li { 
-                                                                gsh:review-checkbox(("Delete", "Promote to ancestor (after #__)"))
-                                                            }
-                                                        }
+                                                        if ($enable-review-checkboxes) then 
+                                                            (
+                                                                element br { () },
+                                                                element ul { 
+                                                                    element li { 
+                                                                        gsh:review-checkbox(("Delete", "Promote to ancestor (after #__)"))
+                                                                    }
+                                                                }
+                                                            )
+                                                        else
+                                                            ()
                                                     )
                                                 else
                                                     ()
@@ -235,7 +246,7 @@ declare function local:show-lineage($lineage-id) {
                 let $counter-name := $lineage/current-territory/territory-id || "-issue"
                 let $counter := (counter:destroy($counter-name), counter:create($counter-name, 100))
                 return
-                    gsh:territories-to-list($territories, $counter-name, true(), true())
+                    gsh:territories-to-list($territories, $counter-name, true(), false())
             }
         }
     let $title := "Lineage of " || $current-territory/display-name 
@@ -382,9 +393,10 @@ declare function local:show-all-lineages() {
 
 let $lineage-id := request:get-parameter("lineage", ())
 let $show-all := request:get-parameter("show-all", ())
+let $enable-review-checkboxes := request:get-parameter("enable-review-checkboxes", false())
 return
     if ($lineage-id) then
-        local:show-lineage($lineage-id)
+        local:show-lineage($lineage-id, $enable-review-checkboxes)
     else if ($show-all) then
         local:show-all-lineages()
     else

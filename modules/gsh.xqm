@@ -120,7 +120,15 @@ declare function gsh:territory-id-to-short-name-with-years-valid($territory-id a
         concat(
             $territory/short-form-name, 
             ' (', 
-            if ($territory/valid-since ne '') then if (starts-with($territory/valid-since, '-')) then $territory/valid-since/string() else replace($territory/valid-since, '-', '/') else '?', 
+            if ($territory/valid-since/@type eq 'pre-1776') then
+                'pre-1776'
+            else if ($territory/valid-since ne '') then 
+                if (starts-with($territory/valid-since, '-')) then 
+                    $territory/valid-since/string()
+                else 
+                    replace($territory/valid-since, '-', '/') 
+            else 
+                '?', 
             '–',
              if ($territory/valid-until ne '') then if ($territory/valid-until = '9999') then 'present' else replace($territory/valid-until, '-', '/') else '?',
             ')'
@@ -203,7 +211,10 @@ declare function gsh:territories-to-table($territories, $counter-name) {
                         if ($territory/valid-since = '' or not(matches($territory/valid-since, '^-?\d{4}(-\d{2})?$'))) then
                             (attribute class {'warning'}, concat('[#', counter:next-value($counter-name), ']'))
                         else (),
-                        concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
+                        if ($territory/valid-since/@type eq 'pre-1776') then
+                            'pre-1776'
+                        else 
+                            concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
                         },
                     element td { 
                         if ($territory/valid-until = '' or not(matches($territory/valid-until, '^-?\d{4}(-\d{2})?$'))) then
@@ -393,11 +404,11 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                                 for $variant in $variants
                                 return
                                     element li {
-                                        '"' || $variant/variant-name || '" (' || ($variant/valid-since, "?")[. ne ''][1] || "–" || (if ($variant/valid-until = '9999') then 'present' else $variant/valid-until) || "): " || $variant/note
+                                        '"' || $variant/variant-name || '" (' || (if ($variant/valid-since/@type eq 'pre-1776') then 'pre-1776' else $variant/valid-since, "?")[. ne ''][1] || "–" || (if ($variant/valid-until = '9999') then 'present' else $variant/valid-until) || "): " || $variant/note
                                     }
                             }</ol>
                         else
-                            '"' || $variants/variant-name || '" (' || ($variants/valid-since, "?")[. ne ''][1] || "–" || (if ($variants/valid-until = '9999') then 'present' else $variants/valid-until) || "): " || $variants/note
+                            '"' || $variants/variant-name || '" (' || (if ($variants/valid-since/@type eq 'pre-1776') then 'pre-1776' else $variants/valid-since, "?")[. ne ''][1] || "–" || (if ($variants/valid-until = '9999') then 'present' else $variants/valid-until) || "): " || $variants/note
                         )
                     },
                     if ($enable-review-checkboxes) then 
@@ -444,7 +455,10 @@ declare function gsh:territories-to-list($territories, $counter-name, $enable-li
                             (
                             if ($warning) then gsh:generate-warning($counter-name, 'expected a valid since date') else ()
                             ,
-                            concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
+                            if ($territory/valid-since/@type eq 'pre-1776') then
+                                'pre-1776'
+                            else 
+                                concat($territory/valid-since, if ($territory/valid-since/@precision) then concat(' (±', $territory/valid-since/@precision, ' yrs)') else ())
                             )
                     },
                     if ($enable-review-checkboxes) then element td { gsh:review-checkbox(("Correct", "Change to _____ (± __ years)")) } else ()

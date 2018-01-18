@@ -207,7 +207,7 @@ declare function th:show-territory($territory-id as xs:string) {
     let $content :=
         <div>
             { gsh:breadcrumbs($breadcrumbs) }
-            <p>Lookup territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference {$display-name}</a>.</p>
+            <p>Look up territories that <a href="{$gsh:territories-home}?mentions={$territory-id}">reference {$display-name}</a>.</p>
             { gsh:territories-to-list($territory, $counter-name, true(), false()) }
             { (: th:ancestor-tree($territory) :) () }
         </div>
@@ -243,7 +243,7 @@ declare function th:mentions($territory-id as xs:string) {
                         return
                             (
                                 <h4><a href="{gsh:link-to-territory($hit/id)}">{$hit-display-name}</a></h4>,
-                                <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit/id}">mentions of {$hit-display-name}</a>.</p>,
+                                <p>Look up <a href="{$gsh:territories-home}?mentions={$hit/id}">mentions of {$hit-display-name}</a>.</p>,
                                 gsh:territories-to-list($hit, (), false(), false())
                             )
                     )
@@ -270,7 +270,7 @@ declare function th:contains($territory-id as xs:string) {
                 return
                     (
                         <h3><a href="{gsh:link-to-territory($hit-id)}">{gsh:territory-id-to-short-name-with-years-valid($hit-id)}</a></h3>,
-                        <p>Lookup <a href="{$gsh:territories-home}?mentions={$hit-id}">mentions of "{$hit-id}"</a>.</p>,
+                        <p>Look up <a href="{$gsh:territories-home}?mentions={$hit-id}">mentions of "{$hit-id}"</a>.</p>,
                         gsh:territories-to-list($hit, (), true(), false())
                     )
             }

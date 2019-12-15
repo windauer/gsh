@@ -30,7 +30,22 @@ There may be additional reasons for changes; if you find one that does not fit i
 To get started, clone the repository to your desktop
 
 To run the app (assumes ant and eXist)
-- Run `ant`
+- Build the `xar` file(s) with command:    
+    1. Single `xar` file: The `collection.xconf` will only contain the index, not any triggers!
+        ~~~shell
+        ant
+        ~~~
+    
+    2. DEV environment: The replication triggers for the producer server are enabled in  `collection.xconf` and point to the dev server's replication service IP.
+        ~~~shell
+        ant xar-dev
+        ~~~
+    
+    3. PROD environment: Same as in 2. but for PROD destination
+        ~~~shell
+        ant xar-prod
+        ~~~
+
 - Open eXist Dashboard > Package Manager
 - Click on the `+` icon and drag the `build/gsh-*.xar` file onto the window 
 - Close the Package Manager

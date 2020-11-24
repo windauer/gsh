@@ -1,2 +1,4 @@
 build/*
 .existdb.json
+expath-pkg.xml
+repo.xml
